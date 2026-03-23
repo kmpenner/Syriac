@@ -1,0 +1,435 @@
+/*
+ * Syriac Print CSS — WeasyPrint Edition
+ * For "The Acts of Mar Yukhannan" language course
+ * Optimized for WeasyPrint (no box-shadow, no media queries, no webkit selectors)
+ */
+
+/* Local fonts — downloaded to fonts/ subfolder for offline/WeasyPrint use */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/CrimsonPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/CrimsonPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/CrimsonPro-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/DMSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/DMSans-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/DMSans-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Syriac';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/NotoSansSyriac-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Syriac';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/NotoSansSyriac-Bold.ttf') format('truetype');
+}
+
+/* ─── Page Setup ─────────────────────────────────────────────────── */
+@page {
+  size: letter;
+  margin: 2.2cm 2.5cm 2.5cm 2.5cm;
+  @bottom-center {
+    content: counter(page);
+    font-family: 'DM Sans', Arial, sans-serif;
+    font-size: 9pt;
+    color: #888;
+  }
+  @top-right {
+    content: string(lesson-title);
+    font-family: 'DM Sans', Arial, sans-serif;
+    font-size: 8pt;
+    color: #aaa;
+  }
+}
+
+@page :first {
+  @top-right { content: ''; }
+  @bottom-center { content: ''; }
+}
+
+/* ─── Custom Properties ──────────────────────────────────────────── */
+:root {
+  --body-font:   'Crimson Pro', Georgia, serif;
+  --ui-font:     'DM Sans', Arial, sans-serif;
+  --syriac-font: 'Noto Sans Syriac', serif;
+
+  --bg:          #ffffff;
+  --surface:     #ffffff;
+  --text:        #1e1e1e;
+  --muted:       #5a5550;
+  --border:      #cccccc;
+
+  --accent:      #1a5c6b;
+  --accent-light:#e6f2f4;
+  --gold:        #c8973a;
+  --exercise-bg: #f5f0ea;
+  --answer-bg:   #edf5f2;
+}
+
+/* ─── Reset ──────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 11pt; }
+
+body {
+  font-family: var(--body-font);
+  background: white;
+  color: var(--text);
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Running title (for page header) ───────────────────────────── */
+h2 { string-set: lesson-title content(); }
+
+/* ─── Page breaks ────────────────────────────────────────────────── */
+h1, h2, h3, h4 { page-break-after: avoid; }
+/* Allow h4 sections to break before large tables to avoid orphaned headings with blank gaps */
+h4 + p + table, h4 + table { page-break-before: auto; }
+table, blockquote { page-break-inside: avoid; }
+tr { page-break-inside: avoid; }
+/* Keep label paragraphs (e.g. "Letters 1–11") with the table that follows */
+p + table { page-break-before: avoid; }
+
+/* ─── Suppress pandoc auto-generated title block (duplicate of h1 in body) ── */
+header#title-block-header { display: none; }
+
+/* ─── Course Title ───────────────────────────────────────────────── */
+h1 {
+  font-family: var(--body-font);
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: center;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+  margin-bottom: 4pt;
+  padding-bottom: 8pt;
+  border-bottom: 2pt solid var(--accent);
+}
+
+/* Lesson number */
+h2 {
+  font-family: var(--ui-font);
+  font-size: 8pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  color: var(--gold);
+  text-align: center;
+  margin-top: 10pt;
+  margin-bottom: 0;
+  border: none;
+}
+
+h2 .h2-line {
+  display: block;
+}
+
+/* Lesson label div — replaces h2 for long titles */
+div.lesson-label {
+  text-align: center;
+  margin-top: 10pt;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+div.lesson-label .lesson-num {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 7pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--gold);
+  string-set: lesson-title content();
+}
+
+div.lesson-label .lesson-title-text {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 10pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gold);
+}
+
+/* Lesson subtitle */
+h3 {
+  font-family: var(--body-font);
+  font-size: 14pt;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  color: var(--text);
+  margin-top: 4pt;
+  margin-bottom: 4pt;
+}
+
+/* Tagline */
+body > p:first-of-type em {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 7pt;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 1pt solid var(--border);
+  margin: 14pt 0;
+}
+
+/* ─── Section Headings ───────────────────────────────────────────── */
+h4 {
+  font-family: var(--ui-font);
+  font-size: 7.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.8px;
+  color: var(--accent);
+  margin-top: 20pt;
+  margin-bottom: 6pt;
+  padding-left: 8pt;
+  border-left: 3pt solid var(--gold);
+}
+
+h5 {
+  font-family: var(--ui-font);
+  font-size: 9pt;
+  font-weight: 500;
+  color: var(--muted);
+  margin-top: 12pt;
+  margin-bottom: 4pt;
+}
+
+/* ─── Body Text ──────────────────────────────────────────────────── */
+p { margin-bottom: 7pt; }
+
+strong { font-weight: 600; }
+em { font-style: italic; }
+
+/* ─── Blockquotes ────────────────────────────────────────────────── */
+blockquote {
+  margin: 10pt 0;
+  padding: 8pt 12pt;
+  background: var(--accent-light);
+  border-left: 3pt solid var(--accent);
+  font-style: italic;
+}
+
+blockquote p { margin-bottom: 0; }
+blockquote strong { font-style: normal; color: var(--accent); }
+
+/* ─── Lists ──────────────────────────────────────────────────────── */
+ul, ol {
+  padding-left: 16pt;
+  margin-bottom: 8pt;
+}
+li { margin-bottom: 3pt; }
+
+/* ─── Syriac Script ──────────────────────────────────────────────── */
+.syriac,
+[lang="syc"],
+[lang="syr"] {
+  font-family: var(--syriac-font);
+  direction: rtl;
+  unicode-bidi: embed;
+  font-size: 1.25em;
+  line-height: 1.5;
+}
+
+
+/* ─── Tables ─────────────────────────────────────────────────────── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12pt 0;
+  font-family: var(--body-font);
+  font-size: 9.5pt;
+  border: 1pt solid var(--border);
+}
+
+thead tr {
+  background: var(--accent);
+  -weasyprint-color-adjust: exact;
+}
+
+th {
+  font-family: var(--ui-font);
+  font-size: 6.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #ffffff;
+  padding: 4pt 8pt;
+  text-align: left;
+  background: var(--accent);
+  -weasyprint-color-adjust: exact;
+}
+
+td {
+  padding: 4pt 8pt;
+  border-bottom: 0.5pt solid var(--border);
+  vertical-align: middle;
+}
+
+tbody tr:last-child td { border-bottom: none; }
+
+tbody tr:nth-child(even) td {
+  background: #f5f3ef;
+  -weasyprint-color-adjust: exact;
+}
+
+/* Syriac table cells */
+td.syr-cell,
+.paradigm-cell {
+  font-family: var(--syriac-font);
+  font-size: 13pt;
+  direction: rtl;
+  text-align: right;
+  color: var(--accent);
+  line-height: 1.4;
+}
+
+/* ─── Story / Interlinear Passages ───────────────────────────────── */
+.sentence {
+  margin: 12pt 0;
+  padding: 10pt 14pt;
+  background: white;
+  border-left: 4pt solid var(--gold);
+  border-top: 0.5pt solid var(--border);
+  border-bottom: 0.5pt solid var(--border);
+  border-right: 0.5pt solid var(--border);
+  page-break-inside: avoid;
+}
+
+.sentence-syriac {
+  font-family: var(--syriac-font);
+  font-size: 17pt;
+  direction: rtl;
+  text-align: right;
+  color: var(--accent);
+  display: block;
+  margin-bottom: 5pt;
+  line-height: 1.5;
+}
+
+.sentence-translit {
+  font-family: var(--body-font);
+  font-style: italic;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 3pt;
+}
+
+.sentence-gloss {
+  font-family: var(--ui-font);
+  font-size: 7pt;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #999;
+  display: block;
+  margin-bottom: 3pt;
+}
+
+.sentence-translation {
+  font-family: var(--body-font);
+  font-weight: 600;
+  font-size: 10.5pt;
+  display: block;
+  margin-top: 4pt;
+}
+
+/* ─── Grammar / Summary Boxes ────────────────────────────────────── */
+.grammar-box,
+.summary-box {
+  background: var(--accent-light);
+  border: 1pt solid #b5d8de;
+  border-left: 3pt solid var(--accent);
+  padding: 10pt 14pt;
+  margin: 14pt 0;
+  -weasyprint-color-adjust: exact;
+}
+
+.grammar-box h4,
+.summary-box h4 {
+  margin-top: 0;
+  border-left: none;
+  padding-left: 0;
+}
+
+/* ─── Exercise Sections ──────────────────────────────────────────── */
+.exercise,
+.exercise-box {
+  background: var(--exercise-bg);
+  border: 1pt solid #d8cfc8;
+  padding: 10pt 14pt;
+  margin: 14pt 0;
+  -weasyprint-color-adjust: exact;
+}
+
+.answer-key {
+  background: var(--answer-bg);
+  border: 1pt solid #b8d8d0;
+  padding: 10pt 14pt;
+  margin: 12pt 0;
+  -weasyprint-color-adjust: exact;
+}
+
+/* ─── Code ───────────────────────────────────────────────────────── */
+code {
+  font-family: var(--ui-font);
+  font-size: 8.5pt;
+  background: var(--exercise-bg);
+  padding: 1pt 3pt;
+  color: var(--accent);
+}
+
+pre {
+  background: #f0ece6;
+  padding: 8pt 12pt;
+  font-size: 8pt;
+  line-height: 1.5;
+  border-left: 2pt solid var(--border);
+}
+
+/* ─── Links (suppress in print) ─────────────────────────────────── */
+a {
+  color: var(--text);
+  text-decoration: none;
+}

@@ -1,0 +1,136 @@
+/* 
+   Syriac Course Design System
+   Created from Lesson_05_Aphel_Stem.docx formatting
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Noto+Sans+Syriac:wght@400;700&display=swap');
+
+:root {
+    --primary-font: 'Arial', 'Inter', sans-serif;
+    --syriac-font: 'Estrangelo Edessa', 'Noto Sans Syriac', serif;
+    --bg-color: #ffffff;
+    --text-color: #333333;
+    --heading-color: #000000;
+    --border-color: #dddddd;
+    --accent-color: #0044cc;
+}
+
+body {
+    font-family: var(--primary-font);
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Titles and Headings */
+h1 {
+    font-size: 28pt;
+    font-weight: bold;
+    text-align: center;
+    color: var(--heading-color);
+    margin-bottom: 0.2em;
+}
+
+.subtitle {
+    font-size: 14pt;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+h2 {
+    font-size: 18pt;
+    font-weight: bold;
+    border-bottom: 2px solid var(--border-color);
+    margin-top: 1.5em;
+    padding-bottom: 0.2em;
+}
+
+h3 {
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 1.2em;
+}
+
+/* Syriac Script Specifics */
+.syriac {
+    font-family: var(--syriac-font);
+    direction: rtl;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+.syriac-large {
+    font-size: 24pt;
+    text-align: center;
+    margin: 1em 0;
+}
+
+/* Story Section Formatting */
+.sentence {
+    margin-bottom: 1.5em;
+    padding: 10px;
+    background: #f9f9f9;
+    border-right: 4px solid var(--accent-color);
+}
+
+.sentence-syriac {
+    font-family: var(--syriac-font);
+    font-size: 16pt;
+    direction: rtl;
+    text-align: right;
+    display: block;
+}
+
+.sentence-translit {
+    font-style: italic;
+    color: #666;
+    display: block;
+}
+
+.sentence-gloss {
+    font-size: 0.9em;
+    color: #888;
+    display: block;
+}
+
+.sentence-translation {
+    font-weight: bold;
+    display: block;
+    margin-top: 5px;
+}
+
+/* Table Formatting */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Right-to-left cells for Syriac content */
+td.syr-cell {
+    font-family: var(--syriac-font);
+    direction: rtl;
+    text-align: right;
+}
+
+/* Exercises */
+.exercise {
+    background-color: #fdfdfd;
+    border: 1px solid var(--border-color);
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 4px;
+}

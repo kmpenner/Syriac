@@ -1,0 +1,527 @@
+/*
+ * Syriac Web Premium — Scholarly Edition
+ * Typographic design for "The Acts of Mar Yukhannan" language course
+ * Fonts: Crimson Pro (body), DM Sans (UI/headings), Noto Sans Syriac (script)
+ */
+
+/* Local fonts — downloaded to fonts/ subfolder */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/CrimsonPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/CrimsonPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/CrimsonPro-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/DMSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/DMSans-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/DMSans-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Syriac';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/NotoSansSyriac-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Syriac';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/NotoSansSyriac-Bold.ttf') format('truetype');
+}
+
+/* ─── Custom Properties ──────────────────────────────────────────── */
+:root {
+  --body-font:    'Crimson Pro', Georgia, serif;
+  --ui-font:      'DM Sans', Arial, sans-serif;
+  --syriac-font:  'Noto Sans Syriac', serif;
+
+  --bg:           #faf8f4;
+  --surface:      #ffffff;
+  --text:         #2c2c2c;
+  --muted:        #6b6660;
+  --border:       #d8d0c8;
+
+  --accent:       #1a5c6b;
+  --accent-light: #e6f2f4;
+  --accent-mid:   #2a7a8c;
+  --gold:         #c8973a;
+  --gold-light:   #fdf5e6;
+  --answer-bg:    #edf5f2;
+  --exercise-bg:  #f5f0ea;
+
+  --radius:       6px;
+  --max-w:        820px;
+}
+
+/* ─── Reset & Base ───────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+  font-family: var(--body-font);
+  background-color: var(--bg);
+  color: var(--text);
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 3rem 2.5rem 5rem;
+  line-height: 1.75;
+}
+
+/* ─── Course Header ──────────────────────────────────────────────── */
+h1 {
+  font-family: var(--body-font);
+  font-size: 2.6rem;
+  font-weight: 600;
+  text-align: center;
+  color: var(--accent);
+  letter-spacing: -0.5px;
+  margin-bottom: 0.2rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--accent);
+}
+
+/* Lesson number (h2) */
+h2 {
+  font-family: var(--ui-font);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: var(--gold);
+  text-align: center;
+  margin-top: 1.2rem;
+  margin-bottom: 0;
+  border: none;
+}
+
+/* Lesson subtitle (h3 at the top) */
+h3 {
+  font-family: var(--body-font);
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  color: var(--text);
+  margin-top: 0.3rem;
+  margin-bottom: 0.2rem;
+}
+
+/* Tagline/descriptor lines (the italics under the title) */
+body > p:first-of-type em,
+.subtitle {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  color: var(--muted);
+  text-align: center;
+  margin-bottom: 0.3rem;
+}
+
+/* Divider after header */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ─── Section Headings ───────────────────────────────────────────── */
+h4 {
+  font-family: var(--ui-font);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--accent);
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 0.8rem;
+  border-left: 3px solid var(--gold);
+}
+
+h5 {
+  font-family: var(--ui-font);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--muted);
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+/* ─── Body Text ──────────────────────────────────────────────────── */
+p {
+  margin-bottom: 0.9rem;
+}
+
+strong {
+  font-weight: 600;
+  color: var(--text);
+}
+
+em {
+  font-style: italic;
+}
+
+/* Transliteration inline (use <em> or .translit) */
+.translit, cite {
+  font-style: italic;
+  color: var(--muted);
+}
+
+/* ─── Blockquotes (examples, grammar notes) ──────────────────────── */
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.4rem;
+  background: var(--accent-light);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  font-style: italic;
+  color: var(--text);
+}
+
+blockquote p { margin-bottom: 0; }
+
+blockquote strong {
+  font-style: normal;
+  color: var(--accent);
+}
+
+/* ─── Lists ──────────────────────────────────────────────────────── */
+ul, ol {
+  padding-left: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+li > strong:first-child {
+  font-family: var(--ui-font);
+  font-size: 0.9rem;
+}
+
+/* ─── Syriac Script ──────────────────────────────────────────────── */
+.syriac,
+[lang="syc"],
+[lang="syr"] {
+  font-family: var(--syriac-font);
+  direction: rtl;
+  unicode-bidi: embed;
+  font-size: 1.3em;
+  line-height: 1.5;
+}
+
+/* ─── Tables ─────────────────────────────────────────────────────── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.8rem 0;
+  font-family: var(--body-font);
+  font-size: 0.95rem;
+  background: var(--surface);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+thead tr {
+  background: var(--accent);
+}
+
+th {
+  font-family: var(--ui-font);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: #ffffff;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+td {
+  padding: 9px 14px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:nth-child(even) td {
+  background: #f5f3ef;
+}
+
+tbody tr:hover td {
+  background: var(--accent-light);
+  transition: background 0.15s ease;
+}
+
+/* Syriac table cells */
+td.syr-cell,
+.paradigm-cell,
+td:first-child[dir="rtl"] {
+  font-family: var(--syriac-font);
+  font-size: 1.4rem;
+  direction: rtl;
+  text-align: right;
+  color: var(--accent);
+  line-height: 1.4;
+}
+
+/* ─── Story / Interlinear Passages ───────────────────────────────── */
+.sentence {
+  position: relative;
+  margin: 1.8rem 0;
+  padding: 1.6rem 1.8rem;
+  background: var(--surface);
+  border-left: 5px solid var(--gold);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.sentence-number {
+  position: absolute;
+  top: 0.6rem;
+  left: 1rem;
+  font-family: var(--ui-font);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gold);
+}
+
+.sentence-syriac {
+  font-family: var(--syriac-font);
+  font-size: 2rem;
+  direction: rtl;
+  text-align: right;
+  color: var(--accent);
+  display: block;
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+}
+
+.sentence-translit {
+  font-family: var(--body-font);
+  font-style: italic;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.sentence-gloss {
+  font-family: var(--ui-font);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #999;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.sentence-translation {
+  font-family: var(--body-font);
+  font-weight: 600;
+  font-size: 1.05rem;
+  display: block;
+  margin-top: 0.5rem;
+  color: var(--text);
+}
+
+/* ─── Grammar Summary / Reference Boxes ─────────────────────────── */
+.grammar-box,
+.summary-box {
+  background: var(--accent-light);
+  border: 1px solid #b5d8de;
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 2rem 0;
+}
+
+.grammar-box h4,
+.summary-box h4 {
+  margin-top: 0;
+  border-left: none;
+  padding-left: 0;
+  color: var(--accent);
+}
+
+/* ─── Exercise Sections ──────────────────────────────────────────── */
+.exercise,
+.exercise-box {
+  background: var(--exercise-bg);
+  border-radius: var(--radius);
+  padding: 1.6rem 1.8rem;
+  margin: 2rem 0;
+  border: 1px solid #e0d8d0;
+}
+
+.exercise h4,
+.exercise-box h4 {
+  border-left: 3px solid var(--gold);
+  padding-left: 0.6rem;
+  color: var(--text);
+  margin-top: 0;
+}
+
+/* Answer Key sections */
+.answer-key,
+section:has(h4:-webkit-any(:contains("Answer"), :contains("Key"))) {
+  background: var(--answer-bg);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.8rem;
+  margin: 1.5rem 0;
+  border: 1px solid #c0ddd6;
+}
+
+/* ─── Code / Pre (for paradigm examples) ────────────────────────── */
+code {
+  font-family: var(--ui-font);
+  font-size: 0.88em;
+  background: var(--exercise-bg);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+  color: var(--accent);
+}
+
+pre {
+  background: #f0ece6;
+  padding: 1rem 1.4rem;
+  border-radius: var(--radius);
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  border-left: 3px solid var(--border);
+}
+
+/* ─── Navigation / Footer ────────────────────────────────────────── */
+.lesson-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--ui-font);
+  font-size: 0.85rem;
+}
+
+.lesson-nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.lesson-nav a:hover {
+  text-decoration: underline;
+}
+
+/* ─── Links ──────────────────────────────────────────────────────── */
+a {
+  color: var(--accent-mid);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+/* ─── Responsive ─────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  html { font-size: 16px; }
+
+  body {
+    padding: 1.5rem 1.2rem 3rem;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+    letter-spacing: 0;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  .sentence-syriac {
+    font-size: 1.6rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* ─── Print ──────────────────────────────────────────────────────── */
+@media print {
+  body {
+    background: white;
+    color: black;
+    max-width: 100%;
+    padding: 0;
+    font-size: 11pt;
+  }
+
+  h1 { color: black; border-color: #ccc; font-size: 18pt; }
+  h2 { color: #555; }
+  h4 { border-left-color: #999; color: black; }
+
+  table {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  th {
+    background: #555 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .sentence {
+    box-shadow: none;
+    border: 1px solid #ccc;
+    border-left: 4px solid #999;
+    break-inside: avoid;
+  }
+
+  .sentence-syriac { color: black; }
+  .grammar-box, .exercise, .exercise-box { border: 1px solid #ccc; }
+
+  a { color: black; text-decoration: none; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: 0.8em; color: #555; }
+}
