@@ -115,8 +115,6 @@ h2 { string-set: lesson-title content(); }
 
 /* ─── Page breaks ────────────────────────────────────────────────── */
 h1, h2, h3, h4 { page-break-after: avoid; }
-/* Allow h4 sections to break before large tables to avoid orphaned headings with blank gaps */
-h4 + p + table, h4 + table { page-break-before: auto; }
 table, blockquote { page-break-inside: avoid; }
 tr { page-break-inside: avoid; }
 /* Keep label paragraphs (e.g. "Letters 1–11") with the table that follows */
