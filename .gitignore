@@ -1,0 +1,32 @@
+# ---- Privacy, Legal & Student PII (Strictly local / machine rsync) ----
+private/
+*Grades*
+*grades*
+*assignsubmission*
+*Attendance*
+
+# ---- Raw Downloaded Source Materials (Scans, Books, Articles) -------
+raw/readings/
+raw/audio_transcripts/
+raw/media/
+raw/archive/
+raw/decks/
+raw/notebook_assets/
+
+# ---- Bulk Media, Scratch, and Temporary Snapshots -------------------
+scratch/
+backups/
+_work/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4a
+*.mp3
+*.wav
+*.aac
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
