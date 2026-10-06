@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="description"><name><text>Module 1 · Lesson 2</text></name><questiontext format="html"><text><![CDATA[<h3><strong>The Narrative Present: Participles and Enclitics</strong></h3>
+<hr />
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 1: Review of Lesson 1</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lesson 1</h3>
+<p><strong>Quick Summary</strong></p>
+<p>In Lesson 1, we established the basic building blocks of Syriac
+syntax. We learned that Syriac sentences do not strictly require a “to
+be” verb; rather, placing a subject and predicate side-by-side with a
+matching independent pronoun acts as an equational sentence (e.g.,
+<em>Malkā hū ṭābā</em> — “The king [is] good”). We also looked at the
+absolute versus empathic states of nouns, with the emphatic ending in
+<code>ā</code> (Alaph) acting as the default dictionary form.</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>Translate: <em>Alāhā rabbā hū</em>.</li>
+<li>What is the Syriac absolute state for “word” (from
+<em>meltā</em>)?</li>
+<li>How do you say “We” in Syriac?</li>
+<li>What particle is used to express “of”, “who”, or “that”?</li>
+<li>In <em>Malkūttā d-Alāhā hī</em>, why is the pronoun <em>hī</em>
+(she) used instead of <em>hū</em> (he)?</li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. Translate: <em>Alāhā rabbā hū.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is great.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is good.]]></text><feedback format="html"><text><![CDATA[“Good” is <em>ṭābā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He is a great king.]]></text><feedback format="html"><text><![CDATA[<em>Alāhā</em> is “God.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is light.]]></text><feedback format="html"><text><![CDATA[“Light” is <em>nūhrā</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. What is the absolute state of <em>meltā</em> (“word”)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>melt</em> ܡܠܬ]]></text><feedback format="html"><text><![CDATA[Right: drop the emphatic <em>-ā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>meltā</em> ܡܠܬܐ]]></text><feedback format="html"><text><![CDATA[That is the emphatic state.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>melē</em>]]></text><feedback format="html"><text><![CDATA[Not the absolute singular.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>mlā</em>]]></text><feedback format="html"><text><![CDATA[That is the verb “fill.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. How do you say “we”?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ḥnan</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>hennōn</em>]]></text><feedback format="html"><text><![CDATA[That is “they (m).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾenā</em>]]></text><feedback format="html"><text><![CDATA[That is “I.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾantūn</em>]]></text><feedback format="html"><text><![CDATA[That is “you (m.pl).”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. Which particle expresses “of,” “who,” or “that”?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>d-</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>l-</em>]]></text><feedback format="html"><text><![CDATA[<em>l-</em> means “to/for” and marks objects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>b-</em>]]></text><feedback format="html"><text><![CDATA[<em>b-</em> means “in.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>w-</em>]]></text><feedback format="html"><text><![CDATA[<em>w-</em> means “and.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. In <em>Malkūttā d-Alāhā hī</em>, why is <em>hī</em> (“she”) used?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Because <em>malkūttā</em> is a feminine noun]]></text><feedback format="html"><text><![CDATA[Right: the copula pronoun agrees with the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because <em>Alāhā</em> is feminine]]></text><feedback format="html"><text><![CDATA[<em>Alāhā</em> is masculine; the subject is <em>malkūttā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because <em>hī</em> marks a question]]></text><feedback format="html"><text><![CDATA[It is the copula “is.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because every sentence with <em>d-</em> uses <em>hī</em>]]></text><feedback format="html"><text><![CDATA[Agreement is with the subject’s gender.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 2: The Participle as Present Tense — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Participle as Present Tense — Overview</h3>
+<p>In Indo-European languages like English, and Greek, the “present
+tense” is a fully conjugated finite verb (e.g., “I walk”, περιπατῶ).
+Participles are verbal adjectives (e.g., “the <em>walking</em>
+man”).</p>
+<p>In Aramaic and Syriac, the <strong>active participle</strong> stepped
+in to take over the function of the present tense almost entirely. A
+Syriac speaker didn’t say “I write” as a finite verb; they literally
+said “Writing [am] I.”</p>
+<p><strong>Cross-Linguistic Comparison</strong></p>
+<ul>
+<li><strong>Hebrew</strong>: Biblical Hebrew primarily used the
+Imperfect for ongoing action, but by the Mishnaic period (interfacing
+with Aramaic), Hebrew also adopted the participle for the present tense
+(e.g., <em>ānī kōtēb</em> = I am writing).</li>
+<li><strong>Arabic</strong>: Standard Arabic relies on the imperfect
+prefix conjugation (يَكْتُبُ <em>yaktubu</em>, “he writes”). The active
+participle (كَاتِب <em>kātib</em>) means “writer” or “one who has
+written,” but does not serve as a primary present tense verb.</li>
+<li><strong>Greek</strong>: Syriac’s reliance on the participle to form
+continuous action heavily influenced how Syriac translators rendered
+Greek continuous tenses (often translating a Greek present indicative
+with a Syriac participle + pronoun).</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 3: The Peal Active Participle &amp; Enclitics</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: The Peal Active Participle &amp; Enclitics</h3>
+<p><strong>The Peal Stem</strong></p>
+<p>Semitic verbs exist in different “stems” (or binyanim) that modify
+their meaning. The basic, un-augmented ground-stem is called the
+<strong>Peal</strong>. Almost all basic actions occur in the Peal.</p>
+<p><strong>Forming the Participle</strong></p>
+<p>For a strong tri-consonantal root (C-C-C) like <em>k-t-b</em>
+(write), the active participle is formed by inserting a long <em>ā</em>
+after the first consonant, and an <em>e</em> after the second.</p>
+<ul>
+<li><em>kāteb</em> (writing, m.sg.)</li>
+<li><em>kātbā</em> (writing, f.sg.)</li>
+</ul>
+<p><strong>Enclitic Pronouns</strong></p>
+<p>To turn “writing” into “I am writing,” Syriac attaches an
+<strong>enclitic</strong> pronoun to the back of the participle.
+Enclitics are shortened, rhythmic versions of the independent pronouns
+from Lesson 1.</p>
+<ul>
+<li><em>ʾenā</em> (I) <span class="math inline">→</span>
+<em>-nā</em></li>
+<li><em>kāteb</em> + <em>-nā</em> = <em>kāteb-nā</em> (I am
+writing)</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 4: Participle and Enclitic Paradigms</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Participle and Enclitic Paradigms</h3>
+<p><strong>1. The Enclitic Pronoun Set</strong></p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Person</th>
+<th style="text-align: left;">Independent</th>
+<th style="text-align: left;">Enclitic Form</th>
+<th style="text-align: left;">Attached Example (<em>kāteb</em>)</th>
+<th style="text-align: left;">Translation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>1 c.sg.</strong></td>
+<td style="text-align: left;">ʾenā</td>
+<td style="text-align: left;">-nā</td>
+<td style="text-align: left;">kāteb-nā / kātbā-nā</td>
+<td style="text-align: left;">I am writing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2 m.sg.</strong></td>
+<td style="text-align: left;">ʾant</td>
+<td style="text-align: left;">-t</td>
+<td style="text-align: left;">kāteb-t</td>
+<td style="text-align: left;">You (m) are writing</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 f.sg.</strong></td>
+<td style="text-align: left;">ʾanti</td>
+<td style="text-align: left;">-tī</td>
+<td style="text-align: left;">kātbā-tī</td>
+<td style="text-align: left;">You (f) are writing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 m.sg.</strong></td>
+<td style="text-align: left;">hū</td>
+<td style="text-align: left;">-hū / (none)*</td>
+<td style="text-align: left;">kāteb / kāteb-hū</td>
+<td style="text-align: left;">He is writing / writes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 f.sg.</strong></td>
+<td style="text-align: left;">hī</td>
+<td style="text-align: left;">-hī / (none)*</td>
+<td style="text-align: left;">kātbā / kātbā-hī</td>
+<td style="text-align: left;">She is writing / writes</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>1 c.pl.</strong></td>
+<td style="text-align: left;">ḥnan</td>
+<td style="text-align: left;">-ḥnan</td>
+<td style="text-align: left;">kātbīn-ḥnan / kātbān-ḥnan</td>
+<td style="text-align: left;">We are writing</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 m.pl.</strong></td>
+<td style="text-align: left;">ʾantūn</td>
+<td style="text-align: left;">-tūn</td>
+<td style="text-align: left;">kātbīn-tūn</td>
+<td style="text-align: left;">You (m.pl) are writing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2 f.pl.</strong></td>
+<td style="text-align: left;">ʾantēn</td>
+<td style="text-align: left;">-tēn</td>
+<td style="text-align: left;">kātbān-tēn</td>
+<td style="text-align: left;">You (f.pl) are writing</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 m.pl.</strong></td>
+<td style="text-align: left;">hennōn</td>
+<td style="text-align: left;">(none)**</td>
+<td style="text-align: left;">kātbīn</td>
+<td style="text-align: left;">They (m) are writing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 f.pl.</strong></td>
+<td style="text-align: left;">hennēn</td>
+<td style="text-align: left;">(none)**</td>
+<td style="text-align: left;">kātbān</td>
+<td style="text-align: left;">They (f) are writing</td>
+</tr>
+</tbody>
+</table></div>
+<p><em>*In the 3rd person singular, the participle often stands entirely
+alone without an enclitic.</em> <em>**In the 3rd person plural, the
+plural suffix (-īn / -ān) is sufficient; no enclitic is added.</em></p>
+<p><strong>2. The Peal Active Participle Declension (Root
+<code>k-t-b</code>)</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Gender/Num</th>
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Masc. Sg.</strong></td>
+<td style="text-align: left;">ܟܬܒ</td>
+<td style="text-align: left;">kāteb</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Fem. Sg.</strong></td>
+<td style="text-align: left;">ܟܬܒܐ</td>
+<td style="text-align: left;">kātbā</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Masc. Pl.</strong></td>
+<td style="text-align: left;">ܟܬܒܝܢ</td>
+<td style="text-align: left;">kātbīn</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Fem. Pl.</strong></td>
+<td style="text-align: left;">ܟܬܒܢ</td>
+<td style="text-align: left;">kātbān</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 5: Sentence Syntax</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Sentence Syntax</h3>
+<p>When the active participle drives the sentence, the word order is
+very fluid, but Verb-Subject-Object (VSO) or Subject-Verb-Object (SVO)
+are both common.</p>
+<ul>
+<li><strong>SVO</strong>: <em>Yūḥannan kāteb meltā.</em> (Yukhannan
+writes a word).</li>
+<li><strong>VSO</strong>: <em>Kāteb Yūḥannan meltā.</em> (Writes
+Yukhannan a word).</li>
+<li><strong>Enclitic</strong>: <em>Kāteb-nā meltā.</em> (I am writing a
+word).</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 6: Vocabulary (Strong Verbs &amp; Adverbs)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Strong Verbs &amp; Adverbs)</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Root</th>
+<th style="text-align: left;">Peal Ptcp (m.s.)</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Adverb/Particle</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܟ.ܬ.ܒ</td>
+<td style="text-align: left;">kāteb</td>
+<td style="text-align: left;">to write</td>
+<td style="text-align: left;">ܗܫܐ (hāšā)</td>
+<td style="text-align: left;">now</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐ.ܙ.ܠ</td>
+<td style="text-align: left;">ʾāzel</td>
+<td style="text-align: left;">to go</td>
+<td style="text-align: left;">ܕܝܢ (dēn)</td>
+<td style="text-align: left;">but, then, however</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܐ.ܡ.ܪ</td>
+<td style="text-align: left;">ʾāmer</td>
+<td style="text-align: left;">to speak/say</td>
+<td style="text-align: left;">ܬܡܢ (tammān)</td>
+<td style="text-align: left;">there</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫ.ܡ.ܥ</td>
+<td style="text-align: left;">šāmaʿ*</td>
+<td style="text-align: left;">to hear</td>
+<td style="text-align: left;">ܠܥܠ (lʿel)</td>
+<td style="text-align: left;">above</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚ.ܙ.ܝ</td>
+<td style="text-align: left;">ܚܙܐ (ḥāzē)</td>
+<td style="text-align: left;">to see</td>
+<td style="text-align: left;">ܗܪܟܐ (harkā)</td>
+<td style="text-align: left;">here</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥ.ܒ.ܕ</td>
+<td style="text-align: left;">ʿābed</td>
+<td style="text-align: left;">to do/make</td>
+<td style="text-align: left;">ܥܡ (ʿam)</td>
+<td style="text-align: left;">with</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܢ.ܛ.ܪ</td>
+<td style="text-align: left;">nāṭer</td>
+<td style="text-align: left;">to keep/guard</td>
+<td style="text-align: left;">ܥܠ (ʿal)</td>
+<td style="text-align: left;">upon, against</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܪ.ܕ.ܦ</td>
+<td style="text-align: left;">rādep</td>
+<td style="text-align: left;">to pursue</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫ.ܒ.ܩ</td>
+<td style="text-align: left;">šābeq</td>
+<td style="text-align: left;">to leave</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢ.ܦ.ܩ</td>
+<td style="text-align: left;">nāpeq</td>
+<td style="text-align: left;">to go out</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table></div>
+<p><em>*Note: Roots ending in gutturals (like ʿAyn) change the
+<code>e</code> to an <code>a</code> (šāmaʿ instead of šāmeʿ).</em></p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 7: The Story — Part 2</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 2</h3>
+<p><strong>Preparation</strong></p>
+<p><em>Narrative note: The present tense (participle + enclitics) is
+used here to create an immediate, action-oriented dialogue as Yukhannan
+prepares his disciples.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܝܘܚܢܢ ܐܡܪ ܠܬܠܡܝܕܐ ܕܐܝܬ ܠܗ Yūḥannan ʾāmer l-talmīdē d-īt l-eh.
+Yūḥannan (John) ʾāmer (is-speaking) l- (to) talmīdē (the-disciples) d-
+(that) īt (there-are) l-eh (to-him). → Yukhannan is speaking to the
+disciples that are his.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܐܙܠ ܐܢܐ ܡܢ ܗܪܟܐ ʾāzel-nā men harkā. ʾāzel (going) -nā (am-I) men
+(from) harkā (here). → “I am going from here.”</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܐܙܠ ܐܢܐ ܠܡܠܟܘܬܐ ܕܒܝܫܐ ܐܡܪ ܗܘ ʾāzel-nā l-malkūttā d-bīšā, ʾāmer-hū.
+ʾāzel (going) -nā (am-I) l- (to) malkūttā (the-kingdom) d- (of) bīšā
+(the-evil-[one]), ʾāmer (says) -hū (he). → “I am going to the kingdom of
+the evil one,” he says.</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܬܠܡܝܕܐ ܫܡܥܝܢ ܡܠܬܐ ܕܝܘܚܢܢ talmīdē šāmʿīn meltā d-Yūḥannan. talmīdē
+(the-disciples) šāmʿīn (are-hearing) meltā (the-word) d- (of) Yūḥannan
+(John). → The disciples hear the word of Yukhannan.</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܗܢܘܢ ܐܡܪܝܢ ܚܙܝܢ ܚܢܢ ܡܠܟܐ ܒܝܫܐ ܬܡܢ hennōn ʾāmrīn: ḥāzēn-ḥnan malkā
+bīšā tammān. hennōn (they) ʾāmrīn (are-saying): ḥāzēn (seeing) -ḥnan
+(are-we) malkā (a-king) bīšā (evil) tammān (there). → They say: “We see
+an evil king there.”</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܝܘܚܢܢ ܥܒܕ ܢܘܗܪܐ ܒܐܪܥܐ Yūḥannan ʿābed nūhrā b-ʾarʿā. Yūḥannan (John)
+ʿābed (is-making/doing) nūhrā (light) b- (in) ʾarʿā (the-earth). →
+Yukhannan makes light in the earth.</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ ܐܡܪ ܗܫܐ kāteb-nā meltā d-Alāhā, ʾāmer hāšā. kāteb
+(writing) -nā (am-I) meltā (the-word) d- (of) Alāhā (God), ʾāmer
+(says-[he]) hāšā (now). → “I am writing the word of God,” he says
+now.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Gender and number of ܟܬܒܝܢ (<em>kātbīn</em>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine plural]]></text><feedback format="html"><text><![CDATA[Right: <em>-īn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine plural]]></text><feedback format="html"><text><![CDATA[Feminine plural ends in <em>-ān</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine singular]]></text><feedback format="html"><text><![CDATA[Feminine singular ends in <em>-ā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular]]></text><feedback format="html"><text><![CDATA[Masculine singular has no ending (<em>kāteb</em>).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Gender and number of ܫܡܥܐ (<em>šāmʿā</em>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Feminine singular]]></text><feedback format="html"><text><![CDATA[Right: <em>-ā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular]]></text><feedback format="html"><text><![CDATA[That would be <em>šāmaʿ</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine plural]]></text><feedback format="html"><text><![CDATA[That would be <em>šāmʿīn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine plural]]></text><feedback format="html"><text><![CDATA[That would be <em>šāmʿān</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Gender and number of ܢܦܩܢ (<em>nāpqān</em>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Feminine plural]]></text><feedback format="html"><text><![CDATA[Right: <em>-ān</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine plural]]></text><feedback format="html"><text><![CDATA[That would be <em>nāpqīn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine singular]]></text><feedback format="html"><text><![CDATA[That would be <em>nāpqā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st plural perfect “we went out”]]></text><feedback format="html"><text><![CDATA[As a participle, <em>nāpqān</em> is f.pl.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 9</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Gender and number of ܪܕܦ (<em>rādep</em>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine singular]]></text><feedback format="html"><text><![CDATA[Right: the bare <em>CāCeC</em> pattern.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine singular]]></text><feedback format="html"><text><![CDATA[That would be <em>rādpā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine plural]]></text><feedback format="html"><text><![CDATA[That would be <em>rādpīn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine plural]]></text><feedback format="html"><text><![CDATA[That would be <em>rādpān</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Root <em>ʿ-b-d</em>: “I am making” (m.sg).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿābed-nā</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdīn-ḥnan</em>]]></text><feedback format="html"><text><![CDATA[That is “we are making.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābed</em>]]></text><feedback format="html"><text><![CDATA[Without <em>-nā</em> this is “he is making.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdā-tī</em>]]></text><feedback format="html"><text><![CDATA[That is “you (f.sg) are making.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 11</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Root <em>ʿ-b-d</em>: “We are making” (m.pl).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿābdīn-ḥnan</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābed-nā</em>]]></text><feedback format="html"><text><![CDATA[That is “I am making.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdīn-tūn</em>]]></text><feedback format="html"><text><![CDATA[That is “you (m.pl) are making.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdān-ḥnan</em>]]></text><feedback format="html"><text><![CDATA[<em>-ān</em> is feminine; the drill asks for masculine.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Root <em>ʿ-b-d</em>: “You (f.sg) are making.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿābdā-tī</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābed-t</em>]]></text><feedback format="html"><text><![CDATA[That would be masculine.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdā</em>]]></text><feedback format="html"><text><![CDATA[Without the enclitic this is “she is making.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdān-tēn</em>]]></text><feedback format="html"><text><![CDATA[That is plural.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Root <em>ʿ-b-d</em>: “They (m.pl) are making.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿābdīn</em> (no enclitic needed)]]></text><feedback format="html"><text><![CDATA[Right: the plural ending already shows the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdīn-hennōn</em>]]></text><feedback format="html"><text><![CDATA[The 3rd-person enclitic is not used here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābdīn-ḥnan</em>]]></text><feedback format="html"><text><![CDATA[That is “we.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿābed</em>]]></text><feedback format="html"><text><![CDATA[That is singular.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾĀzel-nā l-malkūttā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[I am going to the kingdom.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He is going to the kingdom.]]></text><feedback format="html"><text><![CDATA[<em>-nā</em> marks “I.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I went to the kingdom.]]></text><feedback format="html"><text><![CDATA[The participle is present; “went” is Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I am going from the kingdom.]]></text><feedback format="html"><text><![CDATA[<em>l-</em> is “to.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Šāmʿīn-tūn meltā d-Alāhā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[You all are hearing the word of God.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We are hearing the word of God.]]></text><feedback format="html"><text><![CDATA[“We” is <em>-ḥnan</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They are hearing the word of God.]]></text><feedback format="html"><text><![CDATA[3rd person takes no enclitic; <em>-tūn</em> is 2 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You all are writing the word of God.]]></text><feedback format="html"><text><![CDATA[<em>Šāmʿīn</em> is “hearing.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Barnāšā bīšā rādep l-Yūḥannan.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The evil man is pursuing Yukhannan.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan is pursuing the evil man.]]></text><feedback format="html"><text><![CDATA[<em>l-</em> marks Yukhannan as the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The good man is pursuing Yukhannan.]]></text><feedback format="html"><text><![CDATA[<em>Bīšā</em> is “evil.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The evil man pursued Yukhannan.]]></text><feedback format="html"><text><![CDATA[<em>Rādep</em> is a participle (present).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Ḥāzēn-ḥnan nūhrā rabbā tammān.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[We are seeing a great light there.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We are seeing a great light here.]]></text><feedback format="html"><text><![CDATA[“Here” is <em>harkā</em>; <em>tammān</em> is “there.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You are seeing a great light there.]]></text><feedback format="html"><text><![CDATA[<em>-ḥnan</em> is “we.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We are seeing a great king there.]]></text><feedback format="html"><text><![CDATA[<em>Nūhrā</em> is “light.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “I (m) am hearing the word.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Šāmaʿ-nā meltā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Šāmʿā-nā meltā.</em>]]></text><feedback format="html"><text><![CDATA[That is feminine “I (f).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Šāmaʿ meltā.</em>]]></text><feedback format="html"><text><![CDATA[Without <em>-nā</em> it means “he is hearing.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Šmaʿ-nā meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Šmaʿ</em> is the Perfect, not the participle.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “She is writing a good word.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Kātbā meltā ṭābtā.</em>]]></text><feedback format="html"><text><![CDATA[Right: feminine participle and feminine adjective.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kāteb meltā ṭābtā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Kāteb</em> is masculine.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kātbā meltā ṭābā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Meltā</em> is feminine, so <em>ṭābtā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kātbīn meltā ṭābtā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Kātbīn</em> is plural.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “They (m) are going from here.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾĀzlīn men harkā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾĀzlīn men tammān.</em>]]></text><feedback format="html"><text><![CDATA[<em>Tammān</em> is “there.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾĀzlān men harkā.</em>]]></text><feedback format="html"><text><![CDATA[<em>-ān</em> is feminine.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾĀzel men harkā.</em>]]></text><feedback format="html"><text><![CDATA[That is singular.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “You (m.pl) are seeing the king.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Ḥāzēn-tūn l-malkā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Ḥāzēn-ḥnan l-malkā.</em>]]></text><feedback format="html"><text><![CDATA[That is “we.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Ḥāzē-nā l-malkā.</em>]]></text><feedback format="html"><text><![CDATA[That is “I.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Ḥāzēn-tūn malkā l-</em>]]></text><feedback format="html"><text><![CDATA[<em>l-</em> attaches before the object.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). From where does Yukhannan say he is going?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[“From here” (<em>men harkā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[“From the kingdom”]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[“From the gate”]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[“From the earth”]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 5. What do the disciples fear they will see there?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[An evil king (<em>malkā bīšā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A great light]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The word of God]]></text><feedback format="html"><text><![CDATA[That is what Yukhannan is writing.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[An evil man pursuing them]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 2 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. What is Yukhannan “writing” right now?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The word of God (<em>meltā d-Alāhā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A letter to the king]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A good word to the disciples]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The name of the kingdom]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
+<p><strong>PARTICIPLE + ENCLITIC COMBINATIONS (Masc. Root
+k-t-b)</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">English</th>
+<th style="text-align: left;">Participle</th>
+<th style="text-align: left;">Enclitic</th>
+<th style="text-align: left;">Combined Syriac Form</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">I write (m)</td>
+<td style="text-align: left;">kāteb</td>
+<td style="text-align: left;">-nā</td>
+<td style="text-align: left;">kāteb-nā</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">You write (m)</td>
+<td style="text-align: left;">kāteb</td>
+<td style="text-align: left;">-t</td>
+<td style="text-align: left;">kāteb-t</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">He writes</td>
+<td style="text-align: left;">kāteb</td>
+<td style="text-align: left;">(-hū)</td>
+<td style="text-align: left;">kāteb / kāteb-hū</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">We write (m)</td>
+<td style="text-align: left;">kātbīn</td>
+<td style="text-align: left;">-ḥnan</td>
+<td style="text-align: left;">kātbīn-ḥnan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">You all write (m)</td>
+<td style="text-align: left;">kātbīn</td>
+<td style="text-align: left;">-tūn</td>
+<td style="text-align: left;">kātbīn-tūn</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">They write (m)</td>
+<td style="text-align: left;">kātbīn</td>
+<td style="text-align: left;">(none)</td>
+<td style="text-align: left;">kātbīn</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 2 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
+<p>The following 30 genuinely new high-frequency words supplement this
+lesson’s vocabulary, focusing on nouns and derived verbal nouns relevant
+to narrative present (participle) usage.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Syriac (Estrangela)</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Part of Speech</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܫܒܬܐ</td>
+<td style="text-align: left;">šabbtā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">sabbath, week</td>
+<td style="text-align: left;">pl. šabbē</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܒܘܫܐ</td>
+<td style="text-align: left;">lbūšā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">garment, clothing</td>
+<td style="text-align: left;">from root l-b-š (to wear)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܟܪܢܐ</td>
+<td style="text-align: left;">dəkrānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">memory, remembrance</td>
+<td style="text-align: left;">from root d-k-r (to remember)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦܓܥܢܐ</td>
+<td style="text-align: left;">pəgʿānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">encounter, meeting</td>
+<td style="text-align: left;">from root p-g-ʿ (to meet)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܐܨܒܥܐ</td>
+<td style="text-align: left;">ʾəṣḇʿā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">finger</td>
+<td style="text-align: left;">body part, abstract</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦܘܠܚܢܐ</td>
+<td style="text-align: left;">pūlḥānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">labor, toil</td>
+<td style="text-align: left;">from root p-l-ḥ (to serve)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܡܪܢܐ</td>
+<td style="text-align: left;">šəmrānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">guard, watchfulness</td>
+<td style="text-align: left;">from root š-m-r (to guard)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܡܠܘܬܐ</td>
+<td style="text-align: left;">gəmālūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">kindness, mercy</td>
+<td style="text-align: left;">from root g-m-l (to treat well)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܠܓܕܬܐ</td>
+<td style="text-align: left;">ləgdəttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">overtaking, capture</td>
+<td style="text-align: left;">from root l-g-d (to reach)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܠܘܬܐ</td>
+<td style="text-align: left;">dəlūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">poverty, want</td>
+<td style="text-align: left;">abstract noun</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܠܓܘܬܐ</td>
+<td style="text-align: left;">pəlgūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">division, share</td>
+<td style="text-align: left;">from root p-l-g (to divide)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܠܦܬܐ</td>
+<td style="text-align: left;">qəlpəttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">shell, exterior</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܪܘܓܙܢܐ</td>
+<td style="text-align: left;">rūgzānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">rage, wrath</td>
+<td style="text-align: left;">from root r-g-z (to shake)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܝܕܥܘܬܐ</td>
+<td style="text-align: left;">ydāʿūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">knowledge</td>
+<td style="text-align: left;">from root y-d-ʿ (to know)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܟܦܪܐ</td>
+<td style="text-align: left;">kəprā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">village, hamlet</td>
+<td style="text-align: left;">place noun</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦܩܪܐ</td>
+<td style="text-align: left;">pəqrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">opening, aperture</td>
+<td style="text-align: left;">from root p-q-r (to open)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓܡܪܘܬܐ</td>
+<td style="text-align: left;">gəmrūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">completion, fulfillment</td>
+<td style="text-align: left;">from root g-m-r (to complete)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܛܘܫܢܐ</td>
+<td style="text-align: left;">ṭūšānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">strength, might</td>
+<td style="text-align: left;">from root ṭ-w-š (to be strong)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܦܥܐ</td>
+<td style="text-align: left;">šəpʿā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">abundance, plenty</td>
+<td style="text-align: left;">from root š-p-ʿ (to suffice)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܚܡܐ</td>
+<td style="text-align: left;">laḥmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">bread, food</td>
+<td style="text-align: left;">staple item</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܣܡܐ</td>
+<td style="text-align: left;">pəsmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">measure, standard</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܠܡܘܬܐ</td>
+<td style="text-align: left;">šəlmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">completeness, wholeness</td>
+<td style="text-align: left;">from root š-l-m (to be whole)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܠܩܐ</td>
+<td style="text-align: left;">ʿalqā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">ascent, stairway</td>
+<td style="text-align: left;">from root ʿ-l-q (to ascend)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܛܪܢܐ</td>
+<td style="text-align: left;">gəṭrānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">enclosure, fence</td>
+<td style="text-align: left;">from root g-ṭ-r (to fence)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܢܘܬܐ</td>
+<td style="text-align: left;">šənūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">change, alteration</td>
+<td style="text-align: left;">from root š-n-y (to change)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܒܩܘܬܐ</td>
+<td style="text-align: left;">dəbqūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">clinging, adherence</td>
+<td style="text-align: left;">from root d-b-q (to cling)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩܕܘܫܘܬܐ</td>
+<td style="text-align: left;">qdūšūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">holiness, sanctity</td>
+<td style="text-align: left;">from root q-d-š (to be holy)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܕܘܠܘܬܐ</td>
+<td style="text-align: left;">gdūlūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">greatness, grandeur</td>
+<td style="text-align: left;">from root g-d-l (to be great)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܪܘܬܐ</td>
+<td style="text-align: left;">ʿərūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">nakedness, shame</td>
+<td style="text-align: left;">from root ʿ-r-y (to be naked)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܒܪܢܐ</td>
+<td style="text-align: left;">dəbrānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">word, matter</td>
+<td style="text-align: left;">related to d-b-r</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܪܘܡܘܬܐ</td>
+<td style="text-align: left;">rūmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">height, elevation</td>
+<td style="text-align: left;">from root r-w-m (to be high)</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+</quiz>

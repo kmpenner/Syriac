@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="syriac_web_premium.css" />
 </head>
@@ -19,47 +28,118 @@
 <header id="title-block-header">
 <h1 class="title">The Acts of Mar Yukhannan</h1>
 </header>
-<h1 id="the-acts-of-mar-yukhannan">The Acts of Mar Yukhannan</h1>
-<p>An Immersive Syriac Language Course</p>
 <h2 id="lesson-1">LESSON 1</h2>
-<h3 id="the-core-architecture-nouns-pronouns-and-verbless-clauses">The Core Architecture: Nouns, Pronouns, and Verbless Clauses</h3>
+<h3 id="the-core-architecture-nouns-pronouns-and-verbless-clauses">The
+Core Architecture: Nouns, Pronouns, and Verbless Clauses</h3>
 <hr />
-<h4 id="section-1-introduction-and-warm-up">Section 1: Introduction and Warm-Up</h4>
-<p><strong>Quick Summary</strong> Welcome to Syriac, the dialect of Aramaic that became the literary language of Middle Eastern Christianity from the 2nd to the 8th centuries. Before diving into verbs or complex syntax, we must lay the foundation of the language: the alphabet, nouns, and how to string them together to make a sentence.</p>
+<h4 id="section-1-introduction-and-warm-up">Section 1: Introduction and
+Warm-Up</h4>
+<p><strong>Quick Summary</strong></p>
+<p>Welcome to Syriac, the dialect of Aramaic that became the literary
+language of Middle Eastern Christianity from the 2nd to the 8th
+centuries. Before diving into verbs or complex syntax, we must lay the
+foundation of the language: the alphabet, nouns, and how to string them
+together to make a sentence.</p>
 <ol type="1">
-<li><strong>The Alphabet</strong>: The Syriac alphabet (Estrangela script) consists of 22 consonants, written right to left. Like Hebrew and Arabic, vowels were originally unwritten.</li>
-<li><strong>The Noun System</strong>: Syriac nouns have gender (masculine/feminine), number (singular/plural), and three “states” (absolute, construct, emphatic).</li>
-<li><strong>The Emphatic State</strong>: The default form of a Syriac noun. It ends in an Alaph (ܐ) and historically signaled the definite article (“the”), though in classical Syriac it is the standard dictionary form.</li>
+<li><strong>The Alphabet</strong>: The Syriac alphabet (Estrangela
+script) consists of 22 consonants, written right to left. Like Hebrew
+and Arabic, vowels were originally unwritten.</li>
+<li><strong>The Noun System</strong>: Syriac nouns have gender
+(masculine/feminine), number (singular/plural), and three “states”
+(absolute, construct, emphatic).</li>
+<li><strong>The Emphatic State</strong>: The default form of a Syriac
+noun. It ends in an Alaph (ܐ) and historically signaled the definite
+article (“the”), though in classical Syriac it is the standard
+dictionary form.</li>
 </ol>
-<p><strong>5-Question Baseline Drill</strong> <em>(Since this is Lesson 1, these questions reflect general Semitic language principles to prime your existing knowledge. Answers are in Section 9).</em> 1. Semitic languages are built on root systems. How many consonants typically make up a root? 2. Looking closely at the script, in which direction is Syriac written? 3. What is a “verbless clause” in Hebrew or Arabic? 4. What consonant do you think represents the ‘Alaph’ (the first letter)? 5. If the Hebrew word for “king” is <em>melek</em> and Arabic is <em>malik</em>, what do you hypothesize the Aramaic/Syriac root consonants might be?</p>
+<p><strong>5-Question Baseline Drill</strong></p>
+<p><em>(Since this is Lesson 1, these questions reflect general Semitic
+language principles to prime your existing knowledge. Answers are in
+Section 9).</em></p>
+<ol type="1">
+<li>Semitic languages are built on root systems. How many consonants
+typically make up a root?</li>
+<li>Looking closely at the script, in which direction is Syriac
+written?</li>
+<li>What is a “verbless clause” in Hebrew or Arabic?</li>
+<li>What consonant do you think represents the ‘Alaph’ (the first
+letter)?</li>
+<li>If the Hebrew word for “king” is <em>melek</em> and Arabic is
+<em>malik</em>, what do you hypothesize the Aramaic/Syriac root
+consonants might be?</li>
+</ol>
 <hr />
-<h4 id="section-2-core-architecture-overview">Section 2: Core Architecture — Overview</h4>
-<p>One of the most striking differences between Indo-European languages (Greek, Latin, English) and Semitic ones (Hebrew, Arabic, Syriac) is syntax and the copula (“to be”).</p>
-<p>In English, we say “God <strong>is</strong> good.” In Greek, “ὁ θεὸς ἀγαθός <strong>ἐστιν</strong>.” We require a verb to link the subject to its predicate. In Syriac, as in Hebrew and Arabic, the “is” functions implicitly. You simply place two nouns, or a noun and an adjective, next to one another.</p>
+<h4 id="section-2-core-architecture-overview">Section 2: Core
+Architecture — Overview</h4>
+<p>One of the most striking differences between Indo-European languages
+(Greek, Latin, English) and Semitic ones (Hebrew, Arabic, Syriac) is
+syntax and the copula (“to be”).</p>
+<p>In English, we say “God <strong>is</strong> good.” In Greek, “ὁ θεὸς
+ἀγαθός <strong>ἐστιν</strong>.” We require a verb to link the subject to
+its predicate. In Syriac, as in Hebrew and Arabic, the “is” functions
+implicitly. You simply place two nouns, or a noun and an adjective, next
+to one another.</p>
 <blockquote>
 <p><strong>Alāhā ṭābā</strong> = God [is] good.</p>
 </blockquote>
-<p><strong>Cross-Linguistic Comparison: The Definite Article</strong> Another major shift is how Syriac handles “the”. * <strong>Hebrew</strong> uses a prefix: הַמֶּלֶךְ (<em>ha-melek</em>, “the king”). * <strong>Arabic</strong> uses a prefix: الملك (<em>al-malik</em>, “the king”). * <strong>Greek</strong> uses a separate word: ὁ βασιλεύς (<em>ho basileus</em>, “the king”). * <strong>Syriac</strong> originally used a <strong>suffix</strong> (the Emphatic State Alaph: ܐ). Over time, this state became the default form. Thus, <em>malkā</em> (ܡܠܟܐ) can mean “a king” or “the king” depending on context, but it is structurally the emphatic, determinate form.</p>
-<hr />
-<h4 id="section-3-pronouns-and-particles">Section 3: Pronouns and Particles</h4>
-<p><strong>1. Independent Personal Pronouns</strong> Pronouns stand alone as the subject of a sentence. They distinguish gender in the 2nd and 3rd persons (unlike English “you” or “they”).</p>
-<p><strong>2. The Particles <code>d-</code> and <code>l-</code></strong> Syriac relies heavily on tiny prepositions that attach directly to the front of the next word.</p>
+<p><strong>Cross-Linguistic Comparison: The Definite
+Article</strong></p>
+<p>Another major shift is how Syriac handles “the”.</p>
 <ul>
-<li><strong>The Relative Particle <code>d-</code> (ܕ)</strong>: This acts like the English “of”, “which”, “who”, or “that”. It defines relationships and possession.
+<li><strong>Hebrew</strong> uses a prefix: הַמֶּלֶךְ (<em>ha-melek</em>, “the
+king”).</li>
+<li><strong>Arabic</strong> uses a prefix: الملك (<em>al-malik</em>,
+“the king”).</li>
+<li><strong>Greek</strong> uses a separate word: ὁ βασιλεύς (<em>ho
+basileus</em>, “the king”).</li>
+<li><strong>Syriac</strong> originally used a <strong>suffix</strong>
+(the Emphatic State Alaph: ܐ). Over time, this state became the default
+form. Thus, <em>malkā</em> (ܡܠܟܐ) can mean “a king” or “the king”
+depending on context, but it is structurally the emphatic, determinate
+form.</li>
+</ul>
+<hr />
+<h4 id="section-3-pronouns-and-particles">Section 3: Pronouns and
+Particles</h4>
+<p><strong>1. Independent Personal Pronouns</strong></p>
+<p>Pronouns stand alone as the subject of a sentence. They distinguish
+gender in the 2nd and 3rd persons (unlike English “you” or “they”).</p>
+<p><strong>2. The Particles <code>d-</code> and
+<code>l-</code></strong></p>
+<p>Syriac relies heavily on tiny prepositions that attach directly to
+the front of the next word.</p>
+<ul>
+<li><strong>The Relative Particle <code>d-</code> (ܕ)</strong>: This
+acts like the English “of”, “which”, “who”, or “that”. It defines
+relationships and possession.
 <ul>
 <li><em>Malkūttā d-Alāhā</em> (The kingdom <strong>of</strong> God)</li>
-<li><em>Nūhrā d-ṭābā</em> (The light <strong>which</strong> is good)</li>
+<li><em>Nūhrā d-ṭābā</em> (The light <strong>which</strong> is
+good)</li>
 </ul></li>
-<li><strong>The Preposition <code>l-</code> (ܠ)</strong>: This means “to” or “for”, but it is also used heavily as a Direct Object marker (similar to the Hebrew <code>et</code> אֵת, though functioning prepositionally).
+<li><strong>The Preposition <code>l-</code> (ܠ)</strong>: This means
+“to” or “for”, but it is also used heavily as a Direct Object marker
+(similar to the Hebrew <code>et</code> אֵת, though functioning
+prepositionally).
 <ul>
 <li><em>l-malkā</em> (to the king)</li>
 <li><em>l-Yūḥannan</em> (to Yukhannan)</li>
 </ul></li>
 </ul>
 <hr />
-<h4 id="section-4-independent-pronouns-paradigm">Section 4: Independent Pronouns Paradigm</h4>
-<p>Here are the independent personal pronouns in Syriac. Observe the similarities to other Semitic languages.</p>
-<table>
+<h4 id="section-4-independent-pronouns-paradigm">Section 4: Independent
+Pronouns Paradigm</h4>
+<p>Here are the independent personal pronouns in Syriac. Observe the
+similarities to other Semitic languages.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Person</th>
@@ -153,10 +233,14 @@
 </tr>
 </tbody>
 </table>
-<p><em>Note: In ʾant, ʾanti, ʾantūn, and ʾantēn, the ‘n’ is historically written but often silent in pronunciation (assimilated: “at”, “ati”).</em></p>
+<p><em>Note: In ʾant, ʾanti, ʾantūn, and ʾantēn, the ‘n’ is historically
+written but often silent in pronunciation (assimilated: “at”,
+“ati”).</em></p>
 <hr />
-<h4 id="section-5-the-emphatic-noun-state">Section 5: The Emphatic Noun State</h4>
-<p>In the absolute state, the word for king is <em>malk</em>. In the emphatic state (the standard dictionary form), an ʾAlaph is added.</p>
+<h4 id="section-5-the-emphatic-noun-state">Section 5: The Emphatic Noun
+State</h4>
+<p>In the absolute state, the word for king is <em>malk</em>. In the
+emphatic state (the standard dictionary form), an ʾAlaph is added.</p>
 <table>
 <thead>
 <tr class="header">
@@ -181,10 +265,14 @@
 </tr>
 </tbody>
 </table>
-<p><em>Rule of Thumb: If a noun ends in -ā (Alaph), it’s overwhelmingly likely to be a masculine emphatic singular or a feminine emphatic.</em></p>
+<p><em>Rule of Thumb: If a noun ends in -ā (Alaph), it’s overwhelmingly
+likely to be a masculine emphatic singular or a feminine
+emphatic.</em></p>
 <hr />
-<h4 id="section-6-theological-vocabulary">Section 6: Theological Vocabulary</h4>
-<p>The following core nouns feature prominently in classical Syriac literature and the Peshitta (the Syriac Bible).</p>
+<h4 id="section-6-theological-vocabulary">Section 6: Theological
+Vocabulary</h4>
+<p>The following core nouns feature prominently in classical Syriac
+literature and the Peshitta (the Syriac Bible).</p>
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -208,14 +296,16 @@
 <td style="text-align: left;">Alāhā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">God</td>
-<td style="text-align: left;">Cognate w/ Arabic <em>Allāh</em>, Heb <em>ʾĔlōhīm</em></td>
+<td style="text-align: left;">Cognate w/ Arabic <em>Allāh</em>, Heb
+<em>ʾĔlōhīm</em></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܒܪܢܫܐ</td>
 <td style="text-align: left;">barnāšā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">Human, son of man</td>
-<td style="text-align: left;">Compounded from <em>bar</em> (son) + <em>nāšā</em> (man). Standard term for human.</td>
+<td style="text-align: left;">Compounded from <em>bar</em> (son) +
+<em>nāšā</em> (man). Standard term for human.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܡܠܟܐ</td>
@@ -236,28 +326,32 @@
 <td style="text-align: left;">meltā</td>
 <td style="text-align: left;">f.</td>
 <td style="text-align: left;">Word, Logos</td>
-<td style="text-align: left;">The Syriac translation of Greek <em>Logos</em> (John 1:1)</td>
+<td style="text-align: left;">The Syriac translation of Greek
+<em>Logos</em> (John 1:1)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܢܘܗܪܐ</td>
 <td style="text-align: left;">nūhrā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">Light</td>
-<td style="text-align: left;">Root <em>n-h-r</em>. Cf. Arabic <em>nūr</em></td>
+<td style="text-align: left;">Root <em>n-h-r</em>. Cf. Arabic
+<em>nūr</em></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܐܪܥܐ</td>
 <td style="text-align: left;">ʾarʿā</td>
 <td style="text-align: left;">f.</td>
 <td style="text-align: left;">Earth, land</td>
-<td style="text-align: left;">Cognate with Hebrew <em>ʾereṣ</em>, Arabic <em>ʾarḍ</em></td>
+<td style="text-align: left;">Cognate with Hebrew <em>ʾereṣ</em>, Arabic
+<em>ʾarḍ</em></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܛܒܐ</td>
 <td style="text-align: left;">ṭābā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">Good</td>
-<td style="text-align: left;">Adjective behaving as noun. Heb <em>ṭōb</em></td>
+<td style="text-align: left;">Adjective behaving as noun. Heb
+<em>ṭōb</em></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܒܝܫܐ</td>
@@ -278,44 +372,150 @@
 <td style="text-align: left;">rabbā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">Great, large</td>
-<td style="text-align: left;">Root <em>r-b-b</em>. Cf. “Rabbi” (my great one).</td>
+<td style="text-align: left;">Root <em>r-b-b</em>. Cf. “Rabbi” (my great
+one).</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܚܝܐ</td>
 <td style="text-align: left;">ḥayyē</td>
 <td style="text-align: left;">m.pl.</td>
 <td style="text-align: left;">Life</td>
-<td style="text-align: left;">Root <em>ḥ-y-y</em>. Plural form (like Heb <em>ḥayyīm</em>)</td>
+<td style="text-align: left;">Root <em>ḥ-y-y</em>. Plural form (like Heb
+<em>ḥayyīm</em>)</td>
 </tr>
 </tbody>
 </table>
 <hr />
 <h4 id="section-7-the-story-part-1">Section 7: The Story — Part 1</h4>
-<p><strong>The Setting</strong> <em>Narrative note: This introductory passage is written entirely in verbless sentences, establishing the setting and main characters using classical equational syntax, pronouns, and the relational <code>d-</code> particle.</em></p>
-<p><strong>Sentence 1</strong> ܡܠܟܐ ܗܘ malkā hū. malkā (a-king) hū (he-[is]). → He is a king. / There is a king.</p>
-<p><strong>Sentence 2</strong> ܘܡܠܟܘܬܐ ܕܡܠܟܐ ܪܒܐ ܗܝ w-malkūttā d-malkā rabbā hī. w- (and-) malkūttā (the-kingdom) d- (of) malkā (the-king) rabbā (great) hī (she-[is]). → And the kingdom of the king is great. <em>(Note: ‘malkūttā’ is feminine, so the pronoun ‘hī’ is used).</em></p>
-<p><strong>Sentence 3</strong> ܒܪܢܫܐ ܒܝܫܐ ܗܘ barnāšā bīšā hū. barnāšā (the-man) bīšā (evil) hū (he-[is]). → The man is evil.</p>
-<p><strong>Sentence 4</strong> ܝܘܚܢܢ ܗܘ ܛܒܐ Yūḥannan hū ṭābā. Yūḥannan (John) hū (he-[is]) ṭābā (good). → Yukhannan is good.</p>
-<p><strong>Sentence 5</strong> ܐܠܗܐ ܠܝܘܚܢܢ ܢܘܗܪܐ ܗܘ Alāhā l-Yūḥannan nūhrā hū. Alāhā (God) l- (to/for) Yūḥannan (John) nūhrā (light) hū (he-[is]). → God is light to Yukhannan.</p>
-<p><strong>Sentence 6</strong> ܡܠܬܐ ܕܐܠܗܐ ܒܐܪܥܐ ܗܝ meltā d-Alāhā b-ʾarʿā hī. meltā (the-word) d- (of) Alāhā (God) b- (in) ʾarʿā (the-earth) hī (she-[is]). → The word of God is in the earth.</p>
-<p><strong>Sentence 7</strong> ܡܠܟܐ ܒܐܪܥܐ ܘܝܘܚܢܢ ܠܡܠܟܐ ܢܘܗܪܐ ܗܘ malkā b-ʾarʿā, w-Yūḥannan l-malkā nūhrā hū. malkā (the-king) b- (in) ʾarʿā (the-earth), w- (and) Yūḥannan (John) l- (to) malkā (the-king) nūhrā (light) hū (he-[is]). → The king is in the earth, and Yukhannan is a light to the king.</p>
+<p><strong>The Setting</strong></p>
+<p><em>Narrative note: This introductory passage is written entirely in
+verbless sentences, establishing the setting and main characters using
+classical equational syntax, pronouns, and the relational
+<code>d-</code> particle.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܡܠܟܐ ܗܘ malkā hū. malkā (a-king) hū (he-[is]). → He is a king. /
+There is a king.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܡܠܟܘܬܐ ܕܡܠܟܐ ܪܒܐ ܗܝ w-malkūttā d-malkā rabbā hī. w- (and-) malkūttā
+(the-kingdom) d- (of) malkā (the-king) rabbā (great) hī (she-[is]). →
+And the kingdom of the king is great. <em>(Note: ‘malkūttā’ is feminine,
+so the pronoun ‘hī’ is used).</em></p>
+<p><strong>Sentence 3</strong></p>
+<p>ܒܪܢܫܐ ܒܝܫܐ ܗܘ barnāšā bīšā hū. barnāšā (the-man) bīšā (evil) hū
+(he-[is]). → The man is evil.</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܝܘܚܢܢ ܗܘ ܛܒܐ Yūḥannan hū ṭābā. Yūḥannan (John) hū (he-[is]) ṭābā
+(good). → Yukhannan is good.</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܐܠܗܐ ܠܝܘܚܢܢ ܢܘܗܪܐ ܗܘ Alāhā l-Yūḥannan nūhrā hū. Alāhā (God) l-
+(to/for) Yūḥannan (John) nūhrā (light) hū (he-[is]). → God is light to
+Yukhannan.</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܡܠܬܐ ܕܐܠܗܐ ܒܐܪܥܐ ܗܝ meltā d-Alāhā b-ʾarʿā hī. meltā (the-word) d-
+(of) Alāhā (God) b- (in) ʾarʿā (the-earth) hī (she-[is]). → The word of
+God is in the earth.</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܡܠܟܐ ܒܐܪܥܐ ܘܝܘܚܢܢ ܠܡܠܟܐ ܢܘܗܪܐ ܗܘ malkā b-ʾarʿā, w-Yūḥannan l-malkā
+nūhrā hū. malkā (the-king) b- (in) ʾarʿā (the-earth), w- (and) Yūḥannan
+(John) l- (to) malkā (the-king) nūhrā (light) hū (he-[is]). → The king
+is in the earth, and Yukhannan is a light to the king.</p>
 <hr />
 <h4 id="section-8-exercises">Section 8: Exercises</h4>
-<p><strong>Exercise 1: Pronoun Identification</strong> Identify the person, gender, and number of the following pronouns, and give the English translation. 1. ܚܢܢ (ḥnan) 2. ܗܝ (hī) 3. ܐܢܬܘܢ (ʾantūn) 4. ܗܢܘܢ (hennōn) 5. ܗܘ (hū)</p>
-<p><strong>Exercise 2: Morphology (Nouns)</strong> Identify whether the following words are taking the Emphatic State suffix (-ā). 1. ܢܘܗܪܐ (nūhrā) 2. ܡܠܟ (malk) 3. ܛܒܐ (ṭābā)</p>
-<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong> Translate the following basic verbless clauses into English. 1. Alāhā hū ṭābā. 2. Nūhrā b-malkūttā hū. 3. Yūḥannan barnāšā hū. 4. Meltā d-malkā bīšā hī. 5. ʾEnā Yūḥannan.</p>
-<p><strong>Exercise 4: Production Drill (English → Syriac)</strong> Render the following English sentences into Syriac transliteration using verbless clauses. (Remember to include the correct 3rd person pronoun at the end to act as “is”). 1. God is a great light. 2. The earth is the kingdom of God. (Earth is feminine <em>hī</em>). 3. The king is an evil man. 4. I am the king. (No “is” pronoun needed, just “I king”).</p>
-<p><strong>Exercise 5: Reading Comprehension</strong> Re-read the story in Section 7 and answer the following: 1. What adjective is used to describe the king’s kingdom? 2. To whom is Yukhannan a “light”? 3. Where is the word of God?</p>
+<p><strong>Exercise 1: Pronoun Identification</strong></p>
+<p>Identify the person, gender, and number of the following pronouns,
+and give the English translation.</p>
+<ol type="1">
+<li>ܚܢܢ (ḥnan)</li>
+<li>ܗܝ (hī)</li>
+<li>ܐܢܬܘܢ (ʾantūn)</li>
+<li>ܗܢܘܢ (hennōn)</li>
+<li>ܗܘ (hū)</li>
+</ol>
+<p><strong>Exercise 2: Morphology (Nouns)</strong></p>
+<p>Identify whether the following words are taking the Emphatic State
+suffix (-ā).</p>
+<ol type="1">
+<li>ܢܘܗܪܐ (nūhrā)</li>
+<li>ܡܠܟ (malk)</li>
+<li>ܛܒܐ (ṭābā)</li>
+</ol>
+<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong></p>
+<p>Translate the following basic verbless clauses into English.</p>
+<ol type="1">
+<li>Alāhā hū ṭābā.</li>
+<li>Nūhrā b-malkūttā hū.</li>
+<li>Yūḥannan barnāšā hū.</li>
+<li>Meltā d-malkā bīšā hī.</li>
+<li>ʾEnā Yūḥannan.</li>
+</ol>
+<p><strong>Exercise 4: Production Drill (English → Syriac)</strong></p>
+<p>Render the following English sentences into Syriac transliteration
+using verbless clauses. (Remember to include the correct 3rd person
+pronoun at the end to act as “is”).</p>
+<ol type="1">
+<li>God is a great light.</li>
+<li>The earth is the kingdom of God. (Earth is feminine
+<em>hī</em>).</li>
+<li>The king is an evil man.</li>
+<li>I am the king. (No “is” pronoun needed, just “I king”).</li>
+</ol>
+<p><strong>Exercise 5: Reading Comprehension</strong></p>
+<p>Re-read the story in Section 7 and answer the following:</p>
+<ol type="1">
+<li>What adjective is used to describe the king’s kingdom?</li>
+<li>To whom is Yukhannan a “light”?</li>
+<li>Where is the word of God?</li>
+</ol>
 <hr />
 <h4 id="section-9-answer-key">Section 9: Answer Key</h4>
-<p><strong>Section 1 Warm-Up</strong> 1. Three consonants (the triliteral root). 2. Right to left. 3. A sentence lacking a verb (like “to be”), where subject and predicate are placed adjacently (e.g., “The man [is] good”). 4. Usually a glottal stop or silent carrier for a vowel. 5. m-l-k.</p>
-<p><strong>Exercise 1: Pronoun Identification</strong> 1. 1 c.pl. (We) 2. 3 f.sg. (She) 3. 2 m.pl. (You all) 4. 3 m.pl. (They, m) 5. 3 m.sg. (He)</p>
-<p><strong>Exercise 2: Morphology</strong> 1. Yes (Ends in Alaph/<code>ā</code>). 2. No (Absolute state). 3. Yes (Ends in Alaph/<code>ā</code>).</p>
-<p><strong>Exercise 3: Translation</strong> 1. God is good. 2. The light is in the kingdom. 3. Yukhannan is a man. 4. The word of the king is evil. (Because <em>meltā</em> is feminine, <em>hī</em> is used). 5. I am Yukhannan.</p>
-<p><strong>Exercise 4: Production</strong> 1. Alāhā nūhrā rabbā hū. 2. ʾarʿā malkūttā d-Alāhā hī. 3. Malkā barnāšā bīšā hū. 4. ʾEnā malkā.</p>
-<p><strong>Exercise 5: Comprehension</strong> 1. Great (<em>rabbā</em>). 2. To the king (<em>l-malkā</em>). 3. In the earth (<em>b-ʾarʿā</em>).</p>
+<p><strong>Section 1 Warm-Up</strong></p>
+<ol type="1">
+<li>Three consonants (the triliteral root).</li>
+<li>Right to left.</li>
+<li>A sentence lacking a verb (like “to be”), where subject and
+predicate are placed adjacently (e.g., “The man [is] good”).</li>
+<li>Usually a glottal stop or silent carrier for a vowel.</li>
+<li>m-l-k.</li>
+</ol>
+<p><strong>Exercise 1: Pronoun Identification</strong></p>
+<ol type="1">
+<li>1 c.pl. (We)</li>
+<li>3 f.sg. (She)</li>
+<li>2 m.pl. (You all)</li>
+<li>3 m.pl. (They, m)</li>
+<li>3 m.sg. (He)</li>
+</ol>
+<p><strong>Exercise 2: Morphology</strong></p>
+<ol type="1">
+<li>Yes (Ends in Alaph/<code>ā</code>).</li>
+<li>No (Absolute state).</li>
+<li>Yes (Ends in Alaph/<code>ā</code>).</li>
+</ol>
+<p><strong>Exercise 3: Translation</strong></p>
+<ol type="1">
+<li>God is good.</li>
+<li>The light is in the kingdom.</li>
+<li>Yukhannan is a man.</li>
+<li>The word of the king is evil. (Because <em>meltā</em> is feminine,
+<em>hī</em> is used).</li>
+<li>I am Yukhannan.</li>
+</ol>
+<p><strong>Exercise 4: Production</strong></p>
+<ol type="1">
+<li>Alāhā nūhrā rabbā hū.</li>
+<li>ʾarʿā malkūttā d-Alāhā hī.</li>
+<li>Malkā barnāšā bīšā hū.</li>
+<li>ʾEnā malkā.</li>
+</ol>
+<p><strong>Exercise 5: Comprehension</strong></p>
+<ol type="1">
+<li>Great (<em>rabbā</em>).</li>
+<li>To the king (<em>l-malkā</em>).</li>
+<li>In the earth (<em>b-ʾarʿā</em>).</li>
+</ol>
 <hr />
-<h4 id="section-10-grammatical-summary">Section 10: Grammatical Summary</h4>
+<h4 id="section-10-grammatical-summary">Section 10: Grammatical
+Summary</h4>
 <p><strong>THE VERBLESS CLAUSE — FORMATION RULES</strong></p>
 <table>
 <thead>
@@ -384,9 +584,18 @@
 </tr>
 </tbody>
 </table>
-<h4 id="section-11-additional-vocabulary">Section 11: Additional Vocabulary</h4>
-<p>The following high-frequency words round out this lesson’s vocabulary to 30 terms.</p>
+<h4 id="section-11-additional-vocabulary">Section 11: Additional
+Vocabulary</h4>
+<p>The following high-frequency words round out this lesson’s vocabulary
+to 30 terms.</p>
 <table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Syriac (Estrangela)</th>

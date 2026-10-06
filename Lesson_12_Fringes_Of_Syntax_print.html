@@ -8,34 +8,108 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
+  <link rel="stylesheet" href="syriac_print.css" />
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">The Acts of Mar Yukhannan</h1>
 </header>
 <h2 id="lesson-12">LESSON 12</h2>
-<h3 id="fringes-of-syntax-demonstratives-numbers-and-conditionals">Fringes of Syntax: Demonstratives, Numbers, and Conditionals</h3>
+<h3
+id="fringes-of-syntax-demonstratives-numbers-and-conditionals">Fringes
+of Syntax: Demonstratives, Numbers, and Conditionals</h3>
 <hr />
-<h4 id="section-1-review-of-lesson-11">Section 1: Review of Lesson 11</h4>
-<p><strong>Quick Summary</strong> In Lesson 11, we examined how Syriac attaches direct object pronouns directly to the verb, creating a highly compressed “fast direct object” (e.g., <em>qaṭl-eh</em>, “he killed him” vs. <em>qṭal l-ēh</em>, “he killed to-him”).</p>
-<p><strong>5-Question Warm-Up Drill</strong> <em>(Answers in Section 9)</em> 1. How does Syriac buffer the 1st person singular object suffix on a Peal perfect verb? 2. Translate: <em>Parq-anī</em>. 3. Break down the components of <em>qaṭlhūn</em>. 4. Why does <em>qṭal</em> become <em>qaṭl-</em> when adding a suffix? 5. Translate the double-determined phrase: <em>ʾAsyeh Alāhā l-malkā</em>.</p>
+<h4 id="section-1-review-of-lesson-11">Section 1: Review of Lesson
+11</h4>
+<p><strong>Quick Summary</strong></p>
+<p>In Lesson 11, we examined how Syriac attaches direct object pronouns
+directly to the verb, creating a highly compressed “fast direct object”
+(e.g., <em>qaṭl-eh</em>, “he killed him” vs. <em>qṭal l-ēh</em>, “he
+killed to-him”).</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>How does Syriac buffer the 1st person singular object suffix on a
+Peal perfect verb?</li>
+<li>Translate: <em>Parq-anī</em>.</li>
+<li>Break down the components of <em>qaṭlhūn</em>.</li>
+<li>Why does <em>qṭal</em> become <em>qaṭl-</em> when adding a
+suffix?</li>
+<li>Translate the double-determined phrase: <em>ʾAsyeh Alāhā
+l-malkā</em>.</li>
+</ol>
 <hr />
-<h4 id="section-2-demonstratives-and-numbers-overview">Section 2: Demonstratives and Numbers — Overview</h4>
-<p>As we wrap up our core tour of Syriac syntax, we encounter the final few connective tissues that hold sentences together: Demonstrative pronouns (this, that, these, those) and Numbers.</p>
-<p><strong>Cross-Linguistic Comparison: Demonstratives</strong> Semitic languages feature a close-range pointing word (“this”) and a far-range pointing word (“that”). * <strong>Hebrew</strong>: זֶה (<em>zeh</em> — this, m), הַהוּא (<em>hahūʾ</em> — that, m). * <strong>Arabic</strong>: هَذَا (<em>hādhā</em> — this, m), ذٰلِكَ (<em>dhālika</em> — that, m). * <strong>Syriac</strong>: ܗܢܐ (<em>hānā</em> — this, m), ܗܘ (<em>haw</em> — that, m).</p>
-<p><em>Syriac Trick</em>: The far demonstrative (“that”) is spelled and pronounced exactly like the 3rd person independent pronoun (<em>hū</em> = he/it; <em>haw</em> = that). Context dictates the meaning.</p>
+<h4 id="section-2-demonstratives-and-numbers-overview">Section 2:
+Demonstratives and Numbers — Overview</h4>
+<p>As we wrap up our core tour of Syriac syntax, we encounter the final
+few connective tissues that hold sentences together: Demonstrative
+pronouns (this, that, these, those) and Numbers.</p>
+<p><strong>Cross-Linguistic Comparison: Demonstratives</strong></p>
+<p>Semitic languages feature a close-range pointing word (“this”) and a
+far-range pointing word (“that”).</p>
+<ul>
+<li><strong>Hebrew</strong>: זֶה (<em>zeh</em> — this, m), הַהוּא
+(<em>hahūʾ</em> — that, m).</li>
+<li><strong>Arabic</strong>: هَذَا (<em>hādhā</em> — this, m), ذٰلِكَ
+(<em>dhālika</em> — that, m).</li>
+<li><strong>Syriac</strong>: ܗܢܐ (<em>hānā</em> — this, m), ܗܘ
+(<em>haw</em> — that, m).</li>
+</ul>
+<p><em>Syriac Trick</em>: The far demonstrative (“that”) is spelled and
+pronounced exactly like the 3rd person independent pronoun (<em>hū</em>
+= he/it; <em>haw</em> = that). Context dictates the meaning.</p>
 <hr />
-<h4 id="section-3-demonstratives-syntax-rules">Section 3: Demonstratives &amp; Syntax Rules</h4>
-<p><strong>1. Pointing Words (Demonstratives)</strong> Demonstratives in Syriac must agree with the noun they modify in gender and number. Unlike English (which puts “this” <em>before</em> the noun: “this king”), Syriac prefers to place the demonstrative <em>after</em> the noun, or even isolated at the front of a sentence. * <em>Malkā hānā</em> = This king (The king, this one). * <em>Malkūttā hādē</em> = This kingdom. * <em>Gabrē hāllēn</em> = These men.</p>
-<p><strong>2. Conditional Clauses (<code>ʾen</code>)</strong> Syriac expresses “If X, then Y” using the particle <em>ʾen</em> (if). The “if” half of the sentence is the <em>protasis</em>, and the “then” half is the <em>apodosis</em>. Usually, Syriac doesn’t even use a word for “then”; it simply starts the second clause, often with <code>w-</code> (and). * <em>ʾEn teḥzē, teidaʿ</em> (If you see, [then] you will know).</p>
-<p><strong>3. Comparatives (<code>men</code>)</strong> Syriac lacks special adjective forms for “bigger,” “faster,” or “better” (like Greek’s -τερος or English’s -er). Instead, it uses the standard adjective and the preposition <code>men</code> (from/than). * <em>Nūhrā ṭābā hū men ḥešūḵā</em> (Light is good from darkness <span class="math inline">→</span> Light is <strong>better than</strong> darkness). * <em>Rabbā hī men malkūttā</em> (She is great from the kingdom <span class="math inline">→</span> She is <strong>greater than</strong> the kingdom).</p>
+<h4 id="section-3-demonstratives-syntax-rules">Section 3: Demonstratives
+&amp; Syntax Rules</h4>
+<p><strong>1. Pointing Words (Demonstratives)</strong></p>
+<p>Demonstratives in Syriac must agree with the noun they modify in
+gender and number. Unlike English (which puts “this” <em>before</em> the
+noun: “this king”), Syriac prefers to place the demonstrative
+<em>after</em> the noun, or even isolated at the front of a
+sentence.</p>
+<ul>
+<li><em>Malkā hānā</em> = This king (The king, this one).</li>
+<li><em>Malkūttā hādē</em> = This kingdom.</li>
+<li><em>Gabrē hāllēn</em> = These men.</li>
+</ul>
+<p><strong>2. Conditional Clauses (<code>ʾen</code>)</strong></p>
+<p>Syriac expresses “If X, then Y” using the particle <em>ʾen</em> (if).
+The “if” half of the sentence is the <em>protasis</em>, and the “then”
+half is the <em>apodosis</em>. Usually, Syriac doesn’t even use a word
+for “then”; it simply starts the second clause, often with
+<code>w-</code> (and).</p>
+<ul>
+<li><em>ʾEn teḥzē, teidaʿ</em> (If you see, [then] you will know).</li>
+</ul>
+<p><strong>3. Comparatives (<code>men</code>)</strong></p>
+<p>Syriac lacks special adjective forms for “bigger,” “faster,” or
+“better” (like Greek’s -τερος or English’s -er). Instead, it uses the
+standard adjective and the preposition <code>men</code> (from/than).</p>
+<ul>
+<li><em>Nūhrā ṭābā hū men ḥešūḵā</em> (Light is good from darkness <span
+class="math inline">→</span> Light is <strong>better than</strong>
+darkness).</li>
+<li><em>Rabbā hī men malkūttā</em> (She is great from the kingdom <span
+class="math inline">→</span> She is <strong>greater than</strong> the
+kingdom).</li>
+</ul>
 <hr />
-<h4 id="section-4-demonstrative-pronoun-paradigm">Section 4: Demonstrative Pronoun Paradigm</h4>
+<h4 id="section-4-demonstrative-pronoun-paradigm">Section 4:
+Demonstrative Pronoun Paradigm</h4>
 <table>
 <thead>
 <tr class="header">
@@ -100,7 +174,9 @@
 </table>
 <hr />
 <h4 id="section-5-the-numbers-1-10">Section 5: The Numbers 1-10</h4>
-<p>Semitic numbers famously exhibit “gender polarity”—masculine nouns often take what looks like the feminine absolute number ending, and vice versa. However, you only need to recognize them to read them.</p>
+<p>Semitic numbers famously exhibit “gender polarity”—masculine nouns
+often take what looks like the feminine absolute number ending, and vice
+versa. However, you only need to recognize them to read them.</p>
 <table>
 <colgroup>
 <col style="width: 25%" />
@@ -180,7 +256,8 @@
 </tbody>
 </table>
 <hr />
-<h4 id="section-6-vocabulary-concepts-concluding-words">Section 6: Vocabulary (Concepts &amp; Concluding Words)</h4>
+<h4 id="section-6-vocabulary-concepts-concluding-words">Section 6:
+Vocabulary (Concepts &amp; Concluding Words)</h4>
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -204,14 +281,16 @@
 <td style="text-align: left;">šrārā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">truth, reality</td>
-<td style="text-align: left;">Root š-r-r (to be firm). Cf. Heb <em>ʾĕmet</em></td>
+<td style="text-align: left;">Root š-r-r (to be firm). Cf. Heb
+<em>ʾĕmet</em></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܫܠܡܐ</td>
 <td style="text-align: left;">šlāmā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">peace, greeting</td>
-<td style="text-align: left;">Root š-l-m. Heb <em>Shalom</em>, Arabic <em>Salam</em></td>
+<td style="text-align: left;">Root š-l-m. Heb <em>Shalom</em>, Arabic
+<em>Salam</em></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܚܝܐ</td>
@@ -259,31 +338,139 @@
 </table>
 <hr />
 <h4 id="section-7-the-story-part-12">Section 7: The Story — Part 12</h4>
-<p><strong>The Departure</strong> <em>Narrative note: The conclusion of the initial cycle of Mar Yukhannan’s acts. The king uses a conditional statement (“If any man…”) to establish a new decree. The section closes with a demonstrative and thematic “peace”.</em></p>
-<p><strong>Sentence 1</strong> ܟܕ ܐܣܝܗ ܝܘܚܢܢ ܠܡܠܟܐ ܡܠܟܐ ܩܡ kad ʾasy-eh Yūḥannan l-malkā, malkā qām. kad (when) ʾasy-eh (he-healed-him) Yūḥannan (John) l-malkā (to/the-king), malkā (the-king) qām (stood-up). → When Yukhannan healed the king, the king stood up.</p>
-<p><strong>Sentence 2</strong> ܘܐܡܪ ܠܥܡܐ ܕܝܠܗ ܗܟܢ w-ʾemar l-ʿammā d-īl-eh hākannā: w-ʾemar (and-said) l-ʿammā (to-the-people) d-īl-eh (which-were-his) hākannā (thus): → And he said to his people thus:</p>
-<p><strong>Sentence 3</strong> ܐܢ ܐܝܢܐ ܒܪܢܫܐ ܠܐ ܢܫܠܚ ܚܛܝܬܐ ܕܝܠܗ ܢܩܛܠܘܢܝܗܝ ʾen ʾaynā barnāšā lā nešlaḥ ḥṭīttā d-īl-eh, neqṭlūn-yhy! ʾen (If) ʾaynā (which/any) barnāšā (man) lā (not) nešlaḥ (will-cast-away) ḥṭīttā (sin) d-īl-eh (which-[is]-his), neqṭlūn-yhy (they-will-kill-him)! → “If any man does not cast away his sin, they shall kill him!”</p>
-<p><strong>Sentence 4</strong> ܝܘܚܢܢ ܐܡܪ ܠܡܠܟܐ ܠܐ ܗܟܢ Yūḥannan ʾemar l-malkā: lā hākannā. Yūḥannan (John) ʾemar (said) l-malkā (to-the-king): lā (not) hākannā (thus/so). → Yukhannan said to the king: “Not so.”</p>
-<p><strong>Sentence 5</strong> ܐܠܗܐ ܕܫܪܪܐ ܫܒܩ ܡܢ ܒܝܫܐ Alāhā d-šrārā shbaq men bīšā. Alāhā (God) d-šrārā (of-truth) shbaq (forgave) men (from) bīšā (evil). → “The God of truth forgave the evil.”</p>
-<p><strong>Sentence 6</strong> ܢܘܗܪܐ ܗܢܐ ܛܒܐ ܗܘ ܡܢ ܚܫܘܟܐ nūhrā hānā ṭābā hū men ḥešūḵā. nūhrā (the-light) hānā (this) ṭābā (good) hū (it-[is]) men (from) ḥešūḵā (darkness). → “This light is better than darkness.”</p>
-<p><strong>Sentence 7</strong> ܘܫܒܩ ܝܘܚܢܢ ܠܡܠܟܘܬܐ ܒܫܠܡܐ ܘܐܙܠ ܒܐܘܪܚܐ ܕܥܠܡܐ w-shbaq Yūḥannan l-malkūttā b-šlāmā, w-ʾezal b-ʾūrḥā d-ʿālmā. w-shbaq (and-left) Yūḥannan (John) l-malkūttā (the-kingdom) b-šlāmā (in-peace), w-ʾezal (and-went) b-ʾūrḥā (in-way/road) d-ʿālmā (of-eternity/the-world). → And Yukhannan left the kingdom in peace, and went in the way of eternity.</p>
+<p><strong>The Departure</strong></p>
+<p><em>Narrative note: The conclusion of the initial cycle of Mar
+Yukhannan’s acts. The king uses a conditional statement (“If any man…”)
+to establish a new decree. The section closes with a demonstrative and
+thematic “peace”.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܟܕ ܐܣܝܗ ܝܘܚܢܢ ܠܡܠܟܐ ܡܠܟܐ ܩܡ kad ʾasy-eh Yūḥannan l-malkā, malkā qām.
+kad (when) ʾasy-eh (he-healed-him) Yūḥannan (John) l-malkā
+(to/the-king), malkā (the-king) qām (stood-up). → When Yukhannan healed
+the king, the king stood up.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܐܡܪ ܠܥܡܐ ܕܝܠܗ ܗܟܢ w-ʾemar l-ʿammā d-īl-eh hākannā: w-ʾemar
+(and-said) l-ʿammā (to-the-people) d-īl-eh (which-were-his) hākannā
+(thus): → And he said to his people thus:</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܐܢ ܐܝܢܐ ܒܪܢܫܐ ܠܐ ܢܫܠܚ ܚܛܝܬܐ ܕܝܠܗ ܢܩܛܠܘܢܝܗܝ ʾen ʾaynā barnāšā lā
+nešlaḥ ḥṭīttā d-īl-eh, neqṭlūn-yhy! ʾen (If) ʾaynā (which/any) barnāšā
+(man) lā (not) nešlaḥ (will-cast-away) ḥṭīttā (sin) d-īl-eh
+(which-[is]-his), neqṭlūn-yhy (they-will-kill-him)! → “If any man does
+not cast away his sin, they shall kill him!”</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܝܘܚܢܢ ܐܡܪ ܠܡܠܟܐ ܠܐ ܗܟܢ Yūḥannan ʾemar l-malkā: lā hākannā. Yūḥannan
+(John) ʾemar (said) l-malkā (to-the-king): lā (not) hākannā (thus/so). →
+Yukhannan said to the king: “Not so.”</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܐܠܗܐ ܕܫܪܪܐ ܫܒܩ ܡܢ ܒܝܫܐ Alāhā d-šrārā šbaq men bīšā. Alāhā (God)
+d-šrārā (of-truth) šbaq (forgave) men (from) bīšā (evil). → “The God of
+truth forgave the evil.”</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܢܘܗܪܐ ܗܢܐ ܛܒܐ ܗܘ ܡܢ ܚܫܘܟܐ nūhrā hānā ṭābā hū men ḥešūḵā. nūhrā
+(the-light) hānā (this) ṭābā (good) hū (it-[is]) men (from) ḥešūḵā
+(darkness). → “This light is better than darkness.”</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܘܫܒܩ ܝܘܚܢܢ ܠܡܠܟܘܬܐ ܒܫܠܡܐ ܘܐܙܠ ܒܐܘܪܚܐ ܕܥܠܡܐ w-šbaq Yūḥannan l-malkūttā
+b-šlāmā, w-ʾezal b-ʾūrḥā d-ʿālmā. w-šbaq (and-left) Yūḥannan (John)
+l-malkūttā (the-kingdom) b-šlāmā (in-peace), w-ʾezal (and-went) b-ʾūrḥā
+(in-way/road) d-ʿālmā (of-eternity/the-world). → And Yukhannan left the
+kingdom in peace, and went in the way of eternity.</p>
 <hr />
 <h4 id="section-8-exercises">Section 8: Exercises</h4>
-<p><strong>Exercise 1: Demonstrative &amp; Number Identification</strong> Identify the gender, number, and meaning of these modifiers. 1. ܗܕܐ (hādē) 2. ܬܠܬܐ (tlātā) 3. ܗܢܘܢ (hānōn) 4. ܚܕܐ (ḥdā)</p>
-<p><strong>Exercise 2: Comparative Translation</strong> Translate these sentences using <code>men</code> as a comparative. 1. Alāhā rabbā hū men malkā. 2. Ḥayyē ṭābīn hennōn men mawtā. 3. ʾArʿā hādē bīštā hī men šmayyā (heaven).</p>
-<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong> Translate the following conditional and demonstrative clauses. 1. ʾEn tešbūq l-Alāhā, neqṭūl lāḵ malkā hānā. 2. Gabrā haw nfal b-kūrā. 3. W-ʾetaw talmīdē hāllēn l-bayteh. 4. Lā hākannā ʾemar Yūḥannan b-šrārā.</p>
-<p><strong>Exercise 4: Production Drill (English → Syriac)</strong> Render the following sentences into Syriac transliteration. 1. This word (f.sg) is better than that word. 2. If you (m.pl) hear the voice, you will live (ḥ-y-y, imperfect). 3. The three men went out from the kingdom. (Three = <em>tlātā</em>). 4. God saved this evil world (<em>ʿālmā hānā</em>).</p>
-<p><strong>Exercise 5: Reading Comprehension</strong> Re-read Section 7 and answer: 1. What extreme punishment does the king decree for those who do not cast away their sin? 2. How does Yukhannan correct the king’s theology? 3. With what emotion or state does Yukhannan depart the kingdom?</p>
+<p><strong>Exercise 1: Demonstrative &amp; Number
+Identification</strong></p>
+<p>Identify the gender, number, and meaning of these modifiers.</p>
+<ol type="1">
+<li>ܗܕܐ (hādē)</li>
+<li>ܬܠܬܐ (tlātā)</li>
+<li>ܗܢܘܢ (hānōn)</li>
+<li>ܚܕܐ (ḥdā)</li>
+</ol>
+<p><strong>Exercise 2: Comparative Translation</strong></p>
+<p>Translate these sentences using <code>men</code> as a
+comparative.</p>
+<ol type="1">
+<li>Alāhā rabbā hū men malkā.</li>
+<li>Ḥayyē ṭābīn hennōn men mawtā.</li>
+<li>ʾArʿā hādē bīštā hī men šmayyā (heaven).</li>
+</ol>
+<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong></p>
+<p>Translate the following conditional and demonstrative clauses.</p>
+<ol type="1">
+<li>ʾEn tešbūq l-Alāhā, neqṭūl lāḵ malkā hānā.</li>
+<li>Gabrā haw npal b-kūrā.</li>
+<li>W-ʾetaw talmīdē hāllēn l-bayteh.</li>
+<li>Lā hākannā ʾemar Yūḥannan b-šrārā.</li>
+</ol>
+<p><strong>Exercise 4: Production Drill (English → Syriac)</strong></p>
+<p>Render the following sentences into Syriac transliteration.</p>
+<ol type="1">
+<li>This word (f.sg) is better than that word.</li>
+<li>If you (m.pl) hear the voice, you will live (ḥ-y-y, imperfect).</li>
+<li>The three men went out from the kingdom. (Three =
+<em>tlātā</em>).</li>
+<li>God saved this evil world (<em>ʿālmā hānā</em>).</li>
+</ol>
+<p><strong>Exercise 5: Reading Comprehension</strong></p>
+<p>Re-read Section 7 and answer:</p>
+<ol type="1">
+<li>What extreme punishment does the king decree for those who do not
+cast away their sin?</li>
+<li>How does Yukhannan correct the king’s theology?</li>
+<li>With what emotion or state does Yukhannan depart the kingdom?</li>
+</ol>
 <hr />
 <h4 id="section-9-answer-key">Section 9: Answer Key</h4>
-<p><strong>Section 1 Warm-Up</strong> 1. It inserts a <em>Nun</em> (n) buffer, e.g., <em>qaṭlanī</em>. 2. Save me! (Imperative). 3. Root <em>q-ṭ-l</em> (killed), plus 3rd masc plural suffix <em>hūn</em> (them) = He killed them. 4. The addition of the suffix forces a shift in the stress, causing the vowel <em>a</em> to move forward (<em>qṭa-leh</em> <span class="math inline">→</span> <em>qaṭ-leh</em>). 5. “God healed him, the king” (Double determination using the suffix <em>and</em> the preposition <em>l-</em>).</p>
-<p><strong>Exercise 1: Identification</strong> 1. Feminine singular close (This, f) 2. Number three (used with masc nouns) 3. Masculine plural far (Those, m) 4. Number one (f)</p>
-<p><strong>Exercise 2: Comparative Translation</strong> 1. God is greater than the king. 2. Life is better than death. 3. This earth is worse than heaven.</p>
-<p><strong>Exercise 3: Translation Drill</strong> 1. If you abandon God, this king will kill you. 2. That man fell into illness. 3. And these disciples came to his house. 4. “Not so” said Yukhannan in truth.</p>
-<p><strong>Exercise 4: Production Drill</strong> 1. Meltā hādē ṭābtā hī men meltā hāy. 2. ʾEn tešmʿūn qālā, tēḥūn / teḥyūn. 3. Tlātā gabrīn nfaqū men malkūttā. 4. Alāhā fraq l-ʿālmā hānā bīšā.</p>
-<p><strong>Exercise 5: Reading Comprehension</strong> 1. They will be killed (<em>neqṭlūn-yhy</em>). 2. By reminding him that the God of truth forgave the evil (“Not so,” <em>lā hākannā</em>). 3. In peace (<em>b-šlāmā</em>).</p>
+<p><strong>Section 1 Warm-Up</strong></p>
+<ol type="1">
+<li>It inserts a <em>Nun</em> (n) buffer, e.g., <em>qaṭlanī</em>.</li>
+<li>Save me! (Imperative).</li>
+<li>Root <em>q-ṭ-l</em> (killed), plus 3rd masc plural suffix
+<em>hūn</em> (them) = He killed them.</li>
+<li>The addition of the suffix forces a shift in the stress, causing the
+vowel <em>a</em> to move forward (<em>qṭa-leh</em> <span
+class="math inline">→</span> <em>qaṭ-leh</em>).</li>
+<li>“God healed him, the king” (Double determination using the suffix
+<em>and</em> the preposition <em>l-</em>).</li>
+</ol>
+<p><strong>Exercise 1: Identification</strong></p>
+<ol type="1">
+<li>Feminine singular close (This, f)</li>
+<li>Number three (used with masc nouns)</li>
+<li>Masculine plural far (Those, m)</li>
+<li>Number one (f)</li>
+</ol>
+<p><strong>Exercise 2: Comparative Translation</strong></p>
+<ol type="1">
+<li>God is greater than the king.</li>
+<li>Life is better than death.</li>
+<li>This earth is worse than heaven.</li>
+</ol>
+<p><strong>Exercise 3: Translation Drill</strong></p>
+<ol type="1">
+<li>If you abandon God, this king will kill you.</li>
+<li>That man fell into illness.</li>
+<li>And these disciples came to his house.</li>
+<li>“Not so” said Yukhannan in truth.</li>
+</ol>
+<p><strong>Exercise 4: Production Drill</strong></p>
+<ol type="1">
+<li>Meltā hādē ṭābtā hī men meltā hāy.</li>
+<li>ʾEn tešmʿūn qālā, tēḥūn / teḥyūn.</li>
+<li>Tlātā gabrīn npaqū men malkūttā.</li>
+<li>Alāhā praq l-ʿālmā hānā bīšā.</li>
+</ol>
+<p><strong>Exercise 5: Reading Comprehension</strong></p>
+<ol type="1">
+<li>They will be killed (<em>neqṭlūn-yhy</em>).</li>
+<li>By reminding him that the God of truth forgave the evil (“Not so,”
+<em>lā hākannā</em>).</li>
+<li>In peace (<em>b-šlāmā</em>).</li>
+</ol>
 <hr />
-<h4 id="section-10-grammatical-summary">Section 10: Grammatical Summary</h4>
+<h4 id="section-10-grammatical-summary">Section 10: Grammatical
+Summary</h4>
 <p><strong>DEMONSTRATIVES</strong></p>
 <table>
 <thead>
@@ -330,9 +517,18 @@
 </tr>
 </tbody>
 </table>
-<h4 id="section-11-additional-vocabulary">Section 11: Additional Vocabulary</h4>
-<p>The following high-frequency words round out this lesson’s vocabulary to 30 terms.</p>
+<h4 id="section-11-additional-vocabulary">Section 11: Additional
+Vocabulary</h4>
+<p>The following high-frequency words round out this lesson’s vocabulary
+to 30 terms.</p>
 <table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Syriac (Estrangela)</th>

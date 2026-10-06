@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="description"><name><text>Module 1 · Lesson 0</text></name><questiontext format="html"><text><![CDATA[<h3><strong>The Alphabet and the Light: The Estrangela Script</strong></h3>
+<div class="lesson-label">
+<span class="lesson-num">Lesson 0 · Introductory/Optional</span><span
+class="lesson-title-text">The Syriac Alphabet</span>
+</div>
+<blockquote>
+<p><strong>Note:</strong> This lesson is supplementary to the 12-lesson
+course plan. It is recommended for students with no prior exposure to
+Syriac script. Students who already read Estrangela may proceed directly
+to Lesson 1.</p>
+</blockquote>
+<hr />
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 1: Introduction to the Script</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Introduction to the Script</h3>
+<p>Syriac is written from <strong>right to left</strong>. The script
+used in this course is <strong>Estrangela</strong> (ܐܣܛܪܢܓܠܐ), meaning
+“rounded.” It is the oldest and most formal of the three Syriac scripts,
+and it is the primary script used in the earliest manuscripts of the
+Peshitta and the Acts of the Martyrs.</p>
+<p><strong>Core Principles:</strong></p>
+<ol type="1">
+<li><strong>22 Consonants</strong>: All letters are consonants. Vowels
+are indicated by separate small marks or dots (to be covered in Lesson
+1).</li>
+<li><strong>Connecting Letters</strong>: Most letters connect to the
+preceding and following letters (like cursive or Arabic). However, 8
+letters are “non-joiners” — they only connect to the letter before
+them.</li>
+<li><strong>No Case</strong>: There are no capital letters.</li>
+<li><strong>Alaph as Carrier</strong>: The first letter, Alaph (ܐ), is
+often a silent carrier for a vowel or a glottal stop.</li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 2: The 22 Letters (The Abgad System)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The 22 Letters (The Abgad System)</h3>
+<p>Syriac letters follow the same order as Hebrew and the ancient
+“Abgad” order of Arabic.</p>
+<p><strong>Letters 1–11</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Translit</th>
+<th style="text-align: left;">Phonetic</th>
+<th style="text-align: left;">Hebrew</th>
+<th style="text-align: left;">Arabic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܐ</td>
+<td style="text-align: left;">Alaph</td>
+<td style="text-align: left;">ʾ</td>
+<td style="text-align: left;">Glottal stop/silent</td>
+<td style="text-align: left;">א</td>
+<td style="text-align: left;">أ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܒ</td>
+<td style="text-align: left;">Beth</td>
+<td style="text-align: left;">b / v</td>
+<td style="text-align: left;">b as in ‘boy’</td>
+<td style="text-align: left;">ב</td>
+<td style="text-align: left;">ب</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓ</td>
+<td style="text-align: left;">Gamal</td>
+<td style="text-align: left;">g / gh</td>
+<td style="text-align: left;">g as in ‘go’</td>
+<td style="text-align: left;">ג</td>
+<td style="text-align: left;">ج</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕ</td>
+<td style="text-align: left;">Dalath</td>
+<td style="text-align: left;">d / dh</td>
+<td style="text-align: left;">d as in ‘dog’</td>
+<td style="text-align: left;">ד</td>
+<td style="text-align: left;">د</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܗ</td>
+<td style="text-align: left;">He</td>
+<td style="text-align: left;">h</td>
+<td style="text-align: left;">h as in ‘house’</td>
+<td style="text-align: left;">ה</td>
+<td style="text-align: left;">ه</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܘ</td>
+<td style="text-align: left;">Waw</td>
+<td style="text-align: left;">w</td>
+<td style="text-align: left;">w as in ‘water’</td>
+<td style="text-align: left;">ו</td>
+<td style="text-align: left;">و</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܙ</td>
+<td style="text-align: left;">Zain</td>
+<td style="text-align: left;">z</td>
+<td style="text-align: left;">z as in ‘zebra’</td>
+<td style="text-align: left;">ז</td>
+<td style="text-align: left;">ز</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܚ</td>
+<td style="text-align: left;">Heth</td>
+<td style="text-align: left;">ḥ</td>
+<td style="text-align: left;">Pharyngeal ‘h’</td>
+<td style="text-align: left;">ח</td>
+<td style="text-align: left;">ح</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܛ</td>
+<td style="text-align: left;">Teth</td>
+<td style="text-align: left;">ṭ</td>
+<td style="text-align: left;">Emphatic ‘t’</td>
+<td style="text-align: left;">ט</td>
+<td style="text-align: left;">ط</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܝ</td>
+<td style="text-align: left;">Yodh</td>
+<td style="text-align: left;">y</td>
+<td style="text-align: left;">y as in ‘yes’</td>
+<td style="text-align: left;">י</td>
+<td style="text-align: left;">ي</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܟ</td>
+<td style="text-align: left;">Kaph</td>
+<td style="text-align: left;">k / kh</td>
+<td style="text-align: left;">k as in ‘king’</td>
+<td style="text-align: left;">כ</td>
+<td style="text-align: left;">ك</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Letters 12–22</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Translit</th>
+<th style="text-align: left;">Phonetic</th>
+<th style="text-align: left;">Hebrew</th>
+<th style="text-align: left;">Arabic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܠ</td>
+<td style="text-align: left;">Lamad</td>
+<td style="text-align: left;">l</td>
+<td style="text-align: left;">l as in ‘light’</td>
+<td style="text-align: left;">ל</td>
+<td style="text-align: left;">ل</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡ</td>
+<td style="text-align: left;">Mim</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">m as in ‘man’</td>
+<td style="text-align: left;">מ</td>
+<td style="text-align: left;">م</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܢ</td>
+<td style="text-align: left;">Nun</td>
+<td style="text-align: left;">n</td>
+<td style="text-align: left;">n as in ‘noon’</td>
+<td style="text-align: left;">נ</td>
+<td style="text-align: left;">ن</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܣ</td>
+<td style="text-align: left;">Semkath</td>
+<td style="text-align: left;">s</td>
+<td style="text-align: left;">s as in ‘sun’</td>
+<td style="text-align: left;">ס</td>
+<td style="text-align: left;">س</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥ</td>
+<td style="text-align: left;">ʿe</td>
+<td style="text-align: left;">ʿ</td>
+<td style="text-align: left;">Pharyngeal stop</td>
+<td style="text-align: left;">ע</td>
+<td style="text-align: left;">ع</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦ</td>
+<td style="text-align: left;">Pe</td>
+<td style="text-align: left;">p / f</td>
+<td style="text-align: left;">p as in ‘paper’</td>
+<td style="text-align: left;">פ</td>
+<td style="text-align: left;">ف</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܨ</td>
+<td style="text-align: left;">Sade</td>
+<td style="text-align: left;">ṣ</td>
+<td style="text-align: left;">Emphatic ‘s’/‘ts’</td>
+<td style="text-align: left;">צ</td>
+<td style="text-align: left;">ص</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩ</td>
+<td style="text-align: left;">Qoph</td>
+<td style="text-align: left;">q</td>
+<td style="text-align: left;">Uvular ‘k’</td>
+<td style="text-align: left;">ק</td>
+<td style="text-align: left;">ق</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܪ</td>
+<td style="text-align: left;">Rish</td>
+<td style="text-align: left;">r</td>
+<td style="text-align: left;">Rolled ‘r’</td>
+<td style="text-align: left;">ר</td>
+<td style="text-align: left;">ر</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫ</td>
+<td style="text-align: left;">Shin</td>
+<td style="text-align: left;">š</td>
+<td style="text-align: left;">sh as in ‘she’</td>
+<td style="text-align: left;">ש</td>
+<td style="text-align: left;">ش</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܬ</td>
+<td style="text-align: left;">Taw</td>
+<td style="text-align: left;">t / th</td>
+<td style="text-align: left;">t as in ‘tall’</td>
+<td style="text-align: left;">ת</td>
+<td style="text-align: left;">ث</td>
+</tr>
+</tbody>
+</table></div>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 2: The 22 Letters (The Abgad System) (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The 22 Letters (The Abgad System) (continued)</h3>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 3: Joiners vs. Non-Joiners</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: Joiners vs. Non-Joiners</h3>
+<p>In your reading, you will notice that certain letters never connect
+to the letter following them. This creates a small visual gap within a
+word.</p>
+<p><strong>The Non-Joiners (Letters that only connect to the
+RIGHT):</strong></p>
+<p>ܐ (Alaph), ܕ (Dalath), ܗ (He), ܘ (Waw), ܙ (Zain), ܨ (Sade), ܪ (Rish),
+ܬ (Taw).</p>
+<p><em>Note: Taw (ܬ) often appears to connect, but technically follows
+the non-joiner rule in many formal manuscripts. Dalath (ܕ) and Rish (ܪ)
+look identical except for a single dot: Dalath has a dot BELOW, Rish has
+a dot ABOVE.</em></p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 4: Practice Table — Visual Recognition</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Practice Table — Visual Recognition</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Word</th>
+<th style="text-align: left;">Translit</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܐܠܗܐ</td>
+<td style="text-align: left;">Alāhā</td>
+<td style="text-align: left;">God</td>
+<td style="text-align: left;">Alaph (NJ) + Lamad + He (NJ) + Alaph</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܠܟܐ</td>
+<td style="text-align: left;">malkā</td>
+<td style="text-align: left;">King</td>
+<td style="text-align: left;">Mim + Lamad + Kaph + Alaph (NJ)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܐܪܥܐ</td>
+<td style="text-align: left;">ʾarʿā</td>
+<td style="text-align: left;">Earth</td>
+<td style="text-align: left;">Alaph (NJ) + Rish (NJ) + ʿe + Alaph</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢܘܗܪܐ</td>
+<td style="text-align: left;">nūhrā</td>
+<td style="text-align: left;">Light</td>
+<td style="text-align: left;">Nun + Waw (NJ) + He (NJ) + Rish (NJ) +
+Alaph</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܝܘܚܢܢ</td>
+<td style="text-align: left;">Yūḥannan</td>
+<td style="text-align: left;">John</td>
+<td style="text-align: left;">Yodh + Waw (NJ) + Heth + Nun + Nun</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 5: The Story — Part 0</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: The Story — Part 0</h3>
+<p><strong>The Scribe’s Beginning</strong></p>
+<blockquote>
+<p><strong>Note:</strong> The story in this introductory lesson (‘The
+Scribe’s Beginning’) is a standalone narrative used to practice the
+alphabet. The main course narrative (The Acts of Mar Yukhannan) begins
+in Lesson 1.</p>
+</blockquote>
+<p><em>Narrative note: Before the Acts of Mar Yukhannan begin, we see
+the scribe, Addai, preparing the parchment. This part introduces the
+visual rhythm of the script.</em></p>
+<div class="sentence">
+<p><span class="sentence-syriac">ܐܢܐ ܥܕܝ ܣܦܪܐ</span> <span
+class="sentence-translit">ʾenā ʿAdday sāp̄rā.</span> <span
+class="sentence-gloss">ʾenā (I) ʿAdday (Addai) sāp̄rā (the-scribe)</span>
+<span class="sentence-translation">I am Addai the scribe.</span></p>
+</div>
+<div class="sentence">
+<p><span class="sentence-syriac">ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ</span> <span
+class="sentence-translit">kāteb ʾenā meltā d-Alāhā.</span> <span
+class="sentence-gloss">kāteb (writing) ʾenā (I) meltā (the-word) d- (of)
+Alāhā (God)</span> <span class="sentence-translation">I am writing the
+word of God.</span></p>
+</div>
+<div class="sentence">
+<p><span class="sentence-syriac">ܗܢܘ ܟܬܒܐ ܕܝܘܚܢܢ</span> <span
+class="sentence-translit">hannū ktābā d-Yūḥannan.</span> <span
+class="sentence-gloss">hannū (this-is) ktābā (the-writing/book) d- (of)
+Yūḥannan (John)</span> <span class="sentence-translation">This is the
+book of Yukhannan.</span></p>
+</div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 1</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Put these letters in their Abgad order: ܓ , ܐ , ܒ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܐ , ܒ , ܓ (A-B-G)]]></text><feedback format="html"><text><![CDATA[Right: Alaph, Beth, Gamal begin the alphabet.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܓ , ܒ , ܐ]]></text><feedback format="html"><text><![CDATA[That reverses the order; Alaph comes first.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܒ , ܐ , ܓ]]></text><feedback format="html"><text><![CDATA[Alaph (ܐ) precedes Beth (ܒ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܐ , ܓ , ܒ]]></text><feedback format="html"><text><![CDATA[Beth (ܒ) precedes Gamal (ܓ).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 2</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Put these letters in their Abgad order: ܝ , ܚ , ܛ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܚ , ܛ , ܝ (Ḥ-Ṭ-Y)]]></text><feedback format="html"><text><![CDATA[Right: Ḥeth, Ṭeth, Yodh are letters 8–10.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܝ , ܛ , ܚ]]></text><feedback format="html"><text><![CDATA[That is reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܛ , ܚ , ܝ]]></text><feedback format="html"><text><![CDATA[Ḥeth (ܚ) comes before Ṭeth (ܛ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܚ , ܝ , ܛ]]></text><feedback format="html"><text><![CDATA[Ṭeth (ܛ) comes before Yodh (ܝ).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 3</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Put these letters in their Abgad order: ܪ , ܩ , ܫ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܩ , ܪ , ܫ (Q-R-Š)]]></text><feedback format="html"><text><![CDATA[Right: Qoph, Resh, Shin are letters 19–21.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫ , ܩ , ܪ]]></text><feedback format="html"><text><![CDATA[Shin is the second-to-last letter, after Resh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܪ , ܩ , ܫ]]></text><feedback format="html"><text><![CDATA[Qoph (ܩ) precedes Resh (ܪ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܩ , ܫ , ܪ]]></text><feedback format="html"><text><![CDATA[Resh (ܪ) precedes Shin (ܫ).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 4</text></name><questiontext format="html"><text><![CDATA[Exercise 2. In <span lang="syc">ܢܘܗܪܐ</span> (<em>nūhrā</em>, “light”), which letters are non-joiners (they do not connect to the letter on their left)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[The Syriac non-joiners are ܐ ܕ ܗ ܘ ܙ ܨ ܪ ܬ.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܘ (Waw), ܗ (He), ܪ (Resh), ܐ (Alaph)]]></text><feedback format="html"><text><![CDATA[Right: all four stop the cursive connection to the left.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢ (Nun) only]]></text><feedback format="html"><text><![CDATA[Nun joins on both sides.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܘ (Waw) and ܪ (Resh) only]]></text><feedback format="html"><text><![CDATA[He (ܗ) and Alaph (ܐ) are also non-joiners.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢ (Nun) and ܐ (Alaph)]]></text><feedback format="html"><text><![CDATA[Nun is a dual-joiner.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 5</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Write M-L-K-A (“king”) in Syriac letters.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܡܠܟܐ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܐܠܗܐ]]></text><feedback format="html"><text><![CDATA[That is A-L-H-A, “God.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܠܬܐ]]></text><feedback format="html"><text><![CDATA[That is M-L-T-A, “word.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܠܟܐ]]></text><feedback format="html"><text><![CDATA[The first letter should be Mim (ܡ), not Nun (ܢ).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Write A-L-H-A (“God”) in Syriac letters.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܐܠܗܐ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܐܠܚܐ]]></text><feedback format="html"><text><![CDATA[The third letter is He (ܗ), not Ḥeth (ܚ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܠܟܐ]]></text><feedback format="html"><text><![CDATA[That is “king.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܐܪܥܐ]]></text><feedback format="html"><text><![CDATA[That is “earth.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Write Y-W-Ḥ-N-N (Yukhannan, “John”) in Syriac letters.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܝܘܚܢܢ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܝܘܗܢܢ]]></text><feedback format="html"><text><![CDATA[The third letter is Ḥeth (ܚ), not He (ܗ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܝܘܚܢ]]></text><feedback format="html"><text><![CDATA[There are two Nuns at the end.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܢܚܘܝ]]></text><feedback format="html"><text><![CDATA[That is the right letters in the wrong order; Syriac is written right to left starting with Yodh.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 0 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Reading <span lang="syc">ܐܠܗܐ</span>, which letter do you read first?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The letter on the far right (ܐ, Alaph)]]></text><feedback format="html"><text><![CDATA[Right: Syriac runs right to left.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The letter on the far left]]></text><feedback format="html"><text><![CDATA[That is the last letter; Syriac runs right to left.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The tallest letter (ܠ, Lamadh)]]></text><feedback format="html"><text><![CDATA[Order depends on direction, not height.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The He (ܗ)]]></text><feedback format="html"><text><![CDATA[He is the third letter read.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 1 · Lesson 0 · Section 8: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 8: Additional Vocabulary</h3>
+<p>The 22 letter names learned in Section 2 (Alaph, Beth, Gamal … Taw)
+count as the first 22 vocabulary items of this lesson. The 8 words below
+complete the set of 30, all drawn from the world of scribal culture that
+frames this course.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Gender/Type</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܐܣܛܪܢܓܠܐ</td>
+<td style="text-align: left;">Estrangelā</td>
+<td style="text-align: left;">f</td>
+<td style="text-align: left;">“Rounded” script</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܣܦܪܐ</td>
+<td style="text-align: left;">sāp̄rā</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">Scribe, writer</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܟܬܒܐ</td>
+<td style="text-align: left;">ktābā</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">Book, scripture</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܓܠܬܐ</td>
+<td style="text-align: left;">megalltā</td>
+<td style="text-align: left;">f</td>
+<td style="text-align: left;">Scroll</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩܪܨܐ</td>
+<td style="text-align: left;">qarṣā</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">Parchment</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܠܡܐ</td>
+<td style="text-align: left;">qalmā</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">Pen, reed</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܝܘܬܐ</td>
+<td style="text-align: left;">dīyūtā</td>
+<td style="text-align: left;">f</td>
+<td style="text-align: left;">Ink</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢܡܘܣܐ</td>
+<td style="text-align: left;">nāmūsā</td>
+<td style="text-align: left;">m</td>
+<td style="text-align: left;">Law (from Gk Nomos)</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+</quiz>

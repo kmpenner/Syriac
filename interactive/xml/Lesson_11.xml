@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="description"><name><text>Module 3 · Lesson 11</text></name><questiontext format="html"><text><![CDATA[<h3><strong>Verbal Suffixes: The Fast Direct Object</strong></h3>
+<hr />
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 1: Review of Previous Concepts</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Previous Concepts</h3>
+<p><strong>Quick Summary</strong></p>
+<p>Throughout the course, we have used the preposition <code>l-</code>
+(ܠ) to mark the direct object of a verb. For example, <em>qṭal
+l-malkā</em> (he killed the king) or <em>qṭal l-ēh</em> (he killed him).
+We also learned how to attach pronominal suffixes to nouns and
+prepositions to indicate possession or indirect objects
+(<em>bayt-eh</em> = his house; <em>l-ēh</em> = to him).</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>Translate: <em>Nēthūn</em> (from <em>ʾ-t-y</em>, they will
+come).</li>
+<li>What happens to the noun <em>malkā</em> when you add the suffix for
+“my”?</li>
+<li>Translate: <em>ʾEqṭūl</em>.</li>
+<li>How do you say “to us” using the preposition <em>l-</em>?</li>
+<li>How does Syriac traditionally mark a definite direct object?</li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. Translate <i>Nēthūn</i> (from <i>ʾ-t-y</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[They will come.]]></text><feedback format="html"><text><![CDATA[Correct: imperfect 3 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They came.]]></text><feedback format="html"><text><![CDATA[The perfect is <i>ʾetaw</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You (pl.) will come.]]></text><feedback format="html"><text><![CDATA[That would take t-.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Come! (pl.)]]></text><feedback format="html"><text><![CDATA[That is the imperative.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. What happens to <i>malkā</i> when you add 'my'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[It drops the emphatic -ā and takes -y: <i>malk-y</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It adds -y after the -ā: <i>malkāy</i>]]></text><feedback format="html"><text><![CDATA[The emphatic ending drops.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It takes the prefix <i>d-</i>]]></text><feedback format="html"><text><![CDATA[<i>d-</i> is 'of'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It does not change; you add <i>dīl-y</i> only]]></text><feedback format="html"><text><![CDATA[<i>dīl-y</i> is possible, but the suffix form is <i>malk-y</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. Translate <i>ʾEqṭūl</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[I will kill.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I killed.]]></text><feedback format="html"><text><![CDATA[That is <i>qeṭlet</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He will kill.]]></text><feedback format="html"><text><![CDATA[That is <i>neqṭūl</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Kill!]]></text><feedback format="html"><text><![CDATA[That is <i>qṭol</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. How do you say 'to us' with <i>l-</i>?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>lan</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lī</i>]]></text><feedback format="html"><text><![CDATA[That is 'to me'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lḵūn</i>]]></text><feedback format="html"><text><![CDATA[That is 'to you (pl.)'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lhūn</i>]]></text><feedback format="html"><text><![CDATA[That is 'to them'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. How does Syriac traditionally mark a definite direct object?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[With the preposition <i>l-</i> before the object]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[With an accusative case ending]]></text><feedback format="html"><text><![CDATA[Syriac has no case endings.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[With the particle <i>yāt</i> only]]></text><feedback format="html"><text><![CDATA[<i>yāt</i> exists but <i>l-</i> is the usual marker.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By word order alone]]></text><feedback format="html"><text><![CDATA[<i>l-</i> marks it.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 2: The Verbal Suffix — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Verbal Suffix — Overview</h3>
+<p>While <em>qṭal l-ēh</em> (“he killed him”) is perfectly valid Syriac,
+Semitic languages prefer a tighter, faster construction for pronoun
+objects. They allow you to attach the object pronoun <strong>directly to
+the verb itself</strong>.</p>
+<p>This creates a single, highly compressed word that contains the
+Action, the Subject, and the Direct Object.</p>
+<p><strong>Cross-Linguistic Comparison: Object Suffixes on
+Verbs</strong></p>
+<ul>
+<li><strong>Hebrew</strong>: קְטָלוֹ (<em>qṭāl-ō</em> — he killed him). The
+suffix <em>-ō</em> is attached directly to the perfect verb.</li>
+<li><strong>Arabic</strong>: قَتَلَهُ (<em>qaṭal-a-hu</em> — he killed him).
+The suffix <em>-hu</em> is attached directly to the verb.</li>
+<li><strong>Syriac</strong>: ܩܛܠܗ (<em>qaṭl-eh</em> — he killed him).
+The suffix <em>-eh</em> attaches directly, altering the internal vowels
+of the verb.</li>
+<li><strong>Greek/Latin</strong>: Indo-European languages generally keep
+the object pronoun separate (e.g., <em>auton apektelnen</em>, <em>eum
+interfecit</em>), though spoken Romance languages often compress them
+into clitics (Spanish: <em>matarlo</em>).</li>
+</ul>
+<p><strong>Core Principle</strong>: A suffix attached to a noun is
+possessive (“his house”). A suffix attached to a verb is the direct
+object (“he killed him”). The suffix <em>never</em> represents the
+subject of the verb.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 6</text></name><questiontext format="html"><text><![CDATA[What is a verbal suffix?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[An object pronoun attached directly to the verb: <i>qaṭleh</i> 'he killed him']]></text><feedback format="html"><text><![CDATA[Correct: the 'fast direct object'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A possessive ending on a noun]]></text><feedback format="html"><text><![CDATA[That is a nominal suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The person ending of the perfect]]></text><feedback format="html"><text><![CDATA[That marks the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A preposition after the verb]]></text><feedback format="html"><text><![CDATA[That is the <i>l-</i> construction.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 3: Morphology of Verbal Suffixes (Peal Perfect)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: Morphology of Verbal Suffixes (Peal Perfect)</h3>
+<p>When you attach a pronoun suffix to a verb, the vowels inside the
+verb often shift to accommodate the new rhythm. We will focus on
+attaching suffixes to the 3rd person masculine singular Peal perfect
+(<em>qṭal</em>, “he killed”).</p>
+<p><strong>1. Connecting Vowels (The “Nun” buffer)</strong></p>
+<p>Sometimes, attaching a suffix directly to a verb ending sounds clunky
+or ambiguous. Syriac frequently uses a <em>Nun</em> (n) as a buffer
+consonant.</p>
+<ul>
+<li>“He killed me”: Not <code>qṭal-y</code>, but
+<strong>qaṭl-anī</strong>.</li>
+<li>“He killed us”: <strong>qaṭl-an</strong>.</li>
+</ul>
+<p><strong>2. Vocalization Shifts</strong></p>
+<p>When adding an object suffix to <em>qṭal</em> (which has no vowel
+between the first two consonants: q-ṭ-a-l), the vowel shifts back to
+separate the first two consonants.</p>
+<ul>
+<li><em>qṭal</em> + <em>eh</em> <span class="math inline">→</span>
+<strong>qaṭl-eh</strong> (q-a-ṭ-l-e-h).</li>
+</ul>
+<p><strong>3. Meaning</strong></p>
+<p><em>Qaṭleh</em> means “He killed him”.</p>
+<ul>
+<li>Subject: He (inherent in the base verb form).</li>
+<li>Object: Him (the suffix).</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 7</text></name><questiontext format="html"><text><![CDATA[Why does <i>qṭal</i> become <i>qaṭl-</i> before a suffix?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The suffix shifts the stress, moving the vowel forward.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The root changes.]]></text><feedback format="html"><text><![CDATA[The root stays q-ṭ-l.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It becomes a Paael.]]></text><feedback format="html"><text><![CDATA[There is no doubling.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It is a spelling convention only.]]></text><feedback format="html"><text><![CDATA[The pronunciation changes.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 8</text></name><questiontext format="html"><text><![CDATA[What buffer appears before the 1 c.sg. object suffix 'me'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[A Nun: <i>qaṭl-anī</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A Yodh: <i>qaṭl-ay</i>]]></text><feedback format="html"><text><![CDATA[-ay is not the object suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A Taw: <i>qaṭl-tī</i>]]></text><feedback format="html"><text><![CDATA[-t marks the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[None: <i>qaṭl-ī</i>]]></text><feedback format="html"><text><![CDATA[The n buffer is needed.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 4: Verbal Suffix Paradigm (Root `q-ṭ-l`)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Verbal Suffix Paradigm (Root `q-ṭ-l`)</h3>
+<p>Here is how the 3rd person masculine singular Perfect (<em>qṭal</em>,
+“he killed”) takes all the object suffixes.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Object (English)</th>
+<th style="text-align: left;">Suffix Form</th>
+<th style="text-align: left;">Attached to <em>qṭal</em>
+(Estrangela)</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Translation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>me (1 c.sg.)</strong></td>
+<td style="text-align: left;">ـܢܝ (-anī)</td>
+<td style="text-align: left;">ܩܛܠܢܝ</td>
+<td style="text-align: left;">qaṭlanī</td>
+<td style="text-align: left;">he killed me</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>you (2 m.sg.)</strong></td>
+<td style="text-align: left;">ـܟ (-āḵ)</td>
+<td style="text-align: left;">ܩܛܠܟ</td>
+<td style="text-align: left;">qaṭlāḵ</td>
+<td style="text-align: left;">he killed you (m)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>you (2 f.sg.)</strong></td>
+<td style="text-align: left;">ـܟܝ (-ēky)</td>
+<td style="text-align: left;">ܩܛܠܟܝ</td>
+<td style="text-align: left;">qaṭlēky</td>
+<td style="text-align: left;">he killed you (f)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>him (3 m.sg.)</strong></td>
+<td style="text-align: left;">ـܗ (-eh)</td>
+<td style="text-align: left;">ܩܛܠܗ</td>
+<td style="text-align: left;">qaṭleh</td>
+<td style="text-align: left;">he killed him</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>her (3 f.sg.)</strong></td>
+<td style="text-align: left;">ـܗ (-āh)</td>
+<td style="text-align: left;">ܩܛܠܗ</td>
+<td style="text-align: left;">qaṭlāh</td>
+<td style="text-align: left;">he killed her</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>us (1 c.pl.)</strong></td>
+<td style="text-align: left;">ـܢ (-an)</td>
+<td style="text-align: left;">ܩܛܠܢ</td>
+<td style="text-align: left;">qaṭlan</td>
+<td style="text-align: left;">he killed us</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>you (2 m.pl.)</strong></td>
+<td style="text-align: left;">ـܟܘܢ (-kūn)</td>
+<td style="text-align: left;">ܩܛܠܟܘܢ</td>
+<td style="text-align: left;">qaṭlkūn</td>
+<td style="text-align: left;">he killed you (mpl)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>you (2 f.pl.)</strong></td>
+<td style="text-align: left;">ـܟܝܢ (-kēn)</td>
+<td style="text-align: left;">ܩܛܠܟܝܢ</td>
+<td style="text-align: left;">qaṭlkēn</td>
+<td style="text-align: left;">he killed you (fpl)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>them (3 m.pl.)</strong></td>
+<td style="text-align: left;">ـܗܘܢ (-hūn)</td>
+<td style="text-align: left;">ܩܛܠܗܘܢ</td>
+<td style="text-align: left;">qaṭlhūn</td>
+<td style="text-align: left;">he killed them (m)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>them (3 f.pl.)</strong></td>
+<td style="text-align: left;">ـܗܝܢ (-hēn)</td>
+<td style="text-align: left;">ܩܛܠܗܝܢ</td>
+<td style="text-align: left;">qaṭlhēn</td>
+<td style="text-align: left;">he killed them (f)</td>
+</tr>
+</tbody>
+</table></div>
+<p><em>Note: Suffixes can also be attached to the Imperfect and
+Imperative forms (e.g., “Kill him!”). The suffixes remain fundamentally
+identical, though the connecting vowels may vary slightly.</em></p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 5: Syntax Comparison Table</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Syntax Comparison Table</h3>
+<p>How to say “He killed him” three ways in Syriac:</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Style</th>
+<th style="text-align: left;">Syriac Translit</th>
+<th style="text-align: left;">Breakdown</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Independent Obj</strong></td>
+<td style="text-align: left;">qṭal l-ēh</td>
+<td style="text-align: left;">he-killed to-him</td>
+<td style="text-align: left;">Standard, highly common.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Verbal Suffix</strong></td>
+<td style="text-align: left;">qaṭl-eh</td>
+<td style="text-align: left;">he-killed-him</td>
+<td style="text-align: left;">Fast, literary, deeply Semitic.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Demonstrative</strong></td>
+<td style="text-align: left;">qṭal l-hū</td>
+<td style="text-align: left;">he-killed to-that-one</td>
+<td style="text-align: left;">Used for emphasis (“That guy”).</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 6: Vocabulary (Healing, Nature, Community)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Healing, Nature, Community)</h3>
+<p>Many verbs related to interpersonal action (healing, forgiving,
+striking) frequently take verbal suffixes.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Root (Peal/Aphel)</th>
+<th style="text-align: left;">Verb Example (3 m.s)</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">With 1st person suffix (-anī)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܦ.ܪ.ܩ (p-r-q)</td>
+<td style="text-align: left;">praq (Peal)</td>
+<td style="text-align: left;">to save, deliver</td>
+<td style="text-align: left;">parqanī (he saved me)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐ.ܣ.ܝ (ʾ-s-y)</td>
+<td style="text-align: left;">ʾasī (Aphel)</td>
+<td style="text-align: left;">to heal (causative)</td>
+<td style="text-align: left;">ʾasyanī (he healed me)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫ.ܒ.ܩ (š-b-q)</td>
+<td style="text-align: left;">šbaq (Peal)</td>
+<td style="text-align: left;">to leave, forgive</td>
+<td style="text-align: left;">šbaqanī (he left me)*</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡ.ܚ.ܝ (m-ḥ-y)</td>
+<td style="text-align: left;">mḥā (Peal)</td>
+<td style="text-align: left;">to strike, hit</td>
+<td style="text-align: left;">mḥānī (he struck me)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩ.ܪ.ܝ (q-r-y)</td>
+<td style="text-align: left;">qrā (Peal)</td>
+<td style="text-align: left;">to call</td>
+<td style="text-align: left;">qrānī (he called me)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢ.ܚ.ܡ (n-ḥ-m)</td>
+<td style="text-align: left;">naḥḥem (Paael)</td>
+<td style="text-align: left;">to raise (the dead), revive</td>
+<td style="text-align: left;">naḥḥmanī (he revived me)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚ.ܛ.ܝ (ḥ-ṭ-y)</td>
+<td style="text-align: left;">ḥṭā (Peal)</td>
+<td style="text-align: left;">to sin</td>
+<td style="text-align: left;">(intransitive usually)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܟ.ܪ.ܗ (k-r-h)</td>
+<td style="text-align: left;">kurhānā (Noun)</td>
+<td style="text-align: left;">illness, sickness</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚ.ܛ.ܝ (ḥ-ṭ-y)</td>
+<td style="text-align: left;">ḥṭīttā (Noun)</td>
+<td style="text-align: left;">sin</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢ.ܦ.ܠ (n-p-l)</td>
+<td style="text-align: left;">npal (Peal)</td>
+<td style="text-align: left;">to fall</td>
+<td style="text-align: left;">npal b-kurhānā (fell ill)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܬ.ܒ.ܪ (t-b-r)</td>
+<td style="text-align: left;">tbar (Peal)</td>
+<td style="text-align: left;">to break</td>
+<td style="text-align: left;">tabranī (he broke me)</td>
+</tr>
+</tbody>
+</table></div>
+<p><em>*Note: Forgiving is usually expressed with <code>l-</code>: šbaq
+lī (he forgave to me).</em></p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 7: The Story — Part 11</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 11</h3>
+<p><strong>The Healing</strong></p>
+<p><em>Narrative note: The king, having fallen ill, begs for physical
+and spiritual salvation. Notice the dense use of verbal suffixes (fast
+direct objects) as he pleads with Yukhannan.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܘܒܝܘܡܐ ܗ̣ܘ ܢܦܠ ܡܠܟܐ ܒܟܘܪܗܢܐ ܒܝܫܐ w-b-yūmā haw npal malkā b-kurhānā
+bīšā. w-b-yūmā (and-in-day) haw (that) npal (fell) malkā (the-king)
+b-kurhānā (in-illness) bīšā (evil/bad). → And in that day, the king fell
+into a severe illness.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܐܬܐ ܠܘܬ ܝܘܚܢܢ ܘܢܦܠ ܩܕܡܘܗܝ ܘܐܡܪ ܠܗ w-ʾetā l-wāt Yūḥannan, w-npal
+qdāmāw-hy, w-ʾemar l-ēh: w-ʾetā (and-came) l-wāt (to-the-presence-of)
+Yūḥannan (John), w-npal (and-fell) qdāmāw-hy (before-him), w-ʾemar
+(and-said) l-ēh (to-him): → And he came to Yukhannan, and fell before
+him, and said to him:</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܐܣܝܢܝ ܡܢ ܟܘܪܗܢܝ ܘܦܪܩܢܝ ܡܢ ܡܘܬܐ ʾasy-anī men kurhān-y, w-parq-anī men
+mawtā! ʾasy-anī (heal-me [Aphel Impv]) men (from) kurhān-y (illness-my),
+w-parq-anī (and-save-me [Peal Impv]) men (from) mawtā (death)! → “Heal
+me from my illness, and save me from death!”</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܘܫܒܘܩ ܠܝ ܚܛܝܬܝ ܕܣܓܝܐܐ ܗܝ w-šbūq lī ḥṭītt-y d-saggīʾā hī! w-šbūq
+(and-forgive [Peal Impv]) lī (to-me) ḥṭītt-y (sin-my) d-saggīʾā
+(which-is-great/much) hī (she-[is])! → “And forgive me my sin, which is
+great!”</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܩܪܳܘܗܝ ܝܘܚܢܢ ܠܐܠܗܐ ܘܐܡܪ qrāwhy Yūḥannan l-Alāhā w-ʾemar: qrāwhy
+(he-called-him [3msg Peal Perf. of q-r-y + 3msg obj. suffix]) Yūḥannan
+(John) l-Alāhā (to-God) w-ʾemar (and-said): → Yukhannan called upon God
+and said: <em>Note: III-Yodh verbs contract the final yodh before the
+suffix: qrā + -wh + y → qrāwhy.</em></p>
+<p><strong>Sentence 6</strong></p>
+<p>ܐܠܗܐ ܢܚܬܟ ܘܢܚܝܝܟ ܗܫܐ Alāhā nneḥt-āḵ, w-naḥyē-ḵ hāšā. Alāhā (God)
+nneḥt-āḵ (he-will-give-rest-you), w-naḥyē-ḵ
+(and-he-will-give-life/save-you [Aphel Imperfect]) hāšā (now). → “God
+will give you rest, and will save you now.”</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܘܐܣܝܗ ܐܠܗܐ ܒܛܝܒܘܬܗ w-ʾasy-eh Alāhā b-ṭaybūtt-eh. w-ʾasy-eh
+(and-he-healed-him) Alāhā (God) b-ṭaybūtt-eh (by-grace-his). → And God
+healed him by his grace.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 9</text></name><questiontext format="html"><text><![CDATA[In the story, what three commands does the sick king give Yukhannan?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Heal me, save me, forgive me (<i>ʾasyanī, parqanī, šbūq lī</i>)]]></text><feedback format="html"><text><![CDATA[Correct (sentences 3–4).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Leave my land, fear me, worship me]]></text><feedback format="html"><text><![CDATA[Not in this part.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Pray for me, bless me, baptize me]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Kill my enemies, save my kingdom, heal my son]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 10</text></name><questiontext format="html"><text><![CDATA[Why does the king ask for forgiveness?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Because his sin is great (<i>saggīʾā hī</i>)]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because he is about to die]]></text><feedback format="html"><text><![CDATA[He asks to be saved from death, but the forgiveness is for his great sin.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because Yukhannan demanded it]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because the people rebelled]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 11</text></name><questiontext format="html"><text><![CDATA[Who performs the healing in sentence 7?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God, by his grace]]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾasyeh Alāhā b-ṭaybūtteh</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan, by his own power]]></text><feedback format="html"><text><![CDATA[He prayed; God healed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king's physicians]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The man of fire]]></text><feedback format="html"><text><![CDATA[That was in Lesson 10.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܩܛܠܗܘܢ (<i>qaṭlhūn</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root q-ṭ-l, suffix 3 m.pl.: 'he killed them']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root q-ṭ-l, subject 3 m.pl.: 'they killed']]></text><feedback format="html"><text><![CDATA[That is <i>qṭalū</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root q-ṭ-l, suffix 2 m.pl.: 'he killed you (pl.)']]></text><feedback format="html"><text><![CDATA[That suffix is -ḵūn.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root q-ṭ-l-h]]></text><feedback format="html"><text><![CDATA[-hūn is a suffix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܦܪܩܢܝ (<i>parqanī</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root p-r-q, suffix 1 c.sg.: 'he delivered me / deliver me!']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root p-r-q, suffix 1 c.pl.: 'us']]></text><feedback format="html"><text><![CDATA['Us' is -an.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root p-r-q-n]]></text><feedback format="html"><text><![CDATA[-anī is a suffix with the n buffer.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root p-r-q, 'my redemption']]></text><feedback format="html"><text><![CDATA[That noun is <i>purqān-y</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. What is the root of ܩܪܳܘܗܝ (<i>qrāwhy</i>), 'he called him'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[q-r-y, a III-Yodh root]]></text><feedback format="html"><text><![CDATA[Correct: the final yodh contracts before the suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[q-r-w]]></text><feedback format="html"><text><![CDATA[The w belongs to the suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[q-r-b]]></text><feedback format="html"><text><![CDATA[That is 'draw near'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[r-w-h]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Attach suffixes to <i>šbaq</i>: which list means 'he abandoned me, us, her, them (m.)'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>šabqanī, šabqan, šabqāh, šabqhūn</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šabqan, šabqanī, šabqāh, šabqhūn</i>]]></text><feedback format="html"><text><![CDATA[-anī is 'me'; -an is 'us'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šabqanī, šabqan, šabqeh, šabqhūn</i>]]></text><feedback format="html"><text><![CDATA[-eh is 'him'; 'her' is -āh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šbaqt, šbaqn, šebqat, šbaqū</i>]]></text><feedback format="html"><text><![CDATA[Those are subject endings, not object suffixes.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Mḥānī barnāšā bīšā b-tarʿā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The evil man struck me in the gate.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I struck the evil man in the gate.]]></text><feedback format="html"><text><![CDATA[-nī is the object 'me'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The evil man struck him in the gate.]]></text><feedback format="html"><text><![CDATA[-nī is 'me'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The evil man was struck in the gate.]]></text><feedback format="html"><text><![CDATA[Active, with object suffix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Alāhā qaṭleh l-malkā tammān.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God killed him, the king, there.]]></text><feedback format="html"><text><![CDATA[Correct: suffix and <i>l-</i> together for emphasis.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king killed God there.]]></text><feedback format="html"><text><![CDATA[<i>Alāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God killed him for the king there.]]></text><feedback format="html"><text><![CDATA[<i>l-malkā</i> repeats the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God saved the king there.]]></text><feedback format="html"><text><![CDATA[q-ṭ-l is 'kill'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Alāhā ʾasyan b-melteh.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God healed us by his word.]]></text><feedback format="html"><text><![CDATA[Correct: -an is 'us'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God healed me by his word.]]></text><feedback format="html"><text><![CDATA['Me' is -anī.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We healed God by his word.]]></text><feedback format="html"><text><![CDATA[-an is the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God healed him by his word.]]></text><feedback format="html"><text><![CDATA['Him' is -eh.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which single word means 'He killed us'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>qaṭlan</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qaṭlanī</i>]]></text><feedback format="html"><text><![CDATA[That is 'he killed me'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qṭaln</i>]]></text><feedback format="html"><text><![CDATA[That is 'we killed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qaṭlhūn</i>]]></text><feedback format="html"><text><![CDATA[That is 'he killed them'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 11 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which single word means 'He struck them (m.pl.)'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>mḥāhūn</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>mḥāw</i>]]></text><feedback format="html"><text><![CDATA[That is 'they struck'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>mḥāh</i>]]></text><feedback format="html"><text><![CDATA[That is 'he struck her'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>mḥānī</i>]]></text><feedback format="html"><text><![CDATA[That is 'he struck me'.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
+<p><strong>THE VERBAL SUFFIX PARADIGM (He killed…)</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">English</th>
+<th style="text-align: left;">Suffix on verb</th>
+<th style="text-align: left;">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">…me</td>
+<td style="text-align: left;">-anī</td>
+<td style="text-align: left;">qaṭlanī (he killed me)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…you(m)</td>
+<td style="text-align: left;">-āḵ</td>
+<td style="text-align: left;">qaṭlāḵ (he killed you)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">…you(f)</td>
+<td style="text-align: left;">-ēky</td>
+<td style="text-align: left;">qaṭlēky (he killed you)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…him</td>
+<td style="text-align: left;">-eh</td>
+<td style="text-align: left;">qaṭleh (he killed him)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">…her</td>
+<td style="text-align: left;">-āh</td>
+<td style="text-align: left;">qaṭlāh (he killed her)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…us</td>
+<td style="text-align: left;">-an</td>
+<td style="text-align: left;">qaṭlan (he killed us)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">…them(m)</td>
+<td style="text-align: left;">-hūn</td>
+<td style="text-align: left;">qaṭlhūn (he killed them)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>DOUBLE DETERMINATION RULE</strong></p>
+<p>Sometimes Syriac uses the verb suffix AND the preposition
+<code>l-</code> in the same sentence. This is called <em>prolepsis</em>
+or double determination, used for clarity or emphasis. <em>Qaṭl-eh
+l-malkā</em> = He killed him, [namely] the king.</p>
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 11 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
+<p>The following 30 genuinely new high-frequency words supplement this
+lesson’s vocabulary, focusing on verbs and nouns related to
+interpersonal action (commonly taking object suffixes) and related
+abstract/derived nouns.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Syriac (Estrangela)</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Part of Speech</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܢܣܟ</td>
+<td style="text-align: left;">nasak</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to pour, cast</td>
+<td style="text-align: left;">common with suffixes</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܒܩ</td>
+<td style="text-align: left;">dābeq</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to cling, adhere</td>
+<td style="text-align: left;">transposes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓܕܪ</td>
+<td style="text-align: left;">gāder</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to fence, hedge in</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܥܕ</td>
+<td style="text-align: left;">lāʿad</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to witness, testify</td>
+<td style="text-align: left;">object suffix usage</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܢܐ</td>
+<td style="text-align: left;">šānē</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to change, alter</td>
+<td style="text-align: left;">object suffix common</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܪܒ</td>
+<td style="text-align: left;">šāreb</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to drink</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܣܥ</td>
+<td style="text-align: left;">pāsaʿ</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to cut, prune</td>
+<td style="text-align: left;">object suffix frequent</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܗܛ</td>
+<td style="text-align: left;">mehaṭ</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to cover, conceal</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܙܚܡ</td>
+<td style="text-align: left;">zaḥem</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to strengthen, mightily</td>
+<td style="text-align: left;">object suffix usage</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܠܗ</td>
+<td style="text-align: left;">dāleh</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to draw water</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓܘܘܓ</td>
+<td style="text-align: left;">gwag</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to plunder, rob</td>
+<td style="text-align: left;">object suffix common</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܪܡܕ</td>
+<td style="text-align: left;">rāmed</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to strengthen, make firm</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܢܬܓ</td>
+<td style="text-align: left;">nātag</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to pull, draw</td>
+<td style="text-align: left;">object suffix usage</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܣܠܥ</td>
+<td style="text-align: left;">sālaʿ</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to lift, raise</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܓܫ</td>
+<td style="text-align: left;">dāgaš</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to push, press</td>
+<td style="text-align: left;">object suffix frequent</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦܕܥ</td>
+<td style="text-align: left;">pədaʿ</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to inform, make known</td>
+<td style="text-align: left;">transposes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܡܕ</td>
+<td style="text-align: left;">ʿāmed</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to stand firm</td>
+<td style="text-align: left;">object suffix usage</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܪܟܒ</td>
+<td style="text-align: left;">rāk eb</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to ride, mount</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܡܢܓ</td>
+<td style="text-align: left;">menag</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to prevent, hinder</td>
+<td style="text-align: left;">object suffix common</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܡܪ</td>
+<td style="text-align: left;">ʿāmar</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to dwell, inhabit</td>
+<td style="text-align: left;">transposes object suffix</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܣܪ</td>
+<td style="text-align: left;">ḥāsar</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to lack, be deprived</td>
+<td style="text-align: left;">takes object suffix</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܡܪܢܐ</td>
+<td style="text-align: left;">gəmrānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">completion, fulfillment</td>
+<td style="text-align: left;">derived from g-m-r</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܕܘܚܘܬܐ</td>
+<td style="text-align: left;">pədūḥūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">mercy, compassion</td>
+<td style="text-align: left;">related to p-d-ḥ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢܣܟܘܬܐ</td>
+<td style="text-align: left;">nəskūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">pouring, libation</td>
+<td style="text-align: left;">from n-s-k</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܒܩܘܬܐ</td>
+<td style="text-align: left;">dəbqūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">clinging, adherence</td>
+<td style="text-align: left;">from d-b-q</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܡܝܪܐ</td>
+<td style="text-align: left;">šəmīrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">watch, guard</td>
+<td style="text-align: left;">from š-m-r</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܘܕܢܐ</td>
+<td style="text-align: left;">ʿūddānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">answer, response</td>
+<td style="text-align: left;">from ʿ-w-d</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܘܒܠܢܐ</td>
+<td style="text-align: left;">qūbbəlānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">acceptance, reception</td>
+<td style="text-align: left;">from q-b-l</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܪܒܘܬܐ</td>
+<td style="text-align: left;">šərbūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">drinking</td>
+<td style="text-align: left;">from š-r-b</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܕܠܘܬܐ</td>
+<td style="text-align: left;">mədəlūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">poverty, humiliation</td>
+<td style="text-align: left;">from m-d-l</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+</quiz>

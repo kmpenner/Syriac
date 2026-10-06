@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="syriac_web_premium.css" />
 </head>
@@ -19,29 +28,101 @@
 <header id="title-block-header">
 <h1 class="title">The Acts of Mar Yukhannan</h1>
 </header>
-<h1 id="the-acts-of-mar-yukhannan">The Acts of Mar Yukhannan</h1>
-<p>An Immersive Syriac Language Course</p>
 <h2 id="lesson-4">LESSON 4</h2>
-<h3 id="personalizing-the-text-suffixes-and-possession">Personalizing the Text: Suffixes and Possession</h3>
+<h3 id="personalizing-the-text-suffixes-and-possession">Personalizing
+the Text: Suffixes and Possession</h3>
 <hr />
 <h4 id="section-1-review-of-lesson-3">Section 1: Review of Lesson 3</h4>
-<p><strong>Quick Summary</strong> In Lesson 3, we examined the Peal Perfect tense (the suffix conjugation), learning how Syriac describes completed, past actions. The sentence structure shifted from fluidly subject-led (in the present participle) to stringently Verb-Subject-Object (VSO) led narrative chains using the conjunction <code>w-</code> (and).</p>
-<p><strong>5-Question Warm-Up Drill</strong> <em>(Answers in Section 9)</em> 1. What does the suffix <code>-ū</code> indicate on a Perfect verb (e.g., <em>ktabū</em>)? 2. Translate the basic VSO sentence: <em>Shbaq malkā l-ʾarʿā</em>. 3. What happens to the pronunciation of <em>k-t-b</em> (ka-tab) in the Syriac 3rd m.sg Perfect? 4. How do you distinguish between “I went” and “You (m) went” if both are written ܟܬܒܬ (<em>ktabt/ketbet</em>) without vowels? 5. Translate: <em>w-qreb Yūḥannan</em>.</p>
+<p><strong>Quick Summary</strong></p>
+<p>In Lesson 3, we examined the Peal Perfect tense (the suffix
+conjugation), learning how Syriac describes completed, past actions. The
+sentence structure shifted from fluidly subject-led (in the present
+participle) to stringently Verb-Subject-Object (VSO) led narrative
+chains using the conjunction <code>w-</code> (and).</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>What does the suffix <code>-ū</code> indicate on a Perfect verb
+(e.g., <em>ktabū</em>)?</li>
+<li>Translate the basic VSO sentence: <em>Shbaq malkā l-ʾarʿā</em>.</li>
+<li>What happens to the pronunciation of <em>k-t-b</em> (ka-tab) in the
+Syriac 3rd m.sg Perfect?</li>
+<li>How do you distinguish between “I went” and “You (m) went” if both
+are written ܟܬܒܬ (<em>ktabt/ketbet</em>) without vowels?</li>
+<li>Translate: <em>w-qreb Yūḥannan</em>.</li>
+</ol>
 <hr />
-<h4 id="section-2-possession-and-pronominal-suffixes-overview">Section 2: Possession and Pronominal Suffixes — Overview</h4>
-<p>In English, we indicate possession using separate pronouns placed before a noun: “my house”, “your king”. In Greek, it’s often an independent genitive pronoun: ὁ οἶκός μου (<em>ho oikos mou</em>).</p>
-<p>However, in Semitic languages, possession is expressed by attaching a <strong>pronominal suffix</strong> directly to the end of the noun.</p>
-<p><strong>Cross-Linguistic Comparison: The Possessive Suffix</strong> * <strong>Hebrew</strong>: סוּס (<em>sūs</em>, horse) <span class="math inline">→</span> סוּסִי (<em>sūsī</em>, my horse). אָב (<em>ʾāb</em>, father) <span class="math inline">→</span> אָבִינוּ (<em>ʾābīnū</em>, our father). * <strong>Arabic</strong>: كتاب (<em>kitāb</em>, book) <span class="math inline">→</span> كتابي (<em>kitābī</em>, my book). * <strong>Syriac</strong>: ܟܬܒ (<em>ktāb</em>, book) <span class="math inline">→</span> ܟܬܒܝ (<em>ktāby</em>, my book). ܐܒ (<em>ʾab</em>, father) <span class="math inline">→</span> ܐܒܘܢ (<em>ʾabūn</em>, our father).</p>
-<p>These suffixes are derived from the same ancient roots as the independent pronouns (<em>ʾenā</em>, <em>ʾant</em>, <em>hū</em>) but are highly compressed.</p>
+<h4 id="section-2-possession-and-pronominal-suffixes-overview">Section
+2: Possession and Pronominal Suffixes — Overview</h4>
+<p>In English, we indicate possession using separate pronouns placed
+before a noun: “my house”, “your king”. In Greek, it’s often an
+independent genitive pronoun: ὁ οἶκός μου (<em>ho oikos mou</em>).</p>
+<p>However, in Semitic languages, possession is expressed by attaching a
+<strong>pronominal suffix</strong> directly to the end of the noun.</p>
+<p><strong>Cross-Linguistic Comparison: The Possessive
+Suffix</strong></p>
+<ul>
+<li><strong>Hebrew</strong>: סוּס (<em>sūs</em>, horse) <span
+class="math inline">→</span> סוּסִי (<em>sūsī</em>, my horse). אָב
+(<em>ʾāb</em>, father) <span class="math inline">→</span> אָבִינוּ
+(<em>ʾābīnū</em>, our father).</li>
+<li><strong>Arabic</strong>: كتاب (<em>kitāb</em>, book) <span
+class="math inline">→</span> كتابي (<em>kitābī</em>, my book).</li>
+<li><strong>Syriac</strong>: ܟܬܒ (<em>ktāb</em>, book) <span
+class="math inline">→</span> ܟܬܒܝ (<em>ktāby</em>, my book). ܐܒ
+(<em>ʾab</em>, father) <span class="math inline">→</span> ܐܒܘܢ
+(<em>ʾabūn</em>, our father).</li>
+</ul>
+<p>These suffixes are derived from the same ancient roots as the
+independent pronouns (<em>ʾenā</em>, <em>ʾant</em>, <em>hū</em>) but are
+highly compressed.</p>
 <hr />
-<h4 id="section-3-pronominal-suffixes-on-nouns-prepositions">Section 3: Pronominal Suffixes on Nouns &amp; Prepositions</h4>
-<p><strong>1. Suffixes on Singular Nouns</strong> To add a suffix, Syriac uses the Absolute state of the noun, not the Emphatic state. (You don’t say “the my-king” <code>*malkā-y</code>; you say “king-my”, <code>malk-y</code>). * <em>Malk-</em> (king) + <em>-eh</em> (his) = <em>malkeh</em> (his king). * <em>ʾAb-</em> (father) + <em>-y</em> (my) = <em>ʾaby</em> (my father).</p>
-<p><strong>2. Suffixes on Prepositions</strong> The exact same suffixes attach to the inseparable prepositions <code>b-</code> (in) and <code>l-</code> (to/for). * <em>b-</em> + <em>-eh</em> = <em>beh</em> (in him / in it). * <em>l-</em> + <em>-k</em> = <em>lāḵ</em> (to you, m.sg).</p>
-<p><strong>3. The Idiom for “To Have”</strong> Syriac (like Hebrew and Arabic) lacks a dedicated verb meaning “to possess” (like English “to have” or Latin “habere”). Instead, Semitic languages use a prepositional phrase: “there is to me” or just “to me”. * <em>īt l-y</em> (there-is to-me) <span class="math inline">→</span> <strong>ītly</strong> = I have. * <em>layt l-eh</em> (there-is-not to-him) = He does not have. * <em>ītly srārā</em> = I have truth. (Lit: There is to me truth).</p>
+<h4 id="section-3-pronominal-suffixes-on-nouns-prepositions">Section 3:
+Pronominal Suffixes on Nouns &amp; Prepositions</h4>
+<p><strong>1. Suffixes on Singular Nouns</strong></p>
+<p>To add a suffix, Syriac uses the Absolute state of the noun, not the
+Emphatic state. (You don’t say “the my-king” <code>*malkā-y</code>; you
+say “king-my”, <code>malk-y</code>).</p>
+<ul>
+<li><em>Malk-</em> (king) + <em>-eh</em> (his) = <em>malkeh</em> (his
+king).</li>
+<li><em>ʾAb-</em> (father) + <em>-y</em> (my) = <em>ʾaby</em> (my
+father).</li>
+</ul>
+<p><strong>2. Suffixes on Prepositions</strong></p>
+<p>The exact same suffixes attach to the inseparable prepositions
+<code>b-</code> (in) and <code>l-</code> (to/for).</p>
+<ul>
+<li><em>b-</em> + <em>-eh</em> = <em>beh</em> (in him / in it).</li>
+<li><em>l-</em> + <em>-k</em> = <em>lāḵ</em> (to you, m.sg).</li>
+</ul>
+<p><strong>3. The Idiom for “To Have”</strong></p>
+<p>Syriac (like Hebrew and Arabic) lacks a dedicated verb meaning “to
+possess” (like English “to have” or Latin “habere”). Instead, Semitic
+languages use a prepositional phrase: “there is to me” or just “to
+me”.</p>
+<ul>
+<li><em>īt l-y</em> (there-is to-me) <span class="math inline">→</span>
+<strong>ītly</strong> = I have.</li>
+<li><em>layt l-eh</em> (there-is-not to-him) = He does not have.</li>
+<li><em>ītly srārā</em> = I have truth. (Lit: There is to me
+truth).</li>
+</ul>
 <hr />
-<h4 id="section-4-the-suffix-paradigm-for-singular-nouns">Section 4: The Suffix Paradigm for Singular Nouns</h4>
-<p>This paradigm uses the masculine noun <em>malk-</em> (king, root m-l-k) and the feminine noun <em>malkūtt-</em> (kingdom). Notice the suffix column; you must memorize these endings.</p>
-<table>
+<h4 id="section-4-the-suffix-paradigm-for-singular-nouns">Section 4: The
+Suffix Paradigm for Singular Nouns</h4>
+<p>This paradigm uses the masculine noun <em>malk-</em> (king, root
+m-l-k) and the feminine noun <em>malkūtt-</em> (kingdom). Notice the
+suffix column; you must memorize these endings.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Person</th>
@@ -135,10 +216,15 @@
 </tr>
 </tbody>
 </table>
-<p><em>Orthography Note: The 3rd masculine singular (-eh) and 3rd feminine singular (-āh) are both spelled with a final Heh (ܗ). Only vowel pointing or context distinguishes “his” from “her”.</em></p>
+<p><em>Orthography Note: The 3rd masculine singular (-eh) and 3rd
+feminine singular (-āh) are both spelled with a final Heh (ܗ). Only
+vowel pointing or context distinguishes “his” from “her”.</em></p>
 <hr />
-<h4 id="section-5-prepositional-to-have-paradigm-l--suffix">Section 5: Prepositional “To Have” Paradigm (l- + Suffix)</h4>
-<p>How to say “I have”, “You have”, “He has”, etc., by attaching suffixes to the <code>l-</code> preposition, often preceded by <em>īt</em> (there is).</p>
+<h4 id="section-5-prepositional-to-have-paradigm-l--suffix">Section 5:
+Prepositional “To Have” Paradigm (l- + Suffix)</h4>
+<p>How to say “I have”, “You have”, “He has”, etc., by attaching
+suffixes to the <code>l-</code> preposition, often preceded by
+<em>īt</em> (there is).</p>
 <table>
 <thead>
 <tr class="header">
@@ -200,9 +286,17 @@
 </tbody>
 </table>
 <hr />
-<h4 id="section-6-vocabulary-family-body-parts-belongings">Section 6: Vocabulary (Family, Body Parts &amp; Belongings)</h4>
-<p>Family and body parts are the most common nouns to receive pronominal suffixes.</p>
+<h4 id="section-6-vocabulary-family-body-parts-belongings">Section 6:
+Vocabulary (Family, Body Parts &amp; Belongings)</h4>
+<p>Family and body parts are the most common nouns to receive pronominal
+suffixes.</p>
 <table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Absolute / Emphatic</th>
@@ -288,34 +382,141 @@
 </table>
 <hr />
 <h4 id="section-7-the-story-part-4">Section 7: The Story — Part 4</h4>
-<p><strong>A Dialogue at the Gate</strong> <em>Narrative note: Watch how the guards use suffixes with prepositions (<code>lēh</code>, <code>lḵūn</code>) and nouns (<code>ʾabūk</code>, <code>ʾemāḵ</code>) to interrogate Yukhannan about his origins and possessions.</em></p>
-<p><strong>Sentence 1</strong> ܩܡ ܝܘܚܢܢ ܒܬܪܥܐ ܕܡܠܟܘܬܐ qām Yūḥannan b-tarʿā d-malkūttā. qām (stood) Yūḥannan (John) b-tarʿā (in-the-gate) d-malkūttā (of-the-kingdom). → Yukhannan stood at the gate of the kingdom.</p>
-<p><strong>Sentence 2</strong> ܘܐܡܪܝܢ ܩܫܝܫܐ ܕܬܪܥܐ ܠܗ w-ʾāmrīn qašīšē d-tarʿā l-ēh: w-ʾāmrīn (and-are-saying) qašīšē (the-elders/guards) d-tarʿā (of-the-gate) l-ēh (to-him): → And the guards of the gate say to him:</p>
-<p><strong>Sentence 3</strong> ܡܢ ܐܝܢܐ ܐܬܪܐ ܐܢܬ men ʾaynā ʾatrā ʾant? men (from) ʾaynā (what) ʾatrā (country/place) ʾant (you-[are])? → “From what country are you?”</p>
-<p><strong>Sentence 4</strong> ܘܐܝܟܘ ܐܒܘܟ ܘܐܡܟ w-ʾaykō ʾab-ūḵ w-ʾem-āḵ? w-ʾaykō (and-where) ʾab-ūḵ (father-your) w-ʾem-āḵ (and-mother-your)? → “And where is your father and your mother?”</p>
-<p><strong>Sentence 5</strong> ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ w-mā īt lāḵ b-ʾīd-āḵ? w-mā (and-what) īt (there-is) lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)? → “And what do you have in your hand?”</p>
-<p><strong>Sentence 6</strong> ܐܡܪ ܠܗܘܢ ܝܘܚܢܢ ʾemar l-hūn Yūḥannan: ʾemar (said) l-hūn (to-them) Yūḥannan (John): → Yukhannan said to them:</p>
-<p><strong>Sentence 7</strong> ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ Alāhā hū ʾab-y, w-ʾarʿā hī ʾem-y. Alāhā (God) hū (he-[is]) ʾab-y (father-my), w-ʾarʿā (and-the-earth) hī (she-[is]) ʾem-y (mother-my). → “God is my father, and the earth is my mother.”</p>
-<p><strong>Sentence 8</strong> ܘܠܝܬ ܠܝ ܠܒܘܫܐ ܒܝܫܐ w-layt lī lbūšā bīšā. w-layt (and-there-is-not) lī (to-me) lbūšā (a-garment) bīšā (evil). → “And I do not have an evil garment.”</p>
-<p><strong>Sentence 9</strong> ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ nūhrā d-Alāhā īt-awhy b-ʾīd-y. nūhrā (the-light) d-Alāhā (of-God) īt-awhy (it-is) b-ʾīd-y (in-hand-my). → “The light of God is in my hand.”</p>
+<p><strong>A Dialogue at the Gate</strong></p>
+<p><em>Narrative note: Watch how the guards use suffixes with
+prepositions (<code>lēh</code>, <code>lḵūn</code>) and nouns
+(<code>ʾabūk</code>, <code>ʾemāḵ</code>) to interrogate Yukhannan about
+his origins and possessions.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܩܡ ܝܘܚܢܢ ܒܬܪܥܐ ܕܡܠܟܘܬܐ qām Yūḥannan b-tarʿā d-malkūttā. qām (stood)
+Yūḥannan (John) b-tarʿā (in-the-gate) d-malkūttā (of-the-kingdom). →
+Yukhannan stood at the gate of the kingdom.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܐܡܪܝܢ ܩܫܝܫܐ ܕܬܪܥܐ ܠܗ w-ʾāmrīn qašīšē d-tarʿā l-ēh: w-ʾāmrīn
+(and-are-saying) qašīšē (the-elders/guards) d-tarʿā (of-the-gate) l-ēh
+(to-him): → And the guards of the gate say to him:</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܡܢ ܐܝܢܐ ܐܬܪܐ ܐܢܬ men ʾaynā ʾatrā ʾant? men (from) ʾaynā (what) ʾatrā
+(country/place) ʾant (you-[are])? → “From what country are you?”</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܘܐܝܟܘ ܐܒܘܟ ܘܐܡܟ w-ʾaykō ʾab-ūḵ w-ʾem-āḵ? w-ʾaykō (and-where) ʾab-ūḵ
+(father-your) w-ʾem-āḵ (and-mother-your)? → “And where is your father
+and your mother?”</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ w-mā īt lāḵ b-ʾīd-āḵ? w-mā (and-what) īt (there-is)
+lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)? → “And what do you have in your
+hand?”</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܐܡܪ ܠܗܘܢ ܝܘܚܢܢ ʾemar l-hūn Yūḥannan: ʾemar (said) l-hūn (to-them)
+Yūḥannan (John): → Yukhannan said to them:</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ Alāhā hū ʾab-y, w-ʾarʿā hī ʾem-y. Alāhā
+(God) hū (he-[is]) ʾab-y (father-my), w-ʾarʿā (and-the-earth) hī
+(she-[is]) ʾem-y (mother-my). → “God is my father, and the earth is my
+mother.”</p>
+<p><strong>Sentence 8</strong></p>
+<p>ܘܠܝܬ ܠܝ ܠܒܘܫܐ ܒܝܫܐ w-layt lī lbūšā bīšā. w-layt (and-there-is-not) lī
+(to-me) lbūšā (a-garment) bīšā (evil). → “And I do not have an evil
+garment.”</p>
+<p><strong>Sentence 9</strong></p>
+<p>ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ nūhrā d-Alāhā īt-awhy b-ʾīd-y. nūhrā
+(the-light) d-Alāhā (of-God) īt-awhy (it-is) b-ʾīd-y (in-hand-my). →
+“The light of God is in my hand.”</p>
 <hr />
 <h4 id="section-8-exercises">Section 8: Exercises</h4>
-<p><strong>Exercise 1: Suffix Identification</strong> Identify the person, gender, and number of the possessor for the following suffixed nouns. 1. ܡܠܟܢ (malk-an) 2. ܒܝܬܗ (bayt-eh) 3. ܐܝܕܟᱤ (ʾīd-ēky) 4. ܡܠܟܘܬܗܘܢ (malkūtt-hūn)</p>
-<p><strong>Exercise 2: Conjugation Drill (Possession)</strong> Translate the following phrases using <code>l-</code> + suffix (using <em>īt</em> where appropriate to mean “have”): 1. To you (f.sg). 2. We have (There is to us). 3. He does not have (There is not to him). 4. To them (m.pl).</p>
-<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong> Translate the following sentences containing suffixed nouns. 1. ʾAbī ṭābā hū, w-ʾemī ṭābtā hī. 2. Šbaqū talmīdē l-baythūn. 3. Īt lān nūhrā rabbā. 4. Qālā d-malkā b-ʾarʿan (ʾarʿ-an).</p>
-<p><strong>Exercise 4: Production Drill (English → Syriac)</strong> Render the following sentences into Syriac transliteration. 1. My brother is writing a word. 2. The king and his son are going to his kingdom. 3. What is in your (m.sg) hand? 4. We do not have (<em>layt lān</em>) an evil king.</p>
-<p><strong>Exercise 5: Reading Comprehension</strong> Re-read Section 7 and answer: 1. Under what three topics does the guard interrogate Yukhannan? 2. Who does Yukhannan claim as his parents? 3. What does Yukhannan explicitly state he <em>does not</em> have?</p>
+<p><strong>Exercise 1: Suffix Identification</strong></p>
+<p>Identify the person, gender, and number of the possessor for the
+following suffixed nouns.</p>
+<ol type="1">
+<li>ܡܠܟܢ (malk-an)</li>
+<li>ܒܝܬܗ (bayt-eh)</li>
+<li>ܐܝܕܟܝ (ʾīd-ēky)</li>
+<li>ܡܠܟܘܬܗܘܢ (malkūtt-hūn)</li>
+</ol>
+<p><strong>Exercise 2: Conjugation Drill (Possession)</strong></p>
+<p>Translate the following phrases using <code>l-</code> + suffix (using
+<em>īt</em> where appropriate to mean “have”):</p>
+<ol type="1">
+<li>To you (f.sg).</li>
+<li>We have (There is to us).</li>
+<li>He does not have (There is not to him).</li>
+<li>To them (m.pl).</li>
+</ol>
+<p><strong>Exercise 3: Translation Drill (Syriac → English)</strong></p>
+<p>Translate the following sentences containing suffixed nouns.</p>
+<ol type="1">
+<li>ʾAbī ṭābā hū, w-ʾemī ṭābtā hī.</li>
+<li>Šbaqū talmīdē l-baythūn.</li>
+<li>Īt lān nūhrā rabbā.</li>
+<li>Qālā d-malkā b-ʾarʿan (ʾarʿ-an).</li>
+</ol>
+<p><strong>Exercise 4: Production Drill (English → Syriac)</strong></p>
+<p>Render the following sentences into Syriac transliteration.</p>
+<ol type="1">
+<li>My brother is writing a word.</li>
+<li>The king and his son are going to his kingdom.</li>
+<li>What is in your (m.sg) hand?</li>
+<li>We do not have (<em>layt lān</em>) an evil king.</li>
+</ol>
+<p><strong>Exercise 5: Reading Comprehension</strong></p>
+<p>Re-read Section 7 and answer:</p>
+<ol type="1">
+<li>Under what three topics does the guard interrogate Yukhannan?</li>
+<li>Who does Yukhannan claim as his parents?</li>
+<li>What does Yukhannan explicitly state he <em>does not</em> have?</li>
+</ol>
 <hr />
 <h4 id="section-9-answer-key">Section 9: Answer Key</h4>
-<p><strong>Section 1 Warm-Up</strong> 1. 3rd person masculine plural (“they”). 2. The king left the earth. 3. The <em>a</em> vowel in the middle of the root disappears (vowel reduction), making it <em>ktab</em> (k-t-a-b). 4. Only context or vowel pointing. 5. And Yukhannan drew near.</p>
-<p><strong>Exercise 1: Suffix Identification</strong> 1. 1st common plural (Our king) 2. 3rd masc singular (His house) 3. 2nd fem singular (Your hand) 4. 3rd masc plural (Their kingdom)</p>
-<p><strong>Exercise 2: Conjugation Drill</strong> 1. lēky 2. īt lān 3. layt lēh 4. lhūn</p>
-<p><strong>Exercise 3: Translation Drill</strong> 1. My father is good, and my mother is good. 2. The disciples left their house (<em>bayt-hūn</em>). 3. We have a great light (There is to us a great light). 4. The voice of the king is in our land (<em>ʾarʿ-an</em> = <em>ʾarʿā</em> + <em>-an</em>).</p>
-<p><strong>Exercise 4: Production Drill</strong> 1. ʾaḥ-y kāteb meltā. 2. Malkā w-bar-eh ʾāzlīn l-malkūtt-eh. 3. Mā īt b-ʾīd-āḵ? 4. Layt lān malkā bīšā.</p>
-<p><strong>Exercise 5: Reading Comprehension</strong> 1. Origin (what country), Family (where are father/mother), and Possessions (what is in hand). 2. God (father) and the earth (mother). 3. An evil garment (<em>lbūšā bīšā</em>).</p>
+<p><strong>Section 1 Warm-Up</strong></p>
+<ol type="1">
+<li>3rd person masculine plural (“they”).</li>
+<li>The king left the earth.</li>
+<li>The <em>a</em> vowel in the middle of the root disappears (vowel
+reduction), making it <em>ktab</em> (k-t-a-b).</li>
+<li>Only context or vowel pointing.</li>
+<li>And Yukhannan drew near.</li>
+</ol>
+<p><strong>Exercise 1: Suffix Identification</strong></p>
+<ol type="1">
+<li>1st common plural (Our king)</li>
+<li>3rd masc singular (His house)</li>
+<li>2nd fem singular (Your hand)</li>
+<li>3rd masc plural (Their kingdom)</li>
+</ol>
+<p><strong>Exercise 2: Conjugation Drill</strong></p>
+<ol type="1">
+<li>lēky</li>
+<li>īt lān</li>
+<li>layt lēh</li>
+<li>lhūn</li>
+</ol>
+<p><strong>Exercise 3: Translation Drill</strong></p>
+<ol type="1">
+<li>My father is good, and my mother is good.</li>
+<li>The disciples left their house (<em>bayt-hūn</em>).</li>
+<li>We have a great light (There is to us a great light).</li>
+<li>The voice of the king is in our land (<em>ʾarʿ-an</em> =
+<em>ʾarʿā</em> + <em>-an</em>).</li>
+</ol>
+<p><strong>Exercise 4: Production Drill</strong></p>
+<ol type="1">
+<li>ʾaḥ-y kāteb meltā.</li>
+<li>Malkā w-bar-eh ʾāzlīn l-malkūtt-eh.</li>
+<li>Mā īt b-ʾīd-āḵ?</li>
+<li>Layt lān malkā bīšā.</li>
+</ol>
+<p><strong>Exercise 5: Reading Comprehension</strong></p>
+<ol type="1">
+<li>Origin (what country), Family (where are father/mother), and
+Possessions (what is in hand).</li>
+<li>God (father) and the earth (mother).</li>
+<li>An evil garment (<em>lbūšā bīšā</em>).</li>
+</ol>
 <hr />
-<h4 id="section-10-grammatical-summary">Section 10: Grammatical Summary</h4>
-<p><strong>THE PRONOMINAL SUFFIXES (ATTACH TO NOUNS AND PREPOSITIONS)</strong></p>
+<h4 id="section-10-grammatical-summary">Section 10: Grammatical
+Summary</h4>
+<p><strong>THE PRONOMINAL SUFFIXES (ATTACH TO NOUNS AND
+PREPOSITIONS)</strong></p>
 <table>
 <thead>
 <tr class="header">
@@ -403,9 +604,18 @@
 </tr>
 </tbody>
 </table>
-<h4 id="section-11-additional-vocabulary">Section 11: Additional Vocabulary</h4>
-<p>The following high-frequency words round out this lesson’s vocabulary to 30 terms.</p>
+<h4 id="section-11-additional-vocabulary">Section 11: Additional
+Vocabulary</h4>
+<p>The following high-frequency words round out this lesson’s vocabulary
+to 30 terms.</p>
 <table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Syriac (Estrangela)</th>
@@ -624,6 +834,132 @@
 <td style="text-align: left;">dīnā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">judgment</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܣܦܘܬܐ</td>
+<td style="text-align: left;">sputā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">lip</td>
+<td style="text-align: left;">emphatic state</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܬܠܓܐ</td>
+<td style="text-align: left;">talggā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">ridge, back</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܨܪܐ</td>
+<td style="text-align: left;">ṣirē</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">side, rib</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܢܒܐ</td>
+<td style="text-align: left;">ganbā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">thigh</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܪܥܐ</td>
+<td style="text-align: left;">darʿā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">arm</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܓܠܐ</td>
+<td style="text-align: left;">ʿaggālā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">calf (leg part)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܬܢܐ</td>
+<td style="text-align: left;">ḥatnā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">bridegroom</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܟܠܬܐ</td>
+<td style="text-align: left;">kaltā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">bride</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܡܘܪܐ</td>
+<td style="text-align: left;">ʿammūrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">uncle (paternal)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܡܬܐ</td>
+<td style="text-align: left;">ʿammtā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">aunt (paternal)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܡܩܐ</td>
+<td style="text-align: left;">ʿammqā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">deep</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܦܠܛܐ</td>
+<td style="text-align: left;">palṭā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">escape, safety</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܬܝܪܐ</td>
+<td style="text-align: left;">ʿattīrā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">rich, mighty</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܣܟܢܐ</td>
+<td style="text-align: left;">meskennā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">poor, humble</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓܒܘܪܐ</td>
+<td style="text-align: left;">gibbōrā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">mighty, strong</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܠܝܠܐ</td>
+<td style="text-align: left;">qallīlā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">small, few</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܝܚܝܕܐ</td>
+<td style="text-align: left;">yḥīddā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">alone, unique</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܕܠܐ</td>
+<td style="text-align: left;">ʿaddālā</td>
+<td style="text-align: left;">m. adj</td>
+<td style="text-align: left;">just, righteous</td>
 <td style="text-align: left;"></td>
 </tr>
 </tbody>

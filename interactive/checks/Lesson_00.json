@@ -1,0 +1,43 @@
+[
+{"after":6,"q":"Exercise 1. Put these letters in their Abgad order: ܓ , ܐ , ܒ","opts":[
+ ["ܐ , ܒ , ܓ (A-B-G)","Right: Alaph, Beth, Gamal begin the alphabet."],
+ ["ܓ , ܒ , ܐ","That reverses the order; Alaph comes first."],
+ ["ܒ , ܐ , ܓ","Alaph (ܐ) precedes Beth (ܒ)."],
+ ["ܐ , ܓ , ܒ","Beth (ܒ) precedes Gamal (ܓ)."]]},
+{"after":6,"q":"Exercise 1. Put these letters in their Abgad order: ܝ , ܚ , ܛ","opts":[
+ ["ܚ , ܛ , ܝ (Ḥ-Ṭ-Y)","Right: Ḥeth, Ṭeth, Yodh are letters 8–10."],
+ ["ܝ , ܛ , ܚ","That is reversed."],
+ ["ܛ , ܚ , ܝ","Ḥeth (ܚ) comes before Ṭeth (ܛ)."],
+ ["ܚ , ܝ , ܛ","Ṭeth (ܛ) comes before Yodh (ܝ)."]]},
+{"after":6,"q":"Exercise 1. Put these letters in their Abgad order: ܪ , ܩ , ܫ","opts":[
+ ["ܩ , ܪ , ܫ (Q-R-Š)","Right: Qoph, Resh, Shin are letters 19–21."],
+ ["ܫ , ܩ , ܪ","Shin is the second-to-last letter, after Resh."],
+ ["ܪ , ܩ , ܫ","Qoph (ܩ) precedes Resh (ܪ)."],
+ ["ܩ , ܫ , ܪ","Resh (ܪ) precedes Shin (ܫ)."]]},
+{"after":6,"q":"Exercise 2. In <span lang=\"syc\">ܢܘܗܪܐ</span> (<em>nūhrā</em>, “light”), which letters are non-joiners (they do not connect to the letter on their left)?","opts":[
+ ["ܘ (Waw), ܗ (He), ܪ (Resh), ܐ (Alaph)","Right: all four stop the cursive connection to the left."],
+ ["ܢ (Nun) only","Nun joins on both sides."],
+ ["ܘ (Waw) and ܪ (Resh) only","He (ܗ) and Alaph (ܐ) are also non-joiners."],
+ ["ܢ (Nun) and ܐ (Alaph)","Nun is a dual-joiner."]],
+ "explain":"The Syriac non-joiners are ܐ ܕ ܗ ܘ ܙ ܨ ܪ ܬ."},
+{"after":6,"q":"Exercise 3. Write M-L-K-A (“king”) in Syriac letters.","opts":[
+ ["ܡܠܟܐ","Right."],
+ ["ܐܠܗܐ","That is A-L-H-A, “God.”"],
+ ["ܡܠܬܐ","That is M-L-T-A, “word.”"],
+ ["ܢܠܟܐ","The first letter should be Mim (ܡ), not Nun (ܢ)."]]},
+{"after":6,"q":"Exercise 3. Write A-L-H-A (“God”) in Syriac letters.","opts":[
+ ["ܐܠܗܐ","Right."],
+ ["ܐܠܚܐ","The third letter is He (ܗ), not Ḥeth (ܚ)."],
+ ["ܡܠܟܐ","That is “king.”"],
+ ["ܐܪܥܐ","That is “earth.”"]]},
+{"after":6,"q":"Exercise 3. Write Y-W-Ḥ-N-N (Yukhannan, “John”) in Syriac letters.","opts":[
+ ["ܝܘܚܢܢ","Right."],
+ ["ܝܘܗܢܢ","The third letter is Ḥeth (ܚ), not He (ܗ)."],
+ ["ܝܘܚܢ","There are two Nuns at the end."],
+ ["ܢܢܚܘܝ","That is the right letters in the wrong order; Syriac is written right to left starting with Yodh."]]},
+{"after":6,"q":"Exercise 4. Reading <span lang=\"syc\">ܐܠܗܐ</span>, which letter do you read first?","opts":[
+ ["The letter on the far right (ܐ, Alaph)","Right: Syriac runs right to left."],
+ ["The letter on the far left","That is the last letter; Syriac runs right to left."],
+ ["The tallest letter (ܠ, Lamadh)","Order depends on direction, not height."],
+ ["The He (ܗ)","He is the third letter read."]]}
+]

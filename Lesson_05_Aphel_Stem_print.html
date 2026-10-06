@@ -8,41 +8,75 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
+  <link rel="stylesheet" href="syriac_print.css" />
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">The Acts of Mar Yukhannan</h1>
 </header>
 <h2 id="lesson-5">LESSON 5</h2>
-<h3 id="the-aphel-stem-divine-action-causative-verbs">The Aphel Stem: Divine Action &amp; Causative Verbs</h3>
-<p><span dir="rtl">ܐܦܥܠ</span> <em>ʾaphel</em></p>
-<p><em>Greek · Latin · Arabic · Hebrew cross-references throughout</em></p>
-<h4 id="section-1-review-of-lessons-14">Section 1: Review of Lessons 1–4</h4>
+<h3 id="the-aphel-stem-divine-action-causative-verbs">The Aphel Stem:
+Divine Action &amp; Causative Verbs</h3>
+<p>ܐܦܥܠ <em>ʾaphel</em></p>
+<h4 id="section-1-review-of-lessons-14">Section 1: Review of Lessons
+1–4</h4>
 <p><strong>Quick Summary</strong></p>
-<p>Before diving into the Aphel stem, let's review the foundational material from the first four lessons:</p>
+<p>Before diving into the Aphel stem, let’s review the foundational
+material from the first four lessons:</p>
 <ul>
-<li><p>Lesson 1: The Syriac alphabet (Estrangela), vowel pointing (<em>seyame</em>, <em>rukkakha</em>), and syllable structure. The triconsonantal root system as the backbone of all Semitic vocabulary.</p></li>
-<li><p>Lesson 2: The Peal stem — the basic (ground) stem, equivalent to Hebrew Qal, Arabic Form I. The perfect (suffix conjugation) and imperfect (prefix conjugation) of the root <span dir="rtl">ܟܬܒ</span> (<em>k-t-b</em>, 'write').</p></li>
-<li><p>Lesson 3: The Syriac noun system — absolute, emphatic, and construct states. Gender (masculine/feminine), number (singular/plural). The emphatic state as the ordinary determinate form (like the Arabic definite article).</p></li>
-<li><p>Lesson 4: The Peal participle (active and passive), prepositions and their pronominal suffixes, and basic clause structure including the Syriac verbless clause for equational statements.</p></li>
+<li><p>Lesson 0: The Estrangela alphabet, letter order, and the
+non-joining letters.</p></li>
+<li><p>Lesson 1: The noun system (gender, number, and the absolute,
+construct, and emphatic states), independent pronouns, verbless clauses,
+and the particles <em>d-</em> (relative/possessive) and <em>l-</em>
+(to/for, direct object).</p></li>
+<li><p>Lesson 2: The Peal stem and its active participle. With enclitic
+pronouns, the participle forms the narrative present (<em>kāteb-nā</em>,
+“I am writing”).</p></li>
+<li><p>Lesson 3: The Peal perfect (suffix conjugation) of ܟܬܒ
+(<em>k-t-b</em>, ‘write’), V-S-O narrative word order, and the
+conjunction <em>w-</em>.</p></li>
+<li><p>Lesson 4: Pronominal suffixes on nouns and prepositions, and the
+idiom <em>ʾit l-</em> for “to have”.</p></li>
 </ul>
 <p><strong>5-Question Warm-Up Drill</strong></p>
-<p>Answer these questions using what you've learned. Answers are in Section 9.</p>
+<p>Answer these questions using what you’ve learned. Answers are in
+Section 9.</p>
 <ol type="1">
-<li><p><span dir="rtl">ܟܬܒ</span> — Give the 3rd m.sg. Peal perfect and its meaning.</p></li>
-<li><p>What are the three states of the Syriac noun? Give an example of each.</p></li>
-<li><p>Translate: <span dir="rtl">ܗܘ ܪܒܐ ܗܘ</span> (<em>hū rabbā hū</em>)</p></li>
-<li><p>What does the Peal active participle of <span dir="rtl">ܐܙܠ</span> (<em>ʾ-z-l</em>, 'go') look like, m.sg.?</p></li>
-<li><p>Identify the root and stem of the form <span dir="rtl">ܟܬܒܬ</span> (<em>ketbat</em>)</p></li>
+<li><p>ܟܬܒ — Give the 3rd m.sg. Peal perfect and its meaning.</p></li>
+<li><p>What are the three states of the Syriac noun? Give an example of
+each.</p></li>
+<li><p>Translate: ܗܘ ܪܒܐ ܗܘ (<em>hū rabbā hū</em>)</p></li>
+<li><p>What does the Peal active participle of ܐܙܠ (<em>ʾ-z-l</em>,
+‘go’) look like, m.sg.?</p></li>
+<li><p>Identify the root and stem of the form ܟܬܒܬ
+(<em>ketbat</em>)</p></li>
 </ol>
-<h4 id="section-2-the-derived-stems-overview">Section 2: The Derived Stems — Overview</h4>
-<p>One of the most powerful features of Semitic languages — shared by Syriac, Hebrew, and Arabic — is the system of <strong>derived verbal stems</strong>. A single three-consonant root can generate multiple verbs with systematically related meanings, simply by modifying the vowel pattern and/or adding prefixes or affixes.</p>
-<p>This is very different from Greek or Latin, where related meanings usually require entirely different words. In Syriac, once you know a root, you already know the building blocks of an entire semantic family.</p>
+<h4 id="section-2-the-derived-stems-overview">Section 2: The Derived
+Stems — Overview</h4>
+<p>One of the most powerful features of Semitic languages — shared by
+Syriac, Hebrew, and Arabic — is the system of <strong>derived verbal
+stems</strong>. A single three-consonant root can generate multiple
+verbs with systematically related meanings, simply by modifying the
+vowel pattern and/or adding prefixes or affixes.</p>
+<p>This is very different from Greek or Latin, where related meanings
+usually require entirely different words. In Syriac, once you know a
+root, you already know the building blocks of an entire semantic
+family.</p>
 <p><strong>The Three Major Active Stems</strong></p>
 <table style="width:97%;">
 <colgroup>
@@ -62,24 +96,27 @@
 <td><strong>Peal</strong></td>
 <td style="text-align: center;">Basic vowel pattern</td>
 <td style="text-align: left;">Basic action / state</td>
-<td style="text-align: center;"><span dir="rtl">ܟܬܒ</span> <em>— katab, 'he wrote'</em></td>
+<td style="text-align: center;">ܟܬܒ <em>— katab, ‘he wrote’</em></td>
 </tr>
 <tr class="odd">
 <td><strong>Paael</strong></td>
 <td style="text-align: center;">Middle root letter doubled</td>
 <td style="text-align: left;">Intensive / Factitive</td>
-<td style="text-align: center;"><span dir="rtl">ܩܕܫ</span> <em>— qaddaš, 'he sanctified'</em></td>
+<td style="text-align: center;">ܩܕܫ <em>— qaddaš, ‘he
+sanctified’</em></td>
 </tr>
 <tr class="even">
 <td><strong>Aphel</strong></td>
 <td style="text-align: center;">ʾa- prefix added</td>
 <td style="text-align: left;">Causative</td>
-<td style="text-align: center;"><span dir="rtl">ܐܚܝܝ</span> <em>— ʾaḥyī, 'he caused to live'</em></td>
+<td style="text-align: center;">ܐܚܝܝ <em>— ʾaḥyī, ‘he caused to
+live’</em></td>
 </tr>
 </tbody>
 </table>
 <p><strong>Cross-Linguistic Comparison</strong></p>
-<p>For those coming from Hebrew or Arabic, these correspondences will look familiar:</p>
+<p>For those coming from Hebrew or Arabic, these correspondences will
+look familiar:</p>
 <table style="width:97%;">
 <colgroup>
 <col style="width: 23%" />
@@ -114,20 +151,42 @@
 </tr>
 </tbody>
 </table>
-<p>For learners with a Greek background: Greek uses <strong>voice</strong> (active, middle, passive) and <strong>aspect</strong> to express some of these distinctions, but there is no exact parallel to the Semitic derived stem system. The Greek causative construction (e.g., <em>ποιεῖν + infinitive</em>) expresses what the Aphel does morphologically. Latin similarly uses circumlocutions (<em>facere + infinitive</em>) or prefix verbs for some causative senses.</p>
+<p>For learners with a Greek background: Greek uses
+<strong>voice</strong> (active, middle, passive) and
+<strong>aspect</strong> to express some of these distinctions, but there
+is no exact parallel to the Semitic derived stem system. The Greek
+causative construction (e.g., <em>ποιεῖν + infinitive</em>) expresses
+what the Aphel does morphologically. Latin similarly uses
+circumlocutions (<em>facere + infinitive</em>) or prefix verbs for some
+causative senses.</p>
 <h4 id="section-3-the-aphel-stem">Section 3: The Aphel Stem</h4>
 <p><strong>Core Meaning: Causative</strong></p>
-<p>The Aphel stem expresses <strong>causative</strong> action — 'to <em>cause</em> X to happen' or 'to <em>make</em> X do Y.' In theological language, this is the stem of divine action: God <em>ʾaḥyī</em> (gave life), God <em>ʾaglī</em> (revealed), God <em>ʾaqreb</em> (brought near).</p>
+<p>The Aphel stem expresses <strong>causative</strong> action — ‘to
+<em>cause</em> X to happen’ or ‘to <em>make</em> X do Y.’ In theological
+language, this is the stem of divine action: God <em>ʾaḥyī</em> (gave
+life), God <em>ʾaglī</em> (revealed), God <em>ʾaqreb</em> (brought
+near).</p>
 <p><strong>Formation</strong></p>
 <ul>
-<li><p><strong>Perfect:</strong> ʾa- prefix + CeCC pattern (same person suffixes as Peal perfect)</p></li>
-<li><p><strong>Participle:</strong> m- prefix + CaCC-eC pattern (cf. Peal participle)</p></li>
+<li><p><strong>Perfect:</strong> ʾa- prefix + CeCC pattern (same person
+suffixes as Peal perfect)</p></li>
+<li><p><strong>Participle:</strong> m- prefix + CaCC-eC pattern
+(cf. Peal participle)</p></li>
 </ul>
 <p><strong>Comparison with Other Languages</strong></p>
 <ul>
-<li><p><strong>Hebrew Hiphil:</strong> prefix הִ/הֶ (hi-/he-) added to the root. E.g., <em>ḥāyāh</em> (live) → <em>heḥĕyāh</em> (give life); <em>qārab</em> (draw near) → <em>hiqrīb</em> (bring near/offer). The structural parallel to Syriac Aphel is very close.</p></li>
-<li><p><strong>Arabic Form IV:</strong> ʾa- prefix + CaCaCa → ʾaCCaCa. E.g., <em>ḫaraja</em> (go out) → <em>ʾaḫraja</em> (bring out); <em>qāraba</em> (approach) → <em>ʾaqraba</em> (bring near). The Syriac Aphel prefix ʾa- is cognate with Arabic Form IV.</p></li>
-<li><p><strong>Greek/Latin:</strong> No direct morphological equivalent. Greek uses prefix verbs (e.g., <em>ζωοποιεῖν</em>, 'to give life') or constructions with ποιεῖν + inf. Latin uses <em>facere + infinitive</em> or prefix verbs.</p></li>
+<li><p><strong>Hebrew Hiphil:</strong> prefix הִ/הֶ (hi-/he-) added to the
+root. E.g., <em>ḥāyāh</em> (live) → <em>heḥĕyāh</em> (give life);
+<em>qārab</em> (draw near) → <em>hiqrīb</em> (bring near/offer). The
+structural parallel to Syriac Aphel is very close.</p></li>
+<li><p><strong>Arabic Form IV:</strong> ʾa- prefix + CaCaCa → ʾaCCaCa.
+E.g., <em>ḫaraja</em> (go out) → <em>ʾaḫraja</em> (bring out);
+<em>qāraba</em> (approach) → <em>ʾaqraba</em> (bring near). The Syriac
+Aphel prefix ʾa- is cognate with Arabic Form IV.</p></li>
+<li><p><strong>Greek/Latin:</strong> No direct morphological equivalent.
+Greek uses prefix verbs (e.g., <em>ζωοποιεῖν</em>, ‘to give life’) or
+constructions with ποιεῖν + inf. Latin uses <em>facere + infinitive</em>
+or prefix verbs.</p></li>
 </ul>
 <p><strong>Aphel Examples: Peal → Aphel</strong></p>
 <table style="width:98%;">
@@ -149,44 +208,48 @@
 <td style="text-align: center;"><strong>Aphel Meaning</strong></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܚܝܝ</span></td>
-<td style="text-align: center;"><em>ḥ-y-y</em></td>
-<td style="text-align: center;">'to live' (Peal)</td>
-<td style="text-align: center;"><span dir="rtl">ܐܚܝܝ</span></td>
-<td style="text-align: center;"><em>ʾaḥyī</em></td>
-<td style="text-align: center;">'to give life, save'</td>
+<td style="text-align: center;">ܚܝܝ <em>ḥ-y-y</em> ’t</td>
+<td style="text-align: center;">o live’ ܐܚ</td>
+<td style="text-align: center;">ܝܝ *ʾaḥyī (Peal)</td>
+<td style="text-align: center;">* ’to give lif</td>
+<td style="text-align: center;">e,</td>
+<td style="text-align: center;">save’</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܩܪܒ</span></td>
-<td style="text-align: center;"><em>q-r-b</em></td>
-<td style="text-align: center;">'to draw near' (Peal)</td>
-<td style="text-align: center;"><span dir="rtl">ܐܩܪܒ</span></td>
-<td style="text-align: center;"><em>ʾaqreb</em></td>
-<td style="text-align: center;">'to bring near, offer'</td>
+<td style="text-align: center;">ܩܪܒ <em>q-r-b</em> ’</td>
+<td style="text-align: center;">to draw ܐ</td>
+<td style="text-align: center;">ܩܪܒ *ʾaqr near’ (Peal)</td>
+<td style="text-align: center;">eb* ’to bring ne</td>
+<td style="text-align: center;">ar,</td>
+<td style="text-align: center;">offer’</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܦܩ</span></td>
-<td style="text-align: center;"><em>p-q</em></td>
-<td style="text-align: center;">'to go out' (Peal)</td>
-<td style="text-align: center;"><span dir="rtl">ܐܦܩ</span></td>
-<td style="text-align: center;"><em>ʾappiq</em></td>
-<td style="text-align: center;">'to bring out, produce'</td>
+<td style="text-align: center;">ܦܩ <em>n-p-q</em></td>
+<td style="text-align: center;">’to go</td>
+<td style="text-align: center;">ܐܦܩ *ʾa out’ (Peal)</td>
+<td style="text-align: center;">ppeq* ’to bring</td>
+<td style="text-align: center;">out,</td>
+<td style="text-align: center;">produce’</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܢܦܠ</span></td>
-<td style="text-align: center;"><em>n-p-l</em></td>
-<td style="text-align: center;">'to fall' (Peal)</td>
-<td style="text-align: center;"><span dir="rtl">ܐܦܠ</span></td>
-<td style="text-align: center;"><em>ʾappel</em></td>
-<td style="text-align: center;">'to cause to fall, throw down'</td>
+<td style="text-align: center;">ܢܦܠ <em>n-p-l</em> ’t</td>
+<td style="text-align: center;">o fall’ ܐܦ</td>
+<td style="text-align: center;">ܠ *ʾappe (Peal)</td>
+<td style="text-align: center;">l* ’to cause to f</td>
+<td style="text-align: center;">all,</td>
+<td style="text-align: center;">throw down’</td>
 </tr>
 </tbody>
 </table>
 <p><strong>The ʾAlap-Lamed-Peh Root (ʾ-l-p) in the Aphel</strong></p>
-<p>The root <span dir="rtl">ܐܠܦ</span> (<em>ʾ-l-p</em>) means 'learn' in the Peal stem. In the Aphel, it means <strong>'to teach'</strong> — that is, 'to cause someone to learn.' This root will be used for all paradigm tables in Sections 4–5.</p>
-<h4 id="section-4-aphel-perfect-paradigm">Section 4: Aphel Perfect Paradigm</h4>
-<p><strong>Root: ʾ-l-p | Stem: Aphel | Meaning: 'to teach'</strong></p>
-<p><span dir="rtl">ܐܦܥܠ</span> <strong>Perfect — Full Conjugation</strong></p>
+<p>The root ܐܠܦ (<em>ʾ-l-p</em>) means ‘learn’ in the Peal stem. In the
+Aphel, it means <strong>‘to teach’</strong> — that is, ‘to cause someone
+to learn.’ This root will be used for all paradigm tables in Sections
+4–5.</p>
+<h4 id="section-4-aphel-perfect-paradigm">Section 4: Aphel Perfect
+Paradigm</h4>
+<p><strong>Root: ʾ-l-p | Stem: Aphel | Meaning: ‘to teach’</strong></p>
+<p>ܐܦܥܠ <strong>Perfect — Full Conjugation</strong></p>
 <table style="width:98%;">
 <colgroup>
 <col style="width: 14%" />
@@ -203,75 +266,81 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>3 m.sg.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦ</span></td>
-<td style="text-align: center;"><em>ʾallep</em></td>
-<td style="text-align: center;">he taught</td>
+<td style="text-align: center;">ܐܠܦ <em>ʾalep</em></td>
+<td style="text-align: center;">he ta</td>
+<td style="text-align: center;">ught</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><strong>3 f.sg.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬ</span></td>
-<td style="text-align: center;"><em>ʾallpat</em></td>
-<td style="text-align: center;">she taught</td>
+<td style="text-align: center;">ܐܠܦܬ *ʾallpa</td>
+<td style="text-align: center;">t* she</td>
+<td style="text-align: center;">taught</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>2 m.sg.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬ</span></td>
-<td style="text-align: center;"><em>ʾallept</em></td>
-<td style="text-align: center;">you (m.sg.) taught</td>
+<td style="text-align: center;">ܐܠܦܬ *ʾalept</td>
+<td style="text-align: center;">* you (m.sg</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><strong>2 f.sg.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬܝ</span></td>
-<td style="text-align: center;"><em>ʾallepti</em></td>
-<td style="text-align: center;">you (f.sg.) taught</td>
+<td style="text-align: center;">ܐܠܦܬܝ *ʾalepti</td>
+<td style="text-align: center;">* you (f.sg</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>1 c.sg.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬ</span></td>
-<td style="text-align: center;"><em>ʾallpet</em></td>
-<td style="text-align: center;">I taught</td>
+<td style="text-align: center;">ܐܠܦܬ *ʾallpe</td>
+<td style="text-align: center;">t* I t</td>
+<td style="text-align: center;">aught</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><strong>3 m.pl.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܘ</span></td>
-<td style="text-align: center;"><em>ʾallpū</em></td>
-<td style="text-align: center;">they (m.) taught</td>
+<td style="text-align: center;">ܐܠܦܘ *ʾallpū</td>
+<td style="text-align: center;">* they (m</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>3 f.pl.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܝ</span></td>
-<td style="text-align: center;"><em>ʾallpī</em></td>
-<td style="text-align: center;">they (f.) taught</td>
+<td style="text-align: center;">ܐܠܦܝ *ʾallpī</td>
+<td style="text-align: center;">* they (f</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><strong>2 m.pl.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬܘܢ</span></td>
-<td style="text-align: center;"><em>ʾalleptūn</em></td>
-<td style="text-align: center;">you (m.pl.) taught</td>
+<td style="text-align: center;">ܐܠܦܬܘܢ *ʾaleptū</td>
+<td style="text-align: center;">n* you (m.pl</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>2 f.pl.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܬܝܢ</span></td>
-<td style="text-align: center;"><em>ʾalleptin</em></td>
-<td style="text-align: center;">you (f.pl.) taught</td>
+<td style="text-align: center;">ܐܠܦܬܝܢ *ʾalepti</td>
+<td style="text-align: center;">n* you (f.pl</td>
+<td style="text-align: center;">.) taught</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><strong>1 c.pl.</strong></td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦܢ</span></td>
-<td style="text-align: center;"><em>ʾallpen</em></td>
-<td style="text-align: center;">we taught</td>
+<td style="text-align: center;">ܐܠܦܢ *ʾallpe</td>
+<td style="text-align: center;">n* we t</td>
+<td style="text-align: center;">aught</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Formation Notes:</strong></p>
 <ul>
-<li><p><strong>Prefix:</strong> ʾa- added before the root (3 m.sg.: ʾallep)</p></li>
-<li><p><strong>Root-internal vowel:</strong> e vowel between R2 and R3 in 3 m.sg.</p></li>
-<li><p><strong>Suffixes:</strong> Identical to Peal perfect suffixes (-at, -t, -ti, -et, -ū, -ī, -tūn, -tin, -n)</p></li>
-<li><p><strong>Note on gutturals:</strong> When R1 is Alaph (ʾ), assimilation or lengthening may occur in some forms</p></li>
+<li><p><strong>Prefix:</strong> ʾa- added before the root (3 m.sg.:
+ʾalep)</p></li>
+<li><p><strong>Root-internal vowel:</strong> e vowel between R2 and R3
+in 3 m.sg.</p></li>
+<li><p><strong>Suffixes:</strong> Identical to Peal perfect suffixes
+(-at, -t, -ti, -et, -ū, -ī, -tūn, -tin, -n)</p></li>
+<li><p><strong>Note on gutturals:</strong> When R1 is Alaph (ʾ),
+assimilation or lengthening may occur in some forms</p></li>
 </ul>
 <p><strong>Comparison: Hebrew Hiphil Perfect</strong></p>
-<p>The Hebrew Hiphil perfect is structurally parallel to the Syriac Aphel perfect, with a causative prefix (הִ- hi-/הֶ- he-) and essentially the same suffix set:</p>
+<p>The Hebrew Hiphil perfect is structurally parallel to the Syriac
+Aphel perfect, with a causative prefix (הִ- hi-/הֶ- he-) and essentially
+the same suffix set:</p>
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -300,8 +369,8 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">1 c.sg.</td>
-<td style="text-align: center;">הֶֽאֱמַנְתִּ</td>
-<td style="text-align: center;">י heʾĕmantī</td>
+<td style="text-align: center;">הֶֽאֱמַנְתִּי</td>
+<td style="text-align: center;">heʾĕmantī</td>
 <td style="text-align: center;">I believed</td>
 </tr>
 <tr class="odd">
@@ -313,7 +382,9 @@
 </tbody>
 </table>
 <p><strong>Comparison: Arabic Form IV Perfect</strong></p>
-<p>Arabic Form IV (ʾaCCaCa) is cognate with the Syriac Aphel. The prefix ʾa- and the causative meaning are identical; only the internal vowel pattern differs:</p>
+<p>Arabic Form IV (ʾaCCaCa) is cognate with the Syriac Aphel. The prefix
+ʾa- and the causative meaning are identical; only the internal vowel
+pattern differs:</p>
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -354,9 +425,13 @@
 </tr>
 </tbody>
 </table>
-<h4 id="section-5-aphel-participle-paradigm">Section 5: Aphel Participle Paradigm</h4>
-<p><strong>Root: ʾ-l-p | Stem: Aphel | Meaning: 'causing to learn / teaching'</strong></p>
-<p>The Aphel active participle expresses ongoing or habitual causative action. It also frequently serves as an adjective. The participle prefix is <strong>m-</strong> (as in all derived stems).</p>
+<h4 id="section-5-aphel-participle-paradigm">Section 5: Aphel Participle
+Paradigm</h4>
+<p><strong>Root: ʾ-l-p | Stem: Aphel | Meaning: ‘causing to learn /
+teaching’</strong></p>
+<p>The Aphel active participle expresses ongoing or habitual causative
+action. It also frequently serves as an adjective. The participle prefix
+is <strong>m-</strong> (as in all derived stems).</p>
 <table style="width:98%;">
 <colgroup>
 <col style="width: 16%" />
@@ -373,45 +448,59 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">m.sg. (active)</td>
-<td style="text-align: center;"><span dir="rtl">ܡܐܠܦ</span></td>
-<td style="text-align: center;">maʾlep</td>
-<td style="text-align: center;">teaching (m.sg.)</td>
+<td style="text-align: center;">ܡܐܠܦ maʾlep</td>
+<td style="text-align: center;">teaching</td>
+<td style="text-align: center;">(m.sg.)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">f.sg. (active)</td>
-<td style="text-align: center;"><span dir="rtl">ܡܐܠܦܐ</span></td>
-<td style="text-align: center;">maʾlpā</td>
-<td style="text-align: center;">teaching (f.sg.)</td>
+<td style="text-align: center;">ܡܐܠܦܐ maʾlpā</td>
+<td style="text-align: center;">teaching</td>
+<td style="text-align: center;">(f.sg.)</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">m.pl. (active)</td>
-<td style="text-align: center;"><span dir="rtl">ܡܐܠܦܝܢ</span></td>
-<td style="text-align: center;">maʾlpīn</td>
-<td style="text-align: center;">teaching (m.pl.)</td>
+<td style="text-align: center;">ܡܐܠܦܝܢ maʾlpī</td>
+<td style="text-align: center;">n teaching</td>
+<td style="text-align: center;">(m.pl.)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">f.pl. (active)</td>
-<td style="text-align: center;"><span dir="rtl">ܡܐܠܦܢ</span></td>
-<td style="text-align: center;">maʾlpān</td>
-<td style="text-align: center;">teaching (f.pl.)</td>
+<td style="text-align: center;">ܡܐܠܦܢ maʾlpā</td>
+<td style="text-align: center;">n teaching</td>
+<td style="text-align: center;">(f.pl.)</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Formation Notes</strong></p>
 <ul>
-<li><p><strong>Prefix:</strong> m- added before the root (same prefix as Paael and other derived-stem participles)</p></li>
-<li><p><strong>Vowel pattern:</strong> maʾ- + R2 + vowel + R3 (cf. Peal participle kāteb → Aphel maʾlep)</p></li>
-<li><p><strong>Gender/number suffixes:</strong> Same as all Syriac participles: m.sg. (unmarked), f.sg. (-ā), m.pl. (-īn), f.pl. (-ān)</p></li>
+<li><p><strong>Prefix:</strong> m- added before the root (same prefix as
+Paael and other derived-stem participles)</p></li>
+<li><p><strong>Vowel pattern:</strong> maʾ- + R2 + vowel + R3 (cf. Peal
+participle kāteb → Aphel maʾlep)</p></li>
+<li><p><strong>Gender/number suffixes:</strong> Same as all Syriac
+participles: m.sg. (unmarked), f.sg. (-ā), m.pl. (-īn), f.pl.
+(-ān)</p></li>
 </ul>
 <p><strong>Comparison with Hebrew and Arabic</strong></p>
-<p><strong>Hebrew Hiphil participle:</strong> prefix מַ/מֵ (ma-/me-). E.g., <em>maʾămīn</em> (believing/trusting — from ʾ-m-n Hiphil). The m- participle prefix is pan-Semitic.</p>
-<p><strong>Arabic Form IV active participle:</strong> pattern muCCiC. E.g., <em>mursil</em> (sending/sender — from ʾarsala). Note the Arabic Form IV participle has the vowel shift u-i, while Syriac uses a-e.</p>
+<p><strong>Hebrew Hiphil participle:</strong> prefix מַ/מֵ (ma-/me-).
+E.g., <em>maʾămīn</em> (believing/trusting — from ʾ-m-n Hiphil). The m-
+participle prefix is pan-Semitic.</p>
+<p><strong>Arabic Form IV active participle:</strong> pattern muCCiC.
+E.g., <em>mursil</em> (sending/sender — from ʾarsala). Note the Arabic
+Form IV participle has the vowel shift u-i, while Syriac uses a-e.</p>
 <blockquote>
-<p><strong>KEY PATTERN: In all Syriac derived stems, the participle prefix is m-. This is one of the most consistent features of Syriac verbal morphology. If you see a verb beginning with m- that is not a Peal form, suspect a derived-stem participle.</strong></p>
+<p><strong>KEY PATTERN: In all Syriac derived stems, the participle
+prefix is m-. This is one of the most consistent features of Syriac
+verbal morphology. If you see a verb beginning with m- that is not a
+Peal form, suspect a derived-stem participle.</strong></p>
 </blockquote>
-<h4 id="section-6-theological-vocabulary">Section 6: Theological Vocabulary</h4>
+<h4 id="section-6-theological-vocabulary">Section 6: Theological
+Vocabulary</h4>
 <p><strong>Abstract Nouns and Key Theological Terms</strong></p>
-<p>The following twenty terms form the core theological vocabulary of early Syriac Christianity. Many are abstract nouns derived from the same roots as the verbs you are learning.</p>
+<p>The following twenty terms form the core theological vocabulary of
+early Syriac Christianity. Many are abstract nouns derived from the same
+roots as the verbs you are learning.</p>
 <table style="width:98%;">
 <colgroup>
 <col style="width: 24%" />
@@ -427,124 +516,132 @@
 <td style="text-align: center;"><strong>Notes</strong></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܚܝܐ / ܦܘܪܩܢܐ</span></td>
-<td style="text-align: center;">ḥayye / purqānā</td>
-<td style="text-align: center;">salvation / life</td>
-<td style="text-align: center;">Two overlapping terms; ḥayye (life/lives, pl.) often = 'eternal life'; purqānā = 'redemption'</td>
+<td style="text-align: center;">ܚܝܐ / ܦܘܪܩܢܐ</td>
+<td style="text-align: center;">ḥayye / purqānā s</td>
+<td style="text-align: center;">alvation / life (life/li</td>
+<td style="text-align: center;">Two overlapping terms; ḥayye ves, pl.)
+often = ‘eternal life’; purqānā = ‘redemption’</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܓܠܝܐ</span></td>
-<td style="text-align: center;">glāyā</td>
-<td style="text-align: center;">revelation, disclosure</td>
-<td style="text-align: center;">From Aphel ʾaglī; cf. Gk apokalypsis, Lat revelatio</td>
+<td style="text-align: center;">ܓܠܝܐ glāyā</td>
+<td style="text-align: center;">revelation,</td>
+<td style="text-align: center;">From Aphe disclosure</td>
+<td style="text-align: center;">l ʾaglī; cf. Gk apokalypsis, Lat
+revelatio</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܫܕܪܐ</span></td>
-<td style="text-align: center;">šedārā</td>
-<td style="text-align: center;">sending, mission</td>
-<td style="text-align: center;">From šadar; cf. Heb shāliaḥ (envoy), Gk apostolos</td>
+<td style="text-align: center;">ܫܕܪܐ šedārā</td>
+<td style="text-align: center;">sending, miss</td>
+<td style="text-align: center;">ion From šadar</td>
+<td style="text-align: center;">; cf. Heb šāliaḥ (envoy), Gk
+apostolos</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܒܪܝܬܐ</span></td>
-<td style="text-align: center;">brīttā</td>
+<td style="text-align: center;">ܒܪܝܬܐ brīttā</td>
 <td style="text-align: center;">creation</td>
-<td style="text-align: center;">From Peal brā; cf. Heb bārāʾ, Gen 1:1</td>
+<td style="text-align: center;">From Peal brā</td>
+<td style="text-align: center;">; cf. Heb bārāʾ, Gen 1:1</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܪܚܡܐ</span></td>
-<td style="text-align: center;">raḥmē</td>
-<td style="text-align: center;">mercy, compassion</td>
-<td style="text-align: center;">Pl. of raḥmā; cognate with Heb raḥămīm, Arabic raḥma</td>
+<td style="text-align: center;">ܪܚܡܐ raḥmē</td>
+<td style="text-align: center;">mercy,</td>
+<td style="text-align: center;">Pl. of raḥmā compassion</td>
+<td style="text-align: center;">; cognate with Heb raḥămīm, Arabic
+raḥma</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܕܝܢܐ</span></td>
-<td style="text-align: center;">dīnā</td>
+<td style="text-align: center;">ܕܝܢܐ dīnā</td>
 <td style="text-align: center;">judgment</td>
-<td style="text-align: center;">Cf. Heb dīn (legal judgment), Arabic dīn (religion/judgment)</td>
+<td style="text-align: center;">Cf. Heb dīn</td>
+<td style="text-align: center;">(legal judgment), Arabic dīn
+(religion/judgment)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܫܘܒܚܐ</span></td>
-<td style="text-align: center;">šūbḥā</td>
-<td style="text-align: center;">glory, praise</td>
-<td style="text-align: center;">Cf. Heb kābōd; used in doxologies</td>
+<td style="text-align: center;">ܫܘܒܚܐ šūbḥā</td>
+<td style="text-align: center;">glory, prais</td>
+<td style="text-align: center;">e Cf. Heb kābōd</td>
+<td style="text-align: center;">; used in doxologies</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܛܝܒܘܬܐ</span></td>
-<td style="text-align: center;">ṭaybūttā</td>
-<td style="text-align: center;">grace, goodness</td>
-<td style="text-align: center;">Abstract noun from ṭāb (good); cf. Gk charis, Latin gratia</td>
+<td style="text-align: center;">ܛܝܒܘܬܐ ṭaybūtt</td>
+<td style="text-align: center;">ā grace, goodne</td>
+<td style="text-align: center;">ss Abstract nou</td>
+<td style="text-align: center;">n from ṭāb (good); cf. Gk charis, Latin
+gratia</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܗܝܡܢܘܬܐ</span></td>
-<td style="text-align: center;">haymānūttā</td>
-<td style="text-align: center;">faith, trust</td>
-<td style="text-align: center;">Abstract noun from hayman; cf. Heb ʾĕmūnāh</td>
+<td style="text-align: center;">ܗܝܡܢܘܬܐ haymānūt</td>
+<td style="text-align: center;">tā faith, trus</td>
+<td style="text-align: center;">t Abstract nou</td>
+<td style="text-align: center;">n from hayman; cf. Heb ʾĕmūnāh</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܟܐܢܘܬܐ</span></td>
-<td style="text-align: center;">kēnūttā</td>
-<td style="text-align: center;">righteousness, justice</td>
-<td style="text-align: center;">Cf. Gk dikaiosynē, Heb ṣĕdāqāh</td>
+<td style="text-align: center;">ܟܐܢܘܬܐ kēnūtt</td>
+<td style="text-align: center;">ā righteousnes</td>
+<td style="text-align: center;">s, Cf. Gk dikai justice</td>
+<td style="text-align: center;">osynē, Heb ṣĕdāqāh</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܚܛܝܬܐ</span></td>
-<td style="text-align: center;">ḥṭīttā</td>
-<td style="text-align: center;">sin, transgression</td>
-<td style="text-align: center;">Cf. Gk hamartia, Heb ḥēṭ</td>
+<td style="text-align: center;">ܚܛܝܬܐ ḥṭīttā</td>
+<td style="text-align: center;">sin,</td>
+<td style="text-align: center;">Cf. Gk ha transgression</td>
+<td style="text-align: center;">martia, Heb ḥēṭ</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܡܥܡܘܕܝܬܐ</span></td>
-<td style="text-align: center;">maʿmūdīttā</td>
-<td style="text-align: center;">baptism</td>
-<td style="text-align: center;">Lit. 'immersion'; from ʿ-m-d; cf. Gk baptisma</td>
+<td style="text-align: center;">ܡܥܡܘܕܝܬܐ maʿmūdīt</td>
+<td style="text-align: center;">tā baptism</td>
+<td style="text-align: center;">Lit. ’immers</td>
+<td style="text-align: center;">ion’; from ʿ-m-d; cf. Gk baptisma</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܨܠܘܬܐ</span></td>
-<td style="text-align: center;">ṣlūttā</td>
+<td style="text-align: center;">ܨܠܘܬܐ ṣlūttā</td>
 <td style="text-align: center;">prayer</td>
-<td style="text-align: center;">From ṣ-l-y; cf. Heb tefillah</td>
+<td style="text-align: center;">From ṣ-l-y;</td>
+<td style="text-align: center;">cf. Heb tefillah</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܐܘܠܦܢܐ</span></td>
-<td style="text-align: center;">ʾūlpānā</td>
-<td style="text-align: center;">teaching, instruction</td>
-<td style="text-align: center;">Abstract noun from Aphel ʾallep</td>
+<td style="text-align: center;">ܐܘܠܦܢܐ ʾūlpān</td>
+<td style="text-align: center;">ā teaching,</td>
+<td style="text-align: center;">Abstract nou instruction</td>
+<td style="text-align: center;">n from Aphel ʾalep</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܢܒܘܬܐ</span></td>
-<td style="text-align: center;">nebūttā</td>
-<td style="text-align: center;">prophecy</td>
-<td style="text-align: center;">From n-b-y; cf. Heb nĕbūʾāh, Gk prophēteia</td>
+<td style="text-align: center;">ܢܒܘܬܐ nebūtt</td>
+<td style="text-align: center;">ā prophecy</td>
+<td style="text-align: center;">From n-b-y;</td>
+<td style="text-align: center;">cf. Heb nĕbūʾāh, Gk prophēteia</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܩܝܡܐ</span></td>
-<td style="text-align: center;">qyāmā</td>
-<td style="text-align: center;">covenant, resurrection</td>
-<td style="text-align: center;">Double meaning: covenant (cf. Heb bĕrīt) and resurrection</td>
+<td style="text-align: center;">ܩܝܡܐ qyāmā</td>
+<td style="text-align: center;">covenant,</td>
+<td style="text-align: center;">Double meanin resurrection</td>
+<td style="text-align: center;">g: covenant (cf. Heb bĕrīt) and
+resurrection</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܟܬܒܐ</span></td>
-<td style="text-align: center;">ktābā</td>
-<td style="text-align: center;">scripture, writing</td>
-<td style="text-align: center;">From k-t-b; cf. Arabic kitāb, Hebrew kĕtābīm</td>
+<td style="text-align: center;">ܟܬܒܐ ktābā</td>
+<td style="text-align: center;">scripture,</td>
+<td style="text-align: center;">From k-t-b; writing</td>
+<td style="text-align: center;">cf. Arabic kitāb, Hebrew kĕtābīm</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܒܘܪܟܬܐ</span></td>
-<td style="text-align: center;">būrktā</td>
+<td style="text-align: center;">ܒܘܪܟܬܐ būrktā</td>
 <td style="text-align: center;">blessing</td>
-<td style="text-align: center;">From b-r-k; cf. Heb bĕrākāh, Arabic baraka</td>
+<td style="text-align: center;">From b-r-k;</td>
+<td style="text-align: center;">cf. Heb bĕrākāh, Arabic baraka</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܪܘܚܐ</span></td>
-<td style="text-align: center;">rūḥā</td>
-<td style="text-align: center;">spirit, wind, breath</td>
-<td style="text-align: center;">f. noun; cf. Heb rūaḥ, Arabic rūḥ, Gk pneuma</td>
+<td style="text-align: center;">ܪܘܚܐ rūḥā</td>
+<td style="text-align: center;">spirit, wind</td>
+<td style="text-align: center;">, f. noun; cf breath</td>
+<td style="text-align: center;">. Heb rūaḥ, Arabic rūḥ, Gk pneuma</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܫܪܪܐ</span></td>
-<td style="text-align: center;">šrārā</td>
-<td style="text-align: center;">truth, reality</td>
-<td style="text-align: center;">Cf. Heb ʾĕmet, Gk alētheia; šrār = 'to be firm/true'</td>
+<td style="text-align: center;">ܫܪܪܐ šrārā</td>
+<td style="text-align: center;">truth, reali</td>
+<td style="text-align: center;">ty Cf. Heb ʾĕmet</td>
+<td style="text-align: center;">, Gk alētheia; šrār = ‘to be
+firm/true’</td>
 </tr>
 </tbody>
 </table>
@@ -566,141 +663,177 @@
 <td style="text-align: center;"><strong>Usage Note</strong></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܐܚܝܝ</span></td>
-<td style="text-align: center;">ʾaḥyī</td>
+<td style="text-align: center;">ܐܚܝܝ ʾaḥyī</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to save, give life</td>
-<td style="text-align: center;">Causative of ḥ-y-y (live); divine act par excellence</td>
+<td style="text-align: center;">to save, give</td>
+<td style="text-align: center;">Causative of life</td>
+<td style="text-align: center;">ḥ-y-y (live); divine act par
+excellence</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܐܓܠܝ</span></td>
-<td style="text-align: center;">ʾaglī</td>
+<td style="text-align: center;">ܐܓܠܝ ʾaglī</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to reveal, uncover</td>
-<td style="text-align: center;">Causative of g-l-y (be revealed); cf. Heb gillāh</td>
+<td style="text-align: center;">to reveal,</td>
+<td style="text-align: center;">Causative o uncover</td>
+<td style="text-align: center;">f g-l-y (be revealed); cf. Heb
+gillāh</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܫܕܪ</span></td>
-<td style="text-align: center;">šadar</td>
+<td style="text-align: center;">ܫܕܪ šadar</td>
 <td style="text-align: center;">Peal/Aphel</td>
 <td style="text-align: center;">to send</td>
-<td style="text-align: center;">Common verb; šadar/ʾešdar; cf. Heb šālaḥ</td>
+<td style="text-align: center;">Common verb;</td>
+<td style="text-align: center;">šadar/ʾešdar; cf. Heb šālaḥ</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܒܪܐ</span></td>
-<td style="text-align: center;">brā</td>
+<td style="text-align: center;">ܒܪܐ brā</td>
 <td style="text-align: center;">Peal</td>
 <td style="text-align: center;">to create</td>
-<td style="text-align: center;">Note: in Syriac this is Peal (not Aphel); cf. Heb bārāʾ</td>
+<td style="text-align: center;">Note: in Sy</td>
+<td style="text-align: center;">riac this is Peal (not Aphel); cf. Heb
+bārāʾ</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܐܟܪܙ</span></td>
-<td style="text-align: center;">ʾkraz</td>
+<td style="text-align: center;">ܐܟܪܙ ʾkraz</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to proclaim, preach</td>
-<td style="text-align: center;">From k-r-z; kerygmatic vocabulary</td>
+<td style="text-align: center;">to proclaim,</td>
+<td style="text-align: center;">From k-r-z; preach</td>
+<td style="text-align: center;">kerygmatic vocabulary</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܐܪܝܡ</span></td>
-<td style="text-align: center;">ʾrīm</td>
+<td style="text-align: center;">ܐܪܝܡ ʾrīm</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to exalt, lift up</td>
-<td style="text-align: center;">Causative of r-m (be high); cf. Heb hērīm</td>
+<td style="text-align: center;">to exalt,</td>
+<td style="text-align: center;">Causative of lift up</td>
+<td style="text-align: center;">r-m (be high); cf. Heb hērīm</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܐܫܦܠ</span></td>
-<td style="text-align: center;">ʾšpel</td>
+<td style="text-align: center;">ܐܫܦܠ ʾšpel</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to humble, lower</td>
-<td style="text-align: center;">Causative of š-p-l (be low); antonym of ʾrīm</td>
+<td style="text-align: center;">to humble,</td>
+<td style="text-align: center;">Causative o lower</td>
+<td style="text-align: center;">f š-p-l (be low); antonym of ʾrīm</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܐܦܪܩ</span></td>
-<td style="text-align: center;">ʾpraq</td>
+<td style="text-align: center;">ܐܦܪܩ ʾpraq</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to redeem, deliver</td>
-<td style="text-align: center;">Causative of p-r-q (be freed); cf. purqānā above</td>
+<td style="text-align: center;">to redeem,</td>
+<td style="text-align: center;">Causative o deliver</td>
+<td style="text-align: center;">f p-r-q (be freed); cf. purqānā
+above</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><span dir="rtl">ܩܕܫ</span></td>
-<td style="text-align: center;">qaddaš</td>
+<td style="text-align: center;">ܩܕܫ qaddaš</td>
 <td style="text-align: center;">Paael</td>
-<td style="text-align: center;">to sanctify, make holy</td>
-<td style="text-align: center;">Preview of Paael; from q-d-š (be holy); cf. Heb qiddēš</td>
+<td style="text-align: center;">to sanctify,</td>
+<td style="text-align: center;">Preview of make holy</td>
+<td style="text-align: center;">Paael; from q-d-š (be holy); cf. Heb
+qiddēš</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span dir="rtl">ܐܩܪܒ</span></td>
-<td style="text-align: center;">ʾaqreb</td>
+<td style="text-align: center;">ܐܩܪܒ ʾaqreb</td>
 <td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">to bring near, offer</td>
-<td style="text-align: center;">Causative of q-r-b (draw near); cf. Arabic qurraba</td>
+<td style="text-align: center;">to bring</td>
+<td style="text-align: center;">Causative of near, offer</td>
+<td style="text-align: center;">q-r-b (draw near); cf. Arabic
+qurraba</td>
 </tr>
 </tbody>
 </table>
 <h4 id="section-7-the-story-part-5">Section 7: The Story — Part 5</h4>
 <p><strong>Yukhannan Preaches to the Crowds</strong></p>
-<p><strong>Narrative note:</strong> This passage features heavy use of the Aphel stem to describe God's causative actions in history. Notice the verbless clauses used for theological assertions (sentences 6 and 9). Aphel forms are highlighted in the transliteration.</p>
+<p><strong>Narrative note:</strong> This passage features heavy use of
+the Aphel stem to describe God’s causative actions in history. Notice
+the verbless clauses used for theological assertions (sentences 6 and
+9). Aphel forms are highlighted in the transliteration.</p>
 <blockquote>
-<p><em>Key Aphel forms in this passage: ʾkraz (proclaimed), ʾallep (taught), ʾaḥyī (gave life/saved), ʾaglī (revealed), ʾaqrebtūn (brought near), ʾappaqnī (brought me out), ʾaḥyat (gave life), ʾaqrebtnī (brought me near)</em></p>
+<p><em>Key Aphel forms in this passage: ʾkraz (proclaimed), ʾalep
+(taught), ʾaḥyī (gave life/saved), ʾaglī (revealed), ʾaqrebtūn (brought
+near), ʾappaqnī (brought me out), ʾaḥyat (gave life), ʾaqrebtnī (brought
+me near)</em></p>
 </blockquote>
 <p><strong>Sentence 1</strong></p>
-<p><span dir="rtl">ܘܝܘܚܢܢ ܩܡ ܒܡܨܥܬ ܥܡܐ ܘܐܟܪܙ ܐܢܘܢ</span></p>
+<p>ܘܝܘܚܢܢ ܩܡ ܒܡܨܥܬ ܥܡܐ ܘܐܟܪܙ ܐܢܘܢ</p>
 <p><em>w-Yukhannan qam b-meṣʿat ʿammā w-ʾkraz ʾennūn</em></p>
-<p>w- (and-) Yukhannan (John) qam (rose/stood) b-meṣʿat (in-the-midst-of) ʿammā (the-people) w-ʾkraz (and-proclaimed) ʾennūn (them)</p>
-<p><em>→ And Yukhannan stood in the midst of the people and proclaimed to them:</em></p>
+<p>w- (and-) Yukhannan (John) qam (rose/stood) b-meṣʿat
+(in-the-midst-of) ʿammā (the-people) w-ʾkraz (and-proclaimed) ʾennūn
+(them)</p>
+<p><em>→ And Yukhannan stood in the midst of the people and proclaimed
+to them:</em></p>
 <p><strong>Sentence 2</strong></p>
-<p><span dir="rtl">ܡܪܝܐ ܫܕܪ ܠܝ ܕܐܐܠܦ ܝܬܟܘܢ ܐܘܪܚܐ ܕܚܝܐ</span></p>
-<p><em>Māryā šadar lī d-ʾallep yātḵūn ʾūrḥā d-ḥayye</em></p>
-<p>Māryā (the-Lord) šadar (sent) lī (to-me) d-ʾallep (that-I-should-teach) yātḵūn (you(pl.)) ʾūrḥā (the-way) d-ḥayye (of-life)</p>
-<p><em>→ 'The Lord has sent me to teach you the way of life.'</em></p>
+<p>ܡܪܝܐ ܫܕܪ ܠܝ ܕܐܐܠܦ ܝܬܟܘܢ ܐܘܪܚܐ ܕܚܝܐ</p>
+<p><em>Māryā šadar lī d-ʾalep yātḵūn ʾūrḥā d-ḥayye</em></p>
+<p>Māryā (the-Lord) šadar (sent) lī (to-me) d-ʾalep
+(that-I-should-teach) yātḵūn (you(pl.)) ʾūrḥā (the-way) d-ḥayye
+(of-life)</p>
+<p><em>→ ‘The Lord has sent me to teach you the way of life.’</em></p>
 <p><strong>Sentence 3</strong></p>
-<p><span dir="rtl">ܐܠܗܐ ܕܒܪܐ ܟܠ ܡܕܡ ܐܚܝܝ ܠܟܘܢ ܒܦܘܪܩܢܗ</span></p>
+<p>ܐܠܗܐ ܕܒܪܐ ܟܠ ܡܕܡ ܐܚܝܝ ܠܟܘܢ ܒܦܘܪܩܢܗ</p>
 <p><em>Alāhā d-brā kull medem ʾaḥyī lḵūn b-purqāneh</em></p>
-<p>Alāhā (God) d-brā (who-created) kull (all) medem (thing) ʾaḥyī (caused-to-live/saved) lḵūn (you(pl.)) b-purqāneh (by-his-redemption)</p>
-<p><em>→ 'God, who created all things, has saved you through his redemption.'</em></p>
+<p>Alāhā (God) d-brā (who-created) kull (all) medem (thing) ʾaḥyī
+(caused-to-live/saved) lḵūn (you(pl.)) b-purqāneh
+(by-his-redemption)</p>
+<p><em>→ ‘God, who created all things, has saved you through his
+redemption.’</em></p>
 <p><strong>Sentence 4</strong></p>
-<p><span dir="rtl">ܗܘ ܐܓܠܝ ܠܢ ܪܐܙܐ ܕܛܝܒܘܬܗ</span></p>
+<p>ܗܘ ܐܓܠܝ ܠܢ ܪܐܙܐ ܕܛܝܒܘܬܗ</p>
 <p><em>Hū ʾaglī lān rāzā d-ṭaybūtteh</em></p>
-<p>Hū (He) ʾaglī (revealed) lān (to-us) rāzā (the-mystery) d-ṭaybūtteh (of-his-grace)</p>
-<p><em>→ 'He has revealed to us the mystery of his grace.'</em></p>
+<p>Hū (He) ʾaglī (revealed) lān (to-us) rāzā (the-mystery) d-ṭaybūtteh
+(of-his-grace)</p>
+<p><em>→ ‘He has revealed to us the mystery of his grace.’</em></p>
 <p><strong>Sentence 5</strong></p>
-<p><span dir="rtl">ܘܗܫܐ ܐܩܪܒܬܘܢ ܠܐܠܗܐ ܒܗܝܡܢܘܬܐ</span></p>
+<p>ܘܗܫܐ ܐܩܪܒܬܘܢ ܠܐܠܗܐ ܒܗܝܡܢܘܬܐ</p>
 <p><em>w-hāšā ʾaqrebtūn l-Alāhā b-haymānūttā</em></p>
-<p>w- (and-) hāšā (now) ʾaqrebtūn (you(pl.)-have-been-brought-near) l-Alāhā (to-God) b-haymānūttā (by-faith)</p>
-<p><em>→ 'And now you have been brought near to God through faith.'</em></p>
+<p>w- (and-) hāšā (now) ʾaqrebtūn (you(pl.)-have-been-brought-near)
+l-Alāhā (to-God) b-haymānūttā (by-faith)</p>
+<p><em>→ ‘And now you have been brought near to God through
+faith.’</em></p>
 <p><strong>Sentence 6</strong></p>
-<p><span dir="rtl">ܗܢܘ ܫܪܪܐ ܕܡܠܟܘܬܐ ܕܐܠܗܐ</span></p>
+<p>ܗܢܘ ܫܪܪܐ ܕܡܠܟܘܬܐ ܕܐܠܗܐ</p>
 <p><em>Hannū šrārā d-malkūttā d-Alāhā</em></p>
-<p>Hannū (This-is) šrārā (the-truth) d-malkūttā (of-the-kingdom) d-Alāhā (of-God)</p>
-<p><em>→ 'This is the truth of the kingdom of God.'</em></p>
+<p>Hannū (This-is) šrārā (the-truth) d-malkūttā (of-the-kingdom) d-Alāhā
+(of-God)</p>
+<p><em>→ ‘This is the truth of the kingdom of God.’</em></p>
 <p><strong>Sentence 7</strong></p>
-<p><span dir="rtl">ܘܥܡܐ ܫܡܥ ܡܠܘܗܝ ܘܐܬܕܡܪ ܛܒ</span></p>
+<p>ܘܥܡܐ ܫܡܥ ܡܠܘܗܝ ܘܐܬܕܡܪ ܛܒ</p>
 <p><em>w-ʿammā šmaʿ mellāw-hy w-ʾetdammer ṭāb</em></p>
-<p>w- (and-) ʿammā (the-people) šmaʿ (heard) mellāw-hy (his-words) w-ʾetdammer (and-marveled) ṭāb (greatly/well)</p>
+<p>w- (and-) ʿammā (the-people) šmaʿ (heard) mellāw-hy (his-words)
+w-ʾetdammer (and-marveled) ṭāb (greatly/well)</p>
 <p><em>→ And the people heard his words and marveled greatly.</em></p>
 <p><strong>Sentence 8</strong></p>
-<p><span dir="rtl">ܘܐܡܪ ܓܒܪܐ ܚܕ ܡܢ ܥܡܐ ܡܢ ܐܢܬ ܘܡܢ ܫܕܪܟ</span></p>
+<p>ܘܐܡܪ ܓܒܪܐ ܚܕ ܡܢ ܥܡܐ ܡܢ ܐܢܬ ܘܡܢ ܫܕܪܟ</p>
 <p><em>w-ʾemar gabrā ḥad men ʿammā: man ʾant w-man šedrāḵ?</em></p>
-<p>w-ʾemar (and-said) gabrā (a-man) ḥad (one) men (from) ʿammā (the-people) man (who) ʾant (are-you) w-man (and-who) šedrāḵ (sent-you)</p>
-<p><em>→ And a man from the people said: 'Who are you, and who sent you?'</em></p>
+<p>w-ʾemar (and-said) gabrā (a-man) ḥad (one) men (from) ʿammā
+(the-people) man (who) ʾant (are-you) w-man (and-who) šedrāḵ
+(sent-you)</p>
+<p><em>→ And a man from the people said: ‘Who are you, and who sent
+you?’</em></p>
 <p><strong>Sentence 9</strong></p>
-<p><span dir="rtl">ܥܢܐ ܝܘܚܢܢ ܘܐܡܪ ܐܢܐ ܥܒܕܗ ܕܡܪܝܐ</span></p>
+<p>ܥܢܐ ܝܘܚܢܢ ܘܐܡܪ ܐܢܐ ܥܒܕܗ ܕܡܪܝܐ</p>
 <p><em>ʿnā Yukhannan w-ʾemar: ʾenā ʿabdeh d-Māryā</em></p>
-<p>ʿnā (answered) Yukhannan (Yukhannan) w-ʾemar (and-said) ʾenā (I) ʿabdeh (servant-of) d-Māryā (the-Lord)</p>
-<p><em>→ Yukhannan answered and said: 'I am the servant of the Lord.'</em></p>
+<p>ʿnā (answered) Yukhannan (Yukhannan) w-ʾemar (and-said) ʾenā (I)
+ʿabdeh (servant-of) d-Māryā (the-Lord)</p>
+<p><em>→ Yukhannan answered and said: ‘I am the servant of the
+Lord.’</em></p>
 <p><strong>Sentence 10</strong></p>
-<p><span dir="rtl">ܗܘ ܐܦܩܢܝ ܡܢ ܡܕܒܪܐ ܕܐܐܠܦ ܠܥܡܗ</span></p>
-<p><em>Hū ʾappaqnī men madbārā d-ʾallep l-ʿammeh</em></p>
-<p>Hū (He) ʾappaqnī (brought-me-out) men (from) madbārā (the-wilderness) d-ʾallep (to-teach) l- (to) ʿammeh (his-people)</p>
-<p><em>→ 'He brought me out from the wilderness to teach his people.'</em></p>
+<p>ܗܘ ܐܦܩܢܝ ܡܢ ܡܕܒܪܐ ܕܐܐܠܦ ܠܥܡܗ</p>
+<p><em>Hū ʾappaqnī men madbārā d-ʾalep l-ʿammeh</em></p>
+<p>Hū (He) ʾappaqnī (brought-me-out) men (from) madbārā (the-wilderness)
+d-ʾalep (to-teach) l- (to) ʿammeh (his-people)</p>
+<p><em>→ ‘He brought me out from the wilderness to teach his
+people.’</em></p>
 <p><strong>Sentence 11</strong></p>
-<p><span dir="rtl">ܘܪܘܚܐ ܕܐܠܗܐ ܗܝ ܕܐܚܝܬ ܠܝ ܘܐܩܪܒܬܢܝ ܠܡܠܟܘܬܗ</span></p>
+<p>ܘܪܘܚܐ ܕܐܠܗܐ ܗܝ ܕܐܚܝܬ ܠܝ ܘܐܩܪܒܬܢܝ ܠܡܠܟܘܬܗ</p>
 <p><em>w-rūḥā d-Alāhā hī d-ʾaḥyat lī w-ʾaqrebtnī l-malkūtteh</em></p>
-<p>w- (and-) rūḥā (the-Spirit) d-Alāhā (of-God) hī (she/it-is) d-ʾaḥyat (who-gave-life) lī (to-me) w-ʾaqrebtnī (and-brought-me-near) l-malkūtteh (to-his-kingdom)</p>
-<p><em>→ 'And it is the Spirit of God who gave me life and brought me near to his kingdom.'</em></p>
+<p>w- (and-) rūḥā (the-Spirit) d-Alāhā (of-God) hī (she/it-is) d-ʾaḥyat
+(who-gave-life) lī (to-me) w-ʾaqrebtnī (and-brought-me-near) l-malkūtteh
+(to-his-kingdom)</p>
+<p><em>→ ‘And it is the Spirit of God who gave me life and brought me
+near to his kingdom.’</em></p>
 <h4 id="section-8-exercises">Section 8: Exercises</h4>
 <p><strong>Exercise 1: Stem Identification</strong></p>
-<p>Identify each verb form as Peal or Aphel, give its person/number/gender, root, and English meaning.</p>
+<p>Identify each verb form as Peal or Aphel, give its
+person/number/gender, root, and English meaning.</p>
 <table style="width:97%;">
 <colgroup>
 <col style="width: 11%" />
@@ -715,76 +848,84 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">1</td>
-<td style="text-align: center;"><span dir="rtl">ܐܠܦ</span></td>
-<td style="text-align: center;">ʾallep</td>
+<td style="text-align: center;">ܐܠܦ</td>
+<td style="text-align: center;">ʾalep</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">2</td>
-<td style="text-align: center;"><span dir="rtl">ܟܬܒ</span></td>
+<td style="text-align: center;">ܟܬܒ</td>
 <td style="text-align: center;">katab</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">3</td>
-<td style="text-align: center;"><span dir="rtl">ܐܚܝܝ</span></td>
+<td style="text-align: center;">ܐܚܝܝ</td>
 <td style="text-align: center;">ʾaḥyī</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">4</td>
-<td style="text-align: center;"><span dir="rtl">ܐܙܠ</span></td>
+<td style="text-align: center;">ܐܙܠ</td>
 <td style="text-align: center;">ʾazal</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">5</td>
-<td style="text-align: center;"><span dir="rtl">ܐܩܪܒ</span></td>
+<td style="text-align: center;">ܐܩܪܒ</td>
 <td style="text-align: center;">ʾaqreb</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">6</td>
-<td style="text-align: center;"><span dir="rtl">ܡܐܠܦ</span></td>
+<td style="text-align: center;">ܡܐܠܦ</td>
 <td style="text-align: center;">maʾlep</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">7</td>
-<td style="text-align: center;"><span dir="rtl">ܫܡܥ</span></td>
+<td style="text-align: center;">ܫܡܥ</td>
 <td style="text-align: center;">šmaʿ</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">8</td>
-<td style="text-align: center;"><span dir="rtl">ܐܦܩ</span></td>
-<td style="text-align: center;">ʾappiq</td>
+<td style="text-align: center;">ܐܦܩ</td>
+<td style="text-align: center;">ʾappeq</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">9</td>
-<td style="text-align: center;"><span dir="rtl">ܟܬܒ</span></td>
+<td style="text-align: center;">ܟܬܒ</td>
 <td style="text-align: center;">kāteb</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">10</td>
-<td style="text-align: center;"><span dir="rtl">ܐܓܠܝ</span></td>
+<td style="text-align: center;">ܐܓܠܝ</td>
 <td style="text-align: center;">ʾaglī</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Exercise 2: Conjugation Drill</strong></p>
-<p>Fully conjugate the following two Aphel verbs in the perfect (all 10 persons) and the participle (all 4 forms). Use the paradigm in Sections 4–5 as a model.</p>
+<p>Fully conjugate the following two Aphel verbs in the perfect (all 10
+persons) and the participle (all 4 forms). Use the paradigm in Sections
+4–5 as a model.</p>
 <ol start="6" type="1">
 <li><p><em>Root š-d-r (send) — Aphel: ʾešdar</em></p></li>
 <li><p><em>Root r-m (be high) — Aphel: ʾrīm (exalt)</em></p></li>
 </ol>
 <p><strong>Exercise 3: Translation Drill (Syriac → English)</strong></p>
-<p>Translate the following sentences into English. All contain Aphel forms.</p>
+<p>Translate the following sentences into English. All contain Aphel
+forms.</p>
 <ol start="8" type="1">
-<li><p><span dir="rtl">ܐܠܗܐ ܐܚܝܝ ܠܥܡܗ</span> <em>(Alāhā ʾaḥyī l-ʿammeh)</em></p></li>
-<li><p><span dir="rtl">ܝܘܚܢܢ ܐܠܦ ܠܬܠܡܝܕܘܗܝ</span> <em>(Yukhannan ʾallep l-talmīdāw-hy)</em></p></li>
-<li><p><span dir="rtl">ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܘܪܐ</span> <em>(Hū ʾappiq lhūn men bēt ʾesūrā)</em></p></li>
-<li><p><span dir="rtl">ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ</span> <em>(Rūḥā ʾaglī šrārā)</em></p></li>
-<li><p><span dir="rtl">ܡܪܝܐ ܐܩܪܒܢ ܠܡܠܟܘܬܗ</span> <em>(Māryā ʾaqrebnān l-malkūtteh)</em></p></li>
-<li><p><span dir="rtl">ܡܐܠܦ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ</span> <em>(Maʾlep ʾenā lḵūn ʾūrḥā)</em></p></li>
-<li><p><span dir="rtl">ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ</span> <em>(ʾAnt ʾrīmt l-ʿabdāḵ)</em></p></li>
-<li><p><span dir="rtl">ܗܢܘ ܐܘܠܦܢܐ ܕܡܠܟܘܬܐ</span> <em>(Hannū ʾūlpānā d-malkūttā)</em></p></li>
+<li><p>ܐܠܗܐ ܐܚܝܝ ܠܥܡܗ <em>(Alāhā ʾaḥyī l-ʿammeh)</em></p></li>
+<li><p>ܝܘܚܢܢ ܐܠܦ ܠܬܠܡܝܕܘܗܝ <em>(Yūḥannan ʾalep
+l-talmīdāw-hy)</em></p></li>
+<li><p>ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܘܪܐ <em>(Hū ʾappeq lhūn men bēt
+ʾesūrā)</em></p></li>
+<li><p>ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ <em>(Rūḥā ʾaglī šrārā)</em></p></li>
+<li><p>ܡܪܝܐ ܐܩܪܒܢ ܠܡܠܟܘܬܗ <em>(Māryā ʾaqrebnān
+l-malkūtteh)</em></p></li>
+<li><p>ܡܐܠܦ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ <em>(Maʾlep ʾenā lḵūn ʾūrḥā)</em></p></li>
+<li><p>ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ <em>(ʾAnt ʾrīmt l-ʿabdāḵ)</em></p></li>
+<li><p>ܗܢܘ ܐܘܠܦܢܐ ܕܡܠܟܘܬܐ <em>(Hannū ʾūlpānā d-malkūttā)</em></p></li>
 </ol>
-<p><strong>Exercise 4: Production Drill (English → Syriac Aphel)</strong></p>
-<p>Render the following causative sentences into Syriac using the Aphel stem. More than one correct answer may exist.</p>
+<p><strong>Exercise 4: Production Drill (English → Syriac
+Aphel)</strong></p>
+<p>Render the following causative sentences into Syriac using the Aphel
+stem. More than one correct answer may exist.</p>
 <ol start="16" type="1">
 <li><p>God revealed his glory to the people.</p></li>
 <li><p>She taught the children the law.</p></li>
@@ -794,21 +935,29 @@
 <li><p>The Lord exalted the humble (makīkē).</p></li>
 </ol>
 <p><strong>Exercise 5: Reading Comprehension</strong></p>
-<p>Re-read the story in Section 7, then answer the following comprehension questions in complete Syriac sentences if possible, or in English.</p>
+<p>Re-read the story in Section 7, then answer the following
+comprehension questions in complete Syriac sentences if possible, or in
+English.</p>
 <ol start="22" type="1">
 <li><p>What did Yukhannan say the Lord sent him to do?</p></li>
-<li><p>What three actions does Yukhannan attribute to God in his speech? (Name the Aphel verbs.)</p></li>
+<li><p>What three actions does Yukhannan attribute to God in his speech?
+(Name the Aphel verbs.)</p></li>
 <li><p>What question does the man from the crowd ask?</p></li>
 <li><p>How does Yukhannan identify himself?</p></li>
-<li><p>What brought Yukhannan out of the wilderness and brought him near the kingdom?</p></li>
+<li><p>What brought Yukhannan out of the wilderness and brought him near
+the kingdom?</p></li>
 </ol>
 <h4 id="section-9-answer-key">Section 9: Answer Key</h4>
-<h4 id="section-1-warm-up">Section 1 Warm-Up</h4>
-<p><strong>Q1:</strong> Peal perfect 3 m.sg. of k-t-b: <span dir="rtl">ܟܬܒ</span> (katab) = 'he wrote'</p>
-<p><strong>Q2:</strong> Absolute: ܡܠܟ (malk, 'king'); Emphatic: ܡܠܟܐ (malkā, 'the king'); Construct: ܡܠܟ (malk + genitive, 'king of…')</p>
-<p><strong>Q3:</strong> 'He is great' — verbless clause with pronoun as copula</p>
-<p><strong>Q4:</strong></p>
-<p><strong>Q5:</strong> Root: k-t-b; Stem: Peal; Form: perfect 2 m.sg. or 1 c.sg. — 'you wrote' or 'I wrote'</p>
+<p><strong>Section 1 Warm-Up</strong></p>
+<p><strong>Q1:</strong> Peal perfect 3 m.sg. of k-t-b: ܟܬܒ (katab) = ‘he
+wrote’</p>
+<p><strong>Q2:</strong> Absolute: ܡܠܟ (malk, ‘king’); Emphatic: ܡܠܟܐ
+(malkā, ‘the king’); Construct: ܡܠܟ (malk + genitive, ‘king of…’)</p>
+<p><strong>Q3:</strong> ‘He is great’ — verbless clause with pronoun as
+copula</p>
+<p><strong>Q4:</strong> ܐܙܠ (ʾāzel), ‘going’ — the CāCeC pattern</p>
+<p><strong>Q5:</strong> Root: k-t-b; Stem: Peal; Form: perfect 3 f.sg. —
+‘she wrote’ (the same letters also spell 2 m.sg. and 1 c.sg.)</p>
 <p><strong>Exercise 1: Identification</strong></p>
 <table style="width:98%;">
 <colgroup>
@@ -879,7 +1028,7 @@
 <td style="text-align: center;">8</td>
 <td style="text-align: center;">Aphel</td>
 <td style="text-align: center;">3 m.sg.</td>
-<td style="text-align: center;">p-q</td>
+<td style="text-align: center;">n-p-q</td>
 <td style="text-align: center;">he brought out</td>
 </tr>
 <tr class="even">
@@ -927,7 +1076,8 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">5</td>
-<td style="text-align: center;">The Lord brought us near to his kingdom.</td>
+<td style="text-align: center;">The Lord brought us near to his
+kingdom.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">6</td>
@@ -935,18 +1085,20 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">7</td>
-<td style="text-align: center;">You (m.sg.) have exalted your servant.</td>
+<td style="text-align: center;">You (m.sg.) have exalted your
+servant.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">8</td>
-<td style="text-align: center;">This is the teaching of the kingdom.</td>
+<td style="text-align: center;">This is the teaching of the
+kingdom.</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Exercise 4: Production (sample answers)</strong></p>
 <ol start="27" type="1">
 <li><p><em>Alāhā ʾaglī šūbḥeh l-ʿammā</em></p></li>
-<li><p><em>ʾallepat l-yalūdē nāmūsā</em></p></li>
+<li><p><em>ʾalepat l-yalūdē nāmūsā</em></p></li>
 <li><p><em>Rūḥā ʾappaqeh men madbārā</em></p></li>
 <li><p><em>ʾaqrebtūn qūrbānā</em></p></li>
 <li><p><em>Nebīyā ʾaḥyī l-mītē</em></p></li>
@@ -965,19 +1117,22 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">1</td>
-<td style="text-align: center;">To teach them the way of life (ʾūrḥā d-ḥayye).</td>
+<td style="text-align: center;">To teach them the way of life (ʾūrḥā
+d-ḥayye).</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">2</td>
-<td style="text-align: center;">ʾaḥyī (saved/gave life), ʾaglī (revealed), ʾaqrebtūn (brought near).</td>
+<td style="text-align: center;">ʾaḥyī (saved/gave life), ʾaglī
+(revealed), ʾaqrebtūn (brought near).</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">3</td>
-<td style="text-align: center;">'Who are you, and who sent you?'</td>
+<td style="text-align: center;">‘Who are you, and who sent you?’</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">4</td>
-<td style="text-align: center;">As the servant (ʿabdeh) of the Lord.</td>
+<td style="text-align: center;">As the servant (ʿabdeh) of the
+Lord.</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">5</td>
@@ -985,7 +1140,8 @@
 </tr>
 </tbody>
 </table>
-<h4 id="section-10-grammatical-summary">Section 10: Grammatical Summary</h4>
+<h4 id="section-10-grammatical-summary">Section 10: Grammatical
+Summary</h4>
 <p><strong>THE APHEL STEM — FORMATION RULES</strong></p>
 <table style="width:97%;">
 <colgroup>
@@ -1007,12 +1163,13 @@
 <tr class="odd">
 <td style="text-align: center;">Perfect 3 m.sg.</td>
 <td style="text-align: center;">ʾa + R1R2eR3 (no suffix)</td>
-<td style="text-align: center;">ʾallep, ʾaḥyī, ʾaqreb</td>
+<td style="text-align: center;">ʾalep, ʾaḥyī, ʾaqreb</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Suffix set</td>
 <td style="text-align: center;">Same as Peal perfect</td>
-<td style="text-align: center;">-at, -t, -ti, -et, -ū, -ī, -tūn, -tin, -n</td>
+<td style="text-align: center;">-at, -t, -ti, -et, -ū, -ī, -tūn, -tin,
+-n</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Participle prefix</td>
@@ -1027,18 +1184,23 @@
 <tr class="odd">
 <td style="text-align: center;">Participle suffixes</td>
 <td style="text-align: center;">Same as all participles</td>
-<td style="text-align: center;">-ā (f.sg.), -īn (m.pl.), -ān (f.pl.)</td>
+<td style="text-align: center;">-ā (f.sg.), -īn (m.pl.), -ān
+(f.pl.)</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Core meaning</td>
 <td style="text-align: center;">Causative</td>
-<td style="text-align: center;">'to cause X to happen' / 'to make X do Y'</td>
+<td style="text-align: center;">‘to cause X to happen’ / ‘to make X do
+Y’</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Meaning Pattern</strong></p>
 <blockquote>
-<p><strong>PEAL (basic) + ʾa- prefix = APHEL (causative)</strong> <em>'to X' → 'to cause to X' / 'to make X happen'</em> ḥ-y-y: live → ʾaḥyī: give life/save | q-r-b: draw near → ʾaqreb: bring near | p-q: go out → ʾappiq: bring out</p>
+<p><strong>PEAL (basic) + ʾa- prefix = APHEL (causative)</strong>
+<em>‘to X’ → ‘to cause to X’ / ‘to make X happen’</em> ḥ-y-y: live →
+ʾaḥyī: give life/save | q-r-b: draw near → ʾaqreb: bring near | n-p-q:
+go out → ʾappeq: bring out</p>
 </blockquote>
 <p><strong>Comparative Summary: Three Stems</strong></p>
 <table style="width:98%;">
@@ -1062,29 +1224,34 @@
 <td style="text-align: center;">Basic</td>
 <td style="text-align: center;">katab</td>
 <td style="text-align: center;">kāteb</td>
-<td style="text-align: center;">'he wrote' / 'writing'</td>
+<td style="text-align: center;">‘he wrote’ / ‘writing’</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Paael</td>
 <td style="text-align: center;">Intensive/Factitive</td>
 <td style="text-align: center;">qaddaš</td>
 <td style="text-align: center;">mqaddeš</td>
-<td style="text-align: center;">'he sanctified' / 'sanctifying'</td>
+<td style="text-align: center;">‘he sanctified’ / ‘sanctifying’</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Aphel</td>
 <td style="text-align: center;">Causative</td>
-<td style="text-align: center;">ʾallep</td>
+<td style="text-align: center;">ʾalep</td>
 <td style="text-align: center;">maʾlep</td>
-<td style="text-align: center;">'he taught' / 'teaching'</td>
+<td style="text-align: center;">‘he taught’ / ‘teaching’</td>
 </tr>
 </tbody>
 </table>
 <blockquote>
-<p><strong>Remember: In all three derived stems (Paael, Aphel, Ethpaael, etc.), the active participle always takes a m- prefix. This is your clearest signal that you are reading a derived-stem participle.</strong></p>
+<p><strong>Remember: In all three derived stems (Paael, Aphel, Ethpaael,
+etc.), the active participle always takes a m- prefix. This is your
+clearest signal that you are reading a derived-stem
+participle.</strong></p>
 </blockquote>
-<h4 id="section-11-additional-vocabulary">Section 11: Additional Vocabulary</h4>
-<p>The following high-frequency words round out this lesson's vocabulary to 30 terms.</p>
+<h4 id="section-11-additional-vocabulary">Section 11: Additional
+Vocabulary</h4>
+<p>The following high-frequency words round out this lesson’s vocabulary
+to 30 terms.</p>
 <table style="width:97%;">
 <colgroup>
 <col style="width: 24%" />

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="description"><name><text>Module 2 · Lesson 7</text></name><questiontext format="html"><text><![CDATA[<h3><strong>Navigating Weak Roots: I-Alaph, I-Yodh, and III-Yodh verbs</strong></h3>
+<hr />
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 1: Review of Lessons 5–6</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lessons 5–6</h3>
+<p><strong>Quick Summary</strong></p>
+<p>In Lessons 5 and 6, we expanded our vocabulary exponentially by
+learning how Semitic roots generate new meanings through derived stems.
+The <strong>Aphel</strong> stem (prefix <em>ʾa-</em>) generates
+causative verbs (e.g., God <em>ʾaḥyī</em> “gave life”). The
+<strong>Paael</strong> stem (doubled middle radical) generates intensive
+or factitive verbs (e.g., <em>qaddaš</em> “he made holy”).</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>What stem does a verb belonging to the pattern <em>ʾaCCeC</em>
+belong to (e.g., <em>ʾaqreb</em>)?</li>
+<li>What consonant prefix marks the active participle of <em>all</em>
+derived stems (Aphel, Paael, etc.)?</li>
+<li>Translate: <em>Alāhā ʾaglī šrārā</em>.</li>
+<li>If <em>q-d-š</em> in Peal means “to be holy”, what does it mean in
+Paael (<em>qaddaš</em>)?</li>
+<li>How would you recognize a Paael participle versus a Peal
+participle?</li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. A verb of the pattern <i>ʾaCCeC</i> (e.g. <i>ʾaqreb</i>) belongs to which stem?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Aphel (causative)]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael (intensive)]]></text><feedback format="html"><text><![CDATA[The Paael doubles the middle letter and has no ʾa-.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal (basic)]]></text><feedback format="html"><text><![CDATA[The Peal has no prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ethpeel (passive)]]></text><feedback format="html"><text><![CDATA[The passive stems use ʾet-.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. Which consonant prefix marks the active participle of every derived stem?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Mīm (m-), e.g. <i>maʾlep</i>, <i>mqaddeš</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Alaph (ʾa-)]]></text><feedback format="html"><text><![CDATA[ʾa- marks the Aphel perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Nun (n-)]]></text><feedback format="html"><text><![CDATA[n- is an imperfect prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Taw (t-)]]></text><feedback format="html"><text><![CDATA[t- is an imperfect prefix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. Translate: <i>Alāhā ʾaglī šrārā</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God revealed the truth.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is the truth.]]></text><feedback format="html"><text><![CDATA[<i>ʾaglī</i> is the verb 'revealed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The truth revealed God.]]></text><feedback format="html"><text><![CDATA[<i>Alāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God sent the truth.]]></text><feedback format="html"><text><![CDATA['Sent' is <i>šadar</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. If <i>q-d-š</i> in the Peal means 'to be holy', what does the Paael <i>qaddaš</i> mean?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[to make holy, sanctify]]></text><feedback format="html"><text><![CDATA[Correct: the factitive Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[to be very holy]]></text><feedback format="html"><text><![CDATA[The Paael here is factitive, not just intensive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[to be made holy]]></text><feedback format="html"><text><![CDATA[That is the passive Ethpaael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[to cause to be holy through another]]></text><feedback format="html"><text><![CDATA[That would be the causative Aphel.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. How do you tell a Paael participle from a Peal participle?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Paael has the m- prefix (<i>mqaddeš</i>); the Peal has none (<i>kāteb</i>).]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Peal has the m- prefix; the Paael has none.]]></text><feedback format="html"><text><![CDATA[Reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Paael ends in -ā; the Peal does not.]]></text><feedback format="html"><text><![CDATA[-ā marks the feminine in both.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They look the same; only context tells.]]></text><feedback format="html"><text><![CDATA[The m- prefix distinguishes them.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 2: The Weak Verb Challenge — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Weak Verb Challenge — Overview</h3>
+<p>Until now, we have mostly dealt with “strong” roots (like
+<em>k-t-b</em> or <em>š-b-q</em>), where all three consonants boldly
+assert themselves in every conjugation. However, some of the most common
+verbs in human language—to say, to be, to know, to give, to come—are
+“weak”. This means one of their three root consonants is a “weak letter”
+(Alaph, Waw, or Yodh), which tends to assimilate, drop out entirely, or
+turn into a vowel depending on the surrounding sounds.</p>
+<p><strong>Cross-Linguistic Comparison: Weak Consonants</strong></p>
+<p>Weak verbs are the bane of every Semitic language student, but they
+follow highly predictable phonetic rules.</p>
+<ul>
+<li><strong>Hebrew</strong>: I-Guttural (אָמַר <em>ʾāmar</em> = he said);
+I-Yod (יָדַע <em>yādaʿ</em> = he knew); Lamed-He/Yod (בָּנָה <em>bānāh</em> =
+he built).</li>
+<li><strong>Arabic</strong>: Hollow verbs (قَالَ <em>qāla</em> = he said);
+Defective/Final Weak (رَمَى <em>ramā</em> = he threw).</li>
+<li><strong>Syriac</strong>:
+<ul>
+<li><strong>I-Alaph</strong>: Root <em>ʾ-m-r</em> (to say) <span
+class="math inline">→</span> <em>ʾemar</em> (not <em>ʾamar</em>).</li>
+<li><strong>I-Yodh</strong>: Root <em>y-d-ʿ</em> (to know) <span
+class="math inline">→</span> <em>īdaʿ</em> (Yodh acts like an <em>i</em>
+vowel).</li>
+<li><strong>III-Yodh</strong>: Root <em>ḥ-z-y</em> (to see) <span
+class="math inline">→</span> <em>ḥzā</em> (the Yodh drops out, leaving
+an <em>ā</em> vowel).</li>
+</ul></li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 3: Morphology of Weak Roots (Peal Perfect)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: Morphology of Weak Roots (Peal Perfect)</h3>
+<p>Despite the spelling changes, weak verbs function syntactically
+exactly like strong verbs: VSO word order, taking suffixes, and forming
+the spine of clauses.</p>
+<p><strong>1. I-Alaph Verbs (First consonant is Alaph)</strong></p>
+<p>The most famous is <em>ʾ-m-r</em> (“to say”). In the Peal perfect 3rd
+masc singular, the vowel shifts to <em>e</em>:</p>
+<ul>
+<li><em>ʾemar</em> (he said), rather than <em>ʾamar</em>.</li>
+<li><em>ʾemret</em> (I said), rather than <em>ʾamret</em>.</li>
+</ul>
+<p><strong>2. I-Yodh Verbs (First consonant is Yodh)</strong></p>
+<p>Very common verbs like <em>y-d-ʿ</em> (to know) and <em>y-t-b</em>
+(to sit). The initial <code>y</code> fuses with the preceding invisible
+glottal stop to form an <em>ī</em> vowel.</p>
+<ul>
+<li><em>y-d-ʿ</em> <span class="math inline">→</span> <em>īdaʿ</em> (he
+knew).</li>
+<li><em>y-t-b</em> <span class="math inline">→</span> <em>īteb</em> (he
+sat). <em>Note: The verb y-h-b (to give) is highly irregular and behaves
+like a strong verb without an internal vowel: yahb (he gave).</em></li>
+</ul>
+<p><strong>3. III-Yodh Verbs (Third consonant is Yodh)</strong></p>
+<p>Verbs ending in Yodh (like <em>ḥ-z-y</em>, <em>b-n-y</em>,
+<em>ḥ-y-y</em>). The Yodh falls away in the 3rd masc singular, leaving a
+final <em>ā</em> vowel. In other persons, the Yodh can reappear as
+heavily vocalized endings.</p>
+<ul>
+<li><em>ḥ-z-y</em> (to see) <span class="math inline">→</span>
+<em>ḥzā</em> (he saw) [looks like a 2-consonant word].</li>
+<li><em>ḥ-z-y</em> + <em>-et</em> (I saw) <span
+class="math inline">→</span> <em>ḥzēt</em> (the <em>ay</em> contracts to
+<em>ē</em>).</li>
+<li><em>ḥ-z-y</em> + <em>-ū</em> (They saw) <span
+class="math inline">→</span> <em>ḥzaw</em> (the <em>ay-ū</em> contracts
+to <em>aw</em>).</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 4: III-Yodh Paradigm (Root: ḥ-z-y &quot;to see&quot;)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: III-Yodh Paradigm (Root: ḥ-z-y &quot;to see&quot;)</h3>
+<p>Because III-Yodh verbs lose their third consonant so frequently,
+memorizing their exact endings is essential.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Person</th>
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Translation</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 m.sg.</strong></td>
+<td style="text-align: left;">ܚܙܐ</td>
+<td style="text-align: left;">ḥzā</td>
+<td style="text-align: left;">he saw</td>
+<td style="text-align: left;">Ends in <em>ā</em> (Alaph)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 f.sg.</strong></td>
+<td style="text-align: left;">ܚܙܬ</td>
+<td style="text-align: left;">ḥzāt</td>
+<td style="text-align: left;">she saw</td>
+<td style="text-align: left;">Ends in <em>āt</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 m.sg.</strong></td>
+<td style="text-align: left;">ܚܙܝܬ</td>
+<td style="text-align: left;">ḥzayt</td>
+<td style="text-align: left;">you (m) saw</td>
+<td style="text-align: left;">Yodh reappears, <em>ay</em> diphthong</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2 f.sg.</strong></td>
+<td style="text-align: left;">ܚܙܝܬܝ</td>
+<td style="text-align: left;">ḥzaytī</td>
+<td style="text-align: left;">you (f) saw</td>
+<td style="text-align: left;">Yodh reappears</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>1 c.sg.</strong></td>
+<td style="text-align: left;">ܚܙܝܬ</td>
+<td style="text-align: left;">ḥzēt</td>
+<td style="text-align: left;">I saw</td>
+<td style="text-align: left;">Yodh contracts with <em>et</em> to
+<em>ēt</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 m.pl.</strong></td>
+<td style="text-align: left;">ܚܙܘ</td>
+<td style="text-align: left;">ḥzaw</td>
+<td style="text-align: left;">they (m) saw</td>
+<td style="text-align: left;"><em>w</em> makes <em>aw</em>
+diphthong</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 f.pl.</strong></td>
+<td style="text-align: left;">ܚܙܝ</td>
+<td style="text-align: left;">ḥzay</td>
+<td style="text-align: left;">they (f) saw</td>
+<td style="text-align: left;"><em>y</em> makes <em>ay</em>
+diphthong</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>1 c.pl.</strong></td>
+<td style="text-align: left;">ܚܙܝܢ</td>
+<td style="text-align: left;">ḥzayn</td>
+<td style="text-align: left;">we saw</td>
+<td style="text-align: left;"><em>ay</em> diphthong</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 6</text></name><questiontext format="html"><text><![CDATA[What does the final Yodh of a III-Yodh root become in the 3 m.sg. perfect?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[A long ā: <i>ḥ-z-y</i> → <i>ḥzā</i> 'he saw']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It stays as ī: <i>ḥzī</i>]]></text><feedback format="html"><text><![CDATA[Not in the 3 m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It doubles: <i>ḥazzī</i>]]></text><feedback format="html"><text><![CDATA[Doubling marks the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It disappears with no vowel: <i>ḥz</i>]]></text><feedback format="html"><text><![CDATA[The ā remains.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 5: The highly irregular verbs ʾ-t-y and h-w-y</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: The highly irregular verbs ʾ-t-y and h-w-y</h3>
+<p>Two of the most common verbs in Syriac are doubly weak and highly
+irregular.</p>
+<ol type="1">
+<li><strong>ʾ-t-y</strong> (to come): I-Alaph AND III-Yodh.
+<ul>
+<li>3 m.s: <em>ʾetā</em> (he came).</li>
+<li>1 c.s: <em>ʾetēt</em> (I came).</li>
+<li>3 m.pl: <em>ʾetaw</em> (they came).</li>
+</ul></li>
+<li><strong>h-w-y</strong> (to be/become): Used as an auxiliary verb, or
+to mean “it happened”. III-Yodh.
+<ul>
+<li>3 m.s: <em>hwā</em> (he was / it happened).</li>
+<li>1 c.s: <em>hwēt</em> (I was).</li>
+<li>3 m.pl: <em>hwaw</em> (they were).</li>
+</ul></li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 7</text></name><questiontext format="html"><text><![CDATA[Which two verbs does the lesson single out as highly irregular?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾ-t-y</i> 'come' and <i>h-w-y</i> 'be']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>k-t-b</i> 'write' and <i>q-ṭ-l</i> 'kill']]></text><feedback format="html"><text><![CDATA[Those are strong roots.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾ-m-r</i> 'say' and <i>ʾ-z-l</i> 'go']]></text><feedback format="html"><text><![CDATA[These are I-Alaph roots, but regular in pattern.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>y-d-ʿ</i> 'know' and <i>y-h-b</i> 'give']]></text><feedback format="html"><text><![CDATA[These are I-Yodh roots, not the singled-out pair.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 6: Vocabulary (Weak Verbs &amp; Court Terms)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Weak Verbs &amp; Court Terms)</h3>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Root</th>
+<th style="text-align: left;">Peal Perfect 3m.s.</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Classification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܐ.ܡ.ܪ</td>
+<td style="text-align: left;">ʾemar (ܐܡܪ)</td>
+<td style="text-align: left;">to say</td>
+<td style="text-align: left;">I-Alaph</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐ.ܟ.ܠ</td>
+<td style="text-align: left;">ʾekal (ܐܟܠ)</td>
+<td style="text-align: left;">to eat</td>
+<td style="text-align: left;">I-Alaph</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܐ.ܙ.ܠ</td>
+<td style="text-align: left;">ʾezal (ܐܙܠ)</td>
+<td style="text-align: left;">to go</td>
+<td style="text-align: left;">I-Alaph</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܝ.ܕ.ܥ</td>
+<td style="text-align: left;">īdaʿ (ܝܕܥ)</td>
+<td style="text-align: left;">to know</td>
+<td style="text-align: left;">I-Yodh</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܝ.ܬ.ܒ</td>
+<td style="text-align: left;">īteb (ܝܬܒ)</td>
+<td style="text-align: left;">to sit</td>
+<td style="text-align: left;">I-Yodh</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܝ.ܗ.ܒ</td>
+<td style="text-align: left;">yahb (ܝܗܒ)</td>
+<td style="text-align: left;">to give</td>
+<td style="text-align: left;">I-Yodh (Irregular)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚ.ܙ.ܝ</td>
+<td style="text-align: left;">ḥzā (ܚܙܐ)</td>
+<td style="text-align: left;">to see</td>
+<td style="text-align: left;">III-Yodh</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩ.ܪ.ܐ</td>
+<td style="text-align: left;">qrā (ܩܪܐ)</td>
+<td style="text-align: left;">to call / read</td>
+<td style="text-align: left;">III-Alaph (behaves like III-Yodh)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܒ.ܢ.ܝ</td>
+<td style="text-align: left;">bnā (ܒܢܐ)</td>
+<td style="text-align: left;">to build</td>
+<td style="text-align: left;">III-Yodh</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܚ.ܝ.ܝ</td>
+<td style="text-align: left;">ḥyā (ܚܝܐ)</td>
+<td style="text-align: left;">to live</td>
+<td style="text-align: left;">III-Yodh</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܐ.ܬ.ܝ</td>
+<td style="text-align: left;">ʾetā (ܐܬܐ)</td>
+<td style="text-align: left;">to come</td>
+<td style="text-align: left;">I-Alaph &amp; III-Yodh</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܗ.ܘ.ܝ</td>
+<td style="text-align: left;">hwā (ܗܘܐ)</td>
+<td style="text-align: left;">to be/become</td>
+<td style="text-align: left;">III-Yodh</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">(Noun)</td>
+<td style="text-align: left;">ܪܘܓܙܐ (rūgzā)</td>
+<td style="text-align: left;">anger/wrath</td>
+<td style="text-align: left;">Emotion abstract</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">(Noun)</td>
+<td style="text-align: left;">ܗܡܙܡܢ (hemzman)</td>
+<td style="text-align: left;">word / report</td>
+<td style="text-align: left;">Court term</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 7: The Story — Part 7</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 7</h3>
+<p><strong>The Summons</strong></p>
+<p><em>Narrative note: Pay attention to the massive use of weak
+roots—ʾemar (said), ʾezal (went), īdaʿ (knew), hwā (was/became), ḥzaw
+(they saw), ʾetā (came).</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܟܕ ܐܡܪ ܝܘܚܢܢ ܡܠܬܐ ܕܐܠܗܐ، ܐܙܠܘ ܩܫܝܫܐ ܠܘܬ ܡܠܟܐ kad ʾemar Yūḥannan meltā
+d-Alāhā, ʾezalū qašīšē l-wāt malkā. kad (when) ʾemar (said) Yūḥannan
+(John) meltā (the-word) d-Alāhā (of-God), ʾezalū (went) qašīšē
+(the-elders/guards) l-wāt (to-the-presence-of) malkā (the-king). → When
+Yukhannan said the word of God, the guards went to the king.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܐܡܪܝܢ ܠܗ ܝܕܥܝܢ ܚܢܢ ܡܐ ܗܘܐ ܒܬܪܥܐ ʾāmrīn l-eh: yādʿīn-ḥnan mā hwā
+b-tarʿā! ʾāmrīn (they-[are]-saying) l-eh (to-him): yādʿīn (knowing)
+-ḥnan (are-we) mā (what) hwā (happened/was) b-tarʿā (in-the-gate)! →
+They say to him: “We know what happened at the gate!”</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܚܙܝܢ ܓܒܪܐ ܘܐܡܪ ܡܠܬܐ ܒܝܫܬܐ ḥzayn gabrā, w-ʾemar meltā bīštā. ḥzayn
+(we-saw) gabrā (a-man), w-ʾemar (and-said) meltā (a-word) bīštā
+(evil-[f]). → “We saw a man, and he said an evil word.”</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܗܘܐ ܗܫܐ ܡܠܟܐ ܪܓܝܙ ܛܒ hwā hāšā malkā ragīz ṭāb. hwā (became/was) hāšā
+(now) malkā (the-king) ragīz (angry) ṭāb (greatly/very). → Now the king
+was very angry.</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܐܡ̣ܪ ܡܠܟܐ ܠܩܫܝܫܐ ܐܝܬܝܘܗܝ ܠܗܪܟܐ ʾemar malkā l-qašīšē: ʾaytāw-hy
+l-harkā! ʾemar (said) malkā (the-king) l-qašīšē (to-the-guards):
+ʾaytāw-hy (let-them-bring-him [Aphel imperative]) l-harkā (to-here)! →
+The king said to the guards: “Bring him here!”</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܘܐܬܐ ܝܘܚܢܢ ܩܕܡ ܡܠܟܐ w-ʾetā Yūḥannan qdām malkā. w-ʾetā (and-came)
+Yūḥannan (John) qdām (before) malkā (the-king). → And Yukhannan came
+before the king.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 8</text></name><questiontext format="html"><text><![CDATA[In the story, to whom did the guards go?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[To the king]]></text><feedback format="html"><text><![CDATA[Correct (sentence 1).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To the chief priest]]></text><feedback format="html"><text><![CDATA[Not in this part.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To Yukhannan]]></text><feedback format="html"><text><![CDATA[They went to report on him.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To the gate]]></text><feedback format="html"><text><![CDATA[They report what happened at the gate.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 9</text></name><questiontext format="html"><text><![CDATA[What do the guards claim they saw and heard?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[A man who said an evil word]]></text><feedback format="html"><text><![CDATA[Correct (sentence 3).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A light from God at the gate]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[An army at the gate]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king's wrath]]></text><feedback format="html"><text><![CDATA[The king's anger follows their report.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 10</text></name><questiontext format="html"><text><![CDATA[How did the king react to the news?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He became very angry (<i>ragīz ṭāb</i>) and ordered the man brought to him.]]></text><feedback format="html"><text><![CDATA[Correct (sentences 4–5).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He ignored it.]]></text><feedback format="html"><text><![CDATA[He was very angry.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He went to the gate himself.]]></text><feedback format="html"><text><![CDATA[He has the guards bring Yukhannan.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He rewarded the guards.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 11</text></name><questiontext format="html"><text><![CDATA[In sentence 2, what does <i>yādʿīn-ḥnan</i> mean?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[we know]]></text><feedback format="html"><text><![CDATA[Correct: participle + enclitic <i>ḥnan</i> = present.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[we knew]]></text><feedback format="html"><text><![CDATA[The past would be the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[they know]]></text><feedback format="html"><text><![CDATA[<i>ḥnan</i> is 'we'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[know us!]]></text><feedback format="html"><text><![CDATA[This is not an imperative.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܚܙܝܬ (<i>ḥzēt</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root ḥ-z-y, Peal perfect 1 c.sg.: 'I saw']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ḥ-z-y, Peal perfect 3 m.sg.: 'he saw']]></text><feedback format="html"><text><![CDATA[That is <i>ḥzā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ḥ-z-t, Peal perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The final ܬ is a suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ḥ-z-y, Peal perfect 3 f.pl.]]></text><feedback format="html"><text><![CDATA[Not with -ēt.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܐܬܐ (<i>ʾetā</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root ʾ-t-y, Peal perfect 3 m.sg.: 'he came']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ʾ-t-y, Peal perfect 1 c.sg.: 'I came']]></text><feedback format="html"><text><![CDATA[That is <i>ʾetēt</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ʾ-t-ʾ, Peal imperative]]></text><feedback format="html"><text><![CDATA[The root is III-Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root ʾ-y-t, 'there is']]></text><feedback format="html"><text><![CDATA[That is <i>ʾīt</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܝܗܒܘ (<i>yahbū</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root y-h-b, Peal perfect 3 m.pl.: 'they gave']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root y-h-b, Peal perfect 3 m.sg.: 'he gave']]></text><feedback format="html"><text><![CDATA[-ū marks the plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root h-b-w, Peal perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The final ܘ is a suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root y-h-b, Peal imperative m.pl.]]></text><feedback format="html"><text><![CDATA[It is a perfect.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Which list gives the Peal perfect of ʾ-m-r for 'I said, we said, you (m.sg.) said, they (m.) said'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾemret, ʾemran, ʾemart, ʾemarū</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾemart, ʾemran, ʾemret, ʾemarū</i>]]></text><feedback format="html"><text><![CDATA[The first and third are swapped: 1 c.sg. is <i>ʾemret</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾemret, ʾemarū, ʾemart, ʾemran</i>]]></text><feedback format="html"><text><![CDATA[<i>ʾemarū</i> is 'they said'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾāmar, ʾāmrīn, ʾāmart, ʾāmrū</i>]]></text><feedback format="html"><text><![CDATA[Those mix participle forms.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Ḥzayn nūhrā d-Alāhā b-tarʿā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[We saw the light of God in the gate.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They saw the light of God in the gate.]]></text><feedback format="html"><text><![CDATA[-ayn marks 1 c.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We see the light of God at the door.]]></text><feedback format="html"><text><![CDATA[<i>ḥzayn</i> is perfect, past.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The light of God saw us at the gate.]]></text><feedback format="html"><text><![CDATA[We are the subject.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Hwaw b-ʾarʿā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[They were in the earth.]]></text><feedback format="html"><text><![CDATA[Correct: <i>hwaw</i> is 3 m.pl. of h-w-y.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was in the earth.]]></text><feedback format="html"><text><![CDATA[That would be <i>hwā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They came to the land.]]></text><feedback format="html"><text><![CDATA['Came' is from ʾ-t-y.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Be in the earth!]]></text><feedback format="html"><text><![CDATA[It is a perfect.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The evil king saw the man'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Ḥzā malkā bīšā l-gabrā.</i>]]></text><feedback format="html"><text><![CDATA[Correct: VSO, with <i>l-</i> marking the direct object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Ḥzā gabrā bīšā l-malkā.</i>]]></text><feedback format="html"><text><![CDATA[That says the evil man saw the king.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Malkā bīšā ḥāzē gabrā.</i>]]></text><feedback format="html"><text><![CDATA[<i>ḥāzē</i> is a participle, 'sees'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Ḥzayn malkā bīšā l-gabrā.</i>]]></text><feedback format="html"><text><![CDATA[<i>ḥzayn</i> is 'we saw'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 7 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'John knew the word of God'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Īdaʿ Yūḥannan meltā d-Alāhā.</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Yādaʿ Yūḥannan meltā d-Alāhā.</i>]]></text><feedback format="html"><text><![CDATA[<i>yādaʿ</i> is a participle shape, 'knows'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEmar Yūḥannan meltā d-Alāhā.</i>]]></text><feedback format="html"><text><![CDATA[That is 'said'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Īdʿet Yūḥannan meltā d-Alāhā.</i>]]></text><feedback format="html"><text><![CDATA[<i>īdʿet</i> is 'I knew'.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
+<p><strong>WEAK VERB SHIFT SUMMARY</strong></p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Class</th>
+<th style="text-align: left;">Root</th>
+<th style="text-align: left;">Shift Rule</th>
+<th style="text-align: left;">3 m.sg Example</th>
+<th style="text-align: left;">1 c.sg Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>I-Alaph</strong></td>
+<td style="text-align: left;">ʾ-m-r</td>
+<td style="text-align: left;">First vowel becomes <em>e</em></td>
+<td style="text-align: left;">ʾemar (he said)</td>
+<td style="text-align: left;">ʾemret (I said)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>I-Yodh</strong></td>
+<td style="text-align: left;">y-d-ʿ</td>
+<td style="text-align: left;">Initial Yodh + stop <span
+class="math inline">→</span> <em>ī</em></td>
+<td style="text-align: left;">īdaʿ (he knew)</td>
+<td style="text-align: left;">īdʿet (I knew)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>III-Yodh</strong></td>
+<td style="text-align: left;">ḥ-z-y</td>
+<td style="text-align: left;">Yodh drops, ends in <em>ā</em> in 3ms</td>
+<td style="text-align: left;">ḥzā (he saw)</td>
+<td style="text-align: left;">ḥzēt (I saw)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Double Weak</strong></td>
+<td style="text-align: left;">ʾ-t-y</td>
+<td style="text-align: left;">Follows both rules</td>
+<td style="text-align: left;">ʾetā (he came)</td>
+<td style="text-align: left;">ʾetēt (I came)</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 7 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
+<p>The following 30 genuinely new high-frequency words supplement this
+lesson’s vocabulary, focusing on derived nouns (abstract and concrete)
+from weak roots and related weak-root vocabulary.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Gender/Type</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܐܘܡܘܬܐ</td>
+<td style="text-align: left;">ʾūmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">oneness, unity</td>
+<td style="text-align: left;">from weak root ʾ-w-m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܡܘܬܐ</td>
+<td style="text-align: left;">dəmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">likeness, image</td>
+<td style="text-align: left;">from root d-m-y (to be like)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܙܘܬܐ</td>
+<td style="text-align: left;">ḥazūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">vision, sight</td>
+<td style="text-align: left;">from III-Yodh root ḥ-z-y</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܒܢܘܬܐ</td>
+<td style="text-align: left;">bənūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">building, structure</td>
+<td style="text-align: left;">from III-Yodh root b-n-y</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܠܘܬܐ</td>
+<td style="text-align: left;">ʿəlūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">ascent, exaltation</td>
+<td style="text-align: left;">from I-Alaph root ʿ-l-y</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܪܘܬܐ</td>
+<td style="text-align: left;">qərūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">calling, vocation</td>
+<td style="text-align: left;">from III-Alaph/Yodh root q-r-ʾ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܥܘܕܪܢܐ</td>
+<td style="text-align: left;">ʿawdərānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">help, aid</td>
+<td style="text-align: left;">from root ʿ-d-r</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܝܙܦܐ</td>
+<td style="text-align: left;">yāzəpā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">beauty, form</td>
+<td style="text-align: left;">from root y-z-p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܗܒܝܘܢܐ</td>
+<td style="text-align: left;">həbīyūnā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">gift, offering</td>
+<td style="text-align: left;">from I-Yodh root y-h-b</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܬܝܢܘܬܐ</td>
+<td style="text-align: left;">ʾətyānūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">coming, arrival</td>
+<td style="text-align: left;">from weak root ʾ-t-y</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܗܘܝܘܬܐ</td>
+<td style="text-align: left;">həwīyūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">being, existence</td>
+<td style="text-align: left;">from III-Yodh root h-w-y</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܠܡܘܬܐ</td>
+<td style="text-align: left;">ʿālmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">worldliness, temporality</td>
+<td style="text-align: left;">from weak root ʿ-l-m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܘܩܐ</td>
+<td style="text-align: left;">dūqā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">bench, throne</td>
+<td style="text-align: left;">from weak root d-w-q</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܓܘܪܐ</td>
+<td style="text-align: left;">gūrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">dwelling, cave</td>
+<td style="text-align: left;">from weak root g-w-r</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܛܘܦܪܐ</td>
+<td style="text-align: left;">ṭūprā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">appearance, form</td>
+<td style="text-align: left;">from weak root ṭ-w-p-r</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܩܘܡܐ</td>
+<td style="text-align: left;">qūmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">standing, resurrection</td>
+<td style="text-align: left;">from I-Alaph/Yodh root q-y-m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܢܦܝܐ</td>
+<td style="text-align: left;">napīʾā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">seer, prophet</td>
+<td style="text-align: left;">from I-Alaph root n-p-ʾ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܘܢܐ</td>
+<td style="text-align: left;">ʿōnā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">strength, power</td>
+<td style="text-align: left;">from weak root ʿ-w-n</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܘܘܕܐ</td>
+<td style="text-align: left;">šūwəddā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">testimony, witness</td>
+<td style="text-align: left;">from weak root š-w-d</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܪܘܡܘܬܐ</td>
+<td style="text-align: left;">rūmūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">highness, exaltation</td>
+<td style="text-align: left;">from weak root r-w-m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩܪܐ</td>
+<td style="text-align: left;">qərā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">cold</td>
+<td style="text-align: left;">from weak root q-r-ʾ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܚܠܡܐ</td>
+<td style="text-align: left;">ḥelmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">dream</td>
+<td style="text-align: left;">from weak root ḥ-l-m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܘܣܐ</td>
+<td style="text-align: left;">dūsā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">trampling, subjugation</td>
+<td style="text-align: left;">from weak root d-w-s</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܠܘܬܐ</td>
+<td style="text-align: left;">ləlūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">lamenting, wailing</td>
+<td style="text-align: left;">from weak root l-l-y</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܘܪܐ</td>
+<td style="text-align: left;">pūrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">fruit</td>
+<td style="text-align: left;">from weak root p-w-r</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܘܩܢܐ</td>
+<td style="text-align: left;">ʿūqqānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">knot, binding</td>
+<td style="text-align: left;">from weak root ʿ-q-d</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܠܝܢܐ</td>
+<td style="text-align: left;">šəlyānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">peace, wholeness</td>
+<td style="text-align: left;">from weak root š-l-y</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܬܘܬܐ</td>
+<td style="text-align: left;">ʾətwūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">sign, omen</td>
+<td style="text-align: left;">from weak root ʾ-t-w</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܢܘܬܐ</td>
+<td style="text-align: left;">nūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">rest, dwelling</td>
+<td style="text-align: left;">from weak root n-w-t</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܘܝܪܘܬܐ</td>
+<td style="text-align: left;">wayrūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">shame, disgrace</td>
+<td style="text-align: left;">from weak root w-y-r</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+</quiz>

@@ -1,14 +1,20 @@
 ## LESSON 2
+
 ### The Narrative Present: Participles and Enclitics
+
 ---
 
 #### Section 1: Review of Lesson 1
 
+
 **Quick Summary**
+
 In Lesson 1, we established the basic building blocks of Syriac syntax. We learned that Syriac sentences do not strictly require a "to be" verb; rather, placing a subject and predicate side-by-side with a matching independent pronoun acts as an equational sentence (e.g., *Malkā hū ṭābā* — "The king [is] good"). We also looked at the absolute versus empathic states of nouns, with the emphatic ending in `ā` (Alaph) acting as the default dictionary form.
 
 **5-Question Warm-Up Drill**
+
 *(Answers in Section 9)*
+
 1. Translate: *Alāhā rabbā hū*.
 2. What is the Syriac absolute state for "word" (from *meltā*)?
 3. How do you say "We" in Syriac?
@@ -19,11 +25,13 @@ In Lesson 1, we established the basic building blocks of Syriac syntax. We learn
 
 #### Section 2: The Participle as Present Tense — Overview
 
+
 In Indo-European languages like English, and Greek, the "present tense" is a fully conjugated finite verb (e.g., "I walk", περιπατῶ). Participles are verbal adjectives (e.g., "the *walking* man").
 
 In Aramaic and Syriac, the **active participle** stepped in to take over the function of the present tense almost entirely. A Syriac speaker didn't say "I write" as a finite verb; they literally said "Writing [am] I."
 
 **Cross-Linguistic Comparison**
+
 *   **Hebrew**: Biblical Hebrew primarily used the Imperfect for ongoing action, but by the Mishnaic period (interfacing with Aramaic), Hebrew also adopted the participle for the present tense (e.g., *ānī kōtēb* = I am writing).
 *   **Arabic**: Standard Arabic relies on the imperfect prefix conjugation (يَكْتُبُ *yaktubu*, "he writes"). The active participle (كَاتِب *kātib*) means "writer" or "one who has written," but does not serve as a primary present tense verb.
 *   **Greek**: Syriac's reliance on the participle to form continuous action heavily influenced how Syriac translators rendered Greek continuous tenses (often translating a Greek present indicative with a Syriac participle + pronoun).
@@ -32,16 +40,22 @@ In Aramaic and Syriac, the **active participle** stepped in to take over the fun
 
 #### Section 3: The Peal Active Participle & Enclitics
 
+
 **The Peal Stem**
+
 Semitic verbs exist in different "stems" (or binyanim) that modify their meaning. The basic, un-augmented ground-stem is called the **Peal**. Almost all basic actions occur in the Peal.
 
 **Forming the Participle**
+
 For a strong tri-consonantal root (C-C-C) like *k-t-b* (write), the active participle is formed by inserting a long *ā* after the first consonant, and an *e* after the second.
+
 *   *kāteb* (writing, m.sg.)
 *   *kātbā* (writing, f.sg.)
 
 **Enclitic Pronouns**
+
 To turn "writing" into "I am writing," Syriac attaches an **enclitic** pronoun to the back of the participle. Enclitics are shortened, rhythmic versions of the independent pronouns from Lesson 1.
+
 *   *ʾenā* (I) $\rightarrow$ *-nā*
 *   *kāteb* \+ *-nā* = *kāteb-nā* (I am writing)
 
@@ -49,7 +63,9 @@ To turn "writing" into "I am writing," Syriac attaches an **enclitic** pronoun t
 
 #### Section 4: Participle and Enclitic Paradigms
 
+
 **1. The Enclitic Pronoun Set**
+
 
 | Person | Independent | Enclitic Form | Attached Example (*kāteb*) | Translation |
 | :--- | :--- | :--- | :--- | :--- |
@@ -69,6 +85,7 @@ To turn "writing" into "I am writing," Syriac attaches an **enclitic** pronoun t
 
 **2. The Peal Active Participle Declension (Root `k-t-b`)**
 
+
 | Gender/Num | Estrangela | Transliteration |
 | :--- | :--- | :--- |
 | **Masc. Sg.** | ܟܬܒ | kāteb |
@@ -80,7 +97,9 @@ To turn "writing" into "I am writing," Syriac attaches an **enclitic** pronoun t
 
 #### Section 5: Sentence Syntax
 
+
 When the active participle drives the sentence, the word order is very fluid, but Verb-Subject-Object (VSO) or Subject-Verb-Object (SVO) are both common.
+
 *   **SVO**: *Yūḥannan kāteb meltā.* (Yukhannan writes a word).
 *   **VSO**: *Kāteb Yūḥannan meltā.* (Writes Yukhannan a word).
 *   **Enclitic**: *Kāteb-nā meltā.* (I am writing a word).
@@ -88,6 +107,7 @@ When the active participle drives the sentence, the word order is very fluid, bu
 ---
 
 #### Section 6: Vocabulary (Strong Verbs & Adverbs)
+
 
 | Root | Peal Ptcp (m.s.) | Meaning | Adverb/Particle | Meaning |
 | :--- | :--- | :--- | :--- | :--- |
@@ -108,46 +128,55 @@ When the active participle drives the sentence, the word order is very fluid, bu
 
 #### Section 7: The Story — Part 2
 
+
 **Preparation**
+
 *Narrative note: The present tense (participle + enclitics) is used here to create an immediate, action-oriented dialogue as Yukhannan prepares his disciples.*
 
 **Sentence 1**
+
 ܝܘܚܢܢ ܐܡܪ ܠܬܠܡܝܕܐ ܕܐܝܬ ܠܗ
 Yūḥannan ʾāmer l-talmīdē d-īt l-eh.
 Yūḥannan (John) ʾāmer (is-speaking) l- (to) talmīdē (the-disciples) d- (that) īt (there-are) l-eh (to-him).
 → Yukhannan is speaking to the disciples that are his.
 
 **Sentence 2**
+
 ܐܙܠ ܐܢܐ ܡܢ ܗܪܟܐ
 ʾāzel-nā men harkā.
 ʾāzel (going) -nā (am-I) men (from) harkā (here).
 → "I am going from here."
 
 **Sentence 3**
+
 ܐܙܠ ܐܢܐ ܠܡܠܟܘܬܐ ܕܒܝܫܐ ܐܡܪ ܗܘ
 ʾāzel-nā l-malkūttā d-bīšā, ʾāmer-hū.
 ʾāzel (going) -nā (am-I) l- (to) malkūttā (the-kingdom) d- (of) bīšā (the-evil-[one]), ʾāmer (says) -hū (he).
 → "I am going to the kingdom of the evil one," he says.
 
 **Sentence 4**
+
 ܬܠܡܝܕܐ ܫܡܥܝܢ ܡܠܬܐ ܕܝܘܚܢܢ
 talmīdē šāmʿīn meltā d-Yūḥannan.
 talmīdē (the-disciples) šāmʿīn (are-hearing) meltā (the-word) d- (of) Yūḥannan (John).
 → The disciples hear the word of Yukhannan.
 
 **Sentence 5**
+
 ܗܢܘܢ ܐܡܪܝܢ ܚܙܝܢ ܚܢܢ ܡܠܟܐ ܒܝܫܐ ܬܡܢ
 hennōn ʾāmrīn: ḥāzēn-ḥnan malkā bīšā tammān.
 hennōn (they) ʾāmrīn (are-saying): ḥāzēn (seeing) -ḥnan (are-we) malkā (a-king) bīšā (evil) tammān (there).
 → They say: "We see an evil king there."
 
 **Sentence 6**
+
 ܝܘܚܢܢ ܥܒܕ ܢܘܗܪܐ ܒܐܪܥܐ
 Yūḥannan ʿābed nūhrā b-ʾarʿā.
 Yūḥannan (John) ʿābed (is-making/doing) nūhrā (light) b- (in) ʾarʿā (the-earth).
 → Yukhannan makes light in the earth.
 
 **Sentence 7**
+
 ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ ܐܡܪ ܗܫܐ
 kāteb-nā meltā d-Alāhā, ʾāmer hāšā.
 kāteb (writing) -nā (am-I) meltā (the-word) d- (of) Alāhā (God), ʾāmer (says-[he]) hāšā (now).
@@ -157,36 +186,47 @@ kāteb (writing) -nā (am-I) meltā (the-word) d- (of) Alāhā (God), ʾāmer (s
 
 #### Section 8: Exercises
 
+
 **Exercise 1: Participle Identification**
+
 Identify the gender and number of the following participles.
+
 1. ܟܬܒܝܢ (kātbīn)
 2. ܫܡܥܐ (šāmʿā)
 3. ܢܦܩܢ (nāpqān)
 4. ܪܕܦ (rādep)
 
 **Exercise 2: Conjugation Drill**
+
 Combine the root *ʿ-b-d* (to do, make) with the correct enclitic pronoun to form the present tense for:
+
 1. I am making (m.sg)
 2. We are making (m.pl)
 3. You (f.sg) are making
 4. They (m.pl) are making.
 
 **Exercise 3: Translation Drill (Syriac → English)**
+
 Translate the following present tense clauses.
+
 1. ʾāzel-nā l-malkūttā.
 2. Šāmʿīn-tūn meltā d-Alāhā.
 3. Barnāšā bīšā rādep l-Yūḥannan.
 4. Ḥāzēn-ḥnan nūhrā rabbā tammān.
 
 **Exercise 4: Production Drill (English → Syriac)**
+
 Render the following active present sentences into Syriac transliteration.
+
 1. I (m) am hearing the word.
 2. She is writing a good word.
 3. They (m) are going from here.
 4. You (m.pl) are seeing the king.
 
 **Exercise 5: Reading Comprehension**
+
 Re-read Section 7 and answer:
+
 1. From where does Yukhannan say he is going?
 2. What do the disciples fear they will see there?
 3. What is Yukhannan "writing" right now?
@@ -195,7 +235,9 @@ Re-read Section 7 and answer:
 
 #### Section 9: Answer Key
 
+
 **Section 1 Warm-Up**
+
 1. God is great.
 2. *Melt* (ܡܠܬ)
 3. *ḥnan*
@@ -203,30 +245,35 @@ Re-read Section 7 and answer:
 5. Because *malkūttā* (kingdom) is a feminine noun.
 
 **Exercise 1: Participle Identification**
+
 1. Masculine Plural
 2. Feminine Singular
 3. Feminine Plural
 4. Masculine Singular
 
 **Exercise 2: Conjugation Drill**
+
 1. ʿābed-nā
 2. ʿābdīn-ḥnan
 3. ʿābdā-tī
 4. ʿābdīn (no enclitic needed for 3rd person pl)
 
 **Exercise 3: Translation Drill**
+
 1. I am going to the kingdom.
 2. You all are hearing the word of God.
 3. The evil man is pursuing Yukhannan.
 4. We are seeing a great light there.
 
 **Exercise 4: Production Drill**
+
 1. Šāmaʿ-nā meltā.
 2. Kātbā meltā ṭābtā.
 3. ʾĀzlīn men harkā.
 4. Ḥāzēn-tūn l-malkā.
 
 **Exercise 5: Reading Comprehension**
+
 1. "From here" (*men harkā*).
 2. An evil king (*malkā bīšā*).
 3. The word of God (*meltā d-Alāhā*).
@@ -235,7 +282,9 @@ Re-read Section 7 and answer:
 
 #### Section 10: Grammatical Summary
 
+
 **PARTICIPLE + ENCLITIC COMBINATIONS (Masc. Root k-t-b)**
+
 
 | English | Participle | Enclitic | Combined Syriac Form |
 | :--- | :--- | :--- | :--- |
@@ -247,10 +296,12 @@ Re-read Section 7 and answer:
 | They write (m) | kātbīn | (none) | kātbīn |
 
 #### Section 11: Additional Vocabulary
+
 The following 30 genuinely new high-frequency words supplement this lesson's vocabulary, focusing on nouns and derived verbal nouns relevant to narrative present (participle) usage.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| ܫܒܬܐ | šabbtā | f. noun | sabbath, week | pl. šabbē |
 | ܠܒܘܫܐ | lbūšā | m. noun | garment, clothing | from root l-b-š (to wear) |
 | ܕܟܪܢܐ | dəkrānā | m. noun | memory, remembrance | from root d-k-r (to remember) |
 | ܦܓܥܢܐ | pəgʿānā | m. noun | encounter, meeting | from root p-g-ʿ (to meet) |

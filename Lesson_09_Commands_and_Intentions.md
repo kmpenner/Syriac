@@ -1,73 +1,60 @@
-## LESSON 9: Commands and Intentions
+## LESSON 9
 
-#### SECTION 1: Review of Lessons 1--8
+### Commands and Intentions
+
+
+#### Section 1: Review of Lessons 1–8
+
 
 Before diving into new material, take a moment to consolidate what you
-have learned so far. Lessons 1--8 have introduced you to the following
+have learned so far. Lessons 1–8 have introduced you to the following
 foundational topics:
 
-- **Lesson 1:** The Syriac language, its history, and the Estrangela
-  script
+- **Lesson 0:** The Estrangela alphabet
 
-- **Lesson 2:** Nouns --- gender, number, and the
-  absolute/emphatic/construct states
+- **Lesson 1:** Noun states, independent pronouns, verbless clauses, and
+  the particles *d-* and *l-*
 
-- **Lesson 3:** Pronouns --- independent, pronominal suffixes, and
-  demonstratives
+- **Lesson 2:** The Peal active participle with enclitic pronouns (the
+  narrative present)
 
-- **Lesson 4:** The perfect tense (qṭal) --- all persons and numbers
+- **Lesson 3:** The Peal perfect (*qṭal*) — all persons and numbers;
+  V-S-O word order
 
-- **Lesson 5:** The imperfect tense (neqtol) --- all persons and numbers
+- **Lesson 4:** Pronominal suffixes on nouns and prepositions; *ʾit l-*
+  ("to have")
 
-- **Lesson 6:** The participle --- active and passive forms; the verb
-  \"to be\"
+- **Lesson 5:** The Aphel stem — causation
 
-- **Lesson 7:** Prepositions, conjunctions, and basic sentence structure
+- **Lesson 6:** The Paael stem — intensive and factitive meaning
 
-- **Lesson 8:** The derived stems --- Paael and Aphel ---
-  intensification and causation
+- **Lesson 7:** Weak roots: I-Alaph, I-Yodh, and III-Yodh verbs
+
+- **Lesson 8:** The Peal imperfect (*neqṭol*): the future, and *d-* +
+  imperfect for purpose
 
 **Warm-Up Drill: Five Quick Questions**
+
 
 Answer each question from memory before checking against your notes.
 Write your answer in full Syriac script with transliteration.
 
-  ------------------------------------------------------------------------------
-  **\#**             **Question** **Expected Answer (Peal  **Syriac**
-                                  Perfect)**               
+| # | Question | Expected answer | Syriac |
+|---|---|---|---|
+| 1 | What is the Peal perfect 3 m.sg. of *k-t-b* (write)? | *ktab* — he wrote | ܟܬܒ |
+| 2 | What is the Peal imperfect 3 m.sg. of *š-m-ʿ* (hear)? | *nešmaʿ* — he will hear | ܢܫܡܥ |
+| 3 | How do you say "the king commanded" (*p-q-d*, 3 m.sg. perfect)? | *pqad malkā* — the king commanded | ܦܩܕ ܡܠܟܐ |
+| 4 | What does the Paael stem add to the root's meaning? | Intensity, repetition, or a denominative meaning | — |
+| 5 | Give the Aphel perfect 3 m.sg. of *n-p-q* (go out). | *ʾappeq* — he brought out / caused to go out | ܐܦܩ |
 
-  -------- ---------------------- ------------------------ ---------------------
-  1             [What is the Peal ktab --- he wrote        ܟܬܒ
-            perfect 3msg of k-t-b                          
-             (write)?]{dir="rtl"}                          
+#### Section 2: The Imperative
 
-  2             [What is the Peal nešmaʿ --- he will hear  ܢܫܡܥ
-                imperfect 3msg of                          
-                            š-m-ʿ                          
-              (hear)?]{dir="rtl"}                          
-
-  3         [How do you say \'the pqad malkā --- the king  ܦܩܕ ܡܠܟܐ
-                 king commanded\' commanded                
-                     (p-q-d, 3msg                          
-              perf.)?]{dir="rtl"}                          
-
-  4          [What does the Paael Intensity, repetition,   ---
-             stem add to the root or a denominative        
-             meaning?]{dir="rtl"} meaning                  
-
-  5               [Give the Aphel ʾappaq --- he brought    ܐܦܩ
-            perfect 3msg of n-p-q out / caused to go out   
-            (go out): cause to go                          
-                 out?]{dir="rtl"}                          
-
-  ------------------------------------------------------------------------------
-
-#### SECTION 2: The Imperative
 
 **2.1 What Is the Imperative?**
 
+
 The imperative is the grammatical form used to issue **direct commands**
-or requests addressed to a second person (\"you\"). In Syriac, as in
+or requests addressed to a second person ("you"). In Syriac, as in
 Hebrew and Arabic, the imperative exists only in the second person ---
 singular and plural, masculine and feminine. There is no first-person or
 third-person imperative; those ideas are expressed by other means (the
@@ -76,102 +63,101 @@ cohortative and the jussive).
 The **formation** of the Peal imperative follows a straightforward rule:
 take the **imperfect form**, strip away the **t-** prefix of the 2nd
 person, and you have the imperative. The vowel pattern is then **CCoC**
-for the masculine singular (e.g., *ktob* \"write!\"). This parallels the
+for the masculine singular (e.g., *ktob* "write!"). This parallels the
 Hebrew Qal imperative (**כְּתֹב** ktōv) and the Arabic imperative (**اكتب**
 uktub), though the exact vowel patterns differ.
 
-**2.2 Peal Imperative --- Formation**
+**2.2 Peal Imperative — Formation**
 
-**Masculine Singular:** *CCoC* --- the simplest form, the bare root with
-the characteristic o-vowel. E.g., **ktob** [ܟܬܘܒ]{dir="rtl"} \"Write!
-(to one man)\"
 
-**Feminine Singular:** *CCoC + -ī* --- add the feminine marker ī. E.g.,
-**ktobī** [ܟܬܘܒܝ]{dir="rtl"} \"Write! (to one woman)\"
+**Masculine Singular:** *CCoC* — the simplest form, the bare root with
+the characteristic o-vowel. E.g., **ktob** ܟܬܘܒ "Write!
+(to one man)"
 
-**Masculine Plural:** *CCoC + -w* --- add the masculine plural ending.
-E.g., **ktobw** [ܟܬܘܒܘ]{dir="rtl"} \"Write! (to a group of men)\"
+**Feminine Singular:** *CCoC + -ī* — add the feminine marker ī. E.g.,
+**ktobī** ܟܬܘܒܝ "Write! (to one woman)"
 
-**Feminine Plural:** *CCoC + -ān* --- add the feminine plural ending.
-E.g., **ktobān** [ܟܬܘܒܢ]{dir="rtl"} \"Write! (to a group of women)\"
+**Masculine Plural:** *CCoC + -w* — add the masculine plural ending.
+E.g., **ktobw** ܟܬܘܒܘ "Write! (to a group of men)"
+
+**Feminine Plural:** *CCoC + -ān* — add the feminine plural ending.
+E.g., **ktobān** ܟܬܘܒܢ "Write! (to a group of women)"
 
 **2.3 Complete Paradigm Tables**
 
-**Root k-t-b** [ܟܬܒ]{dir="rtl"} **(write)**
+
+**Root k-t-b** ܟܬܒ **(write)**
 
   ---------------------------------------------------------------------------------------
   **Person/Gender/Number**         **Estrangela** **Transliteration**   **Literal
                                                                         Meaning**
 
   -------------------------- -------------------- --------------------- -----------------
-  2msg (m. sg.)                 [ܟܬܘܒ]{dir="rtl"} ktob                  Write! (to one
+  2msg (m. sg.)                 ܟܬܘܒ ktob                  Write! (to one
                                                                         man)
 
-  2fsg (f. sg.)                [ܟܬܘܒܝ]{dir="rtl"} ktobī                 Write! (to one
+  2fsg (f. sg.)                ܟܬܘܒܝ ktobī                 Write! (to one
                                                                         woman)
 
-  2mpl (m. pl.)                [ܟܬܘܒܘ]{dir="rtl"} ktobw                 Write! (to a
+  2mpl (m. pl.)                ܟܬܘܒܘ ktobw                 Write! (to a
                                                                         group of men)
 
-  2fpl (f. pl.)                [ܟܬܘܒܢ]{dir="rtl"} ktobān                Write! (to a
+  2fpl (f. pl.)                ܟܬܘܒܢ ktobān                Write! (to a
                                                                         group of women)
 
   ---------------------------------------------------------------------------------------
 
-**Root š-m-ʿ** [ܫܡܥ]{dir="rtl"} **(hear)**
+**Root š-m-ʿ** ܫܡܥ **(hear)**
 
   --------------------------------------------------------------------------------------
   **Person/Gender/Number**        **Estrangela** **Transliteration**   **Literal
                                                                        Meaning**
 
   -------------------------- ------------------- --------------------- -----------------
-  2msg                          [ܫܡܥ]{dir="rtl"} šmaʿ                  Hear! (to one
+  2msg                          ܫܡܥ šmaʿ                  Hear! (to one
                                                                        man)
 
-  2fsg                         [ܫܡܥܝ]{dir="rtl"} šmaʿī                 Hear! (to one
+  2fsg                         ܫܡܥܝ šmaʿī                 Hear! (to one
                                                                        woman)
 
-  2mpl                         [ܫܡܥܘ]{dir="rtl"} šmaʿw                 Hear! (to a group
+  2mpl                         ܫܡܥܘ šmaʿw                 Hear! (to a group
                                                                        of men)
 
-  2fpl                         [ܫܡܥܢ]{dir="rtl"} šmaʿān                Hear! (to a group
+  2fpl                         ܫܡܥܢ šmaʿān                Hear! (to a group
                                                                        of women)
 
   --------------------------------------------------------------------------------------
 
 **2.4 Derived Stems: Paael and Aphel Imperatives**
 
+
 **Paael Imperative**: The Paael intensifies or extends the root meaning.
 Its imperative is built from the Paael imperfect. The form is
-**mCaCC-e** (msg) --- note the characteristic doubled middle radical.
-E.g., **bārek** [ܒܪܟ]{dir="rtl"} \"Bless! / Praise!\"; **ʾallep**
-[ܐܠܦ]{dir="rtl"} \"Teach!\"
+**mCaCC-e** (msg) — note the characteristic doubled middle radical.
+E.g., **bārek** ܒܪܟ "Bless! / Praise!"; **ʾallep**
+ܐܠܦ "Teach!"
 
 **Aphel Imperative**: The Aphel is causative. Its imperative begins with
-**ʾa-**. E.g., **ʾappaq** [ܐܦܩ]{dir="rtl"} \"Bring out!\"; **ʾaḥwī**
-[ܐܚܘܝ]{dir="rtl"} \"Show!\"
+**ʾa-**. E.g., **ʾappaq** ܐܦܩ "Bring out!"; **ʾaḥwī**
+ܐܚܘܝ "Show!"
 
 **2.5 Negative Commands**
 
-+-----------------------------------------------------------------------+
 
-| **Key Rule: Negating Commands**                                       |
-|                                                                       |
-| In Syriac, negative commands (prohibitions) are NOT formed with the   |
-| imperative.                                                           |
-|                                                                       |
-| Instead, use: lā + IMPERFECT (2nd person).                            |
-|                                                                       |
-| This is identical to Biblical Hebrew (אַל + jussive / לֹא + imperfect)  |
-| and Arabic (لا + mudāriʿ).                                            |
-|                                                                       |
-| Example: lā tektob ܠܐ ܬܟܬܘܒ = \"Do not write!\" (lit. \"you-shall-not |
-| write\")                                                              |
-|                                                                       |
-| Example: lā tešmaʿ ܠܐ ܬܫܡܥ = \"Do not listen!\"                       |
-+-----------------------------------------------------------------------+
+> **Key Rule: Negating Commands**
+>
+> In Syriac, negative commands (prohibitions) are NOT formed with the imperative.
+>
+> Instead, use: lā + IMPERFECT (2nd person).
+>
+> This is identical to Biblical Hebrew (אַל + jussive / לֹא + imperfect) and Arabic (لا + mudāriʿ).
+>
+> Example: lā tektob ܠܐ ܬܟܬܘܒ = "Do not write!" (lit. "you-shall-not write")
+>
+> Example: lā tešmaʿ ܠܐ ܬܫܡܥ = "Do not listen!"
 
 **2.6 Cross-Linguistic Comparison**
+
 
 Students coming from different language backgrounds will find useful
 parallels:
@@ -202,6 +188,7 @@ parallels:
 
 **2.7 Example Commands with Interlinear Gloss**
 
+
 Study each command carefully. The word-by-word gloss is given directly
 below the Syriac.
 
@@ -209,193 +196,201 @@ below the Syriac.
        **Estrangela** **Transliteration**   **Word Gloss**  **English**
 
   ------------------- --------------------- --------------- -------------------
-            [ܟܬܘܒ ܫܡܗ *ktob šmeh d-malkā*   write! name-his Write the name of
-    ܕܡܠܟܐ]{dir="rtl"}                       of-the.king     the king!
+            ܟܬܘܒ ܫܡܗ *ktob šmeh d-malkā*   write! name-his Write the name of
+    ܕܡܠܟܐ                       of-the.king     the king!
 
-                 [ܫܡܥ *šmaʿ qālī*           hear! voice-my  Hear my voice!
-      ܩܠܝ]{dir="rtl"}                                       
+                 ܫܡܥ *šmaʿ qālī*           hear! voice-my  Hear my voice!
+      ܩܠܝ                                       
 
-                 [ܗܘܘ *haww yāḏʿīn*         be-pl. knowing  Know (be knowing)!
-    ܝܕܥܝܢ]{dir="rtl"}                                       \[m.pl.\]
+                 ܗܘܘ *haww yāḏʿīn*         be-pl. knowing  Know (be knowing)!
+    ܝܕܥܝܢ                                       \[m.pl.\]
 
-                  [ܠܐ *lā tedḥal*           not you-fear    Do not be afraid!
-     ܬܕܚܠ]{dir="rtl"}                                       
+                  ܠܐ *lā tedḥal*           not you-fear    Do not be afraid!
+     ܬܕܚܠ                                       
 
-                [ܐܙܠܘ *ʾezlaw w-emraw*      go-pl.! and     Go and tell!
-    ܘܐܡܪܘ]{dir="rtl"}                       say-pl.!        \[m.pl.\]
+                ܐܙܠܘ *ʾezlaw w-emraw*      go-pl.! and     Go and tell!
+    ܘܐܡܪܘ                       say-pl.!        \[m.pl.\]
 
-              [ܐܚܘܝܢܝ *ʾaḥwāynī ʾattā*      show-me! sign   Show me a sign!
-      ܐܬܐ]{dir="rtl"}                                       
+              ܐܚܘܝܢܝ *ʾaḥwāynī ʾattā*      show-me! sign   Show me a sign!
+      ܐܬܐ                                       
 
   -----------------------------------------------------------------------------
 
-#### SECTION 3: The Infinitive (Verbal Noun / Maṣdar)
+#### Section 3: The Infinitive (Verbal Noun / Maṣdar)
+
 
 **3.1 The Nature of the Syriac Infinitive**
 
-Syriac, like Arabic and Hebrew, possesses a **verbal noun** --- a noun
+
+Syriac, like Arabic and Hebrew, possesses a **verbal noun** — a noun
 derived from the verb root that expresses the action in abstract form.
-In Arabic this is called the **maṣdar** (مصدر, \"source\"). In Hebrew it
+In Arabic this is called the **maṣdar** (مصدر, "source"). In Hebrew it
 corresponds to the **infinitive construct**. In Syriac it functions
 similarly and is often called the **infinitive** in grammars. It can
-serve as the subject of a sentence, the object of a verb, or --- most
-commonly in narrative --- as a **complementary infinitive** after a
-modal or semi-modal verb, introduced by the preposition **l-** (\"to\").
+serve as the subject of a sentence, the object of a verb, or — most
+commonly in narrative — as a **complementary infinitive** after a
+modal or semi-modal verb, introduced by the preposition **l-** ("to").
 
 **3.2 Infinitive Formation by Stem**
 
+
 **Peal Infinitive: meCCaC** pattern. Insert me- prefix and reduce the
-stem. E.g., k-t-b → **mektab** [ܡܟܬܒ]{dir="rtl"} \'the writing / to
-write\'. Root š-m-ʿ → **mešmaʿ** [ܡܫܡܥ]{dir="rtl"} \'the hearing\'.
+stem. E.g., k-t-b → **mektab** ܡܟܬܒ 'the writing / to
+write'. Root š-m-ʿ → **mešmaʿ** ܡܫܡܥ 'the hearing'.
 
-**Paael Infinitive: mCāCāCū** --- longer form with ā-vowels and final ū.
-E.g., barrek (bless, Paael) → **mbarrākū** [ܡܒܪܟܘ]{dir="rtl"} \'the
-blessing\'.
+**Paael Infinitive: mCaCCāCū** — m- prefix, doubled middle radical, ā before the last radical, final ū.
+E.g., barrek (bless, Paael) → **mbarrākū** ܡܒܪܟܘ 'the
+blessing'.
 
-**Aphel Infinitive: ʾaCCāCū** --- ʾa- prefix with ā-vowel before final
-radical + ū. E.g., ʾappaq (bring out, Aphel) → **ʾappāqū**
-[ܐܦܩܘ]{dir="rtl"} \'to bring out\'.
+**Aphel Infinitive: maCCāCū** — ma- prefix with ā-vowel before final
+radical + ū. E.g., ʾappeq (bring out, Aphel) → **mappāqū**
+ܡܦܩܘ 'to bring out'.
 
-**3.3 Infinitive Forms --- Five Key Verbs**
+**3.3 Infinitive Forms — Five Key Verbs**
+
 
   ---------------------------------------------------------------------------------------
   **Root**              **Meaning** **Peal Inf.**     **Paael Inf.**    **Aphel Inf.**
 
   ---------- ---------------------- ----------------- ----------------- -----------------
-  k-t-b          [write]{dir="rtl"} mektab ܡܟܬܒ       mkatābū ܡܟܬܒܘ     ʾaktābū ܐܟܬܒܘ
+  k-t-b          write mektab ܡܟܬܒ       mkatābū ܡܟܬܒܘ     ʾaktābū ܐܟܬܒܘ
 
-  š-m-ʿ           [hear]{dir="rtl"} mešmaʿ ܡܫܡܥ       mšamāʿū ܡܫܡܥܘ     ʾašmāʿū ܐܫܡܥܘ
+  š-m-ʿ           hear mešmaʿ ܡܫܡܥ       mšamāʿū ܡܫܡܥܘ     ʾašmāʿū ܐܫܡܥܘ
 
-  q-t-l           [kill]{dir="rtl"} meqtal ܡܩܛܠ       mqatālū ܡܩܛܠܘ     ʾaqtālū ܐܩܛܠܘ
+  q-ṭ-l           kill meqṭal ܡܩܛܠ       mqaṭālū ܡܩܛܠܘ     ʾaqṭālū ܐܩܛܠܘ
 
-  p-q-d        [command]{dir="rtl"} mepqad ܡܦܩܕ       mpaqādū ܡܦܩܕܘ     ʾapqādū ܐܦܩܕܘ
+  p-q-d        command mepqad ܡܦܩܕ       mpaqādū ܡܦܩܕܘ     ʾapqādū ܐܦܩܕܘ
 
-  y-d-ʿ           [know]{dir="rtl"} mīdaʿ ܡܝܕܥ        myādāʿū ܡܝܕܥܘ     ʾaodāʿū ܐܘܕܥܘ
+  y-d-ʿ           know mīdaʿ ܡܝܕܥ        myādāʿū ܡܝܕܥܘ     ʾawdāʿū ܐܘܕܥܘ
 
   ---------------------------------------------------------------------------------------
 
 **3.4 The Critical Construction: l- + Infinitive**
 
-+-----------------------------------------------------------------------+
 
-| **The l- + Infinitive Construction**                                  |
-|                                                                       |
-| PATTERN: MAIN VERB + l- + INFINITIVE                                  |
-|                                                                       |
-| This construction expresses purpose or complement: \'he began to      |
-| write\', \'she is able to hear\'.                                     |
-|                                                                       |
-| The preposition l- is prefixed directly to the infinitive with no     |
-| space.                                                                |
-|                                                                       |
-| Compare: Greek + infinitive (γράφειν); Latin accusative + infinitive  |
-| (scribere); Arabic أن + imperfect.                                    |
-|                                                                       |
-| In Hebrew the parallel is the lamed + infinitive construct: לִכְתֹּב      |
-| (liktōv).                                                             |
-+-----------------------------------------------------------------------+
+> **The l- + Infinitive Construction**
+>
+> PATTERN: MAIN VERB + l- + INFINITIVE
+>
+> This construction expresses purpose or complement: 'he began to write', 'she is able to hear'.
+>
+> The preposition l- is prefixed directly to the infinitive with no space.
+>
+> Compare: Greek + infinitive (γράφειν); Latin accusative + infinitive (scribere); Arabic أن + imperfect.
+>
+> In Hebrew the parallel is the lamed + infinitive construct: לִכְתֹּב (liktōv).
 
 **Eight Example Sentences with l- + Infinitive:**
+
 
   -----------------------------------------------------------------------------
        **Estrangela** **Transliteration**   **Word Gloss**  **English**
 
   ------------------- --------------------- --------------- -------------------
-                 [ܫܪܝ *šarī l-mektab*       began to.write  He began to write.
-    ܠܡܟܬܒ]{dir="rtl"}                                       
+                 ܫܪܝ *šarī l-mektab*       began to.write  He began to write.
+    ܠܡܟܬܒ                                       
 
-                [ܝܟܝܠ *yākel l-mešmaʿ*      is.able to.hear He is able to hear.
-    ܠܡܫܡܥ]{dir="rtl"}                                       
+                ܝܟܝܠ *yākel l-mešmaʿ*      is.able to.hear He is able to hear.
+    ܠܡܫܡܥ                                       
 
-                 [ܒܥܐ *bāʿē l-meʾzal*       wants to.go     He wants to go.
-    ܠܡܐܙܠ]{dir="rtl"}                                       
+                 ܒܥܐ *bāʿē l-meʾzal*       wants to.go     He wants to go.
+    ܠܡܐܙܠ                                       
 
-                 [ܨܒܐ *ṣābē l-meqtal*       wishes to.kill  He wishes to kill.
-    ܠܡܩܛܠ]{dir="rtl"}                                       
+                 ܨܒܐ *ṣābē l-meqṭal*       wishes to.kill  He wishes to kill.
+    ܠܡܩܛܠ                                       
 
-                 [ܦܩܕ *paqed l-meʾsar*      commanded       He commanded (them)
-    ܠܡܐܣܪ]{dir="rtl"}                       to.bind         to bind.
+                 ܦܩܕ *paqed l-meʾsar*      commanded       He commanded (them)
+    ܠܡܐܣܪ                       to.bind         to bind.
 
-                 [ܫܕܪ *šadar l-meʿbad*      sent to.do/make He sent (them) to
-    ܠܡܥܒܕ]{dir="rtl"}                                       act.
+                 ܫܕܪ *šadar l-meʿbad*      sent to.do/make He sent (them) to
+    ܠܡܥܒܕ                                       act.
 
-             [ܠܐ ܝܟܝܠ *lā yākel l-meʾzal*   not is.able     He is not able to
-    ܠܡܐܙܠ]{dir="rtl"}                       to.go           go.
+             ܠܐ ܝܟܝܠ *lā yākel l-meʾzal*   not is.able     He is not able to
+    ܠܡܐܙܠ                       to.go           go.
 
-          [ܫܪܝܬ ܠܡܩܪܐ *šarīt l-meqrā maltā* you.began       You began to read
-     ܡܠܬܐ]{dir="rtl"}                       to.read         the word.
+          ܫܪܝܬ ܠܡܩܪܐ *šarīt l-meqrā maltā* you.began       You began to read
+     ܡܠܬܐ                       to.read         the word.
                                             word.the        
 
   -----------------------------------------------------------------------------
 
-#### SECTION 4: Verbs of Beginning, Ability, and Desire
+#### Section 4: Verbs of Beginning, Ability, and Desire
+
 
 **4.1 Semi-Modal Verbs**
+
 
 These verbs function like **modal auxiliaries** in English and govern an
 infinitive complement introduced by **l-**. They are extremely common in
 Syriac narrative. Master these verbs and their paradigms, as they appear
 repeatedly in the Acts of Mar Yukhannan.
 
-**š-r-y ܫܪܝ --- begin**
+**š-r-y ܫܪܝ — begin**
+
 
 **Stem:** Peal **Perfect 3msg:** šarī ܫܪܝ
 
-**Example:** [ܫܪܝ ܠܡܟܬܒ]{dir="rtl"} *šarī l-mektab* --- He began to
+**Example:** ܫܪܝ ܠܡܟܬܒ *šarī l-mektab* — He began to
 write.
 
 **Note:** Very common in narrative openings. Note final yod (weak root
 š-r-y).
 
-**y-k-l ܝܟܠ --- be able / can**
+**y-k-l ܝܟܠ — be able / can**
+
 
 **Stem:** Peal **Perfect 3msg:** yākel ܝܟܠ
 
-**Example:** [ܝܟܠ ܠܡܩܛܠ]{dir="rtl"} *yākel l-meqtal* --- He is able to
+**Example:** ܝܟܠ ܠܡܩܛܠ *yākel l-meqṭal* — He is able to
 kill.
 
 **Note:** The Syriac equivalent of Greek δύναμαι, Latin possum. Often
 negated: lā yākel.
 
-**b-ʿ-y ܒܥܐ --- want / seek / ask**
+**b-ʿ-y ܒܥܐ — want / seek / ask**
+
 
 **Stem:** Peal **Perfect 3msg:** bāʿē ܒܥܐ
 
-**Example:** [ܒܥܐ ܠܡܐܙܠ]{dir="rtl"} *bāʿē l-meʾzal* --- He wants to go.
+**Example:** ܒܥܐ ܠܡܐܙܠ *bāʿē l-meʾzal* — He wants to go.
 
-**Note:** Can also mean \'ask\' or \'pray\'. Third-aleph weak root.
+**Note:** Can also mean 'ask' or 'pray'. Third-aleph weak root.
 
-**ṣ-b-y ܨܒܐ --- wish / will / be pleased**
+**ṣ-b-y ܨܒܐ — wish / will / be pleased**
+
 
 **Stem:** Peal **Perfect 3msg:** ṣābē ܨܒܐ
 
-**Example:** [ܨܒܐ ܠܡܩܛܠ]{dir="rtl"} *ṣābē l-meqtal* --- He wishes to
+**Example:** ܨܒܐ ܠܡܩܛܠ *ṣābē l-meqṭal* — He wishes to
 kill.
 
 **Note:** Related noun ṣebyānā (will/wish) is key theological
 vocabulary.
 
-**p-q-d ܦܩܕ --- command / order**
+**p-q-d ܦܩܕ — command / order**
+
 
 **Stem:** Peal **Perfect 3msg:** paqed ܦܩܕ
 
-**Example:** [ܦܩܕ ܠܡܐܣܪ]{dir="rtl"} *paqed l-meʾsar* --- He commanded to
+**Example:** ܦܩܕ ܠܡܐܣܪ *paqed l-meʾsar* — He commanded to
 bind (him).
 
 **Note:** Often takes a direct object (the recipient of the order) +
 l- + infinitive.
 
-**š-d-r ܫܕܪ --- send**
+**š-d-r ܫܕܪ — send**
+
 
 **Stem:** Peal **Perfect 3msg:** šadar ܫܕܪ
 
-**Example:** [ܫܕܪ ܐܢܫ̈ܐ ܠܡܩܛܠ]{dir="rtl"} *šadar ʾenāšē l-meqtal* --- He
+**Example:** ܫܕܪ ܐܢܫ̈ܐ ܠܡܩܛܠ *šadar ʾenāšē l-meqṭal* — He
 sent men to kill.
 
-**Note:** The l-+infinitive here expresses purpose: \'sent in order to
-kill\'.
+**Note:** The l-+infinitive here expresses purpose: 'sent in order to
+kill'.
 
-#### SECTION 5: Military and Emotional Vocabulary --- 30 Words
+#### Section 5: Military and Emotional Vocabulary — 30 Words
+
 
 This vocabulary set is essential for the narrative of Lesson 9. Many of
 these words appear in the story and exercises. Learn both the verbal
@@ -405,80 +400,82 @@ root and its noun/adjective derivatives.
   **Root**                 **Estrangela** **Transliteration**   **English**
 
   -------------- ------------------------ --------------------- ------------------------------
-  *m-ḥ-y*                [ܡܚܐ]{dir="rtl"} *mḥā / nemḥē*         strike, smite, hit
+  *m-ḥ-y*                ܡܚܐ *mḥā / nemḥē*         strike, smite, hit
 
-  *d-ḥ-l*                [ܕܚܠ]{dir="rtl"} *dḥel / nedḥal*       fear, be afraid
+  *d-ḥ-l*                ܕܚܠ *dḥel / nedḥal*       fear, be afraid
 
-  *ḥ-d-y*                [ܚܕܝ]{dir="rtl"} *ḥdī / neḥdē*         rejoice, be glad
+  *ḥ-d-y*                ܚܕܝ *ḥdī / neḥdē*         rejoice, be glad
 
-  *ʾ-s-r*                [ܐܣܪ]{dir="rtl"} *ʾasar / neʾsor*      bind, tie, imprison
+  *ʾ-s-r*                ܐܣܪ *ʾasar / neʾsor*      bind, tie, imprison
 
-  *š-r-y*                [ܫܪܐ]{dir="rtl"} *šrā / nešrē*         loosen, release, begin
+  *š-r-y*                ܫܪܐ *šrā / nešrē*         loosen, release, begin
 
-  *r-m-y*                [ܪܡܐ]{dir="rtl"} *rmā / nerme*         throw, cast
+  *r-m-y*                ܪܡܐ *rmā / nerme*         throw, cast
 
-  *ʾ-ḥ-d*                [ܐܚܕ]{dir="rtl"} *ʾḥad / neʾḥod*       seize, grab, take hold
+  *ʾ-ḥ-d*                ܐܚܕ *ʾḥad / neʾḥod*       seize, grab, take hold
 
-  *g-r-r*                [ܓܪܪ]{dir="rtl"} *grār / negror*       drag, pull
+  *g-r-r*                ܓܪܪ *grār / negror*       drag, pull
 
-  *ʿ-r-q*                [ܥܪܩ]{dir="rtl"} *ʿraq / neʿroq*       flee, escape
+  *ʿ-r-q*                ܥܪܩ *ʿraq / neʿroq*       flee, escape
 
-  *r-d-p*                [ܪܕܦ]{dir="rtl"} *rdap / nerdop*       pursue, chase, persecute
+  *r-d-p*                ܪܕܦ *rdap / nerdop*       pursue, chase, persecute
 
-  *q-t-l*                [ܩܛܠ]{dir="rtl"} *qṭal / neqtol*       kill, slay
+  *q-ṭ-l*                ܩܛܠ *qṭal / neqṭol*       kill, slay
 
-  *p-ṣ-ʿ*                [ܦܨܥ]{dir="rtl"} *pṣāʿ / nepsaʿ*       wound, injure
+  *p-ṣ-ʿ*                ܦܨܥ *pṣāʿ / nepsaʿ*       wound, injure
 
-  *z-ʿ-q*                [ܙܥܩ]{dir="rtl"} *zʿaq / nezʿoq*       cry out, shout
+  *z-ʿ-q*                ܙܥܩ *zʿaq / nezʿoq*       cry out, shout
 
-  *p-q-d*                [ܦܩܕ]{dir="rtl"} *pqad / nepqod*       command, order
+  *p-q-d*                ܦܩܕ *pqad / nepqod*       command, order
 
-  *k-n-š*                [ܟܢܫ]{dir="rtl"} *knaš / neksnoš*      gather, assemble
+  *k-n-š*                ܟܢܫ *knaš / neksnoš*      gather, assemble
 
-  *estrāṭyōṭā*     [ܐܣܛܪܛܝܘܛܐ]{dir="rtl"} *estrāṭyōṭā*          soldier (Greek loanword:
+  *estrāṭyōṭā*     ܐܣܛܪܛܝܘܛܐ *estrāṭyōṭā*          soldier (Greek loanword:
                                                                 στρατιώτης)
 
-  *ḥaylā*               [ܚܝܠܐ]{dir="rtl"} *ḥaylā*               army; strength, power (dual
+  *ḥaylā*               ܚܝܠܐ *ḥaylā*               army; strength, power (dual
                                                                 meaning)
 
-  *saypā*               [ܣܝܦܐ]{dir="rtl"} *saypā*               sword
+  *saypā*               ܣܝܦܐ *saypā*               sword
 
-  *nūrā*                [ܢܘܪܐ]{dir="rtl"} *nūrā*                fire
+  *nūrā*                ܢܘܪܐ *nūrā*                fire
 
-  *ʾattūnā*            [ܐܬܘܢܐ]{dir="rtl"} *ʾattūnā*             furnace, oven
+  *ʾattūnā*            ܐܬܘܢܐ *ʾattūnā*             furnace, oven
 
-  *šalšaltā*          [ܫܠܫܠܬܐ]{dir="rtl"} *šalšaltā*            chain (related to Heb. שַׁלְשֶׁלֶת)
+  *šalšaltā*          ܫܠܫܠܬܐ *šalšaltā*            chain (related to Heb. שַׁלְשֶׁלֶת)
 
-  *gūbbā*               [ܓܘܒܐ]{dir="rtl"} *gūbbā*               pit, cistern; den (as in
-                                                                lion\'s den)
+  *gūbbā*               ܓܘܒܐ *gūbbā*               pit, cistern; den (as in
+                                                                lion's den)
 
-  *bēt-ʾsīrē*      [ܒܝܬ ܐܣܝܪ̈ܐ]{dir="rtl"} *bēt-ʾsīrē*           prison (lit. \'house of the
-                                                                bound ones\')
+  *bēt-ʾsīrē*      ܒܝܬ ܐܣܝܪ̈ܐ *bēt-ʾsīrē*           prison (lit. 'house of the
+                                                                bound ones')
 
-  *kansā*               [ܟܢܫܐ]{dir="rtl"} *kansā*               crowd, gathering, assembly
+  *kansā*               ܟܢܫܐ *kansā*               crowd, gathering, assembly
 
-  *qālā*                 [ܩܠܐ]{dir="rtl"} *qālā*                voice, sound
+  *qālā*                 ܩܠܐ *qālā*                voice, sound
 
-  *rugzā*              [ܪܘܓܙܐ]{dir="rtl"} *rugzā*               anger, wrath
+  *rugzā*              ܪܘܓܙܐ *rugzā*               anger, wrath
 
-  *deḥltā*             [ܕܚܠܬܐ]{dir="rtl"} *deḥltā*              fear (noun; from d-ḥ-l)
+  *deḥltā*             ܕܚܠܬܐ *deḥltā*              fear (noun; from d-ḥ-l)
 
-  *ʾammīnūttā*       [ܐܡܝܢܘܬܐ]{dir="rtl"} *ʾammīnūttā*          steadfastness, courage,
+  *ʾammīnūttā*       ܐܡܝܢܘܬܐ *ʾammīnūttā*          steadfastness, courage,
                                                                 endurance
 
-  *pūqdānā*           [ܦܘܩܕܢܐ]{dir="rtl"} *pūqdānā*             command, commandment (noun
+  *pūqdānā*           ܦܘܩܕܢܐ *pūqdānā*             command, commandment (noun
                                                                 from p-q-d)
 
-  *ṣebyānā*            [ܨܒܝܢܐ]{dir="rtl"} *ṣebyānā*             will, wish, desire (key
+  *ṣebyānā*            ܨܒܝܢܐ *ṣebyānā*             will, wish, desire (key
                                                                 theological term)
 
   --------------------------------------------------------------------------------------------
 
-#### SECTION 6: The Story --- Part 9
+#### Section 6: The Story — Part 9
+
 
 **The King Commands: Seize Yukhannan**
 
-The narrative reaches a climax. Having heard reports of Yukhannan\'s
+
+The narrative reaches a climax. Having heard reports of Yukhannan's
 preaching and miracles, the king summons his soldiers and issues a
 series of direct commands. The passage is rich in imperatives and *l-* +
 infinitive constructions, giving you immediate practice in the new
@@ -486,83 +483,88 @@ grammar.
 
 **Full Syriac Text with Interlinear Gloss:**
 
+
   -------------------------------------------------------------------------------------------
               **Estrangela** **Transliteration**   **Word Gloss**         **English**
 
   -------------------------- --------------------- ---------------------- -------------------
-         [ܡܠܟܐ ܕܢ ܟܕ ܫܡܥ ܡ̈ܠܐ *malkā den kad šmaʿ   the.king now when      Now when the king
-            ܗܠܝܢ]{dir="rtl"} mallē hālēn*          he.heard words these   heard these words,
+         ܡܠܟܐ ܕܢ ܟܕ ܫܡܥ ܡ̈ܠܐ *malkā den kad šmaʿ   the.king now when      Now when the king
+            ܗܠܝܢ mallē hālēn*          he.heard words these   heard these words,
 
-     [ܐܬܡܠܝ ܒܪܘܓܙܐ ܘܙܥܩ ܒܩܠܐ *ʾetmalī b-rugzā      he.was.filled          he was filled with
-             ܪܒܐ]{dir="rtl"} w-zʿaq b-qālā rabbā*  with-anger             anger and cried out
+     ܐܬܡܠܝ ܒܪܘܓܙܐ ܘܙܥܩ ܒܩܠܐ *ʾetmalī b-rugzā      he.was.filled          he was filled with
+             ܪܒܐ w-zʿaq b-qālā rabbā*  with-anger             anger and cried out
                                                    and-he.cried.out       with a great voice.
                                                    with-voice great       
 
-                        [ܦܩܕ *paqed                he.commanded           He commanded his
-    ܠܐܣܛܪ̈ܛܝܘܛܘܗܝ]{dir="rtl"} l-estrāṭyōṭāw(hy)*    to-his.soldiers        soldiers,
+                        ܦܩܕ *paqed                he.commanded           He commanded his
+    ܠܐܣܛܪ̈ܛܝܘܛܘܗܝ l-estrāṭyōṭāw(hy)*    to-his.soldiers        soldiers,
 
-                [ܐܙܠܘ ܘܐܚܘܕܘ *ʾezlaw w-ʾeḥodw      go.pl! and seize.pl!   \"Go and seize
-          ܠܝܘܚܢܢ]{dir="rtl"} l-Yukhannan*          Yukhannan (obj.)       Yukhannan!
+                ܐܙܠܘ ܘܐܚܘܕܘ *ʾezlaw w-ʾeḥodw      go.pl! and seize.pl!   "Go and seize
+          ܠܝܘܚܢܢ l-Yūḥannan*          Yukhannan (obj.)       Yukhannan!
 
-              [ܘܐܬܝܘ ܘܐܪܡܘܗܝ *w-ʾatīw w-ʾarmōhy    and-come.pl!           Come and throw him
-          ܒܐܬܘܢܐ]{dir="rtl"} b-ʾattūnā*            and-throw.him!         into the furnace!
+              ܘܐܬܝܘ ܘܐܪܡܘܗܝ *w-ʾatīw w-ʾarmōhy    and-come.pl!           Come and throw him
+          ܒܐܬܘܢܐ b-ʾattūnā*            and-throw.him!         into the furnace!
                                                    in-the.furnace         
 
-               [ܠܐ ܬܕܚܠܘܢ ܡܢ *lā tedḥlūn men       not you.fear.pl from   Do not fear his
-           ܐܬܘ̈ܬܗ]{dir="rtl"} ʾāttāw(hy)*           signs-his              signs!\"
+               ܠܐ ܬܕܚܠܘܢ ܡܢ *lā tedḥlūn men       not you.fear.pl from   Do not fear his
+           ܐܬܘ̈ܬܗ ʾāttāw(hy)*           signs-his              signs!"
 
-             [ܐܣܛܪ̈ܛܝܘܛܐ ܫܪܝܘ *estrāṭyōṭē šarīw     soldiers they.began    The soldiers began
-           ܠܡܐܙܠ]{dir="rtl"} l-meʾzal*             to.go                  to go.
+             ܐܣܛܪ̈ܛܝܘܛܐ ܫܪܝܘ *estrāṭyōṭē šarīw     soldiers they.began    The soldiers began
+           ܠܡܐܙܠ l-meʾzal*             to.go                  to go.
 
-               [ܒܥܐ ܚܕ ܡܢܗܘܢ *bāʿē ḥad mennhon     wanted one from-them   One of them wanted
-           ܠܡܗܦܟ]{dir="rtl"} l-mehpak*             to.turn.back           to turn back.
+               ܒܥܐ ܚܕ ܡܢܗܘܢ *bāʿē ḥad mennhon     wanted one from-them   One of them wanted
+           ܠܡܗܦܟ l-mehpak*             to.turn.back           to turn back.
 
-        [ܐܡܪ: ܠܐ ܝܟܝܠܢ ܠܡܩܛܠ *ʾemar: lā yākelnan   he.said not            He said: \'We are
-           ܙܕܝܩܐ]{dir="rtl"} l-meqtal zaddīqā*     we.are.able to.kill    not able to kill a
-                                                   righteous.man          righteous man.\'
+        ܐܡܪ: ܠܐ ܝܟܝܠܢ ܠܡܩܛܠ *ʾemar: lā yākelnan   he.said not            He said: 'We are
+           ܙܕܝܩܐ l-meqṭal zaddīqā*     we.are.able to.kill    not able to kill a
+                                                   righteous.man          righteous man.'
 
-          [ܐܚܪ̈ܢܐ ܐܣܪܘ ܐܝ̈ܕܘܗܝ *ʾaḥrānē ʾasrw        others they.bound      Others bound his
-         ܒܫܠܫܠܬܐ]{dir="rtl"} ʾīdāw(hy) b-šalšaltā* hands-his with-chain   hands with a chain.
+          ܐܚܪ̈ܢܐ ܐܣܪܘ ܐܝ̈ܕܘܗܝ *ʾaḥrānē ʾasrw        others they.bound      Others bound his
+         ܒܫܠܫܠܬܐ ʾīdāw(hy) b-šalšaltā* hands-his with-chain   hands with a chain.
 
-                [ܘܓܪܪܘܗܝ ܠܘܬ *w-grarwōhy lawāt     and-they.dragged.him   And they dragged
-           ܐܬܘܢܐ]{dir="rtl"} ʾattūnā*              toward furnace         him toward the
+                ܘܓܪܪܘܗܝ ܠܘܬ *w-grarwōhy lawāt     and-they.dragged.him   And they dragged
+           ܐܬܘܢܐ ʾattūnā*              toward furnace         him toward the
                                                                           furnace.
 
-       [ܝܘܚܢܢ ܕܝܢ ܠܐ ܕܚܠ ܐܠܐ *Yukhannan dēn lā     Yukhannan but not      But Yukhannan did
-             ܨܠܝ]{dir="rtl"} dḥal ʾellā ṣallī*     he.feared but          not fear; instead
+       ܝܘܚܢܢ ܕܝܢ ܠܐ ܕܚܠ ܐܠܐ *Yūḥannan dēn lā     Yukhannan but not      But Yukhannan did
+             ܨܠܝ dḥal ʾellā ṣallī*     he.feared but          not fear; instead
                                                    he.prayed              he prayed.
 
   -------------------------------------------------------------------------------------------
 
 **Smooth English Translation:**
 
+
 *Now when the king heard these words, he was filled with anger and cried
-out with a great voice. He commanded his soldiers: \"Go and seize
-Yukhannan! Come and throw him into the furnace! Do not fear his signs!\"
-The soldiers began to go. One of them wanted to turn back. He said: \"We
-are not able to kill a righteous man.\" Others bound his hands with a
+out with a great voice. He commanded his soldiers: "Go and seize
+Yukhannan! Come and throw him into the furnace! Do not fear his signs!"
+The soldiers began to go. One of them wanted to turn back. He said: "We
+are not able to kill a righteous man." Others bound his hands with a
 chain and dragged him toward the furnace. But Yukhannan did not fear;
 instead he prayed.*
 
-#### SECTION 7: Exercises
+#### Section 7: Exercises
+
 
 **Exercise 1: Imperative Paradigm**
+
 
 Write out all four imperative forms (msg, fsg, mpl, fpl) for each of the
 following roots in the Peal stem. Include Estrangela script and
 transliteration.
 
-1.  **ʾ-z-l** (go) --- Peal imperfect 2msg: tēzal → imperative: ?
+1.  **ʾ-z-l** (go) — Peal imperfect 2msg: tēzal → imperative: ?
 
-2.  **ʿ-b-d** (do, make) --- Peal imperfect 2msg: teʿbod → imperative: ?
+2.  **ʿ-b-d** (do, make) — Peal imperfect 2msg: teʿbod → imperative: ?
 
-3.  **q-r-ʾ** (read, call) --- Peal imperfect 2msg: teqrā → imperative:
+3.  **q-r-ʾ** (read, call) — Peal imperfect 2msg: teqrā → imperative:
     ?
 
 **Exercise 2: Infinitive Formation**
 
+
 Form the Peal, Paael, and Aphel infinitives for each root. Use the
-pattern: Peal = meCCaC; Paael = mCāCāCū; Aphel = ʾaCCāCū.
+pattern: Peal = meCCaC; Paael = mCaCCāCū; Aphel = maCCāCū.
 
 4.  n-p-q (go out)
 
@@ -580,28 +582,30 @@ pattern: Peal = meCCaC; Paael = mCāCāCū; Aphel = ʾaCCāCū.
 
 11. s-g-d (worship)
 
-**Exercise 3: Translation --- Syriac to English**
+**Exercise 3: Translation — Syriac to English**
+
 
 Translate each sentence into English. Identify any imperatives and
 l-+infinitive constructions.
 
-12. [ܐܙܠ ܠܐܘܪܫܠܡ]{dir="rtl"}
+12. ܐܙܠ ܠܐܘܪܫܠܡ
 
-13. [ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ]{dir="rtl"}
+13. ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ
 
-14. [ܠܐ ܬܙܥܩܘܢ]{dir="rtl"}
+14. ܠܐ ܬܙܥܩܘܢ
 
-15. [ܫܪܝ ܠܡܩܪܐ ܟܬܒܐ]{dir="rtl"}
+15. ܫܪܝ ܠܡܩܪܐ ܟܬܒܐ
 
-16. [ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܝܘܚܢܢ]{dir="rtl"}
+16. ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܝܘܚܢܢ
 
-17. [ܝܟܝܠ ܐܠܗܐ ܠܡܚܐ ܐܣܛܪ̈ܛܝܘܛܐ]{dir="rtl"}
+17. ܝܟܝܠ ܐܠܗܐ ܠܡܚܐ ܐܣܛܪ̈ܛܝܘܛܐ
 
-18. [ܦܩܕ ܠܗܘܢ ܠܡܪܡܝܘ ܒܐܬܘܢܐ]{dir="rtl"}
+18. ܦܩܕ ܠܗܘܢ ܠܡܪܡܝܘ ܒܐܬܘܢܐ
 
-19. [ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܐ]{dir="rtl"}
+19. ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܐ
 
-**Exercise 4: Production --- English to Syriac**
+**Exercise 4: Production — English to Syriac**
+
 
 Express each sentence in Syriac. Use Estrangela script and
 transliteration.
@@ -620,6 +624,7 @@ transliteration.
 
 **Exercise 5: Reading Comprehension**
 
+
 Re-read the story in Section 6 and answer the following questions in
 English.
 
@@ -633,43 +638,49 @@ English.
 
 30. How did Yukhannan respond to his situation?
 
-#### SECTION 8: Answer Key
+#### Section 8: Answer Key
+
 
 **Exercise 1: Imperative Paradigm**
 
+
 **ʾ-z-l (go):**
 
-- msg: ʾezal [ܐܙܠ]{dir="rtl"}
 
-- fsg: ʾezlī [ܐܙܠܝ]{dir="rtl"}
+- msg: ʾezal ܐܙܠ
 
-- mpl: ʾezlaw [ܐܙܠܘ]{dir="rtl"}
+- fsg: ʾezlī ܐܙܠܝ
 
-- fpl: ʾezlān [ܐܙܠܢ]{dir="rtl"}
+- mpl: ʾezlaw ܐܙܠܘ
+
+- fpl: ʾezlān ܐܙܠܢ
 
 **ʿ-b-d (do):**
 
-- msg: ʿbod [ܥܒܘܕ]{dir="rtl"}
 
-- fsg: ʿbodī [ܥܒܘܕܝ]{dir="rtl"}
+- msg: ʿbod ܥܒܘܕ
 
-- mpl: ʿbodw [ܥܒܘܕܘ]{dir="rtl"}
+- fsg: ʿbodī ܥܒܘܕܝ
 
-- fpl: ʿbodān [ܥܒܘܕܢ]{dir="rtl"}
+- mpl: ʿbodw ܥܒܘܕܘ
+
+- fpl: ʿbodān ܥܒܘܕܢ
 
 **q-r-ʾ (read/call):**
 
-- msg: qrī [ܩܪܝ]{dir="rtl"} (III-aleph/yod: vowel changes)
 
-- fsg: qrīy [ܩܪܝܝ]{dir="rtl"}
+- msg: qrī ܩܪܝ (III-aleph/yod: vowel changes)
 
-- mpl: qrīw [ܩܪܝܘ]{dir="rtl"}
+- fsg: qrīy ܩܪܝܝ
 
-- fpl: qrīn [ܩܪܝܢ]{dir="rtl"}
+- mpl: qrīw ܩܪܝܘ
+
+- fpl: qrīn ܩܪܝܢ
 
 **Exercise 2: Infinitive Formation (selected answers)**
 
-n-p-q: Peal **meppaq ܡܦܩ**; Paael **mnapāqū ܡܢܦܩܘ**; Aphel **ʾappāqū
+
+n-p-q: Peal **mappaq ܡܦܩ**; Paael **mnappāqū ܡܢܦܩܘ**; Aphel **mappāqū
 ܐܦܩܘ**
 
 š-d-r: Peal **mešdar ܡܫܕܪ**; Paael **mšadrū ܡܫܕܪܘ**; Aphel **ʾašdrū
@@ -679,6 +690,7 @@ y-l-d: Peal **mīlad ܡܝܠܕ**; Paael **myāladū ܡܝܠܕܘ**; Aphel **ʾauld�
 ܐܘܠܕܘ**
 
 **Exercise 3: Translation**
+
 
 31. Go to Jerusalem!
 
@@ -698,20 +710,22 @@ y-l-d: Peal **mīlad ܡܝܠܕ**; Paael **myāladū ܡܝܠܕܘ**; Aphel **ʾauld�
 
 **Exercise 4: Production**
 
-39. [ܫܡܥܢܝ ܡܠܟܐ]{dir="rtl"} šmaʿnī malkā
 
-40. [ܠܐ ܬܩܛܠܘܢ ܠܙܕܝܩܐ]{dir="rtl"} lā teqtlūn l-zaddīqā
+39. ܫܡܥܢܝ ܡܠܟܐ šmaʿnī malkā
 
-41. [ܫܪܝ ܠܡܨܠܐ]{dir="rtl"} šarī l-meṣlā
+40. ܠܐ ܬܩܛܠܘܢ ܠܙܕܝܩܐ lā teqṭlūn l-zaddīqā
 
-42. [ܐܣܛܪܛܝܘܛܐ ܠܐ ܝܟܝܠ ܠܡܥܪܩ]{dir="rtl"} estrāṭyōṭā lā yākel l-meʿraq
+41. ܫܪܝ ܠܡܨܠܐ šarī l-meṣlā
 
-43. [ܦܩܕ ܡܠܟܐ ܠܡܪܡܝܘ ܠܗ ܒܐܬܘܢܐ]{dir="rtl"} paqed malkā l-mermyū leh
+42. ܐܣܛܪܛܝܘܛܐ ܠܐ ܝܟܝܠ ܠܡܥܪܩ estrāṭyōṭā lā yākel l-meʿraq
+
+43. ܦܩܕ ܡܠܟܐ ܠܡܪܡܝܘ ܠܗ ܒܐܬܘܢܐ paqed malkā l-mermyū leh
     b-ʾattūnā
 
-44. [ܒܥܝܐ ܠܡܩܪܐ ܟܬܒܐ]{dir="rtl"} bāʿyā l-meqrā ketābā
+44. ܒܥܝܐ ܠܡܩܪܐ ܟܬܒܐ bāʿyā l-meqrā ketābā
 
 **Exercise 5: Comprehension**
+
 
 45. He heard the words (reports) about Yukhannan and was filled with
     anger.
@@ -726,72 +740,74 @@ y-l-d: Peal **mīlad ܡܝܠܕ**; Paael **myāladū ܡܝܠܕܘ**; Aphel **ʾauld�
 
 49. Yukhannan did not fear; he prayed instead.
 
-#### SECTION 9: Grammatical Summary Box
+#### Section 9: Grammatical Summary Box
+
 
 **The Imperative at a Glance**
+
 
   --------------------------------------------------------------------------
   **Form**                    **Ending** **Example        **Estrangela**
                                          (k-t-b)**        
 
   ------------------ ------------------- ---------------- ------------------
-  Masculine Singular         [CCoC (bare ktob             ܟܬܘܒ
-                       stem)]{dir="rtl"}                  
+  Masculine Singular         CCoC (bare ktob             ܟܬܘܒ
+                       stem)                  
 
-  Feminine Singular              [CCoC + ktobī            ܟܬܘܒܝ
-                           ī]{dir="rtl"}                  
+  Feminine Singular              CCoC + ktobī            ܟܬܘܒܝ
+                           ī                  
 
-  Masculine Plural               [CCoC + ktobw            ܟܬܘܒܘ
-                           w]{dir="rtl"}                  
+  Masculine Plural               CCoC + ktobw            ܟܬܘܒܘ
+                           w                  
 
-  Feminine Plural                [CCoC + ktobān           ܟܬܘܒܢ
-                          ān]{dir="rtl"}                  
+  Feminine Plural                CCoC + ktobān           ܟܬܘܒܢ
+                          ān                  
 
   --------------------------------------------------------------------------
 
 **Infinitive Patterns**
 
+
   --------------------------------------------------------------------------------
   **Stem**               **Pattern** **Example**         **Notes**
 
   ----------- ---------------------- ------------------- -------------------------
-  Peal           [meCCaC]{dir="rtl"} mektab ܡܟܬܒ         Most common; parallel to
+  Peal           meCCaC mektab ܡܟܬܒ         Most common; parallel to
                                                          Hebrew inf. construct
                                                          with l-
 
-  Paael         [mCāCāCū]{dir="rtl"} mbarrākū ܡܒܪܟܘ      Double middle radical
+  Paael         mCaCCāCū mbarrākū ܡܒܪܟܘ      Double middle radical
                                                          characteristic
 
-  Aphel         [ʾaCCāCū]{dir="rtl"} ʾappāqū ܐܦܩܘ        ʾa- prefix as in the
+  Aphel         maCCāCū mappāqū ܡܦܩܘ        ʾa- prefix as in the
                                                          Aphel perfect
 
   --------------------------------------------------------------------------------
 
 **The l- + Infinitive Construction**
 
-+-----------------------------------------------------------------------+
 
-| **Quick Reference**                                                   |
-|                                                                       |
-| MAIN VERB + l- + INFINITIVE = \'to \[do X\]\'                         |
-|                                                                       |
-| šarī l-mektab = He began to write                                     |
-|                                                                       |
-| yākel l-mešmaʿ = He is able to hear                                   |
-|                                                                       |
-| bāʿē l-meʾzal = He wants to go                                        |
-|                                                                       |
-| paqed l-meʾsar = He commanded to bind                                 |
-|                                                                       |
-| NEGATIVE: lā + IMPERFECT (not imperative!) for prohibitions           |
-+-----------------------------------------------------------------------+
+> **Quick Reference**
+>
+> MAIN VERB + l- + INFINITIVE = 'to \[do X\]'
+>
+> šarī l-mektab = He began to write
+>
+> yākel l-mešmaʿ = He is able to hear
+>
+> bāʿē l-meʾzal = He wants to go
+>
+> paqed l-meʾsar = He commanded to bind
+>
+> NEGATIVE: lā + IMPERFECT (not imperative!) for prohibitions
 
 *The Acts of Mar Yukhannan • Lesson 9: Commands and Intentions • Syriac
 Language Course*
 
 **Section 11: Additional Vocabulary**
 
-The following high-frequency words round out this lesson\'s vocabulary
+
+The following high-frequency words round out this lesson's vocabulary
 to 30 terms.
 
   -----------------------------------------------------------------------

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="description"><name><text>Module 3 · Lesson 12</text></name><questiontext format="html"><text><![CDATA[<h3><strong>Fringes of Syntax: Demonstratives, Numbers, and Conditionals</strong></h3>
+<hr />
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 1: Review of Lesson 11</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lesson 11</h3>
+<p><strong>Quick Summary</strong></p>
+<p>In Lesson 11, we examined how Syriac attaches direct object pronouns
+directly to the verb, creating a highly compressed “fast direct object”
+(e.g., <em>qaṭl-eh</em>, “he killed him” vs. <em>qṭal l-ēh</em>, “he
+killed to-him”).</p>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>How does Syriac buffer the 1st person singular object suffix on a
+Peal perfect verb?</li>
+<li>Translate: <em>Parq-anī</em>.</li>
+<li>Break down the components of <em>qaṭlhūn</em>.</li>
+<li>Why does <em>qṭal</em> become <em>qaṭl-</em> when adding a
+suffix?</li>
+<li>Translate the double-determined phrase: <em>ʾAsyeh Alāhā
+l-malkā</em>.</li>
+</ol>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. How does Syriac buffer the 1 c.sg. object suffix on a Peal perfect?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[With a Nun: <i>qaṭlanī</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[With an Alaph: <i>qaṭlaʾ</i>]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[With a Taw: <i>qaṭltī</i>]]></text><feedback format="html"><text><![CDATA[-t marks the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It needs no buffer: <i>qaṭlī</i>]]></text><feedback format="html"><text><![CDATA[The n buffer is needed.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. Translate <i>Parqanī</i> (as an imperative).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Save me!]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Save us!]]></text><feedback format="html"><text><![CDATA['Us' is -an.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I saved.]]></text><feedback format="html"><text><![CDATA[-anī is the object 'me'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My salvation]]></text><feedback format="html"><text><![CDATA[That would be a noun.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. Break down <i>qaṭlhūn</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Root q-ṭ-l + suffix -hūn 'them': 'he killed them']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root q-ṭ-l + subject -hūn: 'they killed']]></text><feedback format="html"><text><![CDATA[-hūn is an object suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Root q-ṭ-l + -hūn 'you (pl.)']]></text><feedback format="html"><text><![CDATA['You (pl.)' is -ḵūn.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Infinitive + 'their']]></text><feedback format="html"><text><![CDATA[It is a perfect with an object suffix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. Why does <i>qṭal</i> become <i>qaṭl-</i> before a suffix?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The suffix shifts the stress and the vowel moves forward.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To mark the Paael]]></text><feedback format="html"><text><![CDATA[No doubling.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because the root changes]]></text><feedback format="html"><text><![CDATA[Same root.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only in the plural]]></text><feedback format="html"><text><![CDATA[It happens with any suffix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. Translate: <i>ʾAsyeh Alāhā l-malkā</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God healed him, the king.]]></text><feedback format="html"><text><![CDATA[Correct: double marking with the suffix and <i>l-</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king healed God.]]></text><feedback format="html"><text><![CDATA[<i>Alāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God healed for the king.]]></text><feedback format="html"><text><![CDATA[<i>l-malkā</i> is the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God will heal the king.]]></text><feedback format="html"><text><![CDATA[<i>ʾasyeh</i> is perfect.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 2: Demonstratives and Numbers — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: Demonstratives and Numbers — Overview</h3>
+<p>As we wrap up our core tour of Syriac syntax, we encounter the final
+few connective tissues that hold sentences together: Demonstrative
+pronouns (this, that, these, those) and Numbers.</p>
+<p><strong>Cross-Linguistic Comparison: Demonstratives</strong></p>
+<p>Semitic languages feature a close-range pointing word (“this”) and a
+far-range pointing word (“that”).</p>
+<ul>
+<li><strong>Hebrew</strong>: זֶה (<em>zeh</em> — this, m), הַהוּא
+(<em>hahūʾ</em> — that, m).</li>
+<li><strong>Arabic</strong>: هَذَا (<em>hādhā</em> — this, m), ذٰلِكَ
+(<em>dhālika</em> — that, m).</li>
+<li><strong>Syriac</strong>: ܗܢܐ (<em>hānā</em> — this, m), ܗܘ
+(<em>haw</em> — that, m).</li>
+</ul>
+<p><em>Syriac Trick</em>: The far demonstrative (“that”) is spelled and
+pronounced exactly like the 3rd person independent pronoun (<em>hū</em>
+= he/it; <em>haw</em> = that). Context dictates the meaning.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 3: Demonstratives &amp; Syntax Rules</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: Demonstratives &amp; Syntax Rules</h3>
+<p><strong>1. Pointing Words (Demonstratives)</strong></p>
+<p>Demonstratives in Syriac must agree with the noun they modify in
+gender and number. Unlike English (which puts “this” <em>before</em> the
+noun: “this king”), Syriac prefers to place the demonstrative
+<em>after</em> the noun, or even isolated at the front of a
+sentence.</p>
+<ul>
+<li><em>Malkā hānā</em> = This king (The king, this one).</li>
+<li><em>Malkūttā hādē</em> = This kingdom.</li>
+<li><em>Gabrē hāllēn</em> = These men.</li>
+</ul>
+<p><strong>2. Conditional Clauses (<code>ʾen</code>)</strong></p>
+<p>Syriac expresses “If X, then Y” using the particle <em>ʾen</em> (if).
+The “if” half of the sentence is the <em>protasis</em>, and the “then”
+half is the <em>apodosis</em>. Usually, Syriac doesn’t even use a word
+for “then”; it simply starts the second clause, often with
+<code>w-</code> (and).</p>
+<ul>
+<li><em>ʾEn teḥzē, teidaʿ</em> (If you see, [then] you will know).</li>
+</ul>
+<p><strong>3. Comparatives (<code>men</code>)</strong></p>
+<p>Syriac lacks special adjective forms for “bigger,” “faster,” or
+“better” (like Greek’s -τερος or English’s -er). Instead, it uses the
+standard adjective and the preposition <code>men</code> (from/than).</p>
+<ul>
+<li><em>Nūhrā ṭābā hū men ḥešūḵā</em> (Light is good from darkness <span
+class="math inline">→</span> Light is <strong>better than</strong>
+darkness).</li>
+<li><em>Rabbā hī men malkūttā</em> (She is great from the kingdom <span
+class="math inline">→</span> She is <strong>greater than</strong> the
+kingdom).</li>
+</ul>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 6</text></name><questiontext format="html"><text><![CDATA[Where does a demonstrative usually stand, and how does <i>men</i> make a comparison?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[After its noun (<i>nūhrā hānā</i> 'this light'); 'X ADJ <i>men</i> Y' = 'X is more ADJ than Y']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Before its noun; <i>men</i> means 'with']]></text><feedback format="html"><text><![CDATA[Not as taught here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only as a pronoun; comparison uses a suffix -er]]></text><feedback format="html"><text><![CDATA[Syriac has no comparative suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[After its noun; <i>men</i> means 'and']]></text><feedback format="html"><text><![CDATA[<i>men</i> is 'from/than'.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 4: Demonstrative Pronoun Paradigm</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Demonstrative Pronoun Paradigm</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Distance</th>
+<th style="text-align: left;">Gender / Number</th>
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Translit</th>
+<th style="text-align: left;">Translation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Close</strong></td>
+<td style="text-align: left;">Masc Sg</td>
+<td style="text-align: left;">ܗܢܐ</td>
+<td style="text-align: left;">hānā</td>
+<td style="text-align: left;">this (m)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Close</strong></td>
+<td style="text-align: left;">Fem Sg</td>
+<td style="text-align: left;">ܗܕܐ</td>
+<td style="text-align: left;">hādē</td>
+<td style="text-align: left;">this (f)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Close</strong></td>
+<td style="text-align: left;">Common Pl</td>
+<td style="text-align: left;">ܗܠܝܢ</td>
+<td style="text-align: left;">hāllēn</td>
+<td style="text-align: left;">these (c)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Far</strong></td>
+<td style="text-align: left;">Masc Sg</td>
+<td style="text-align: left;">ܗܘ</td>
+<td style="text-align: left;">haw</td>
+<td style="text-align: left;">that (m)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Far</strong></td>
+<td style="text-align: left;">Fem Sg</td>
+<td style="text-align: left;">ܗܝ</td>
+<td style="text-align: left;">hāy</td>
+<td style="text-align: left;">that (f)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Far</strong></td>
+<td style="text-align: left;">Masc Pl</td>
+<td style="text-align: left;">ܗܢܘܢ</td>
+<td style="text-align: left;">hānōn</td>
+<td style="text-align: left;">those (m)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Far</strong></td>
+<td style="text-align: left;">Fem Pl</td>
+<td style="text-align: left;">ܗܢܝܢ</td>
+<td style="text-align: left;">hānēn</td>
+<td style="text-align: left;">those (f)</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 5: The Numbers 1-10</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: The Numbers 1-10</h3>
+<p>Semitic numbers famously exhibit “gender polarity”—masculine nouns
+often take what looks like the feminine absolute number ending, and vice
+versa. However, you only need to recognize them to read them.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Number</th>
+<th style="text-align: left;">Masc Form (used with fem nouns)</th>
+<th style="text-align: left;">Fem Form (used with masc nouns)</th>
+<th style="text-align: left;">Translit</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>1</strong></td>
+<td style="text-align: left;">ܚܕ (ḥad)</td>
+<td style="text-align: left;">ܚܕܐ (ḥdā)</td>
+<td style="text-align: left;">(One)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2</strong></td>
+<td style="text-align: left;">ܬܪܝܢ (trēn)</td>
+<td style="text-align: left;">ܬܪܬܝܢ (tartēn)</td>
+<td style="text-align: left;">(Two)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3</strong></td>
+<td style="text-align: left;">ܬܠܬ (tlāt)</td>
+<td style="text-align: left;">ܬܠܬܐ (tlātā)</td>
+<td style="text-align: left;">(Three)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>4</strong></td>
+<td style="text-align: left;">ܐܪܒܥ (ʾarbaʿ)</td>
+<td style="text-align: left;">ܐܪܒܥܐ (ʾarbaʿā)</td>
+<td style="text-align: left;">(Four)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>5</strong></td>
+<td style="text-align: left;">ܚܡܫ (ḥameš)</td>
+<td style="text-align: left;">ܚܡܫܐ (ḥamšā)</td>
+<td style="text-align: left;">(Five)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>6</strong></td>
+<td style="text-align: left;">ܫܬ (šet)</td>
+<td style="text-align: left;">ܫܬܐ (štā)</td>
+<td style="text-align: left;">(Six)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>7</strong></td>
+<td style="text-align: left;">ܫܒܥ (šbaʿ)</td>
+<td style="text-align: left;">ܫܒܥܐ (šabʿā)</td>
+<td style="text-align: left;">(Seven)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>8</strong></td>
+<td style="text-align: left;">ܬܡܢܐ (tmānē)</td>
+<td style="text-align: left;">ܬܡܢܝܐ (tmānyā)</td>
+<td style="text-align: left;">(Eight)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>9</strong></td>
+<td style="text-align: left;">ܬܫܥ (tšaʿ)</td>
+<td style="text-align: left;">ܬܫܥܐ (tešʿā)</td>
+<td style="text-align: left;">(Nine)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>10</strong></td>
+<td style="text-align: left;">ܥܣܪ (ʿsar)</td>
+<td style="text-align: left;">ܥܣܪܐ (ʿesrā)</td>
+<td style="text-align: left;">(Ten)</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 7</text></name><questiontext format="html"><text><![CDATA[With which nouns is <i>tlātā</i> ('three', ending in -ā) used?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine nouns]]></text><feedback format="html"><text><![CDATA[Correct: the -ā form goes with masculine nouns, a Semitic 'reverse agreement'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine nouns]]></text><feedback format="html"><text><![CDATA[The feminine form is <i>tlāt</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only plural feminine nouns]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Any noun]]></text><feedback format="html"><text><![CDATA[The form depends on gender.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 6: Vocabulary (Concepts &amp; Concluding Words)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Concepts &amp; Concluding Words)</h3>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Gender</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܫܪܪܐ</td>
+<td style="text-align: left;">šrārā</td>
+<td style="text-align: left;">m.</td>
+<td style="text-align: left;">truth, reality</td>
+<td style="text-align: left;">Root š-r-r (to be firm). Cf. Heb
+<em>ʾĕmet</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܠܡܐ</td>
+<td style="text-align: left;">šlāmā</td>
+<td style="text-align: left;">m.</td>
+<td style="text-align: left;">peace, greeting</td>
+<td style="text-align: left;">Root š-l-m. Heb <em>Shalom</em>, Arabic
+<em>Salam</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܝܐ</td>
+<td style="text-align: left;">ḥayyē</td>
+<td style="text-align: left;">m.pl.</td>
+<td style="text-align: left;">life</td>
+<td style="text-align: left;">Used heavily by John in the NT</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܠܡܐ</td>
+<td style="text-align: left;">ʿālmā</td>
+<td style="text-align: left;">m.</td>
+<td style="text-align: left;">world, eternity</td>
+<td style="text-align: left;">Temporal and spatial boundary</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܗܟܢ</td>
+<td style="text-align: left;">hākannā</td>
+<td style="text-align: left;">adv.</td>
+<td style="text-align: left;">thus, so</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܢ</td>
+<td style="text-align: left;">ʾen</td>
+<td style="text-align: left;">conj.</td>
+<td style="text-align: left;">if</td>
+<td style="text-align: left;">Introduces condition</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܫܘܟܐ</td>
+<td style="text-align: left;">ḥešūḵā</td>
+<td style="text-align: left;">m.</td>
+<td style="text-align: left;">darkness</td>
+<td style="text-align: left;">Antonym of <em>nūhrā</em> (light)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܠܚ</td>
+<td style="text-align: left;">šlaḥ (Peal)</td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">to strip off / cast away</td>
+<td style="text-align: left;">Used for removing garments or sin</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 7: The Story — Part 12</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 12</h3>
+<p><strong>The Departure</strong></p>
+<p><em>Narrative note: The conclusion of the initial cycle of Mar
+Yukhannan’s acts. The king uses a conditional statement (“If any man…”)
+to establish a new decree. The section closes with a demonstrative and
+thematic “peace”.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܟܕ ܐܣܝܗ ܝܘܚܢܢ ܠܡܠܟܐ ܡܠܟܐ ܩܡ kad ʾasy-eh Yūḥannan l-malkā, malkā qām.
+kad (when) ʾasy-eh (he-healed-him) Yūḥannan (John) l-malkā
+(to/the-king), malkā (the-king) qām (stood-up). → When Yukhannan healed
+the king, the king stood up.</p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܐܡܪ ܠܥܡܐ ܕܝܠܗ ܗܟܢ w-ʾemar l-ʿammā d-īl-eh hākannā: w-ʾemar
+(and-said) l-ʿammā (to-the-people) d-īl-eh (which-were-his) hākannā
+(thus): → And he said to his people thus:</p>
+<p><strong>Sentence 3</strong></p>
+<p>ܐܢ ܐܝܢܐ ܒܪܢܫܐ ܠܐ ܢܫܠܚ ܚܛܝܬܐ ܕܝܠܗ ܢܩܛܠܘܢܝܗܝ ʾen ʾaynā barnāšā lā
+nešlaḥ ḥṭīttā d-īl-eh, neqṭlūn-yhy! ʾen (If) ʾaynā (which/any) barnāšā
+(man) lā (not) nešlaḥ (will-cast-away) ḥṭīttā (sin) d-īl-eh
+(which-[is]-his), neqṭlūn-yhy (they-will-kill-him)! → “If any man does
+not cast away his sin, they shall kill him!”</p>
+<p><strong>Sentence 4</strong></p>
+<p>ܝܘܚܢܢ ܐܡܪ ܠܡܠܟܐ ܠܐ ܗܟܢ Yūḥannan ʾemar l-malkā: lā hākannā. Yūḥannan
+(John) ʾemar (said) l-malkā (to-the-king): lā (not) hākannā (thus/so). →
+Yukhannan said to the king: “Not so.”</p>
+<p><strong>Sentence 5</strong></p>
+<p>ܐܠܗܐ ܕܫܪܪܐ ܫܒܩ ܡܢ ܒܝܫܐ Alāhā d-šrārā šbaq men bīšā. Alāhā (God)
+d-šrārā (of-truth) šbaq (forgave) men (from) bīšā (evil). → “The God of
+truth forgave the evil.”</p>
+<p><strong>Sentence 6</strong></p>
+<p>ܢܘܗܪܐ ܗܢܐ ܛܒܐ ܗܘ ܡܢ ܚܫܘܟܐ nūhrā hānā ṭābā hū men ḥešūḵā. nūhrā
+(the-light) hānā (this) ṭābā (good) hū (it-[is]) men (from) ḥešūḵā
+(darkness). → “This light is better than darkness.”</p>
+<p><strong>Sentence 7</strong></p>
+<p>ܘܫܒܩ ܝܘܚܢܢ ܠܡܠܟܘܬܐ ܒܫܠܡܐ ܘܐܙܠ ܒܐܘܪܚܐ ܕܥܠܡܐ w-šbaq Yūḥannan l-malkūttā
+b-šlāmā, w-ʾezal b-ʾūrḥā d-ʿālmā. w-šbaq (and-left) Yūḥannan (John)
+l-malkūttā (the-kingdom) b-šlāmā (in-peace), w-ʾezal (and-went) b-ʾūrḥā
+(in-way/road) d-ʿālmā (of-eternity/the-world). → And Yukhannan left the
+kingdom in peace, and went in the way of eternity.</p>
+<hr />
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 8</text></name><questiontext format="html"><text><![CDATA[In the story, what punishment does the king decree?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Anyone who does not cast away his sin is to be killed.]]></text><feedback format="html"><text><![CDATA[Correct: <i>neqṭlūn-yhy</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Anyone who sins is to be exiled.]]></text><feedback format="html"><text><![CDATA[The decree is death.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Anyone who disobeys Yukhannan is to be imprisoned.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No punishment; he forgives everyone.]]></text><feedback format="html"><text><![CDATA[That is Yukhannan's point, not the king's.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 9</text></name><questiontext format="html"><text><![CDATA[How does Yukhannan correct the king?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA['Not so': the God of truth forgave the evil.]]></text><feedback format="html"><text><![CDATA[Correct (sentences 4–5).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He agrees and asks for harsher punishment.]]></text><feedback format="html"><text><![CDATA[He says 'Not so'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He tells the king to step down.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He says only priests may judge sin.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 10</text></name><questiontext format="html"><text><![CDATA[How does Yukhannan depart the kingdom?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[In peace (<i>b-šlāmā</i>)]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In anger]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In chains]]></text><feedback format="html"><text><![CDATA[He is free.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In secret, at night]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 11</text></name><questiontext format="html"><text><![CDATA[Translate sentence 6: <i>nūhrā hānā ṭābā hū men ḥešūḵā</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[This light is better than darkness.]]></text><feedback format="html"><text><![CDATA[Correct: <i>men</i> as 'than'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[This light is good from the darkness.]]></text><feedback format="html"><text><![CDATA[<i>men</i> here is comparative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The light came out of this darkness.]]></text><feedback format="html"><text><![CDATA[No verb of motion.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[This darkness is better than light.]]></text><feedback format="html"><text><![CDATA[<i>nūhrā</i> is the subject.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܕܐ (<i>hādē</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Feminine singular, near: 'this']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular, near: 'this']]></text><feedback format="html"><text><![CDATA[That is <i>hānā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Feminine singular, far: 'that']]></text><feedback format="html"><text><![CDATA[That is <i>hāy</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Plural, near: 'these']]></text><feedback format="html"><text><![CDATA[That is <i>hāllēn</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܢܘܢ (<i>hānōn</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine plural, far: 'those']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine plural, near: 'these']]></text><feedback format="html"><text><![CDATA[That is <i>hāllēn</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular, far: 'that']]></text><feedback format="html"><text><![CDATA[That is <i>haw</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The pronoun 'they (f.)']]></text><feedback format="html"><text><![CDATA[That is <i>hennēn</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܚܕܐ (<i>ḥdā</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The number one, feminine]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The number one, masculine]]></text><feedback format="html"><text><![CDATA[That is <i>ḥad</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The number two]]></text><feedback format="html"><text><![CDATA[That is <i>trēn</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['new']]></text><feedback format="html"><text><![CDATA[That is <i>ḥdatā</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Translate: <i>Alāhā rabbā hū men malkā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is greater than the king.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is great, from the king.]]></text><feedback format="html"><text><![CDATA[<i>men</i> is comparative here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king is greater than God.]]></text><feedback format="html"><text><![CDATA[<i>Alāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is the king's teacher.]]></text><feedback format="html"><text><![CDATA[<i>rabbā</i> is 'great'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Translate: <i>ʾArʿā hādē bīštā hī men šmayyā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[This earth is worse than heaven.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[This earth is evil from heaven.]]></text><feedback format="html"><text><![CDATA[Comparative <i>men</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Heaven is worse than this earth.]]></text><feedback format="html"><text><![CDATA[<i>ʾarʿā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That earth is better than heaven.]]></text><feedback format="html"><text><![CDATA[<i>hādē</i> is 'this'; <i>bīštā</i> is 'bad'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>ʾEn tešbūq l-Alāhā, neqṭūl lāḵ malkā hānā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[If you abandon God, this king will kill you.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If God abandons you, this king will kill you.]]></text><feedback format="html"><text><![CDATA[<i>tešbūq</i> is 'you will leave'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If you abandon this king, God will kill you.]]></text><feedback format="html"><text><![CDATA[<i>malkā hānā</i> is the subject of <i>neqṭūl</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You abandoned God, so the king killed you.]]></text><feedback format="html"><text><![CDATA[<i>ʾen</i> makes it conditional.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>W-ʾetaw talmīdē hāllēn l-bayteh.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[And these disciples came to his house.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And those disciples went from his house.]]></text><feedback format="html"><text><![CDATA[<i>hāllēn</i> is 'these'; <i>ʾetaw</i> 'came'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And the disciples will come to this house.]]></text><feedback format="html"><text><![CDATA[<i>ʾetaw</i> is perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And he came to these disciples' house.]]></text><feedback format="html"><text><![CDATA[<i>talmīdē</i> is the subject.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'This word (f.) is better than that word'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Meltā hādē ṭābtā hī men meltā hāy.</i>]]></text><feedback format="html"><text><![CDATA[Correct: feminine forms throughout.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Meltā hānā ṭābā hū men meltā haw.</i>]]></text><feedback format="html"><text><![CDATA[<i>meltā</i> is feminine.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Meltā hāy ṭābtā hī men meltā hādē.</i>]]></text><feedback format="html"><text><![CDATA[The near and far demonstratives are swapped.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Meltā hādē ṭābtā hī ʿam meltā hāy.</i>]]></text><feedback format="html"><text><![CDATA['Than' is <i>men</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 12 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The three men went out from the kingdom'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Tlātā gabrīn npaqū men malkūttā.</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Tlāt gabrīn npaqū men malkūttā.</i>]]></text><feedback format="html"><text><![CDATA[Masculine nouns take <i>tlātā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Tlātā gabrīn npaq men malkūttā.</i>]]></text><feedback format="html"><text><![CDATA[The verb must be plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Tlātā gabrīn ʾetaw l-malkūttā.</i>]]></text><feedback format="html"><text><![CDATA[That says they came to the kingdom.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
+<p><strong>DEMONSTRATIVES</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Close (This / These)</th>
+<th style="text-align: left;">Far (That / Those)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">hānā (m) / hādē (f)</td>
+<td style="text-align: left;">haw (m) / hāy (f)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">hāllēn (pl)</td>
+<td style="text-align: left;">hānōn (m.pl) / hānēn (f.pl)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>CONDITIONALS &amp; COMPARISONS</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Construction</th>
+<th style="text-align: left;">Example</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><code>ʾen</code> (If) + Imperf</td>
+<td style="text-align: left;">ʾen teḥzē</td>
+<td style="text-align: left;">If you see…</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Adj + <code>men</code> (from)</td>
+<td style="text-align: left;">ṭābā men malkā</td>
+<td style="text-align: left;">Better than the king</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Noun + Demonstrative</td>
+<td style="text-align: left;">malkā hānā</td>
+<td style="text-align: left;">This king</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 12 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
+<p>The following high-frequency words round out this lesson’s vocabulary
+to 30 terms.</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Syriac (Estrangela)</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Part of Speech</th>
+<th style="text-align: left;">Meaning</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ܩܪܝܬܐ</td>
+<td style="text-align: left;">qrītā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">village</td>
+<td style="text-align: left;">emphatic state</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܫܢܐ</td>
+<td style="text-align: left;">leššānā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">tongue, language</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܓܪܡܐ</td>
+<td style="text-align: left;">garmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">bone</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܟܐܦܐ</td>
+<td style="text-align: left;">kēpā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">stone, rock</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܡܝܐ</td>
+<td style="text-align: left;">mayyā</td>
+<td style="text-align: left;">m. noun (pl.)</td>
+<td style="text-align: left;">water</td>
+<td style="text-align: left;">plural in form</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢܘܢܐ</td>
+<td style="text-align: left;">nūnā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">fish</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܡܕܝܢܬܐ</td>
+<td style="text-align: left;">mdīttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">city</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܫܡܫܐ</td>
+<td style="text-align: left;">šemšā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">sun</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܬܪܥܐ</td>
+<td style="text-align: left;">tarʿā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">door, gate</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܡܫܚܐ</td>
+<td style="text-align: left;">mešḥā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">oil</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܝܠܐ</td>
+<td style="text-align: left;">ḥaylā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">power, army</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܕܢܐ</td>
+<td style="text-align: left;">ʾednā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">ear</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩܝܣܐ</td>
+<td style="text-align: left;">qaysā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">wood, tree</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܢܗܪܐ</td>
+<td style="text-align: left;">nahrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">river</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܣܒܪܐ</td>
+<td style="text-align: left;">sabrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">hope</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܚܠܬܐ</td>
+<td style="text-align: left;">deḥltā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">fear, religion</td>
+<td style="text-align: left;">abstract noun</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܣܗܪܐ</td>
+<td style="text-align: left;">sahrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">moon</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܪܓܠܐ</td>
+<td style="text-align: left;">reglā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">foot</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܠܡܐ</td>
+<td style="text-align: left;">šlāmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">peace</td>
+<td style="text-align: left;">common greeting</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܬܪܐ</td>
+<td style="text-align: left;">ʾatrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">place, country</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܣܗܕܐ</td>
+<td style="text-align: left;">sāhdā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">witness, martyr</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܒܣܪܐ</td>
+<td style="text-align: left;">besrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">flesh</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܛܝܒܘܬܐ</td>
+<td style="text-align: left;">ṭaybūttā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">grace</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܬܘܪܐ</td>
+<td style="text-align: left;">tawrā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">bull, ox</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܩܝܡܐ</td>
+<td style="text-align: left;">qyāmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">covenant</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܘܪܚܐ</td>
+<td style="text-align: left;">ʾūrḥā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">way, road</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܗܝܟܠܐ</td>
+<td style="text-align: left;">hayklā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">temple, palace</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܝܢܐ</td>
+<td style="text-align: left;">ʿaynā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">eye</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܦܘܡܐ</td>
+<td style="text-align: left;">pūmā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">mouth</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܕܝܢܐ</td>
+<td style="text-align: left;">dīnā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">judgment</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܬܪܘܓܡܐ</td>
+<td style="text-align: left;">tregumā</td>
+<td style="text-align: left;">m. noun</td>
+<td style="text-align: left;">translation</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܐܘܟܡܐ</td>
+<td style="text-align: left;">ʾōkmā</td>
+<td style="text-align: left;">adv</td>
+<td style="text-align: left;">how</td>
+<td style="text-align: left;">relative/interrogative</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܕܡܢ</td>
+<td style="text-align: left;">dumān</td>
+<td style="text-align: left;">adv</td>
+<td style="text-align: left;">from that place</td>
+<td style="text-align: left;">subordinating</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܠܐ</td>
+<td style="text-align: left;">lā</td>
+<td style="text-align: left;">neg_adv</td>
+<td style="text-align: left;">not</td>
+<td style="text-align: left;">negation/discourse</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܡܟܢܬܐ</td>
+<td style="text-align: left;">makknatā</td>
+<td style="text-align: left;">f. noun</td>
+<td style="text-align: left;">place, position</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܚܐܕܝܐ</td>
+<td style="text-align: left;">ḥādyā</td>
+<td style="text-align: left;">m. num</td>
+<td style="text-align: left;">one</td>
+<td style="text-align: left;">first numeral</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܚܡܫܐ</td>
+<td style="text-align: left;">ḥammšā</td>
+<td style="text-align: left;">m. num</td>
+<td style="text-align: left;">five</td>
+<td style="text-align: left;">numeral</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܥܣܪܐ</td>
+<td style="text-align: left;">ʿesrā</td>
+<td style="text-align: left;">m. num</td>
+<td style="text-align: left;">ten</td>
+<td style="text-align: left;">numeral</td>
+</tr>
+</tbody>
+</table></div>
+
+]]></text></questiontext></question>
+</quiz>

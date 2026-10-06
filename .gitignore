@@ -30,3 +30,9 @@ _work/
 .DS_Store
 Thumbs.db
 *.swp
+
+# Exams and answer keys stay off the public repo
+course/*_Key.md
+course/moodle/Module*_Test.xml
+course/moodle/Final_Exam.xml
+course/make_assessments.py

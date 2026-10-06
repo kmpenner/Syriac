@@ -1,14 +1,20 @@
 ## LESSON 4
+
 ### Personalizing the Text: Suffixes and Possession
+
 ---
 
 #### Section 1: Review of Lesson 3
 
+
 **Quick Summary**
+
 In Lesson 3, we examined the Peal Perfect tense (the suffix conjugation), learning how Syriac describes completed, past actions. The sentence structure shifted from fluidly subject-led (in the present participle) to stringently Verb-Subject-Object (VSO) led narrative chains using the conjunction `w-` (and).
 
 **5-Question Warm-Up Drill**
+
 *(Answers in Section 9)*
+
 1. What does the suffix `-ū` indicate on a Perfect verb (e.g., *ktabū*)?
 2. Translate the basic VSO sentence: *Shbaq malkā l-ʾarʿā*.
 3. What happens to the pronunciation of *k-t-b* (ka-tab) in the Syriac 3rd m.sg Perfect?
@@ -19,11 +25,13 @@ In Lesson 3, we examined the Peal Perfect tense (the suffix conjugation), learni
 
 #### Section 2: Possession and Pronominal Suffixes — Overview
 
+
 In English, we indicate possession using separate pronouns placed before a noun: "my house", "your king". In Greek, it's often an independent genitive pronoun: ὁ οἶκός μου (*ho oikos mou*). 
 
 However, in Semitic languages, possession is expressed by attaching a **pronominal suffix** directly to the end of the noun.
 
 **Cross-Linguistic Comparison: The Possessive Suffix**
+
 *   **Hebrew**: סוּס (*sūs*, horse) $\rightarrow$ סוּסִי (*sūsī*, my horse). אָב (*ʾāb*, father) $\rightarrow$ אָבִינוּ (*ʾābīnū*, our father).
 *   **Arabic**: كتاب (*kitāb*, book) $\rightarrow$ كتابي (*kitābī*, my book). 
 *   **Syriac**: ܟܬܒ (*ktāb*, book) $\rightarrow$ ܟܬܒܝ (*ktāby*, my book). ܐܒ (*ʾab*, father) $\rightarrow$ ܐܒܘܢ (*ʾabūn*, our father).
@@ -34,18 +42,25 @@ These suffixes are derived from the same ancient roots as the independent pronou
 
 #### Section 3: Pronominal Suffixes on Nouns & Prepositions
 
+
 **1. Suffixes on Singular Nouns**
+
 To add a suffix, Syriac uses the Absolute state of the noun, not the Emphatic state. (You don't say "the my-king" `*malkā-y`; you say "king-my", `malk-y`).
+
 *   *Malk-* (king) + *-eh* (his) = *malkeh* (his king).
 *   *ʾAb-* (father) + *-y* (my) = *ʾaby* (my father).
 
 **2. Suffixes on Prepositions**
+
 The exact same suffixes attach to the inseparable prepositions `b-` (in) and `l-` (to/for).
+
 *   *b-* + *-eh* = *beh* (in him / in it).
 *   *l-* + *-k* = *lāḵ* (to you, m.sg).
 
 **3. The Idiom for "To Have"**
+
 Syriac (like Hebrew and Arabic) lacks a dedicated verb meaning "to possess" (like English "to have" or Latin "habere"). Instead, Semitic languages use a prepositional phrase: "there is to me" or just "to me".
+
 *   *īt l-y* (there-is to-me) $\rightarrow$ **ītly** = I have.
 *   *layt l-eh* (there-is-not to-him) = He does not have.
 *   *ītly srārā* = I have truth. (Lit: There is to me truth).
@@ -53,6 +68,7 @@ Syriac (like Hebrew and Arabic) lacks a dedicated verb meaning "to possess" (lik
 ---
 
 #### Section 4: The Suffix Paradigm for Singular Nouns
+
 
 This paradigm uses the masculine noun *malk-* (king, root m-l-k) and the feminine noun *malkūtt-* (kingdom). Notice the suffix column; you must memorize these endings.
 
@@ -75,6 +91,7 @@ This paradigm uses the masculine noun *malk-* (king, root m-l-k) and the feminin
 
 #### Section 5: Prepositional "To Have" Paradigm (l- + Suffix)
 
+
 How to say "I have", "You have", "He has", etc., by attaching suffixes to the `l-` preposition, often preceded by *īt* (there is).
 
 | Person | Estrangela (l- + suffix)| Transliteration | Meaning |
@@ -91,6 +108,7 @@ How to say "I have", "You have", "He has", etc., by attaching suffixes to the `l
 ---
 
 #### Section 6: Vocabulary (Family, Body Parts & Belongings)
+
 
 Family and body parts are the most common nouns to receive pronominal suffixes. 
 
@@ -113,58 +131,69 @@ Family and body parts are the most common nouns to receive pronominal suffixes.
 
 #### Section 7: The Story — Part 4
 
+
 **A Dialogue at the Gate**
+
 *Narrative note: Watch how the guards use suffixes with prepositions (`lēh`, `lḵūn`) and nouns (`ʾabūk`, `ʾemāḵ`) to interrogate Yukhannan about his origins and possessions.*
 
 **Sentence 1**
+
 ܩܡ ܝܘܚܢܢ ܒܬܪܥܐ ܕܡܠܟܘܬܐ
 qām Yūḥannan b-tarʿā d-malkūttā.
 qām (stood) Yūḥannan (John) b-tarʿā (in-the-gate) d-malkūttā (of-the-kingdom).
 → Yukhannan stood at the gate of the kingdom.
 
 **Sentence 2**
+
 ܘܐܡܪܝܢ ܩܫܝܫܐ ܕܬܪܥܐ ܠܗ
 w-ʾāmrīn qašīšē d-tarʿā l-ēh:
 w-ʾāmrīn (and-are-saying) qašīšē (the-elders/guards) d-tarʿā (of-the-gate) l-ēh (to-him):
 → And the guards of the gate say to him:
 
 **Sentence 3**
+
 ܡܢ ܐܝܢܐ ܐܬܪܐ ܐܢܬ
 men ʾaynā ʾatrā ʾant?
 men (from) ʾaynā (what) ʾatrā (country/place) ʾant (you-[are])?
 → "From what country are you?"
 
 **Sentence 4**
+
 ܘܐܝܟܘ ܐܒܘܟ ܘܐܡܟ
 w-ʾaykō ʾab-ūḵ w-ʾem-āḵ?
 w-ʾaykō (and-where) ʾab-ūḵ (father-your) w-ʾem-āḵ (and-mother-your)?
 → "And where is your father and your mother?"
 
 **Sentence 5**
+
 ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ
 w-mā īt lāḵ b-ʾīd-āḵ?
 w-mā (and-what) īt (there-is) lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)?
 → "And what do you have in your hand?"
 
 **Sentence 6**
+
 ܐܡܪ ܠܗܘܢ ܝܘܚܢܢ
 ʾemar l-hūn Yūḥannan:
 ʾemar (said) l-hūn (to-them) Yūḥannan (John):
 → Yukhannan said to them:
 
 **Sentence 7**
+
 ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ
 Alāhā hū ʾab-y, w-ʾarʿā hī ʾem-y.
 Alāhā (God) hū (he-[is]) ʾab-y (father-my), w-ʾarʿā (and-the-earth) hī (she-[is]) ʾem-y (mother-my).
 → "God is my father, and the earth is my mother."
 
 **Sentence 8**
+
 ܘܠܝܬ ܠܝ ܠܒܘܫܐ ܒܝܫܐ
 w-layt lī lbūšā bīšā.
 w-layt (and-there-is-not) lī (to-me) lbūšā (a-garment) bīšā (evil).
 → "And I do not have an evil garment."
 
 **Sentence 9**
+
 ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ
 nūhrā d-Alāhā īt-awhy b-ʾīd-y.
 nūhrā (the-light) d-Alāhā (of-God) īt-awhy (it-is) b-ʾīd-y (in-hand-my).
@@ -174,36 +203,47 @@ nūhrā (the-light) d-Alāhā (of-God) īt-awhy (it-is) b-ʾīd-y (in-hand-my).
 
 #### Section 8: Exercises
 
+
 **Exercise 1: Suffix Identification**
+
 Identify the person, gender, and number of the possessor for the following suffixed nouns.
+
 1. ܡܠܟܢ (malk-an)
 2. ܒܝܬܗ (bayt-eh)
-3. ܐܝܕܟᱤ (ʾīd-ēky)
+3. ܐܝܕܟܝ (ʾīd-ēky)
 4. ܡܠܟܘܬܗܘܢ (malkūtt-hūn)
 
 **Exercise 2: Conjugation Drill (Possession)**
+
 Translate the following phrases using `l-` + suffix (using *īt* where appropriate to mean "have"):
+
 1. To you (f.sg).
 2. We have (There is to us).
 3. He does not have (There is not to him).
 4. To them (m.pl).
 
 **Exercise 3: Translation Drill (Syriac → English)**
+
 Translate the following sentences containing suffixed nouns.
+
 1. ʾAbī ṭābā hū, w-ʾemī ṭābtā hī.
 2. Šbaqū talmīdē l-baythūn.
 3. Īt lān nūhrā rabbā.
 4. Qālā d-malkā b-ʾarʿan (ʾarʿ-an).
 
 **Exercise 4: Production Drill (English → Syriac)**
+
 Render the following sentences into Syriac transliteration.
+
 1. My brother is writing a word.
 2. The king and his son are going to his kingdom.
 3. What is in your (m.sg) hand?
 4. We do not have (*layt lān*) an evil king.
 
 **Exercise 5: Reading Comprehension**
+
 Re-read Section 7 and answer:
+
 1. Under what three topics does the guard interrogate Yukhannan?
 2. Who does Yukhannan claim as his parents?
 3. What does Yukhannan explicitly state he *does not* have?
@@ -212,7 +252,9 @@ Re-read Section 7 and answer:
 
 #### Section 9: Answer Key
 
+
 **Section 1 Warm-Up**
+
 1. 3rd person masculine plural ("they").
 2. The king left the earth.
 3. The *a* vowel in the middle of the root disappears (vowel reduction), making it *ktab* (k-t-a-b).
@@ -220,30 +262,35 @@ Re-read Section 7 and answer:
 5. And Yukhannan drew near.
 
 **Exercise 1: Suffix Identification**
+
 1. 1st common plural (Our king)
 2. 3rd masc singular (His house)
 3. 2nd fem singular (Your hand)
 4. 3rd masc plural (Their kingdom)
 
 **Exercise 2: Conjugation Drill**
+
 1. lēky
 2. īt lān
 3. layt lēh
 4. lhūn
 
 **Exercise 3: Translation Drill**
+
 1. My father is good, and my mother is good.
 2. The disciples left their house (*bayt-hūn*).
 3. We have a great light (There is to us a great light).
 4. The voice of the king is in our land (*ʾarʿ-an* = *ʾarʿā* + *-an*).
 
 **Exercise 4: Production Drill**
+
 1. ʾaḥ-y kāteb meltā.
 2. Malkā w-bar-eh ʾāzlīn l-malkūtt-eh.
 3. Mā īt b-ʾīd-āḵ?
 4. Layt lān malkā bīšā.
 
 **Exercise 5: Reading Comprehension**
+
 1. Origin (what country), Family (where are father/mother), and Possessions (what is in hand).
 2. God (father) and the earth (mother).
 3. An evil garment (*lbūšā bīšā*).
@@ -252,7 +299,9 @@ Re-read Section 7 and answer:
 
 #### Section 10: Grammatical Summary
 
+
 **THE PRONOMINAL SUFFIXES (ATTACH TO NOUNS AND PREPOSITIONS)**
+
 
 | Suffix | Meaning | Example (*bayt-* house)| Example (*l-* to) |
 | :--- | :--- | :--- | :--- |
@@ -267,6 +316,7 @@ Re-read Section 7 and answer:
 
 **SAYING "TO HAVE" (Possession Formula)**
 
+
 | Formula | Syriac | Meaning |
 | :--- | :--- | :--- |
 | ĪT + L- + Suffix | īt lī / ītly | I have (There is to me) |
@@ -274,6 +324,7 @@ Re-read Section 7 and answer:
 | ĪT + L- + Suffix | īt lhūn malkā | They have a king |
 
 #### Section 11: Additional Vocabulary
+
 The following high-frequency words round out this lesson's vocabulary to 30 terms.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
@@ -319,10 +370,10 @@ The following high-frequency words round out this lesson's vocabulary to 30 term
 | ܥܡܘܪܐ | ʿammūrā | m. noun | uncle (paternal) | |
 | ܥܡܬܐ | ʿammtā | f. noun | aunt (paternal) | |
 | ܥܡܩܐ | ʿammqā | m. adj | deep | |
-| ܦܠܛܐ | paltā | m. noun | escape, safety | |
+| ܦܠܛܐ | palṭā | m. noun | escape, safety | |
 | ܥܬܝܪܐ | ʿattīrā | m. adj | rich, mighty | |
-| ܡܤܟܢܐ | meskennā | m. adj | poor, humble | |
+| ܡܣܟܢܐ | meskennā | m. adj | poor, humble | |
 | ܓܒܘܪܐ | gibbōrā | m. adj | mighty, strong | |
-| ܩܠܝܠܐ | qlīllā | m. adj | small, few | |
+| ܩܠܝܠܐ | qallīlā | m. adj | small, few | |
 | ܝܚܝܕܐ | yḥīddā | m. adj | alone, unique | |
 | ܥܕܠܐ | ʿaddālā | m. adj | just, righteous | |

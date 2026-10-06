@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="syriac_web_premium.css" />
 </head>
@@ -20,19 +29,43 @@
 <h1 class="title">The Acts of Mar Yukhannan</h1>
 </header>
 <div class="lesson-label">
-<span class="lesson-num">Lesson 0 · Introductory/Optional</span><span class="lesson-title-text">The Syriac Alphabet</span>
+<span class="lesson-num">Lesson 0 · Introductory/Optional</span><span
+class="lesson-title-text">The Syriac Alphabet</span>
 </div>
 <blockquote>
-<p><strong>Note:</strong> This lesson is supplementary to the 12-lesson course plan. It is recommended for students with no prior exposure to Syriac script. Students who already read Estrangela may proceed directly to Lesson 1.</p>
+<p><strong>Note:</strong> This lesson is supplementary to the 12-lesson
+course plan. It is recommended for students with no prior exposure to
+Syriac script. Students who already read Estrangela may proceed directly
+to Lesson 1.</p>
 </blockquote>
-<h3 id="the-alphabet-and-the-light-the-estrangela-script">The Alphabet and the Light: The Estrangela Script</h3>
+<h3 id="the-alphabet-and-the-light-the-estrangela-script">The Alphabet
+and the Light: The Estrangela Script</h3>
 <hr />
-<h4 id="section-1-introduction-to-the-script">Section 1: Introduction to the Script</h4>
-<p>Syriac is written from <strong>right to left</strong>. The script used in this course is <strong>Estrangela</strong> (ܐܣܛܪܢܓܠܐ), meaning “rounded.” It is the oldest and most formal of the three Syriac scripts, and it is the primary script used in the earliest manuscripts of the Peshitta and the Acts of the Martyrs.</p>
-<p><strong>Core Principles:</strong> 1. <strong>22 Consonants</strong>: All letters are consonants. Vowels are indicated by separate small marks or dots (to be covered in Lesson 1). 2. <strong>Connecting Letters</strong>: Most letters connect to the preceding and following letters (like cursive or Arabic). However, 8 letters are “non-joiners” — they only connect to the letter before them. 3. <strong>No Case</strong>: There are no capital letters. 4. <strong>Alaph as Carrier</strong>: The first letter, Alaph (ܐ), is often a silent carrier for a vowel or a glottal stop.</p>
+<h4 id="section-1-introduction-to-the-script">Section 1: Introduction to
+the Script</h4>
+<p>Syriac is written from <strong>right to left</strong>. The script
+used in this course is <strong>Estrangela</strong> (ܐܣܛܪܢܓܠܐ), meaning
+“rounded.” It is the oldest and most formal of the three Syriac scripts,
+and it is the primary script used in the earliest manuscripts of the
+Peshitta and the Acts of the Martyrs.</p>
+<p><strong>Core Principles:</strong></p>
+<ol type="1">
+<li><strong>22 Consonants</strong>: All letters are consonants. Vowels
+are indicated by separate small marks or dots (to be covered in Lesson
+1).</li>
+<li><strong>Connecting Letters</strong>: Most letters connect to the
+preceding and following letters (like cursive or Arabic). However, 8
+letters are “non-joiners” — they only connect to the letter before
+them.</li>
+<li><strong>No Case</strong>: There are no capital letters.</li>
+<li><strong>Alaph as Carrier</strong>: The first letter, Alaph (ܐ), is
+often a silent carrier for a vowel or a glottal stop.</li>
+</ol>
 <hr />
-<h4 id="section-2-the-22-letters-the-abgad-system">Section 2: The 22 Letters (The Abgad System)</h4>
-<p>Syriac letters follow the same order as Hebrew and the ancient “Abgad” order of Arabic.</p>
+<h4 id="section-2-the-22-letters-the-abgad-system">Section 2: The 22
+Letters (The Abgad System)</h4>
+<p>Syriac letters follow the same order as Hebrew and the ancient
+“Abgad” order of Arabic.</p>
 <p><strong>Letters 1–11</strong></p>
 <table>
 <thead>
@@ -240,12 +273,22 @@
 </tbody>
 </table>
 <hr />
-<h4 id="section-3-joiners-vs.-non-joiners">Section 3: Joiners vs. Non-Joiners</h4>
-<p>In your reading, you will notice that certain letters never connect to the letter following them. This creates a small visual gap within a word.</p>
-<p><strong>The Non-Joiners (Letters that only connect to the RIGHT):</strong> ܐ (Alaph), ܕ (Dalath), ܗ (He), ܘ (Waw), ܙ (Zain), ܨ (Sade), ܪ (Rish), ܬ (Taw).</p>
-<p><em>Note: Taw (ܬ) often appears to connect, but technically follows the non-joiner rule in many formal manuscripts. Dalath (ܕ) and Rish (ܪ) look identical except for a single dot: Dalath has a dot BELOW, Rish has a dot ABOVE.</em></p>
+<h4 id="section-3-joiners-vs.-non-joiners">Section 3: Joiners
+vs. Non-Joiners</h4>
+<p>In your reading, you will notice that certain letters never connect
+to the letter following them. This creates a small visual gap within a
+word.</p>
+<p><strong>The Non-Joiners (Letters that only connect to the
+RIGHT):</strong></p>
+<p>ܐ (Alaph), ܕ (Dalath), ܗ (He), ܘ (Waw), ܙ (Zain), ܨ (Sade), ܪ (Rish),
+ܬ (Taw).</p>
+<p><em>Note: Taw (ܬ) often appears to connect, but technically follows
+the non-joiner rule in many formal manuscripts. Dalath (ܕ) and Rish (ܪ)
+look identical except for a single dot: Dalath has a dot BELOW, Rish has
+a dot ABOVE.</em></p>
 <hr />
-<h4 id="section-4-practice-table-visual-recognition">Section 4: Practice Table — Visual Recognition</h4>
+<h4 id="section-4-practice-table-visual-recognition">Section 4: Practice
+Table — Visual Recognition</h4>
 <table>
 <thead>
 <tr class="header">
@@ -278,7 +321,8 @@
 <td style="text-align: left;">ܢܘܗܪܐ</td>
 <td style="text-align: left;">nūhrā</td>
 <td style="text-align: left;">Light</td>
-<td style="text-align: left;">Nun + Waw (NJ) + He (NJ) + Rish (NJ) + Alaph</td>
+<td style="text-align: left;">Nun + Waw (NJ) + He (NJ) + Rish (NJ) +
+Alaph</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܝܘܚܢܢ</td>
@@ -292,38 +336,84 @@
 <h4 id="section-5-the-story-part-0">Section 5: The Story — Part 0</h4>
 <p><strong>The Scribe’s Beginning</strong></p>
 <blockquote>
-<p><strong>Note:</strong> The story in this introductory lesson (‘The Scribe’s Beginning’) is a standalone narrative used to practice the alphabet. The main course narrative (The Acts of Mar Yukhannan) begins in Lesson 1.</p>
+<p><strong>Note:</strong> The story in this introductory lesson (‘The
+Scribe’s Beginning’) is a standalone narrative used to practice the
+alphabet. The main course narrative (The Acts of Mar Yukhannan) begins
+in Lesson 1.</p>
 </blockquote>
-<p><em>Narrative note: Before the Acts of Mar Yukhannan begin, we see the scribe, Addai, preparing the parchment. This part introduces the visual rhythm of the script.</em></p>
+<p><em>Narrative note: Before the Acts of Mar Yukhannan begin, we see
+the scribe, Addai, preparing the parchment. This part introduces the
+visual rhythm of the script.</em></p>
 <div class="sentence">
-<p><span class="sentence-syriac">ܐܢܐ ܥܕܝ ܣܦܪܐ</span> <span class="sentence-translit">ʾenā ʿAdday sāp̄rā.</span> <span class="sentence-gloss">ʾenā (I) ʿAdday (Addai) sāp̄rā (the-scribe)</span> <span class="sentence-translation">I am Addai the scribe.</span></p>
+<p><span class="sentence-syriac">ܐܢܐ ܥܕܝ ܣܦܪܐ</span> <span
+class="sentence-translit">ʾenā ʿAdday sāp̄rā.</span> <span
+class="sentence-gloss">ʾenā (I) ʿAdday (Addai) sāp̄rā (the-scribe)</span>
+<span class="sentence-translation">I am Addai the scribe.</span></p>
 </div>
 <div class="sentence">
-<p><span class="sentence-syriac">ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ</span> <span class="sentence-translit">kāteb ʾenā meltā d-Alāhā.</span> <span class="sentence-gloss">kāteb (writing) ʾenā (I) meltā (the-word) d- (of) Alāhā (God)</span> <span class="sentence-translation">I am writing the word of God.</span></p>
+<p><span class="sentence-syriac">ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ</span> <span
+class="sentence-translit">kāteb ʾenā meltā d-Alāhā.</span> <span
+class="sentence-gloss">kāteb (writing) ʾenā (I) meltā (the-word) d- (of)
+Alāhā (God)</span> <span class="sentence-translation">I am writing the
+word of God.</span></p>
 </div>
 <div class="sentence">
-<p><span class="sentence-syriac">ܗܢܘ ܟܬܒܐ ܕܝܘܚܢܢ</span> <span class="sentence-translit">hannū ktābā d-Yūḥannan.</span> <span class="sentence-gloss">hannū (this-is) ktābā (the-writing/book) d- (of) Yūḥannan (John)</span> <span class="sentence-translation">This is the book of Yukhannan.</span></p>
+<p><span class="sentence-syriac">ܗܢܘ ܟܬܒܐ ܕܝܘܚܢܢ</span> <span
+class="sentence-translit">hannū ktābā d-Yūḥannan.</span> <span
+class="sentence-gloss">hannū (this-is) ktābā (the-writing/book) d- (of)
+Yūḥannan (John)</span> <span class="sentence-translation">This is the
+book of Yukhannan.</span></p>
 </div>
 <hr />
 <h4 id="section-6-exercises">Section 6: Exercises</h4>
-<p><strong>Exercise 1: Alphabet Order</strong> Write the following three letters in their Abgad sequence (the order used in the table in Section 2).</p>
+<p><strong>Exercise 1: Alphabet Order</strong></p>
+<p>Write the following three letters in their Abgad sequence (the order
+used in the table in Section 2).</p>
 <ol type="1">
 <li>ܓ , ܐ , ܒ</li>
 <li>ܝ , ܚ , ܛ</li>
 <li>ܪ , ܩ , ܫ</li>
 </ol>
-<p><strong>Exercise 2: Identify the Non-Joiners</strong> In the word <strong>ܢܘܗܪܐ</strong> (nūhrā, Light), which letters are non-joiners (do not connect to the letter on their left)?</p>
-<p><strong>Exercise 3: Transcription Practice</strong> Write out the Syriac letters for the following names based on Section 2: 1. M-L-K-A (King) 2. A-L-H-A (God) 3. Y-W-H-N-N (Yukhannan / John)</p>
-<p><strong>Exercise 4: Directional Awareness</strong> If you are reading the word <strong>ܐܠܗܐ</strong>, which letter do you read first (the one on the far right or the far left)?</p>
+<p><strong>Exercise 2: Identify the Non-Joiners</strong></p>
+<p>In the word <strong>ܢܘܗܪܐ</strong> (nūhrā, Light), which letters are
+non-joiners (do not connect to the letter on their left)?</p>
+<p><strong>Exercise 3: Transcription Practice</strong></p>
+<p>Write out the Syriac letters for the following names based on Section
+2:</p>
+<ol type="1">
+<li>M-L-K-A (King)</li>
+<li>A-L-H-A (God)</li>
+<li>Y-W-H-N-N (Yukhannan / John)</li>
+</ol>
+<p><strong>Exercise 4: Directional Awareness</strong></p>
+<p>If you are reading the word <strong>ܐܠܗܐ</strong>, which letter do
+you read first (the one on the far right or the far left)?</p>
 <hr />
 <h4 id="section-7-answer-key">Section 7: Answer Key</h4>
-<p><strong>Exercise 1</strong> 1. ܐ , ܒ , ܓ (A-B-G) 2. ܚ , ܛ , ܝ (H-T-Y) 3. ܩ , ܪ , ܫ (Q-R-S)</p>
-<p><strong>Exercise 2</strong> ܘ (Waw), ܗ (He), ܪ (Rish), ܐ (Alaph). All of these stop the cursive connection.</p>
-<p><strong>Exercise 3</strong> 1. ܡܠܟܐ 2. ܐܠܗܐ 3. ܝܘܚܢܢ</p>
-<p><strong>Exercise 4</strong> The letter on the far RIGHT (ܐ - Alaph).</p>
+<p><strong>Exercise 1</strong></p>
+<ol type="1">
+<li>ܐ , ܒ , ܓ (A-B-G)</li>
+<li>ܚ , ܛ , ܝ (H-T-Y)</li>
+<li>ܩ , ܪ , ܫ (Q-R-S)</li>
+</ol>
+<p><strong>Exercise 2</strong></p>
+<p>ܘ (Waw), ܗ (He), ܪ (Rish), ܐ (Alaph). All of these stop the cursive
+connection.</p>
+<p><strong>Exercise 3</strong></p>
+<ol type="1">
+<li>ܡܠܟܐ</li>
+<li>ܐܠܗܐ</li>
+<li>ܝܘܚܢܢ</li>
+</ol>
+<p><strong>Exercise 4</strong></p>
+<p>The letter on the far RIGHT (ܐ - Alaph).</p>
 <hr />
-<h4 id="section-8-additional-vocabulary">Section 8: Additional Vocabulary</h4>
-<p>The 22 letter names learned in Section 2 (Alaph, Beth, Gamal … Taw) count as the first 22 vocabulary items of this lesson. The 8 words below complete the set of 30, all drawn from the world of scribal culture that frames this course.</p>
+<h4 id="section-8-additional-vocabulary">Section 8: Additional
+Vocabulary</h4>
+<p>The 22 letter names learned in Section 2 (Alaph, Beth, Gamal … Taw)
+count as the first 22 vocabulary items of this lesson. The 8 words below
+complete the set of 30, all drawn from the world of scribal culture that
+frames this course.</p>
 <table>
 <thead>
 <tr class="header">
