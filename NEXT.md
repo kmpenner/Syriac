@@ -82,3 +82,8 @@ L3 unattested ܥܪܩܘܬܐ → ܥܪܘܩܐ ʿārōqā 'fugitive' (SEDRA). L7 ʾem
 - `course/`: `Syllabus.tex` and `Schedule.tex` (Winter 2027, built with xelatex with `TEXINPUTS=shared/pdf-pipeline`), `Instructor_Notes.md`, `make_assessments.py` → Module 1 and 2 tests and the final exam (Moodle XML + `_Key.md` + `_Review.md`).
 - Course number: RELS 4XX. Missing vocabulary was added to L2, L3 and L10 (Additional words). TODO, Ken: confirm the weights (10/10/15/25/40), the Moodle course id and the go-ahead for import. Audio (Ken records) and flashcards (Flash Pro repo) are separate. Gemini will review the textbook. Term-2 items are postponed.
 - Audio: Ken asked for SEDRA audio, but SEDRA (web and API) has no pronunciation audio (checked 2026-10-06).
+
+## Web site and flashcards (2026-10-06)
+- GitHub Pages: https://kmpenner.github.io/Syriac/ (main, root). `python3 make_site.py` rewrites `index.html`.
+- Flash Pro deck: `python3 make_flashpro.py` → `flashpro/syriac_yukhannan.json`; copy it to kmpenner/flash-pro `data/` after any TSV change.
+  Deep link: `https://kmpenner.github.io/flash-pro/?deck=deck_syriac_yukhannan&bundle=Lesson%203:`
