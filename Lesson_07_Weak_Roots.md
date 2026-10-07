@@ -295,33 +295,33 @@ The following 30 genuinely new high-frequency words supplement this lesson's voc
 
 | Estrangela | Transliteration | Gender/Type | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ܐܘܡܘܬܐ | ʾūmūttā | f. noun | oneness, unity | from weak root ʾ-w-m |
+| ܚܕܝܘܬܐ | ḥədāyūttā | f. noun | oneness, unity | from root ḥ-d-y |
 | ܕܡܘܬܐ | dəmūttā | f. noun | likeness, image | from root d-m-y (to be like) |
-| ܚܙܘܬܐ | ḥazūttā | f. noun | vision, sight | from III-Yodh root ḥ-z-y |
-| ܒܢܘܬܐ | bənūttā | f. noun | building, structure | from III-Yodh root b-n-y |
-| ܥܠܘܬܐ | ʿəlūttā | f. noun | ascent, exaltation | from I-Alaph root ʿ-l-y |
+| ܚܙܘܐ | ḥezwā | m. noun | vision, sight | from III-Yodh root ḥ-z-y |
+| ܒܢܝܢܐ | benyānā | m. noun | building, structure | from III-Yodh root b-n-y |
+| ܡܣܩܬܐ | masqətā | f. noun | ascent, exaltation | from root s-l-q |
 | ܩܪܘܬܐ | qərūttā | f. noun | calling, vocation | from III-Alaph/Yodh root q-r-ʾ |
 | ܥܘܕܪܢܐ | ʿawdərānā | m. noun | help, aid | from root ʿ-d-r |
-| ܝܙܦܐ | yāzəpā | m. noun | beauty, form | from root y-z-p |
-| ܗܒܝܘܢܐ | həbīyūnā | m. noun | gift, offering | from I-Yodh root y-h-b |
-| ܐܬܝܢܘܬܐ | ʾətyānūttā | f. noun | coming, arrival | from weak root ʾ-t-y |
-| ܗܘܝܘܬܐ | həwīyūttā | f. noun | being, existence | from III-Yodh root h-w-y |
-| ܥܠܡܘܬܐ | ʿālmūttā | f. noun | worldliness, temporality | from weak root ʿ-l-m |
-| ܕܘܩܐ | dūqā | m. noun | bench, throne | from weak root d-w-q |
+| ܝܙܦܐ | yāzəpā | m. noun | beauty, loan | from root y-z-p |
+| ܡܘܗܒܬܐ | mawhaḇtā | f. noun | gift, offering | from I-Yodh root y-h-b |
+| ܡܐܬܝܬܐ | meʾtīttā | f. noun | coming, arrival | from weak root ʾ-t-y |
+| ܗܘܝܐ | hewyā | m. noun | being, existence | from III-Yodh root h-w-y |
+| ܥܠܡܐ | ʿālmā | m. noun | world, eternity | from root ʿ-l-m |
+| ܕܘܩܐ | dūqā | m. noun | observation, look-out | from weak root d-w-q |
 | ܓܘܪܐ | gūrā | m. noun | dwelling, cave | from weak root g-w-r |
-| ܛܘܦܪܐ | ṭūprā | m. noun | appearance, form | from weak root ṭ-w-p-r |
-| ܩܘܡܐ | qūmā | m. noun | standing, resurrection | from I-Alaph/Yodh root q-y-m |
-| ܢܦܝܐ | napīʾā | m. noun | seer, prophet | from I-Alaph root n-p-ʾ |
-| ܥܘܢܐ | ʿōnā | m. noun | strength, power | from weak root ʿ-w-n |
-| ܫܘܘܕܐ | šūwəddā | m. noun | testimony, witness | from weak root š-w-d |
-| ܪܘܡܘܬܐ | rūmūttā | f. noun | highness, exaltation | from weak root r-w-m |
+| ܛܘܦܣܐ | ṭūpsā | m. noun | pattern, type | loanword/concept |
+| ܩܘܡܐ | qūmā | m. noun | standing, height | from root q-y-m |
+| ܢܒܝܐ | nḇīyā | m. noun | prophet | from root n-b-ʾ |
+| ܥܘܫܢܐ | ʿūšnā | m. noun | strength, power | from root ʿ-š-n |
+| ܣܗܕܘܬܐ | sāhdūttā | f. noun | testimony, witness | from root s-h-d |
+| ܪܘܡܐ | rawmā | m. noun | highness, height | from weak root r-w-m |
 | ܩܪܐ | qərā | m. noun | cold | from weak root q-r-ʾ |
 | ܚܠܡܐ | ḥelmā | m. noun | dream | from weak root ḥ-l-m |
-| ܕܘܣܐ | dūsā | m. noun | trampling, subjugation | from weak root d-w-s |
-| ܠܠܘܬܐ | ləlūttā | f. noun | lamenting, wailing | from weak root l-l-y |
-| ܦܘܪܐ | pūrā | m. noun | fruit | from weak root p-w-r |
-| ܥܘܩܢܐ | ʿūqqānā | m. noun | knot, binding | from weak root ʿ-q-d |
-| ܫܠܝܢܐ | šəlyānā | m. noun | peace, wholeness | from weak root š-l-y |
-| ܐܬܘܬܐ | ʾətwūttā | f. noun | sign, omen | from weak root ʾ-t-w |
-| ܢܘܬܐ | nūttā | f. noun | rest, dwelling | from weak root n-w-t |
-| ܘܝܪܘܬܐ | wayrūttā | f. noun | shame, disgrace | from weak root w-y-r |
+| ܕܝܫܐ | dayšā | m. noun | trampling, treading | from weak root d-w-š |
+| ܝܠܠܬܐ | yaleltā | f. noun | lamenting, wailing | from root y-l-l |
+| ܦܘܪܐ | pūrā | m. noun | winepress, fruit | from weak root p-w-r |
+| ܐܣܘܪܐ | ʾesūrā | m. noun | bond, chain | from root ʾ-s-r |
+| ܫܠܝܐ | šelyā | m. noun | quiet, peace | from weak root š-l-y |
+| ܐܬܐ | ʾātā | f. noun | sign, omen | from root ʾ-t-y |
+| ܢܝܚܐ | nyāḥā | m. noun | rest, tranquility | from weak root n-w-ḥ |
+| ܒܗܬܬܐ | behttā | f. noun | shame, disgrace | from root b-h-t |

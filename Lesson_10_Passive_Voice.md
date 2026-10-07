@@ -595,55 +595,55 @@ Etpaael, or Ettaphal) and give its basic meaning.
 Rewrite each active sentence in the passive voice using the appropriate
 Et-stem. Adjust agreement as needed.
 
-13. malkā qṭal l-gawrā — the king killed the man.
+1. malkā qṭal l-gawrā — the king killed the man.
 
-14. kāhnā barrek l-ʿammā — the priest blessed the people.
+2. kāhnā barrek l-ʿammā — the priest blessed the people.
 
-15. šadar malkā estrāṭyōṭā — the king sent the soldiers.
+3. šadar malkā estrāṭyōṭā — the king sent the soldiers.
 
-16. ʾAyī ʾaḥyī l-ḥalīšā — the healer saved the weak man.
+4. ʾAyī ʾaḥyī l-ḥalīšā — the healer saved the weak man.
 
-17. yallep rabbā tlāmīdē — the teacher taught the disciples.
+5. yallep rabbā tlāmīdē — the teacher taught the disciples.
 
-18. ʾaqīm l-ʾmītā — he raised the dead man.
+6. ʾaqīm l-ʾmītā — he raised the dead man.
 
 **Exercise 3: Translation — Syriac to English**
 
 
 Translate each sentence into smooth English.
 
-19. ܐܬܪܡܝ ܒܢܘܪܐ
+1. ܐܬܪܡܝ ܒܢܘܪܐ
 
-20. ܐܬܦܪܩ ܡܢ ܒ̈ܥܠܕܒܒܐ
+2. ܐܬܦܪܩ ܡܢ ܒ̈ܥܠܕܒܒܐ
 
-21. ܐܬܓܠܝ ܢܘܗܪܐ ܒܚܫܘܟܐ
+3. ܐܬܓܠܝ ܢܘܗܪܐ ܒܚܫܘܟܐ
 
-22. ܟܢܫܐ ܐܬܟܢܫ ܒܡܕܝܢܬܐ
+4. ܟܢܫܐ ܐܬܟܢܫ ܒܡܕܝܢܬܐ
 
-23. ܡܫܝܚܐ ܐܬܨܠܒ ܘܐܬܩܒܪ
+5. ܡܫܝܚܐ ܐܬܨܠܒ ܘܐܬܩܒܪ
 
-24. ܐܬܝܠܕ ܒܪܐ ܕܐܠܗܐ
+6. ܐܬܝܠܕ ܒܪܐ ܕܐܠܗܐ
 
-25. ܗܘ ܩܛܝܠ ܡܛܠ ܚܛܗ̈ܝܢ
+7. ܗܘ ܩܛܝܠ ܡܛܠ ܚܛܗ̈ܝܢ
 
-26. ܐܫܬܡܥ ܩܠܗ ܒܟܠ ܐܬܪ
+8. ܐܫܬܡܥ ܩܠܗ ܒܟܠ ܐܬܪ
 
 **Exercise 4: Production — English to Syriac**
 
 
 Write each sentence in Syriac (Estrangela + transliteration).
 
-27. He was baptized in the river.
+1. He was baptized in the river.
 
-28. The soldiers were sent to the city.
+2. The soldiers were sent to the city.
 
-29. The dead man was raised.
+3. The dead man was raised.
 
-30. She was healed by the saint.
+4. She was healed by the saint.
 
-31. The word of God was heard in all the land.
+5. The word of God was heard in all the land.
 
-32. He was crowned by the king.
+6. He was crowned by the king.
 
 **Exercise 5: Reading Comprehension**
 
@@ -651,15 +651,15 @@ Write each sentence in Syriac (Estrangela + transliteration).
 Re-read the story in Section 7 and answer the following questions in
 English.
 
-33. What happened when Yukhannan was thrown into the furnace?
+1. What happened when Yukhannan was thrown into the furnace?
 
-34. What was the biblical parallel mentioned in the story?
+2. What was the biblical parallel mentioned in the story?
 
-35. What was seen in the midst of the furnace?
+3. What was seen in the midst of the furnace?
 
-36. How did the people of the city respond to the miracle?
+4. How did the people of the city respond to the miracle?
 
-37. What phrase do the people use to glorify God? Translate it word for
+5. What phrase do the people use to glorify God? Translate it word for
     word.
 
 #### Section 9: Answer Key
@@ -668,100 +668,100 @@ English.
 **Exercise 1: Stem Identification**
 
 
-38. ʾetqṭel — Ethpeel (passive of Peal) — 'he was killed'
+1. ʾetqṭel — Ethpeel (passive of Peal) — 'he was killed'
 
-39. ʾetbarrak — Etpaael (passive/reflexive of Paael) — 'he was
+2. ʾetbarrak — Etpaael (passive/reflexive of Paael) — 'he was
     blessed'
 
-40. ʾeštaddar — Etpaael (passive of Paael šaddar) — 'he was sent'; note
+3. ʾeštaddar — Etpaael (passive of Paael šaddar) — 'he was sent'; note
     metathesis of t after š
 
-41. metqṭel — Ethpeel participle — 'being killed'
+4. metqṭel — Ethpeel participle — 'being killed'
 
-42. ʾetpraq — Ethpeel — 'he was redeemed/saved'
+5. ʾetpraq — Ethpeel — 'he was redeemed/saved'
 
-43. ʾetʿmed — Ethpeel — 'he was baptized'
+6. ʾetʿmed — Ethpeel — 'he was baptized'
 
-44. ʾettaqam — Ettaphal (passive of Aphel ʾaqīm) — 'he was raised'
+7. ʾettaqam — Ettaphal (passive of Aphel ʾaqīm) — 'he was raised'
 
-45. brīk — Peal passive participle — 'blessed' (adjective)
+8. brīk — Peal passive participle — 'blessed' (adjective)
 
-46. ʾetnahhar — Etpaael (passive of Paael nahhar 'illumine') ---
+9. ʾetnahhar — Etpaael (passive of Paael nahhar 'illumine') ---
     'he was illumined'
 
-47. ʾetmšaḥ — Ethpeel — 'he was anointed'
+10. ʾetmšaḥ — Ethpeel — 'he was anointed'
 
-48. ʾetyallap — Etpaael (passive of Paael yallep) — 'he was taught
+11. ʾetyallap — Etpaael (passive of Paael yallep) — 'he was taught
     / he learned'
 
-49. ʾetpreš — Ethpeel — 'he was separated'
+12. ʾetpreš — Ethpeel — 'he was separated'
 
 **Exercise 2: Active to Passive**
 
 
-50. ʾetqṭel gawrā (l-malkā) — The man was killed (by the king).
+1. ʾetqṭel gawrā (l-malkā) — The man was killed (by the king).
 
-51. ʾetbarrak ʿammā (l-kāhnā) — The people were blessed (by the
+2. ʾetbarrak ʿammā (l-kāhnā) — The people were blessed (by the
     priest).
 
-52. ʾeštadrw estrāṭyōṭā — The soldiers were sent.
+3. ʾeštadrw estrāṭyōṭā — The soldiers were sent.
 
-53. ʾetḥayyī ḥalīšā — The weak man was saved.
+4. ʾetḥayyī ḥalīšā — The weak man was saved.
 
-54. ʾetyalpw tlāmīdē — The disciples were taught.
+5. ʾetyalpw tlāmīdē — The disciples were taught.
 
-55. ʾettaqam ʾmītā — The dead man was raised.
+6. ʾettaqam ʾmītā — The dead man was raised.
 
 **Exercise 3: Translation**
 
 
-56. He was thrown into the fire.
+1. He was thrown into the fire.
 
-57. He was saved/redeemed from (his) enemies.
+2. He was saved/redeemed from (his) enemies.
 
-58. The light was revealed in the darkness.
+3. The light was revealed in the darkness.
 
-59. The crowd was gathered in the city.
+4. The crowd was gathered in the city.
 
-60. The Messiah was crucified and buried.
+5. The Messiah was crucified and buried.
 
-61. The Son of God was born.
+6. The Son of God was born.
 
-62. He is killed / he was killed on account of our sins.
+7. He is killed / he was killed on account of our sins.
 
-63. His voice was heard in every place.
+8. His voice was heard in every place.
 
 **Exercise 4: Production (sample answers)**
 
 
-64. ܐܬܥܡܕ ܒܢܗܪܐ ʾetʿmed b-nahrā
+1. ܐܬܥܡܕ ܒܢܗܪܐ ʾetʿmed b-nahrā
 
-65. ܐܫܬܕܪܘ ܐܣܛܪ̈ܛܝܘܛܐ ܠܡܕܝܢܬܐ ʾeštadrw estrāṭyōṭē l-mdīntā
+2. ܐܫܬܕܪܘ ܐܣܛܪ̈ܛܝܘܛܐ ܠܡܕܝܢܬܐ ʾeštadrw estrāṭyōṭē l-mdīntā
 
-66. ܐܬܬܩܡ ܡܝܬܐ ʾettaqam mītā
+3. ܐܬܬܩܡ ܡܝܬܐ ʾettaqam mītā
 
-67. ܐܬܐܣܝܬ ܡܢ ܩܕܝܫܐ ʾetʾasīt men qaddīšā (f.)
+4. ܐܬܐܣܝܬ ܡܢ ܩܕܝܫܐ ʾetʾasīt men qaddīšā (f.)
 
-68. ܐܫܬܡܥ ܡܠܬܐ ܕܐܠܗܐ ܒܟܠܗ ܐܪܥܐ ʾeštmaʿ maltā d-ʾAlāhā
+5. ܐܫܬܡܥ ܡܠܬܐ ܕܐܠܗܐ ܒܟܠܗ ܐܪܥܐ ʾeštmaʿ maltā d-ʾAlāhā
     b-kullā arʿā
 
-69. ܐܬܟܠܠ ܡܢ ܡܠܟܐ ʾetkallal men malkā
+6. ܐܬܟܠܠ ܡܢ ܡܠܟܐ ʾetkallal men malkā
 
 **Exercise 5: Comprehension**
 
 
-70. The fire did not approach him — he was unharmed.
+1. The fire did not approach him — he was unharmed.
 
-71. Hananiah (Shadrach) and his companions in the fiery furnace (Daniel
+2. Hananiah (Shadrach) and his companions in the fiery furnace (Daniel
     3).
 
-72. A man of fire (an angelic figure) was seen in the midst of the
+3. A man of fire (an angelic figure) was seen in the midst of the
     furnace.
 
-73. Many feared and repented, and said 'Blessed is the God of
+4. Many feared and repented, and said 'Blessed is the God of
     Yukhannan!'
 
-74. 'Brīk hū ʾAlāhā d-Yukhannan' — Blessed (is) he, the God of
+5. 'Brīk hū ʾAlāhā d-Yukhannan' — Blessed (is) he, the God of
     Yukhannan. Word-for-word: brīk = blessed; hū = he (is); ʾAlāhā =
     God.the; d- = of; Yukhannan = Yukhannan.
 
@@ -834,35 +834,3 @@ equivalents.
 
 *The Acts of Mar Yukhannan • Lesson 10: The Passive Voice • Syriac
 Language Course*
-
-**Section 11: Additional Vocabulary**
-
-
-The following high-frequency words round out this lesson's vocabulary
-to 30 terms.
-
-  -----------------------------------------------------------------------
-  Estrangela        Transliteration   Gender/Type       Meaning
-
-  ----------------- ----------------- ----------------- -----------------
-  ܩܪܝܬܐ             qrītā             f                 village
-
-  ܠܫܢܐ              leššānā           m                 tongue, language
-
-  ܓܪܡܐ              garmā             m                 bone
-
-  ܟܐܦܐ              kēpā              f                 stone, rock
-
-  ܡܝܐ               mayyā             m.pl              water
-
-  ܢܘܢܐ              nūnā              m                 fish
-
-  ܡܕܝܢܬܐ            mdīttā            f                 city
-
-  ܫܡܫܐ              šemšā             m                 sun
-
-  ܬܪܥܐ              tarʿā             m                 door, gate
-
-  ܡܫܚܐ              mešḥā             m                 oil
-
-  -----------------------------------------------------------------------

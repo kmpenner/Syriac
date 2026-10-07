@@ -564,47 +564,47 @@ person/number/gender, root, and English meaning.
 Fully conjugate the following two Paael verbs in the perfect (10
 persons) and the participle (4 forms). Use Sections 3–4 as a model.
 
-6.  *Root š-b-ḥ (praise) — Paael: šabbeḥ*
+1.  *Root š-b-ḥ (praise) — Paael: šabbeḥ*
 
-7.  *Root m-l-l (speak) — Paael: mallel*
+2.  *Root m-l-l (speak) — Paael: mallel*
 
 **Exercise 3: Translation Drill (Syriac → English)**
 
 
 Translate the following sentences, all containing Paael verbs.
 
-8.  ܝܘܚܢܢ ܒܪܟ ܠܥܡܐ *(Yūḥannan barrek l-ʿammā)*
+1.  ܝܘܚܢܢ ܒܪܟ ܠܥܡܐ *(Yūḥannan barrek l-ʿammā)*
 
-9.  ܟܗܢܐ ܫܡܫ ܒܗܝܟܠܐ *(Kāhnā šammeš b-hayklā)*
+2.  ܟܗܢܐ ܫܡܫ ܒܗܝܟܠܐ *(Kāhnā šammeš b-hayklā)*
 
-10. ܗܝ ܩܕܫܬ ܠܒܢܝܗ *(Hī qaddešat l-bnāy-hy)*
+3.  ܗܝ ܩܕܫܬ ܠܒܢܝܗ *(Hī qaddešat l-bnāy-hy)*
 
-11. ܡܒܪܟ ܐܢܐ ܠܐܠܗܐ *(Mbarrek ʾenā l-Alāhā)*
+4.  ܡܒܪܟ ܐܢܐ ܠܐܠܗܐ *(Mbarrek ʾenā l-Alāhā)*
 
-12. ܫܒܚܘ ܠܡܪܝܐ ܒܟܘܠ ܝܘܡ *(Šabbḥū l-Māryā b-kull yawm)*
+5.  ܫܒܚܘ ܠܡܪܝܐ ܒܟܘܠ ܝܘܡ *(Šabbḥū l-Māryā b-kull yawm)*
 
-13. ܐܢܬ ܝܠܦܬ ܠܢ ܢܡܘܣܐ *(ʾAnt yallapt lān nāmūsā)*
+6.  ܐܢܬ ܝܠܦܬ ܠܢ ܢܡܘܣܐ *(ʾAnt yallapt lān nāmūsā)*
 
-14. ܕܟܝ ܡܝܐ ܠܡܥܡܘܕܝܬܐ *(Dakkī mayyā l-maʿmūdīttā)*
+7.  ܕܟܝ ܡܝܐ ܠܡܥܡܘܕܝܬܐ *(Dakkī mayyā l-maʿmūdīttā)*
 
-15. ܡܢ ܡܫܚ ܒܡܫܚܐ *(Man mšaḥ b-mešḥā?)*
+8.  ܡܢ ܡܫܚ ܒܡܫܚܐ *(Man mšaḥ b-mešḥā?)*
 
 **Exercise 4: Production Drill (English → Syriac Paael)**
 
 
 Render these sentences into Syriac using the Paael stem.
 
-16. The prophet blessed the offering.
+1. The prophet blessed the offering.
 
-17. They (m.) praised God with a loud voice.
+2. They (m.) praised God with a loud voice.
 
-18. The priest sanctified the assembly.
+3. The priest sanctified the assembly.
 
-19. She prayed every day in the temple.
+4. She prayed every day in the temple.
 
-20. He anointed the king with oil.
+5. He anointed the king with oil.
 
-21. We ministered to the Lord together.
+6. We ministered to the Lord together.
 
 **Exercise 5: Peal vs. Paael Comparison**
 
@@ -637,17 +637,17 @@ differ, and give one example sentence using each.
 
 Re-read the story in Section 6, then answer the following questions.
 
-22. What actions does Yukhannan perform at the altar? (List the Paael
+1. What actions does Yukhannan perform at the altar? (List the Paael
     verbs.)
 
-23. What does Yukhannan teach about the true source of sanctification?
+2. What does Yukhannan teach about the true source of sanctification?
 
-24. How do the priests react, and why?
+3. How do the priests react, and why?
 
-25. What authority does the chief priest invoke, and what does Yukhannan
+4. What authority does the chief priest invoke, and what does Yukhannan
     claim?
 
-26. What does Yukhannan do after being threatened with expulsion? What
+5. What does Yukhannan do after being threatened with expulsion? What
     does this tell us about his character?
 
 #### Section 8: Answer Key
@@ -727,17 +727,17 @@ near / offered'
 **Exercise 4: Production (sample answers)**
 
 
-27. *Nebīyā barrek l-qūrbānā*
+1. *Nebīyā barrek l-qūrbānā*
 
-28. *Šabbḥū l-Alāhā b-ʾednā rāmā*
+2. *Šabbḥū l-Alāhā b-ʾednā rāmā*
 
-29. *Kāhnā qaddaš l-knūštā*
+3. *Kāhnā qaddaš l-knūštā*
 
-30. *ṣalleyyat b-kull yawm b-hayklā*
+4. *ṣalleyyat b-kull yawm b-hayklā*
 
-31. *Mšaḥ l-malkā b-mešḥā*
+5. *Mšaḥ l-malkā b-mešḥā*
 
-32. *Šammešnān l-Māryā ḥdāyīt*
+6. *Šammešnān l-Māryā ḥdāyīt*
 
 **Exercise 6: Comprehension**
 
@@ -842,60 +842,12 @@ near / offered'
 
 
 The following high-frequency words round out this lesson's vocabulary
-to 30 terms.
+to 10 terms.
 
   -----------------------------------------------------------------------
   Estrangela        Transliteration   Gender/Type       Meaning
 
   ----------------- ----------------- ----------------- -----------------
-  ܩܪܝܬܐ             qrītā             f                 village
-
-  ܠܫܢܐ              leššānā           m                 tongue, language
-
-  ܓܪܡܐ              garmā             m                 bone
-
-  ܟܐܦܐ              kēpā              f                 stone, rock
-
-  ܢܘܢܐ              nūnā              m                 fish
-
-  ܡܕܝܢܬܐ            mdīttā            f                 city
-
-  ܫܡܫܐ              šemšā             m                 sun
-
-  ܬܪܥܐ              tarʿā             m                 door, gate
-
-  ܚܝܠܐ              ḥaylā             m                 power, army
-
-  ܩܝܣܐ              qaysā             m                 wood, tree
-
-  ܢܗܪܐ              nahrā             m                 river
-
-  ܣܒܪܐ              sabrā             m                 hope
-
-  ܕܚܠܬܐ             deḥltā            f                 fear, religion
-
-  ܣܗܪܐ              sahrā             m                 moon
-
-  ܪܓܠܐ              reglā             f                 foot
-
-  ܫܠܡܐ              šlāmā             m                 peace
-
-  ܐܬܪܐ              ʾatrā             m                 place, country
-
-  ܣܗܕܐ              sāhdā             m                 witness, martyr
-
-  ܒܣܪܐ              besrā             m                 flesh
-
-  ܛܝܒܘܬܐ             ṭaybūttā          f                 grace
-
-  ܬܘܪܐ              tawrā             m                 bull, ox
-
-  ܐܘܪܚܐ             ʾūrḥā             f                 way, road
-
-  ܥܝܢܐ              ʿaynā             f                 eye
-
-  ܦܘܡܐ              pūmā              m                 mouth
-
   ܕܝܢܐ              dīnā              m                 judgment
 
   ܩܕܐܫܐ             qaddāšā           m                 make holy

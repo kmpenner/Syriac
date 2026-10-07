@@ -304,31 +304,31 @@ The following 30 genuinely new high-frequency words supplement this lesson's voc
 | ܫܒܬܐ | šabbtā | f. noun | sabbath, week | pl. šabbē |
 | ܠܒܘܫܐ | lbūšā | m. noun | garment, clothing | from root l-b-š (to wear) |
 | ܕܟܪܢܐ | dəkrānā | m. noun | memory, remembrance | from root d-k-r (to remember) |
-| ܦܓܥܢܐ | pəgʿānā | m. noun | encounter, meeting | from root p-g-ʿ (to meet) |
-| ܐܨܒܥܐ | ʾəṣḇʿā | f. noun | finger | body part, abstract |
+| ܦܓܥܐ | pegʿā | m. noun | encounter, accident | from root p-g-ʿ (to meet) |
+| ܨܒܥܐ | ṣeḇʿā | f. noun | finger | body part |
 | ܦܘܠܚܢܐ | pūlḥānā | m. noun | labor, toil | from root p-l-ḥ (to serve) |
-| ܫܡܪܢܐ | šəmrānā | m. noun | guard, watchfulness | from root š-m-r (to guard) |
+| ܢܛܘܪܬܐ | nāṭōrtā | f. noun | guard, watchfulness | from root n-ṭ-r (to guard) |
 | ܓܡܠܘܬܐ | gəmālūttā | f. noun | kindness, mercy | from root g-m-l (to treat well) |
-| ܠܓܕܬܐ | ləgdəttā | f. noun | overtaking, capture | from root l-g-d (to reach) |
-| ܕܠܘܬܐ | dəlūttā | f. noun | poverty, want | abstract noun |
+| ܠܒܟܬܐ | leḇkātā | f. noun | capture, grasping | from root l-b-k (to hold) |
+| ܡܣܟܢܘܬܐ | meskēnūttā | f. noun | poverty, want | abstract noun |
 | ܦܠܓܘܬܐ | pəlgūttā | f. noun | division, share | from root p-l-g (to divide) |
 | ܩܠܦܬܐ | qəlpəttā | f. noun | shell, exterior | |
-| ܪܘܓܙܢܐ | rūgzānā | m. noun | rage, wrath | from root r-g-z (to shake) |
-| ܝܕܥܘܬܐ | ydāʿūttā | f. noun | knowledge | from root y-d-ʿ (to know) |
+| ܪܘܓܙܐ | rugzā | m. noun | rage, wrath | from root r-g-z (to be angry) |
+| ܝܕܥܬܐ | īdaʿtā | f. noun | knowledge | from root y-d-ʿ (to know) |
 | ܟܦܪܐ | kəprā | m. noun | village, hamlet | place noun |
 | ܦܩܪܐ | pəqrā | m. noun | opening, aperture | from root p-q-r (to open) |
-| ܓܡܪܘܬܐ | gəmrūttā | f. noun | completion, fulfillment | from root g-m-r (to complete) |
-| ܛܘܫܢܐ | ṭūšānā | m. noun | strength, might | from root ṭ-w-š (to be strong) |
+| ܓܡܝܪܘܬܐ | gmīrūttā | f. noun | completion, perfection | from root g-m-r (to complete) |
+| ܥܘܫܢܐ | ʿūšnā | m. noun | strength, might | from root ʿ-š-n (to be strong) |
 | ܫܦܥܐ | šəpʿā | m. noun | abundance, plenty | from root š-p-ʿ (to suffice) |
 | ܠܚܡܐ | laḥmā | m. noun | bread, food | staple item |
 | ܦܣܡܐ | pəsmā | m. noun | measure, standard | |
 | ܫܠܡܘܬܐ | šəlmūttā | f. noun | completeness, wholeness | from root š-l-m (to be whole) |
 | ܥܠܩܐ | ʿalqā | m. noun | ascent, stairway | from root ʿ-l-q (to ascend) |
-| ܓܛܪܢܐ | gəṭrānā | m. noun | enclosure, fence | from root g-ṭ-r (to fence) |
-| ܫܢܘܬܐ | šənūttā | f. noun | change, alteration | from root š-n-y (to change) |
-| ܕܒܩܘܬܐ | dəbqūttā | f. noun | clinging, adherence | from root d-b-q (to cling) |
-| ܩܕܘܫܘܬܐ | qdūšūttā | f. noun | holiness, sanctity | from root q-d-š (to be holy) |
+| ܣܝܓܐ | syāgā | m. noun | enclosure, hedge | from root s-w-g (to fence) |
+| ܫܘܚܠܦܐ | šuḥlāpā | m. noun | change, alteration | from root š-ḥ-l-p (to change) |
+| ܕܒܝܩܘܬܐ | dəḇīqūttā | f. noun | clinging, adherence | from root d-b-q (to cling) |
+| ܩܕܝܫܘܬܐ | qaddīšūttā | f. noun | holiness, sanctity | from root q-d-š (to be holy) |
 | ܓܕܘܠܘܬܐ | gdūlūttā | f. noun | greatness, grandeur | from root g-d-l (to be great) |
-| ܥܪܘܬܐ | ʿərūttā | f. noun | nakedness, shame | from root ʿ-r-y (to be naked) |
-| ܕܒܪܢܐ | dəbrānā | m. noun | word, matter | related to d-b-r |
-| ܪܘܡܘܬܐ | rūmūttā | f. noun | height, elevation | from root r-w-m (to be high) |
+| ܥܪܛܠܝܘܬܐ | ʿarṭlāyūttā | f. noun | nakedness, exposure | from root ʿ-r-ṭ-l (to be naked) |
+| ܕܒܪܢܐ | dəbrānā | m. noun | leader, governor | related to d-b-r |
+| ܪܘܡܐ | rawmā | m. noun | height, elevation | from root r-w-m (to be high) |

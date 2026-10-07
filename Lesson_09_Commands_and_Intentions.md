@@ -566,21 +566,21 @@ transliteration.
 Form the Peal, Paael, and Aphel infinitives for each root. Use the
 pattern: Peal = meCCaC; Paael = mCaCCāCū; Aphel = maCCāCū.
 
-4.  n-p-q (go out)
+1.  n-p-q (go out)
 
-5.  q-b-l (receive)
+2.  q-b-l (receive)
 
-6.  š-d-r (send)
+3.  š-d-r (send)
 
-7.  ḥ-z-y (see)
+4.  ḥ-z-y (see)
 
-8.  ʿ-l-l (enter)
+5.  ʿ-l-l (enter)
 
-9.  y-l-d (give birth)
+6.  y-l-d (give birth)
 
-10. r-ḥ-m (have mercy)
+7.  r-ḥ-m (have mercy)
 
-11. s-g-d (worship)
+8.  s-g-d (worship)
 
 **Exercise 3: Translation — Syriac to English**
 
@@ -588,21 +588,21 @@ pattern: Peal = meCCaC; Paael = mCaCCāCū; Aphel = maCCāCū.
 Translate each sentence into English. Identify any imperatives and
 l-+infinitive constructions.
 
-12. ܐܙܠ ܠܐܘܪܫܠܡ
+1. ܐܙܠ ܠܐܘܪܫܠܡ
 
-13. ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ
+2. ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ
 
-14. ܠܐ ܬܙܥܩܘܢ
+3. ܠܐ ܬܙܥܩܘܢ
 
-15. ܫܪܝ ܠܡܩܪܐ ܟܬܒܐ
+4. ܫܪܝ ܠܡܩܪܐ ܟܬܒܐ
 
-16. ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܝܘܚܢܢ
+5. ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܝܘܚܢܢ
 
-17. ܝܟܝܠ ܐܠܗܐ ܠܡܚܐ ܐܣܛܪ̈ܛܝܘܛܐ
+6. ܝܟܝܠ ܐܠܗܐ ܠܡܚܐ ܐܣܛܪ̈ܛܝܘܛܐ
 
-18. ܦܩܕ ܠܗܘܢ ܠܡܪܡܝܘ ܒܐܬܘܢܐ
+7. ܦܩܕ ܠܗܘܢ ܠܡܪܡܝܘ ܒܐܬܘܢܐ
 
-19. ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܐ
+8. ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܐ
 
 **Exercise 4: Production — English to Syriac**
 
@@ -610,17 +610,17 @@ l-+infinitive constructions.
 Express each sentence in Syriac. Use Estrangela script and
 transliteration.
 
-20. Hear me, O king! (m.sg.)
+1. Hear me, O king! (m.sg.)
 
-21. Do not kill the righteous man! (m.pl.)
+2. Do not kill the righteous man! (m.pl.)
 
-22. He began to pray.
+3. He began to pray.
 
-23. The soldier is not able to flee.
+4. The soldier is not able to flee.
 
-24. The king commanded to throw him into the furnace.
+5. The king commanded to throw him into the furnace.
 
-25. She wants to read the book.
+6. She wants to read the book.
 
 **Exercise 5: Reading Comprehension**
 
@@ -628,15 +628,15 @@ transliteration.
 Re-read the story in Section 6 and answer the following questions in
 English.
 
-26. Why did the king fill with anger?
+1. Why did the king fill with anger?
 
-27. What two commands did the king give his soldiers?
+2. What two commands did the king give his soldiers?
 
-28. What did one soldier say? Why was he reluctant?
+3. What did one soldier say? Why was he reluctant?
 
-29. How was Yukhannan restrained before being brought to the furnace?
+4. How was Yukhannan restrained before being brought to the furnace?
 
-30. How did Yukhannan respond to his situation?
+5. How did Yukhannan respond to his situation?
 
 #### Section 8: Answer Key
 
@@ -692,53 +692,53 @@ y-l-d: Peal **mīlad ܡܝܠܕ**; Paael **myāladū ܡܝܠܕܘ**; Aphel **ʾauld�
 **Exercise 3: Translation**
 
 
-31. Go to Jerusalem!
+1. Go to Jerusalem!
 
-32. Hear the voice of God! (to a woman)
+2. Hear the voice of God! (to a woman)
 
-33. Do not cry out! (m.pl.)
+3. Do not cry out! (m.pl.)
 
-34. He began to read the book.
+4. He began to read the book.
 
-35. The king wanted to bind Yukhannan.
+5. The king wanted to bind Yukhannan.
 
-36. God is able to strike the soldiers.
+6. God is able to strike the soldiers.
 
-37. He commanded them to throw (him) into the furnace.
+7. He commanded them to throw (him) into the furnace.
 
-38. Yukhannan wished to pray.
+8. Yukhannan wished to pray.
 
 **Exercise 4: Production**
 
 
-39. ܫܡܥܢܝ ܡܠܟܐ šmaʿnī malkā
+1. ܫܡܥܢܝ ܡܠܟܐ šmaʿnī malkā
 
-40. ܠܐ ܬܩܛܠܘܢ ܠܙܕܝܩܐ lā teqṭlūn l-zaddīqā
+2. ܠܐ ܬܩܛܠܘܢ ܠܙܕܝܩܐ lā teqṭlūn l-zaddīqā
 
-41. ܫܪܝ ܠܡܨܠܐ šarī l-meṣlā
+3. ܫܪܝ ܠܡܨܠܐ šarī l-meṣlā
 
-42. ܐܣܛܪܛܝܘܛܐ ܠܐ ܝܟܝܠ ܠܡܥܪܩ estrāṭyōṭā lā yākel l-meʿraq
+4. ܐܣܛܪܛܝܘܛܐ ܠܐ ܝܟܝܠ ܠܡܥܪܩ estrāṭyōṭā lā yākel l-meʿraq
 
-43. ܦܩܕ ܡܠܟܐ ܠܡܪܡܝܘ ܠܗ ܒܐܬܘܢܐ paqed malkā l-mermyū leh
+5. ܦܩܕ ܡܠܟܐ ܠܡܪܡܝܘ ܠܗ ܒܐܬܘܢܐ paqed malkā l-mermyū leh
     b-ʾattūnā
 
-44. ܒܥܝܐ ܠܡܩܪܐ ܟܬܒܐ bāʿyā l-meqrā ketābā
+6. ܒܥܝܐ ܠܡܩܪܐ ܟܬܒܐ bāʿyā l-meqrā ketābā
 
 **Exercise 5: Comprehension**
 
 
-45. He heard the words (reports) about Yukhannan and was filled with
+1. He heard the words (reports) about Yukhannan and was filled with
     anger.
 
-46. \(1\) Seize Yukhannan; (2) throw him into the furnace.
+2. \(1\) Seize Yukhannan; (2) throw him into the furnace.
 
-47. One soldier said they were not able to kill a righteous man ---
+3. One soldier said they were not able to kill a righteous man ---
     showing moral hesitation.
 
-48. They bound his hands with a chain and dragged him toward the
+4. They bound his hands with a chain and dragged him toward the
     furnace.
 
-49. Yukhannan did not fear; he prayed instead.
+5. Yukhannan did not fear; he prayed instead.
 
 #### Section 9: Grammatical Summary Box
 
@@ -803,35 +803,3 @@ y-l-d: Peal **mīlad ܡܝܠܕ**; Paael **myāladū ܡܝܠܕܘ**; Aphel **ʾauld�
 
 *The Acts of Mar Yukhannan • Lesson 9: Commands and Intentions • Syriac
 Language Course*
-
-**Section 11: Additional Vocabulary**
-
-
-The following high-frequency words round out this lesson's vocabulary
-to 30 terms.
-
-  -----------------------------------------------------------------------
-  Estrangela        Transliteration   Gender/Type       Meaning
-
-  ----------------- ----------------- ----------------- -----------------
-  ܩܪܝܬܐ             qrītā             f                 village
-
-  ܠܫܢܐ              leššānā           m                 tongue, language
-
-  ܓܪܡܐ              garmā             m                 bone
-
-  ܟܐܦܐ              kēpā              f                 stone, rock
-
-  ܡܝܐ               mayyā             m.pl              water
-
-  ܢܘܢܐ              nūnā              m                 fish
-
-  ܡܕܝܢܬܐ            mdīttā            f                 city
-
-  ܫܡܫܐ              šemšā             m                 sun
-
-  ܬܪܥܐ              tarʿā             m                 door, gate
-
-  ܡܫܚܐ              mešḥā             m                 oil
-
-  -----------------------------------------------------------------------

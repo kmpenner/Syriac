@@ -119,7 +119,7 @@ similarities to other Semitic languages.</p>
 <col style="width: 16%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Person</th>
 <th style="text-align: left;">Estrangela</th>
 <th style="text-align: left;">Transliteration</th>
@@ -129,7 +129,7 @@ similarities to other Semitic languages.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>1 c.sg.</strong></td>
 <td style="text-align: left;">ܐܢܐ</td>
 <td style="text-align: left;">ʾenā</td>
@@ -137,7 +137,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">anā (أنا)</td>
 <td style="text-align: left;">ʾănī (אֲנִי)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>2 m.sg.</strong></td>
 <td style="text-align: left;">ܐܢܬ</td>
 <td style="text-align: left;">ʾant</td>
@@ -145,7 +145,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">ʾanta (أنتَ)</td>
 <td style="text-align: left;">ʾattāh (אַתָּה)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>2 f.sg.</strong></td>
 <td style="text-align: left;">ܐܢܬܝ</td>
 <td style="text-align: left;">ʾanti</td>
@@ -153,7 +153,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">ʾanti (أنتِ)</td>
 <td style="text-align: left;">ʾatt (אַתְּ)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>3 m.sg.</strong></td>
 <td style="text-align: left;">ܗܘ</td>
 <td style="text-align: left;">hū</td>
@@ -161,7 +161,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">huwa (هو)</td>
 <td style="text-align: left;">hūʾ (הוּא)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>3 f.sg.</strong></td>
 <td style="text-align: left;">ܗܝ</td>
 <td style="text-align: left;">hī</td>
@@ -169,7 +169,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">hiya (هي)</td>
 <td style="text-align: left;">hīʾ (הִיא)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>1 c.pl.</strong></td>
 <td style="text-align: left;">ܚܢܢ</td>
 <td style="text-align: left;">ḥnan</td>
@@ -177,7 +177,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">naḥnu (نحن)</td>
 <td style="text-align: left;">ʾănaḥnū (אֲנַחְנוּ)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>2 m.pl.</strong></td>
 <td style="text-align: left;">ܐܢܬܘܢ</td>
 <td style="text-align: left;">ʾantūn</td>
@@ -185,7 +185,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">ʾantum (أنتم)</td>
 <td style="text-align: left;">ʾattem (אַתֶּם)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>2 f.pl.</strong></td>
 <td style="text-align: left;">ܐܢܬܝܢ</td>
 <td style="text-align: left;">ʾantēn</td>
@@ -193,7 +193,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">ʾantunna (أنتنّ)</td>
 <td style="text-align: left;">ʾatten (אַתֶּן)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>3 m.pl.</strong></td>
 <td style="text-align: left;">ܗܢܘܢ</td>
 <td style="text-align: left;">hennōn</td>
@@ -201,7 +201,7 @@ similarities to other Semitic languages.</p>
 <td style="text-align: left;">hum (هم)</td>
 <td style="text-align: left;">hēm (הֵם)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>3 f.pl.</strong></td>
 <td style="text-align: left;">ܗܢܝܢ</td>
 <td style="text-align: left;">hennēn</td>
@@ -222,7 +222,7 @@ written but often silent in pronunciation (assimilated: “at”,
 emphatic state (the standard dictionary form), an ʾAlaph is added.</p>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Gender</th>
 <th style="text-align: left;">Absolute State</th>
 <th style="text-align: left;">Emphatic State (Default)</th>
@@ -230,13 +230,13 @@ emphatic state (the standard dictionary form), an ʾAlaph is added.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>Masc.</strong></td>
 <td style="text-align: left;">ܡܠܟ</td>
 <td style="text-align: left;">ܡܠܟܐ</td>
 <td style="text-align: left;">malk<strong>ā</strong> (King)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>Fem.</strong></td>
 <td style="text-align: left;">ܡܠܟܘܬ</td>
 <td style="text-align: left;">ܡܠܟܘܬܐ</td>
@@ -262,7 +262,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <col style="width: 20%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Estrangela</th>
 <th style="text-align: left;">Translit</th>
 <th style="text-align: left;">Gender</th>
@@ -271,7 +271,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܐܠܗܐ</td>
 <td style="text-align: left;">Alāhā</td>
 <td style="text-align: left;">m.</td>
@@ -279,7 +279,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Cognate w/ Arabic <em>Allāh</em>, Heb
 <em>ʾĔlōhīm</em></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܒܪܢܫܐ</td>
 <td style="text-align: left;">barnāšā</td>
 <td style="text-align: left;">m.</td>
@@ -287,21 +287,21 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Compounded from <em>bar</em> (son) +
 <em>nāšā</em> (man). Standard term for human.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܡܠܟܐ</td>
 <td style="text-align: left;">malkā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">King</td>
 <td style="text-align: left;">Semitic root <em>m-l-k</em></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܡܠܟܘܬܐ</td>
 <td style="text-align: left;">malkūttā</td>
 <td style="text-align: left;">f.</td>
 <td style="text-align: left;">Kingdom</td>
 <td style="text-align: left;">Abstract noun ending <em>-ūttā</em></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܡܠܬܐ</td>
 <td style="text-align: left;">meltā</td>
 <td style="text-align: left;">f.</td>
@@ -309,7 +309,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">The Syriac translation of Greek
 <em>Logos</em> (John 1:1)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܢܘܗܪܐ</td>
 <td style="text-align: left;">nūhrā</td>
 <td style="text-align: left;">m.</td>
@@ -317,7 +317,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Root <em>n-h-r</em>. Cf. Arabic
 <em>nūr</em></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܐܪܥܐ</td>
 <td style="text-align: left;">ʾarʿā</td>
 <td style="text-align: left;">f.</td>
@@ -325,7 +325,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Cognate with Hebrew <em>ʾereṣ</em>, Arabic
 <em>ʾarḍ</em></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܛܒܐ</td>
 <td style="text-align: left;">ṭābā</td>
 <td style="text-align: left;">m.</td>
@@ -333,21 +333,21 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Adjective behaving as noun. Heb
 <em>ṭōb</em></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܒܝܫܐ</td>
 <td style="text-align: left;">bīšā</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">Evil, bad</td>
 <td style="text-align: left;">Adjective behaving as noun.</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܝܘܚܢܢ</td>
 <td style="text-align: left;">Yūḥannan</td>
 <td style="text-align: left;">m.</td>
 <td style="text-align: left;">John</td>
 <td style="text-align: left;">Proper Name.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܪܒܐ</td>
 <td style="text-align: left;">rabbā</td>
 <td style="text-align: left;">m.</td>
@@ -355,7 +355,7 @@ literature and the Peshitta (the Syriac Bible).</p>
 <td style="text-align: left;">Root <em>r-b-b</em>. Cf. “Rabbi” (my great
 one).</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܚܝܐ</td>
 <td style="text-align: left;">ḥayyē</td>
 <td style="text-align: left;">m.pl.</td>
@@ -428,7 +428,7 @@ is in the earth, and Yukhannan is a light to the king.</p>
 <p><strong>THE VERBLESS CLAUSE — FORMATION RULES</strong></p>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Component 1</th>
 <th style="text-align: left;">Component 2</th>
 <th style="text-align: left;">Copula (Pronoun)</th>
@@ -436,19 +436,19 @@ is in the earth, and Yukhannan is a light to the king.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">Subject Noun</td>
 <td style="text-align: left;">Predicate Noun/Adj</td>
 <td style="text-align: left;">Pronoun matching Subject</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">Alāhā (God)</td>
 <td style="text-align: left;">ṭābā (good)</td>
 <td style="text-align: left;">hū (he)</td>
 <td style="text-align: left;">God is good.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">Meltā (Word)</td>
 <td style="text-align: left;">rabbā (great)</td>
 <td style="text-align: left;">hī (she)</td>
@@ -459,34 +459,34 @@ is in the earth, and Yukhannan is a light to the king.</p>
 <p><strong>PRONOUN REFERENCE TABLE</strong></p>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Person</th>
 <th style="text-align: left;">Singular</th>
 <th style="text-align: left;">Plural</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">1st Common</td>
 <td style="text-align: left;">ʾenā (I)</td>
 <td style="text-align: left;">ḥnan (We)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">2nd Masc</td>
 <td style="text-align: left;">ʾant (You)</td>
 <td style="text-align: left;">ʾantūn (You all)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">2nd Fem</td>
 <td style="text-align: left;">ʾanti (You)</td>
 <td style="text-align: left;">ʾantēn (You all)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">3rd Masc</td>
 <td style="text-align: left;">hū (He)</td>
 <td style="text-align: left;">hennōn (They)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">3rd Fem</td>
 <td style="text-align: left;">hī (She)</td>
 <td style="text-align: left;">hennēn (They)</td>
@@ -507,7 +507,7 @@ to 30 terms.</p>
 <col style="width: 20%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Syriac (Estrangela)</th>
 <th style="text-align: left;">Transliteration</th>
 <th style="text-align: left;">Part of Speech</th>
@@ -516,210 +516,210 @@ to 30 terms.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܩܪܝܬܐ</td>
 <td style="text-align: left;">qrītā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">village</td>
 <td style="text-align: left;">emphatic state</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܠܫܢܐ</td>
 <td style="text-align: left;">leššānā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">tongue, language</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܓܪܡܐ</td>
 <td style="text-align: left;">garmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">bone</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܟܐܦܐ</td>
 <td style="text-align: left;">kēpā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">stone, rock</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܡܝܐ</td>
 <td style="text-align: left;">mayyā</td>
 <td style="text-align: left;">m. noun (pl.)</td>
 <td style="text-align: left;">water</td>
 <td style="text-align: left;">plural in form</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܢܘܢܐ</td>
 <td style="text-align: left;">nūnā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">fish</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܡܕܝܢܬܐ</td>
 <td style="text-align: left;">mdīttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">city</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܫܡܫܐ</td>
 <td style="text-align: left;">šemšā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">sun</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܬܪܥܐ</td>
 <td style="text-align: left;">tarʿā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">door, gate</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܡܫܚܐ</td>
 <td style="text-align: left;">mešḥā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">oil</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܚܝܠܐ</td>
 <td style="text-align: left;">ḥaylā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">power, army</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܐܕܢܐ</td>
 <td style="text-align: left;">ʾednā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">ear</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܩܝܣܐ</td>
 <td style="text-align: left;">qaysā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">wood, tree</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܢܗܪܐ</td>
 <td style="text-align: left;">nahrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">river</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܣܒܪܐ</td>
 <td style="text-align: left;">sabrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">hope</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܕܚܠܬܐ</td>
 <td style="text-align: left;">deḥltā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">fear, religion</td>
 <td style="text-align: left;">abstract noun</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܣܗܪܐ</td>
 <td style="text-align: left;">sahrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">moon</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܪܓܠܐ</td>
 <td style="text-align: left;">reglā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">foot</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܫܠܡܐ</td>
 <td style="text-align: left;">šlāmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">peace</td>
 <td style="text-align: left;">common greeting</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܐܬܪܐ</td>
 <td style="text-align: left;">ʾatrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">place, country</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܣܗܕܐ</td>
 <td style="text-align: left;">sāhdā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">witness, martyr</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܒܣܪܐ</td>
 <td style="text-align: left;">besrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">flesh</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܛܝܒܘܬܐ</td>
 <td style="text-align: left;">ṭaybūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">grace</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܬܘܪܐ</td>
 <td style="text-align: left;">tawrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">bull, ox</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܩܝܡܐ</td>
 <td style="text-align: left;">qyāmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">covenant</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܐܘܪܚܐ</td>
 <td style="text-align: left;">ʾūrḥā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">way, road</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܗܝܟܠܐ</td>
 <td style="text-align: left;">hayklā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">temple, palace</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܥܝܢܐ</td>
 <td style="text-align: left;">ʿaynā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">eye</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܦܘܡܐ</td>
 <td style="text-align: left;">pūmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">mouth</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܕܝܢܐ</td>
 <td style="text-align: left;">dīnā</td>
 <td style="text-align: left;">m. noun</td>

@@ -315,36 +315,10 @@ Verb 1 (Any Tense) + `d-` + Verb 2 (Imperfect) = Purpose Clause
 
 #### Section 11: Additional Vocabulary
 
-The following high-frequency words round out this lesson's vocabulary to 30 terms.
+The following high-frequency words round out this lesson's vocabulary to 20 terms.
 
 | Estrangela | Transliteration | Gender/Type | Meaning |
 | :--- | :--- | :--- | :--- |
-| ܩܪܝܬܐ | qrītā | f | village |
-| ܠܫܢܐ | leššānā | m | tongue, language |
-| ܓܪܡܐ | garmā | m | bone |
-| ܟܐܦܐ | kēpā | f | stone, rock |
-| ܢܘܢܐ | nūnā | m | fish |
-| ܡܕܝܢܬܐ | mdīttā | f | city |
-| ܫܡܫܐ | šemšā | m | sun |
-| ܬܪܥܐ | tarʿā | m | door, gate |
-| ܡܫܚܐ | mešḥā | m | oil |
-| ܚܝܠܐ | ḥaylā | m | power, army |
-| ܐܕܢܐ | ʾednā | f | ear |
-| ܩܝܣܐ | qaysā | m | wood, tree |
-| ܢܗܪܐ | nahrā | m | river |
-| ܣܒܪܐ | sabrā | m | hope |
-| ܣܗܪܐ | sahrā | m | moon |
-| ܪܓܠܐ | reglā | f | foot |
-| ܫܠܡܐ | šlāmā | m | peace |
-| ܐܬܪܐ | ʾatrā | m | place, country |
-| ܣܗܕܐ | sāhdā | m | witness, martyr |
-| ܒܣܪܐ | besrā | m | flesh |
-| ܛܝܒܘܬܐ | ṭaybūttā | f | grace |
-| ܬܘܪܐ | tawrā | m | bull, ox |
-| ܐܘܪܚܐ | ʾūrḥā | f | way, road |
-| ܗܝܟܠܐ | hayklā | m | temple, palace |
-| ܥܝܢܐ | ʿaynā | f | eye |
-| ܦܘܡܐ | pūmā | m | mouth |
 | ܦܪܚܬܐ | pāraḥtā | f | bird |
 | ܚܕܘܬܐ | ḥadūtā | f | joy |
 | ܚܟܡܬܐ | ḥekmtā | f | wisdom |

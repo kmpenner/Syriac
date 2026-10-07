@@ -143,10 +143,10 @@ w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-earth), w- (and
 
 **Sentence 3**
 
-ܢܛܪ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܘܪܚܐ
-nṭar Yūḥannan nūhrā b-ʾūrḥā.
-nṭar (he-kept) Yūḥannan (John) nūhrā (light) b- (in) ʾūrḥā (the-way/road).
-→ Yukhannan kept light in the road.
+ܐܚܕ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܘܪܚܐ
+ʾeḥad Yūḥannan nūhrā b-ʾūrḥā.
+ʾeḥad (he-held/carried) Yūḥannan (John) nūhrā (light) b- (in) ʾūrḥā (the-way/road).
+→ Yukhannan held light on the way.
 
 **Sentence 4**
 
@@ -296,33 +296,32 @@ The following 30 genuinely new high-frequency words supplement this lesson's voc
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | ܫܪܐ | šrā | verb (Peal) | to loosen, release; to dwell | III-Yodh root š-r-y |
-| ܦܠܟܘܬܐ | pəlkūttā | f. noun | flight, escape | from root p-l-k (to flee) |
-| ܩܛܠܘܬܐ | qəṭlūttā | f. noun | slaughter, killing | from root q-ṭ-l (to kill) |
+| ܫܒܝܬܐ | šḇītā | f. noun | captivity, escape | from root š-b-y (to capture) |
+| ܩܛܠܐ | qeṭlā | m. noun | slaughter, killing | from root q-ṭ-l (to kill) |
 | ܓܢܘܒܘܬܐ | gənūbūttā | f. noun | theft, stealing | from root g-n-b (to steal) |
-| ܫܒܘܩܘܬܐ | šəbūqūttā | f. noun | abandonment, leaving | from root š-b-q (to leave) |
-| ܢܦܩܘܬܐ | napəqūttā | f. noun | going out, exit | from root n-p-q (to go out) |
-| ܕܡܥܘܬܐ | dəmʿūttā | f. noun | weeping, tears | from root d-m-ʿ (to weep) |
-| ܚܡܡܘܬܐ | ḥəmmūttā | f. noun | heat, fervor | from root ḥ-m-m (to be hot) |
-| ܦܓܥܘܬܐ | pəgʿūttā | f. noun | striking, blow | from root p-g-ʿ (to strike) |
+| ܫܘܒܩܢܐ | šubqānā | m. noun | forgiveness, remission | from root š-b-q (to leave) |
+| ܡܦܩܢܐ | mappqānā | m. noun | going out, exit | from root n-p-q (to go out) |
+| ܕܡܥܬܐ | demʿətā | f. noun | tear, weeping | from root d-m-ʿ (to weep) |
+| ܚܡܝܡܘܬܐ | ḥammīmūttā | f. noun | heat, warmth | from root ḥ-m-m (to be hot) |
+| ܡܚܘܬܐ | mḥūtā | f. noun | striking, blow | from root m-ḥ-y (to strike) |
 | ܥܪܘܩܐ | ʿārōqā | m. noun | fugitive | from root ʿ-r-q (to flee) |
-| ܩܪܒܘܬܐ | qərbūttā | f. noun | drawing near, approach | from root q-r-b (to draw near) |
-| ܪܕܦܘܬܐ | rədu̲pūttā | f. noun | pursuit, chasing | from root r-d-p (to pursue) |
-| ܥܠܩܘܬܐ | ʿəlqūttā | f. noun | ascent, rising | from root ʿ-l-q (to ascend) |
+| ܩܘܪܒܐ | qūrbā | m. noun | drawing near, approach | from root q-r-b (to draw near) |
+| ܪܕܘܦܝܐ | redūpyā | m. noun | pursuit, persecution | from root r-d-p (to pursue) |
+| ܡܣܩܢܐ | masqānā | m. noun | ascent, rising | from root s-l-q (to ascend) |
 | ܦܠܚܘܬܐ | pəlḥūttā | f. noun | service, labor | from root p-l-ḥ (to serve) |
-| ܕܪܟܘܬܐ | dərəkūttā | f. noun | treading, passage | from root d-r-k (to tread) |
+| ܕܘܪܟܐ | dūrkā | m. noun | treading, path | from root d-r-k (to tread) |
 | ܥܡܕܐ | ʿamdā | m. noun | pillar, column | |
-| ܦܪܓܢܐ | pərgānā | m. noun | authority, ruler | |
-| ܪܓܡܘܬܐ | rəgmūttā | f. noun | stoning, lapidation | from root r-g-m (to stone) |
-| ܫܡܪܘܬܐ | šəmrūttā | f. noun | guarding, keeping | from root š-m-r (to guard) |
-| ܢܛܪܘܬܐ | nəṭrūttā | f. noun | watching, guarding | from root n-ṭ-r (to watch) |
-| ܟܘܘܬܐ | kūwūttā | f. noun | substance, being | from root k-w-n (to be) |
+| ܫܠܝܛܐ | šallīṭā | m. noun | authority, ruler | from root š-l-ṭ (to rule) |
+| ܪܓܡܐ | regmā | m. noun | stoning, lapidation | from root r-g-m (to stone) |
+| ܡܛܪܬܐ | maṭartā | f. noun | guard, watch | from root n-ṭ-r (to watch) |
+| ܢܛܘܪܘܬܐ | nāṭōrūttā | f. noun | watching, guarding | from root n-ṭ-r (to watch) |
+| ܟܝܢܐ | kyānā | m. noun | nature, being | from root k-w-n (to be) |
 | ܣܒܥܘܬܐ | səbʿūttā | f. noun | satisfaction, plenty | from root s-b-ʿ (to be satisfied) |
-| ܓܪܒܘܬܐ | gərbūttā | f. noun | scraping, scratching | from root g-r-b (to scrape) |
-| ܠܓܕܘܬܐ | ləgdūttā | f. noun | seizing, capture | from root l-g-d (to seize) |
-| ܫܘܒܩܢܐ | šūbqānā | m. noun | (one) abandoned | from root š-b-q (to leave) |
-| ܐܫܬܓܠ | ʾaštəgal | verb | he was occupied | Pael perfect form |
-| ܦܘܡܟܢܐ | pūmkānā | m. noun | speaker | from root p-w-m (to open mouth) |
-| ܓܠܕܘܬܐ | gəldūttā | f. noun | uncovering, nakedness | from root g-l-d (to strip) |
+| ܓܪܒܐ | garbā | m. noun | scab, leprosy | from root g-r-b |
+| ܫܒܝܐ | šəḇyā | m. noun | captive, prisoner | from root š-b-y (to capture) |
+| ܦܠܚ | pəlaḥ | verb (Peal) | to serve, work | Peal perfect form |
+| ܡܡܠܠܐ | mamlā | m. noun | speech, discourse | from root m-l-l (to speak) |
+| ܓܠܝܘܬܐ | gelyūttā | f. noun | revelation, manifestation | from root g-l-y (to reveal) |
 | ܬܘܒ | tūb | adverb | again, furthermore | common particle |
 | ܥܕܡܐ | ʿedāmā | preposition | until, as far as | used in past narrative |
 | ܡܕܒܪܢܐ | mədbərānā | m. noun | leader, guide | from root d-b-r (to lead) |

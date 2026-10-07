@@ -311,30 +311,30 @@ The following 30 genuinely new high-frequency words supplement this lesson's voc
 | ܢܣܟ | nasak | verb | to pour, cast | common with suffixes |
 | ܕܒܩ | dābeq | verb | to cling, adhere | transposes object suffix |
 | ܓܕܪ | gāder | verb | to fence, hedge in | takes object suffix |
-| ܠܥܕ | lāʿad | verb | to witness, testify | object suffix usage |
+| ܣܗܕ | səhed | verb | to witness, testify | object suffix usage |
 | ܫܢܐ | šānē | verb | to change, alter | object suffix common |
 | ܫܪܒ | šāreb | verb | to drink | takes object suffix |
 | ܦܣܥ | pāsaʿ | verb | to cut, prune | object suffix frequent |
-| ܡܗܛ | mehaṭ | verb | to cover, conceal | takes object suffix |
-| ܙܚܡ | zaḥem | verb | to strengthen, mightily | object suffix usage |
+| ܟܣܝ | kassī | verb | to cover, conceal | takes object suffix |
+| ܥܫܢ | ʿəšan | verb | to strengthen, prevail | object suffix usage |
 | ܕܠܗ | dāleh | verb | to draw water | takes object suffix |
-| ܓܘܘܓ | gwag | verb | to plunder, rob | object suffix common |
-| ܪܡܕ | rāmed | verb | to strengthen, make firm | takes object suffix |
-| ܢܬܓ | nātag | verb | to pull, draw | object suffix usage |
-| ܣܠܥ | sālaʿ | verb | to lift, raise | takes object suffix |
+| ܒܙ | baz | verb | to plunder, rob | object suffix common |
+| ܫܪܪ | šarrar | verb | to confirm, make firm | takes object suffix |
+| ܢܓܕ | nǥad | verb | to pull, draw | object suffix usage |
+| ܫܩܠ | šqal | verb | to lift, carry | takes object suffix |
 | ܕܓܫ | dāgaš | verb | to push, press | object suffix frequent |
 | ܦܕܥ | pədaʿ | verb | to inform, make known | transposes object suffix |
 | ܥܡܕ | ʿāmed | verb | to stand firm | object suffix usage |
-| ܪܟܒ | rāk eb | verb | to ride, mount | takes object suffix |
-| ܡܢܓ | menag | verb | to prevent, hinder | object suffix common |
+| ܪܟܒ | rākeb | verb | to ride, mount | takes object suffix |
+| ܟܠܐ | klā | verb | to prevent, withhold | object suffix common |
 | ܥܡܪ | ʿāmar | verb | to dwell, inhabit | transposes object suffix |
 | ܚܣܪ | ḥāsar | verb | to lack, be deprived | takes object suffix |
-| ܓܡܪܢܐ | gəmrānā | m. noun | completion, fulfillment | derived from g-m-r |
-| ܦܕܘܚܘܬܐ | pədūḥūttā | f. noun | mercy, compassion | related to p-d-ḥ |
-| ܢܣܟܘܬܐ | nəskūttā | f. noun | pouring, libation | from n-s-k |
-| ܕܒܩܘܬܐ | dəbqūttā | f. noun | clinging, adherence | from d-b-q |
+| ܓܡܝܪܘܬܐ | gmīrūttā | f. noun | completion, perfection | derived from g-m-r |
+| ܡܪܚܡܢܘܬܐ | mraḥmānūttā | f. noun | mercy, compassion | related to r-ḥ-m |
+| ܢܘܣܟܐ | nussāḵā | m. noun | pouring, libation | from n-s-k |
+| ܕܒܝܩܘܬܐ | dəḇīqūttā | f. noun | clinging, adherence | from d-b-q |
 | ܫܡܝܪܐ | šəmīrā | m. noun | watch, guard | from š-m-r |
-| ܥܘܕܢܐ | ʿūddānā | m. noun | answer, response | from ʿ-w-d |
-| ܩܘܒܠܢܐ | qūbbəlānā | m. noun | acceptance, reception | from q-b-l |
-| ܫܪܒܘܬܐ | šərbūttā | f. noun | drinking | from š-r-b |
-| ܡܕܠܘܬܐ | mədəlūttā | f. noun | poverty, humiliation | from m-d-l |
+| ܦܘܢܝܐ | pūnnāyā | m. noun | answer, return | from p-n-y |
+| ܩܘܒܠܐ | qubbālā | m. noun | acceptance, reception | from q-b-l |
+| ܫܬܝܐ | šetyā | m. noun | drinking | from š-t-y |
+| ܡܘܟܟܐ | mūkkāḵā | m. noun | humiliation, lowliness | from m-k-k |

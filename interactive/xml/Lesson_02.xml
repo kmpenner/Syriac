@@ -96,7 +96,7 @@ writing)</li>
 <col style="width: 20%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Person</th>
 <th style="text-align: left;">Independent</th>
 <th style="text-align: left;">Enclitic Form</th>
@@ -105,70 +105,70 @@ writing)</li>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>1 c.sg.</strong></td>
 <td style="text-align: left;">ʾenā</td>
 <td style="text-align: left;">-nā</td>
 <td style="text-align: left;">kāteb-nā / kātbā-nā</td>
 <td style="text-align: left;">I am writing</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>2 m.sg.</strong></td>
 <td style="text-align: left;">ʾant</td>
 <td style="text-align: left;">-t</td>
 <td style="text-align: left;">kāteb-t</td>
 <td style="text-align: left;">You (m) are writing</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>2 f.sg.</strong></td>
 <td style="text-align: left;">ʾanti</td>
 <td style="text-align: left;">-tī</td>
 <td style="text-align: left;">kātbā-tī</td>
 <td style="text-align: left;">You (f) are writing</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>3 m.sg.</strong></td>
 <td style="text-align: left;">hū</td>
 <td style="text-align: left;">-hū / (none)*</td>
 <td style="text-align: left;">kāteb / kāteb-hū</td>
 <td style="text-align: left;">He is writing / writes</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>3 f.sg.</strong></td>
 <td style="text-align: left;">hī</td>
 <td style="text-align: left;">-hī / (none)*</td>
 <td style="text-align: left;">kātbā / kātbā-hī</td>
 <td style="text-align: left;">She is writing / writes</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>1 c.pl.</strong></td>
 <td style="text-align: left;">ḥnan</td>
 <td style="text-align: left;">-ḥnan</td>
 <td style="text-align: left;">kātbīn-ḥnan / kātbān-ḥnan</td>
 <td style="text-align: left;">We are writing</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>2 m.pl.</strong></td>
 <td style="text-align: left;">ʾantūn</td>
 <td style="text-align: left;">-tūn</td>
 <td style="text-align: left;">kātbīn-tūn</td>
 <td style="text-align: left;">You (m.pl) are writing</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>2 f.pl.</strong></td>
 <td style="text-align: left;">ʾantēn</td>
 <td style="text-align: left;">-tēn</td>
 <td style="text-align: left;">kātbān-tēn</td>
 <td style="text-align: left;">You (f.pl) are writing</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>3 m.pl.</strong></td>
 <td style="text-align: left;">hennōn</td>
 <td style="text-align: left;">(none)**</td>
 <td style="text-align: left;">kātbīn</td>
 <td style="text-align: left;">They (m) are writing</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>3 f.pl.</strong></td>
 <td style="text-align: left;">hennēn</td>
 <td style="text-align: left;">(none)**</td>
@@ -184,29 +184,29 @@ plural suffix (-īn / -ān) is sufficient; no enclitic is added.</em></p>
 <code>k-t-b</code>)</strong></p>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Gender/Num</th>
 <th style="text-align: left;">Estrangela</th>
 <th style="text-align: left;">Transliteration</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>Masc. Sg.</strong></td>
 <td style="text-align: left;">ܟܬܒ</td>
 <td style="text-align: left;">kāteb</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>Fem. Sg.</strong></td>
 <td style="text-align: left;">ܟܬܒܐ</td>
 <td style="text-align: left;">kātbā</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;"><strong>Masc. Pl.</strong></td>
 <td style="text-align: left;">ܟܬܒܝܢ</td>
 <td style="text-align: left;">kātbīn</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;"><strong>Fem. Pl.</strong></td>
 <td style="text-align: left;">ܟܬܒܢ</td>
 <td style="text-align: left;">kātbān</td>
@@ -234,7 +234,7 @@ word).</li>
 <question type="description"><name><text>Module 1 · Lesson 2 · Section 6: Vocabulary (Strong Verbs &amp; Adverbs)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Strong Verbs &amp; Adverbs)</h3>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Root</th>
 <th style="text-align: left;">Peal Ptcp (m.s.)</th>
 <th style="text-align: left;">Meaning</th>
@@ -243,70 +243,70 @@ word).</li>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܟ.ܬ.ܒ</td>
 <td style="text-align: left;">kāteb</td>
 <td style="text-align: left;">to write</td>
 <td style="text-align: left;">ܗܫܐ (hāšā)</td>
 <td style="text-align: left;">now</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܐ.ܙ.ܠ</td>
 <td style="text-align: left;">ʾāzel</td>
 <td style="text-align: left;">to go</td>
 <td style="text-align: left;">ܕܝܢ (dēn)</td>
 <td style="text-align: left;">but, then, however</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܐ.ܡ.ܪ</td>
 <td style="text-align: left;">ʾāmer</td>
 <td style="text-align: left;">to speak/say</td>
 <td style="text-align: left;">ܬܡܢ (tammān)</td>
 <td style="text-align: left;">there</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܫ.ܡ.ܥ</td>
 <td style="text-align: left;">šāmaʿ*</td>
 <td style="text-align: left;">to hear</td>
 <td style="text-align: left;">ܠܥܠ (lʿel)</td>
 <td style="text-align: left;">above</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܚ.ܙ.ܝ</td>
 <td style="text-align: left;">ܚܙܐ (ḥāzē)</td>
 <td style="text-align: left;">to see</td>
 <td style="text-align: left;">ܗܪܟܐ (harkā)</td>
 <td style="text-align: left;">here</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܥ.ܒ.ܕ</td>
 <td style="text-align: left;">ʿābed</td>
 <td style="text-align: left;">to do/make</td>
 <td style="text-align: left;">ܥܡ (ʿam)</td>
 <td style="text-align: left;">with</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܢ.ܛ.ܪ</td>
 <td style="text-align: left;">nāṭer</td>
 <td style="text-align: left;">to keep/guard</td>
 <td style="text-align: left;">ܥܠ (ʿal)</td>
 <td style="text-align: left;">upon, against</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܪ.ܕ.ܦ</td>
 <td style="text-align: left;">rādep</td>
 <td style="text-align: left;">to pursue</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܫ.ܒ.ܩ</td>
 <td style="text-align: left;">šābeq</td>
 <td style="text-align: left;">to leave</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܢ.ܦ.ܩ</td>
 <td style="text-align: left;">nāpeq</td>
 <td style="text-align: left;">to go out</td>
@@ -383,7 +383,7 @@ now.</p>
 k-t-b)</strong></p>
 <div class="tablewrap"><table>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">English</th>
 <th style="text-align: left;">Participle</th>
 <th style="text-align: left;">Enclitic</th>
@@ -391,37 +391,37 @@ k-t-b)</strong></p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">I write (m)</td>
 <td style="text-align: left;">kāteb</td>
 <td style="text-align: left;">-nā</td>
 <td style="text-align: left;">kāteb-nā</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">You write (m)</td>
 <td style="text-align: left;">kāteb</td>
 <td style="text-align: left;">-t</td>
 <td style="text-align: left;">kāteb-t</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">He writes</td>
 <td style="text-align: left;">kāteb</td>
 <td style="text-align: left;">(-hū)</td>
 <td style="text-align: left;">kāteb / kāteb-hū</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">We write (m)</td>
 <td style="text-align: left;">kātbīn</td>
 <td style="text-align: left;">-ḥnan</td>
 <td style="text-align: left;">kātbīn-ḥnan</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">You all write (m)</td>
 <td style="text-align: left;">kātbīn</td>
 <td style="text-align: left;">-tūn</td>
 <td style="text-align: left;">kātbīn-tūn</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">They write (m)</td>
 <td style="text-align: left;">kātbīn</td>
 <td style="text-align: left;">(none)</td>
@@ -444,7 +444,7 @@ to narrative present (participle) usage.</p>
 <col style="width: 20%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">Syriac (Estrangela)</th>
 <th style="text-align: left;">Transliteration</th>
 <th style="text-align: left;">Part of Speech</th>
@@ -453,220 +453,220 @@ to narrative present (participle) usage.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܫܒܬܐ</td>
 <td style="text-align: left;">šabbtā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">sabbath, week</td>
 <td style="text-align: left;">pl. šabbē</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܠܒܘܫܐ</td>
 <td style="text-align: left;">lbūšā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">garment, clothing</td>
 <td style="text-align: left;">from root l-b-š (to wear)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܕܟܪܢܐ</td>
 <td style="text-align: left;">dəkrānā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">memory, remembrance</td>
 <td style="text-align: left;">from root d-k-r (to remember)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܦܓܥܢܐ</td>
-<td style="text-align: left;">pəgʿānā</td>
+<tr>
+<td style="text-align: left;">ܦܓܥܐ</td>
+<td style="text-align: left;">pegʿā</td>
 <td style="text-align: left;">m. noun</td>
-<td style="text-align: left;">encounter, meeting</td>
+<td style="text-align: left;">encounter, accident</td>
 <td style="text-align: left;">from root p-g-ʿ (to meet)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܐܨܒܥܐ</td>
-<td style="text-align: left;">ʾəṣḇʿā</td>
+<tr>
+<td style="text-align: left;">ܨܒܥܐ</td>
+<td style="text-align: left;">ṣeḇʿā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">finger</td>
-<td style="text-align: left;">body part, abstract</td>
+<td style="text-align: left;">body part</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܦܘܠܚܢܐ</td>
 <td style="text-align: left;">pūlḥānā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">labor, toil</td>
 <td style="text-align: left;">from root p-l-ḥ (to serve)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܫܡܪܢܐ</td>
-<td style="text-align: left;">šəmrānā</td>
-<td style="text-align: left;">m. noun</td>
+<tr>
+<td style="text-align: left;">ܢܛܘܪܬܐ</td>
+<td style="text-align: left;">nāṭōrtā</td>
+<td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">guard, watchfulness</td>
-<td style="text-align: left;">from root š-m-r (to guard)</td>
+<td style="text-align: left;">from root n-ṭ-r (to guard)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܓܡܠܘܬܐ</td>
 <td style="text-align: left;">gəmālūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">kindness, mercy</td>
 <td style="text-align: left;">from root g-m-l (to treat well)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܠܓܕܬܐ</td>
-<td style="text-align: left;">ləgdəttā</td>
+<tr>
+<td style="text-align: left;">ܠܒܟܬܐ</td>
+<td style="text-align: left;">leḇkātā</td>
 <td style="text-align: left;">f. noun</td>
-<td style="text-align: left;">overtaking, capture</td>
-<td style="text-align: left;">from root l-g-d (to reach)</td>
+<td style="text-align: left;">capture, grasping</td>
+<td style="text-align: left;">from root l-b-k (to hold)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܕܠܘܬܐ</td>
-<td style="text-align: left;">dəlūttā</td>
+<tr>
+<td style="text-align: left;">ܡܣܟܢܘܬܐ</td>
+<td style="text-align: left;">meskēnūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">poverty, want</td>
 <td style="text-align: left;">abstract noun</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܦܠܓܘܬܐ</td>
 <td style="text-align: left;">pəlgūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">division, share</td>
 <td style="text-align: left;">from root p-l-g (to divide)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܩܠܦܬܐ</td>
 <td style="text-align: left;">qəlpəttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">shell, exterior</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܪܘܓܙܢܐ</td>
-<td style="text-align: left;">rūgzānā</td>
+<tr>
+<td style="text-align: left;">ܪܘܓܙܐ</td>
+<td style="text-align: left;">rugzā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">rage, wrath</td>
-<td style="text-align: left;">from root r-g-z (to shake)</td>
+<td style="text-align: left;">from root r-g-z (to be angry)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܝܕܥܘܬܐ</td>
-<td style="text-align: left;">ydāʿūttā</td>
+<tr>
+<td style="text-align: left;">ܝܕܥܬܐ</td>
+<td style="text-align: left;">īdaʿtā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">knowledge</td>
 <td style="text-align: left;">from root y-d-ʿ (to know)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܟܦܪܐ</td>
 <td style="text-align: left;">kəprā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">village, hamlet</td>
 <td style="text-align: left;">place noun</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܦܩܪܐ</td>
 <td style="text-align: left;">pəqrā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">opening, aperture</td>
 <td style="text-align: left;">from root p-q-r (to open)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܓܡܪܘܬܐ</td>
-<td style="text-align: left;">gəmrūttā</td>
+<tr>
+<td style="text-align: left;">ܓܡܝܪܘܬܐ</td>
+<td style="text-align: left;">gmīrūttā</td>
 <td style="text-align: left;">f. noun</td>
-<td style="text-align: left;">completion, fulfillment</td>
+<td style="text-align: left;">completion, perfection</td>
 <td style="text-align: left;">from root g-m-r (to complete)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܛܘܫܢܐ</td>
-<td style="text-align: left;">ṭūšānā</td>
+<tr>
+<td style="text-align: left;">ܥܘܫܢܐ</td>
+<td style="text-align: left;">ʿūšnā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">strength, might</td>
-<td style="text-align: left;">from root ṭ-w-š (to be strong)</td>
+<td style="text-align: left;">from root ʿ-š-n (to be strong)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܫܦܥܐ</td>
 <td style="text-align: left;">šəpʿā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">abundance, plenty</td>
 <td style="text-align: left;">from root š-p-ʿ (to suffice)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܠܚܡܐ</td>
 <td style="text-align: left;">laḥmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">bread, food</td>
 <td style="text-align: left;">staple item</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܦܣܡܐ</td>
 <td style="text-align: left;">pəsmā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">measure, standard</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܫܠܡܘܬܐ</td>
 <td style="text-align: left;">šəlmūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">completeness, wholeness</td>
 <td style="text-align: left;">from root š-l-m (to be whole)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">ܥܠܩܐ</td>
 <td style="text-align: left;">ʿalqā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">ascent, stairway</td>
 <td style="text-align: left;">from root ʿ-l-q (to ascend)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܓܛܪܢܐ</td>
-<td style="text-align: left;">gəṭrānā</td>
+<tr>
+<td style="text-align: left;">ܣܝܓܐ</td>
+<td style="text-align: left;">syāgā</td>
 <td style="text-align: left;">m. noun</td>
-<td style="text-align: left;">enclosure, fence</td>
-<td style="text-align: left;">from root g-ṭ-r (to fence)</td>
+<td style="text-align: left;">enclosure, hedge</td>
+<td style="text-align: left;">from root s-w-g (to fence)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܫܢܘܬܐ</td>
-<td style="text-align: left;">šənūttā</td>
-<td style="text-align: left;">f. noun</td>
+<tr>
+<td style="text-align: left;">ܫܘܚܠܦܐ</td>
+<td style="text-align: left;">šuḥlāpā</td>
+<td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">change, alteration</td>
-<td style="text-align: left;">from root š-n-y (to change)</td>
+<td style="text-align: left;">from root š-ḥ-l-p (to change)</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">ܕܒܩܘܬܐ</td>
-<td style="text-align: left;">dəbqūttā</td>
+<tr>
+<td style="text-align: left;">ܕܒܝܩܘܬܐ</td>
+<td style="text-align: left;">dəḇīqūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">clinging, adherence</td>
 <td style="text-align: left;">from root d-b-q (to cling)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܩܕܘܫܘܬܐ</td>
-<td style="text-align: left;">qdūšūttā</td>
+<tr>
+<td style="text-align: left;">ܩܕܝܫܘܬܐ</td>
+<td style="text-align: left;">qaddīšūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">holiness, sanctity</td>
 <td style="text-align: left;">from root q-d-š (to be holy)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܓܕܘܠܘܬܐ</td>
 <td style="text-align: left;">gdūlūttā</td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">greatness, grandeur</td>
 <td style="text-align: left;">from root g-d-l (to be great)</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܥܪܘܬܐ</td>
-<td style="text-align: left;">ʿərūttā</td>
+<tr>
+<td style="text-align: left;">ܥܪܛܠܝܘܬܐ</td>
+<td style="text-align: left;">ʿarṭlāyūttā</td>
 <td style="text-align: left;">f. noun</td>
-<td style="text-align: left;">nakedness, shame</td>
-<td style="text-align: left;">from root ʿ-r-y (to be naked)</td>
+<td style="text-align: left;">nakedness, exposure</td>
+<td style="text-align: left;">from root ʿ-r-ṭ-l (to be naked)</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">ܕܒܪܢܐ</td>
 <td style="text-align: left;">dəbrānā</td>
 <td style="text-align: left;">m. noun</td>
-<td style="text-align: left;">word, matter</td>
+<td style="text-align: left;">leader, governor</td>
 <td style="text-align: left;">related to d-b-r</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܪܘܡܘܬܐ</td>
-<td style="text-align: left;">rūmūttā</td>
-<td style="text-align: left;">f. noun</td>
+<tr>
+<td style="text-align: left;">ܪܘܡܐ</td>
+<td style="text-align: left;">rawmā</td>
+<td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">height, elevation</td>
 <td style="text-align: left;">from root r-w-m (to be high)</td>
 </tr>

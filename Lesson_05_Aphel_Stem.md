@@ -639,22 +639,22 @@ persons) and the participle (all 4 forms). Use the paradigm in Sections
 
 Translate the following sentences into English. All contain Aphel forms.
 
-8.  ܐܠܗܐ ܐܚܝܝ ܠܥܡܗ *(Alāhā ʾaḥyī l-ʿammeh)*
+1.  ܐܠܗܐ ܐܚܝܝ ܠܥܡܗ *(Alāhā ʾaḥyī l-ʿammeh)*
 
-9.  ܝܘܚܢܢ ܐܠܦ ܠܬܠܡܝܕܘܗܝ *(Yūḥannan ʾalep l-talmīdāw-hy)*
+2.  ܝܘܚܢܢ ܐܠܦ ܠܬܠܡܝܕܘܗܝ *(Yūḥannan ʾalep l-talmīdāw-hy)*
 
-10. ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܘܪܐ *(Hū ʾappeq lhūn men bēt
+3.  ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܘܪܐ *(Hū ʾappeq lhūn men bēt
     ʾesūrā)*
 
-11. ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ *(Rūḥā ʾaglī šrārā)*
+4.  ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ *(Rūḥā ʾaglī šrārā)*
 
-12. ܡܪܝܐ ܐܩܪܒܢ ܠܡܠܟܘܬܗ *(Māryā ʾaqrebnān l-malkūtteh)*
+5.  ܡܪܝܐ ܐܩܪܒܢ ܠܡܠܟܘܬܗ *(Māryā ʾaqrebnān l-malkūtteh)*
 
-13. ܡܐܠܦ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ *(Maʾlep ʾenā lḵūn ʾūrḥā)*
+6.  ܡܐܠܦ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ *(Maʾlep ʾenā lḵūn ʾūrḥā)*
 
-14. ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ *(ʾAnt ʾrīmt l-ʿabdāḵ)*
+7.  ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ *(ʾAnt ʾrīmt l-ʿabdāḵ)*
 
-15. ܗܢܘ ܐܘܠܦܢܐ ܕܡܠܟܘܬܐ *(Hannū ʾūlpānā d-malkūttā)*
+8.  ܗܢܘ ܐܘܠܦܢܐ ܕܡܠܟܘܬܐ *(Hannū ʾūlpānā d-malkūttā)*
 
 **Exercise 4: Production Drill (English → Syriac Aphel)**
 
@@ -662,17 +662,17 @@ Translate the following sentences into English. All contain Aphel forms.
 Render the following causative sentences into Syriac using the Aphel
 stem. More than one correct answer may exist.
 
-16. God revealed his glory to the people.
+1. God revealed his glory to the people.
 
-17. She taught the children the law.
+2. She taught the children the law.
 
-18. The Spirit brought him out of the wilderness.
+3. The Spirit brought him out of the wilderness.
 
-19. You (m.pl.) have brought near the offering.
+4. You (m.pl.) have brought near the offering.
 
-20. The prophet gave life to the dead (mītē).
+5. The prophet gave life to the dead (mītē).
 
-21. The Lord exalted the humble (makīkē).
+6. The Lord exalted the humble (makīkē).
 
 **Exercise 5: Reading Comprehension**
 
@@ -680,16 +680,16 @@ stem. More than one correct answer may exist.
 Re-read the story in Section 7, then answer the following comprehension
 questions in complete Syriac sentences if possible, or in English.
 
-22. What did Yukhannan say the Lord sent him to do?
+1. What did Yukhannan say the Lord sent him to do?
 
-23. What three actions does Yukhannan attribute to God in his speech?
+2. What three actions does Yukhannan attribute to God in his speech?
     (Name the Aphel verbs.)
 
-24. What question does the man from the crowd ask?
+3. What question does the man from the crowd ask?
 
-25. How does Yukhannan identify himself?
+4. How does Yukhannan identify himself?
 
-26. What brought Yukhannan out of the wilderness and brought him near
+5. What brought Yukhannan out of the wilderness and brought him near
     the kingdom?
 
 #### Section 9: Answer Key
@@ -767,17 +767,17 @@ king'); Construct: ܡܠܟ (malk + genitive, 'king of...')
 **Exercise 4: Production (sample answers)**
 
 
-27. *Alāhā ʾaglī šūbḥeh l-ʿammā*
+1. *Alāhā ʾaglī šūbḥeh l-ʿammā*
 
-28. *ʾalepat l-yalūdē nāmūsā*
+2. *ʾalepat l-yalūdē nāmūsā*
 
-29. *Rūḥā ʾappaqeh men madbārā*
+3. *Rūḥā ʾappaqeh men madbārā*
 
-30. *ʾaqrebtūn qūrbānā*
+4. *ʾaqrebtūn qūrbānā*
 
-31. *Nebīyā ʾaḥyī l-mītē*
+5. *Nebīyā ʾaḥyī l-mītē*
 
-32. *Māryā ʾrīm l-makīkē*
+6. *Māryā ʾrīm l-makīkē*
 
 **Exercise 5: Comprehension**
 
@@ -861,68 +861,12 @@ king'); Construct: ܡܠܟ (malk + genitive, 'king of...')
 
 
 The following high-frequency words round out this lesson's vocabulary
-to 30 terms.
+to 15 terms.
 
   -----------------------------------------------------------------------
   Estrangela        Transliteration   Gender/Type       Meaning
 
   ----------------- ----------------- ----------------- -----------------
-  ܩܪܝܬܐ             qrītā             f                 village
-
-  ܠܫܢܐ              leššānā           m                 tongue, language
-
-  ܓܪܡܐ              garmā             m                 bone
-
-  ܟܐܦܐ              kēpā              f                 stone, rock
-
-  ܡܝܐ               mayyā             m.pl              water
-
-  ܢܘܢܐ              nūnā              m                 fish
-
-  ܡܕܝܢܬܐ            mdīttā            f                 city
-
-  ܫܡܫܐ              šemšā             m                 sun
-
-  ܬܪܥܐ              tarʿā             m                 door, gate
-
-  ܡܫܚܐ              mešḥā             m                 oil
-
-  ܚܝܠܐ              ḥaylā             m                 power, army
-
-  ܐܕܢܐ              ʾednā             f                 ear
-
-  ܩܝܣܐ              qaysā             m                 wood, tree
-
-  ܢܗܪܐ              nahrā             m                 river
-
-  ܣܒܪܐ              sabrā             m                 hope
-
-  ܕܚܠܬܐ             deḥltā            f                 fear, religion
-
-  ܣܗܪܐ              sahrā             m                 moon
-
-  ܪܓܠܐ              reglā             f                 foot
-
-  ܫܠܡܐ              šlāmā             m                 peace
-
-  ܐܬܪܐ              ʾatrā             m                 place, country
-
-  ܣܗܕܐ              sāhdā             m                 witness, martyr
-
-  ܒܣܪܐ              besrā             m                 flesh
-
-  ܛܝܒܘܬܐ             ṭaybūttā          f                 grace
-
-  ܬܘܪܐ              tawrā             m                 bull, ox
-
-  ܐܘܪܚܐ             ʾūrḥā             f                 way, road
-
-  ܗܝܟܠܐ             hayklā            m                 temple, palace
-
-  ܥܝܢܐ              ʿaynā             f                 eye
-
-  ܦܘܡܐ              pūmā              m                 mouth
-
   ܐܚܝܐ              ʾaḥyā             m                 give life
 
   ܐܓܠܐ              ʾaglā             m                 reveal

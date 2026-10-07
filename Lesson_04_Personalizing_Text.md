@@ -325,40 +325,10 @@ Re-read Section 7 and answer:
 
 #### Section 11: Additional Vocabulary
 
-The following high-frequency words round out this lesson's vocabulary to 30 terms.
+The following high-frequency words round out this lesson's vocabulary to 18 terms.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ܩܪܝܬܐ | qrītā | f. noun | village | emphatic state |
-| ܠܫܢܐ | leššānā | m. noun | tongue, language | |
-| ܓܪܡܐ | garmā | m. noun | bone | |
-| ܟܐܦܐ | kēpā | f. noun | stone, rock | |
-| ܡܝܐ | mayyā | m. noun (pl.) | water | plural in form |
-| ܢܘܢܐ | nūnā | m. noun | fish | |
-| ܡܕܝܢܬܐ | mdīttā | f. noun | city | |
-| ܫܡܫܐ | šemšā | m. noun | sun | |
-| ܬܪܥܐ | tarʿā | m. noun | door, gate | |
-| ܡܫܚܐ | mešḥā | m. noun | oil | |
-| ܚܝܠܐ | ḥaylā | m. noun | power, army | |
-| ܐܕܢܐ | ʾednā | f. noun | ear | |
-| ܩܝܣܐ | qaysā | m. noun | wood, tree | |
-| ܢܗܪܐ | nahrā | m. noun | river | |
-| ܣܒܪܐ | sabrā | m. noun | hope | |
-| ܕܚܠܬܐ | deḥltā | f. noun | fear, religion | abstract noun |
-| ܣܗܪܐ | sahrā | m. noun | moon | |
-| ܪܓܠܐ | reglā | f. noun | foot | |
-| ܫܠܡܐ | šlāmā | m. noun | peace | common greeting |
-| ܐܬܪܐ | ʾatrā | m. noun | place, country | |
-| ܣܗܕܐ | sāhdā | m. noun | witness, martyr | |
-| ܒܣܪܐ | besrā | m. noun | flesh | |
-| ܛܝܒܘܬܐ | ṭaybūttā | f. noun | grace | |
-| ܬܘܪܐ | tawrā | m. noun | bull, ox | |
-| ܩܝܡܐ | qyāmā | m. noun | covenant | |
-| ܐܘܪܚܐ | ʾūrḥā | f. noun | way, road | |
-| ܗܝܟܠܐ | hayklā | m. noun | temple, palace | |
-| ܥܝܢܐ | ʿaynā | f. noun | eye | |
-| ܦܘܡܐ | pūmā | m. noun | mouth | |
-| ܕܝܢܐ | dīnā | m. noun | judgment | |
 | ܣܦܘܬܐ | sputā | f. noun | lip | emphatic state |
 | ܬܠܓܐ | talggā | m. noun | ridge, back | |
 | ܨܪܐ | ṣirē | f. noun | side, rib | |
