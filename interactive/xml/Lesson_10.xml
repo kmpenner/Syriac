@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
 <question type="description"><name><text>Module 3 · Lesson 10</text></name><questiontext format="html"><text><![CDATA[<h3><strong>The Passive Voice</strong></h3>
-
+<div class="chapter-image">
+<img src="images/Lesson_10.jpg" alt="Early Christian depiction of the three youths in the fiery furnace, Catacombs of Rome." />
+<p class="caption">
+<em>Early Christian depiction of the three youths in the fiery furnace,
+Catacombs of Rome.</em>
+</p>
+</div>
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 1: Review of Lessons 1–9</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lessons 1–9</h3>
 <p>Lesson 9 introduced the <strong>imperative</strong> (direct
@@ -10,14 +16,16 @@ the <strong>l- + infinitive construction</strong> for expressing
 purpose, ability, desire, and obligation. Before proceeding, confirm you
 can recall the following:</p>
 <ul>
-<li><p><strong>Imperative formation:</strong> Peal msg = CCoC; fsg =
-CCoC+ī; mpl = CCoC+w; fpl = CCoC+ān</p></li>
-<li><p><strong>Negative commands:</strong> lā + imperfect (never
-imperative)</p></li>
-<li><p><strong>Infinitive:</strong> Peal = meCCaC; Paael = mCaCCāCū;
-Aphel = maCCāCū</p></li>
-<li><p><strong>Semi-modals:</strong> šarī, yākel, bāʿē, ṣābē, paqed,
-šadar — all govern l- + infinitive</p></li>
+<li><strong>Imperative formation:</strong> Peal m.sg. = <em>CCūC</em>
+(<em>CCoC</em>); f.sg. = <em>CCūC(y)</em>; m.pl. = <em>CCūC(w)</em>;
+f.pl. = <em>CCūCēn</em></li>
+<li><strong>Negative commands:</strong> <em>lā</em> + imperfect (never
+imperative)</li>
+<li><strong>Infinitive:</strong> Peal = <em>meCCaC</em>; Paael =
+<em>mCaCCāCū</em>; Aphel = <em>maCCāCū</em></li>
+<li><strong>Semi-modals:</strong> <em>šarrī</em>, <em>mṣē</em>,
+<em>bāʿē</em>, <em>ṣābē</em>, <em>pqad</em>, <em>šaddar</em> — all
+govern <em>l-</em> + infinitive</li>
 </ul>
 <p><strong>Warm-Up Drill: Five Quick Questions</strong></p>
 <p>Answer in Syriac (Estrangela + transliteration).</p>
@@ -29,43 +37,47 @@ Aphel = maCCāCū</p></li>
 <col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th>#</th>
-<th>Question</th>
-<th>Expected answer</th>
-<th>Syriac</th>
+<tr class="header">
+<th style="text-align: right;">#</th>
+<th style="text-align: left;">Question</th>
+<th style="text-align: left;">Expected answer</th>
+<th style="text-align: left;">Syriac</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Give the Peal imperative m.sg. of <em>ʾ-z-l</em> (go).</td>
-<td><em>ʾzel</em> — go!</td>
-<td>ܐܙܠ</td>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">Give the Peal imperative m.sg. of
+<em>ʾ-z-l</em> (go).</td>
+<td style="text-align: left;"><em>ʾezal</em> — go!</td>
+<td style="text-align: left;">ܐܙܠ</td>
 </tr>
-<tr>
-<td>2</td>
-<td>How do you say “Do not kill!” (m.pl.)?</td>
-<td><em>lā teqṭlūn</em></td>
-<td>ܠܐ ܬܩܛܠܘܢ</td>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">How do you say “Do not kill!”
+(m.pl.)?</td>
+<td style="text-align: left;"><em>lā teqṭlūn</em></td>
+<td style="text-align: left;">ܠܐ ܬܩܛܠܘܢ</td>
 </tr>
-<tr>
-<td>3</td>
-<td>What is the Peal infinitive of <em>q-ṭ-l</em> (kill)?</td>
-<td><em>meqṭal</em></td>
-<td>ܡܩܛܠ</td>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">What is the Peal infinitive of
+<em>q-ṭ-l</em> (kill)?</td>
+<td style="text-align: left;"><em>meqṭal</em></td>
+<td style="text-align: left;">ܡܩܛܠ</td>
 </tr>
-<tr>
-<td>4</td>
-<td>Translate: <em>šarrī l-mešmaʿ</em>.</td>
-<td>He began to hear.</td>
-<td>ܫܪܝ ܠܡܫܡܥ</td>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Translate: <em>šarrī l-mešmaʿ</em>.</td>
+<td style="text-align: left;">He began to hear.</td>
+<td style="text-align: left;">ܫܪܝ ܠܡܫܡܥ</td>
 </tr>
-<tr>
-<td>5</td>
-<td>What does <em>puqdānā</em> mean?</td>
-<td>commandment, command (noun from <em>p-q-d</em>)</td>
-<td>ܦܘܩܕܢܐ</td>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">What does <em>pūqdānā</em> mean?</td>
+<td style="text-align: left;">commandment, command (noun from
+<em>p-q-d</em>)</td>
+<td style="text-align: left;">ܦܘܩܕܢܐ</td>
 </tr>
 </tbody>
 </table></div>
@@ -79,30 +91,31 @@ Aphel = maCCāCū</p></li>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 2: The Passive/Reflexive Stems — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Passive/Reflexive Stems — Overview</h3>
 <p><strong>2.1 The Principle of Passive Formation in Syriac</strong></p>
 <p>In Syriac, the passive voice is not expressed by auxiliary verbs (as
-in English: ‘is killed’, ‘was written’) but by a separate,
+in English: “is killed”, “was written”) but by a separate,
 <strong>inflected stem</strong> built from the active stem by means of a
-characteristic prefix: <strong>ʾEt-</strong> or <strong>Et-</strong>.
-These are called the <strong>Et-stems</strong>. Each active stem has a
-corresponding Et-stem that functions as its passive or reflexive
-counterpart.</p>
+characteristic prefix: <strong>ʾet-</strong> (or
+<strong>ʾett-</strong>). These are called the <strong>Et-stems</strong>.
+Each active stem has a corresponding Et-stem that functions as its
+passive or reflexive counterpart.</p>
 <p>Students of Hebrew will recognise an analogy with the
 <strong>Niphal</strong> (נִפְעַל, passive of Qal) and
 <strong>Hitpael</strong> (הִתְפַּעֵל, reflexive of Piel). Arabists will
-recognise the parallel with <strong>Forms V, VI, VII, and VIII</strong>:
-the tāʾ-prefixed (تَفَعَّلَ) and n-prefixed (اِنْفَعَلَ) passives/reflexives. In
-Greek, the same <strong>passive voice</strong> forms (e.g., παιδεύομαι)
-serve the function. Latin uses separate passive endings (-or, -ris, -tur
-etc.).</p>
+recognise the parallel with <strong>Forms V, VII, and VIII</strong>: the
+<em>tāʾ</em>-prefixed (تَفَعَّلَ <em>tafaʿʿala</em>) and <em>tāʾ</em>-infixed
+(اِفْتَعَلَ <em>iftaʿala</em>) or <em>n</em>-prefixed (اِنْفَعَلَ
+<em>infaʿala</em>) passives/reflexives, which in Syriac have largely
+replaced the older internal vowel passives (like Arabic <em>fuʿila</em>
+or Hebrew <em>Puʿal</em> and <em>Hophal</em>).</p>
 <p><strong>2.2 The Three Et-Stems</strong></p>
-<div class="tablewrap"><table style="width:97%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 20%" />
-<col style="width: 16%" />
-<col style="width: 35%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Et-Stem Name</strong></th>
 <th style="text-align: left;"><strong>Active Counterpart</strong></th>
 <th style="text-align: left;"><strong>Prefix</strong></th>
@@ -110,39 +123,40 @@ etc.).</p>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Ethpeel ܐܬܦܥܠ</td>
 <td style="text-align: left;">Peal</td>
-<td style="text-align: left;">ʾet-</td>
-<td style="text-align: left;">Passive or reflexive of Peal: ‘to be
-killed’, ‘to wash oneself’</td>
+<td style="text-align: left;"><em>ʾet-</em></td>
+<td style="text-align: left;">Passive or reflexive of Peal: “to be
+killed”, “to be written”</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Etpaael ܐܬܦܥܠ</td>
 <td style="text-align: left;">Paael</td>
-<td style="text-align: left;">ʾetpa-</td>
-<td style="text-align: left;">Passive or reflexive of Paael: ‘to be
-blessed’, ‘to be sanctified’</td>
+<td style="text-align: left;"><em>ʾet-</em> + R2 doubled</td>
+<td style="text-align: left;">Passive or reflexive of Paael: “to be
+blessed”, “to be sanctified”</td>
 </tr>
-<tr>
-<td style="text-align: left;">Ettaphal ܐܬܐܦܥܠ</td>
+<tr class="odd">
+<td style="text-align: left;">Ettaphal ܐܬܬܦܥܠ</td>
 <td style="text-align: left;">Aphel</td>
-<td style="text-align: left;">ʾetta-</td>
-<td style="text-align: left;">Passive of Aphel (causative): ‘to be
-saved’, ‘to be sent’</td>
+<td style="text-align: left;"><em>ʾetta-</em></td>
+<td style="text-align: left;">Passive of Aphel (causative): “to be
+offered”, “to be added”</td>
 </tr>
 </tbody>
 </table></div>
 <blockquote>
 <p><strong>Cross-Linguistic Summary: Passive Formation</strong></p>
-<p>Syriac Ethpeel: ʾet- + Peal root → parallel to Hebrew Niphal /
-Hitpael</p>
-<p>Syriac Etpaael: ʾetpa- + Paael → parallel to Arabic Form V تَفَعَّلَ</p>
-<p>Syriac Ettaphal: ʾetta- + Aphel → parallel to Arabic Form VII
-اِنْفَعَلَ</p>
-<p>Greek: active + passive endings (same paradigm structure, different
-endings)</p>
-<p>Latin: active vs. passive endings (-o/-or, -s/-ris, -t/-tur etc.)</p>
+<p>Syriac Ethpeel: <em>ʾet-</em> + Peal root → functions like Hebrew
+Niphal / Arabic Form VII (<em>infaʿala</em>) &amp; Form VIII
+(<em>iftaʿala</em>) Syriac Etpaael: <em>ʾet-</em> + Paael (doubled R2) →
+cognate with Hebrew Hitpael / Arabic Form V (تَفَعَّلَ) and functionally
+replaces Hebrew Pual Syriac Ettaphal: <em>ʾetta-</em> + Aphel →
+functionally replaces Hebrew Hophal (passive of causative) Greek:
+middle/passive endings (<em>-ομαι</em>, <em>-θην</em>) Latin: passive
+endings (<em>-or</em>, <em>-ris</em>, <em>-tur</em>) + perfect passive
+participle</p>
 </blockquote>
 
 ]]></text></questiontext></question>
@@ -151,151 +165,150 @@ endings)</p>
 <p><strong>3.1 Formation of the Ethpeel</strong></p>
 <p>The Ethpeel is formed by prefixing <strong>ʾet-</strong> to the Peal
 root. The perfect stem is <strong>ʾetCCeC</strong>. The participial
-form, which is very common, is <strong>metCCeC</strong>. In texts, the
-prefix may appear as <strong>ʾet-</strong> or <strong>ʾit-</strong>
-depending on dialect and vowelling.</p>
-<p><strong>Example:</strong> Root q-ṭ-l (kill) → Ethpeel perfect:
-<strong>ʾetqṭel</strong> ܐܬܩܛܠ ‘he was killed’; Participle:
-<strong>metqṭel</strong> ܡܬܩܛܠ ‘being killed’</p>
+form, which is very common, is <strong>metCCeC</strong>.</p>
+<p><strong>Example:</strong> Root <em>q-ṭ-l</em> (kill) → Ethpeel
+perfect: <strong>ʾetqṭel</strong> ܐܬܩܛܠ “he was killed”; Participle:
+<strong>metqṭel</strong> ܡܬܩܛܠ “being killed”.</p>
 <p><strong>3.2 Phonological Rules — Assimilation and
 Metathesis</strong></p>
-<p>When the Peal root begins with certain consonants, the
-<strong>t</strong> of the <strong>ʾet-</strong> prefix undergoes
-phonological changes:</p>
+<p>When the root begins with certain consonants, the <strong>t</strong>
+of the <strong>ʾet-</strong> prefix undergoes regular phonological
+changes:</p>
 <ul>
-<li><p><strong>Before sibilants (z, s, š, ṣ): Metathesis</strong> — the
-t and the sibilant swap positions. E.g., š-m-ʿ → ʾet-šmaʿ becomes
-<strong>ʾeš-t-maʿ</strong> ܐܫܬܡܥ ‘it was heard’; similarly ʾet-zʿaq →
-<strong>ʾez-t-ʿaq</strong></p></li>
-<li><p><strong>Before dental/emphatic consonants (d, ṭ):
-Assimilation</strong> — the t assimilates to the following consonant.
-E.g., d-k-y → ʾet-dky becomes <strong>ʾed-dky</strong> (with doubling),
-sometimes written without the doubled letter.</p></li>
-<li><p><strong>Before all other consonants: No change</strong> — e.g.,
-q-ṭ-l → <strong>ʾetqṭel</strong>; k-t-b →
-<strong>ʾetkatteb</strong></p></li>
+<li><strong>Before sibilants (<em>z</em>, <em>s</em>, <em>š</em>,
+<em>ṣ</em>): Metathesis and Voicing/Emphasis Assimilation</strong> — the
+<em>t</em> and the sibilant swap positions, and <em>t</em> becomes
+voiced <em>d</em> after <em>z</em> and emphatic <em>ṭ</em> after
+<em>ṣ</em>. E.g., <em>š-m-ʿ</em> → <em>ʾet-šmaʿ</em> becomes
+<strong>ʾeštmaʿ</strong> ܐܫܬܡܥ “it was heard”; <em>z-ʿ-q</em> →
+<strong>ʾezdʿaq</strong> ܐܙܕܥܩ; <em>ṣ-l-b</em> →
+<strong>ʾeṣṭleb</strong> ܐܨܛܠܒ “he was crucified”.</li>
+<li><strong>Before dental/emphatic consonants (<em>d</em>, <em>ṭ</em>,
+<em>t</em>): Assimilation</strong> — the <em>t</em> assimilates
+completely to the following dental consonant (doubling it). E.g.,
+<em>d-k-y</em> → <strong>ʾeddkī</strong> ܐܬܕܟܝ / ܐܕܟܝ; <em>ṭ-r-d</em> →
+<strong>ʾeṭṭred</strong> ܐܬܛܪܕ “he was expelled”.</li>
+<li><strong>Before all other consonants: No change</strong> — e.g.,
+<em>q-ṭ-l</em> → <strong>ʾetqṭel</strong> ܐܬܩܛܠ; <em>k-t-b</em> →
+<strong>ʾetkteb</strong> ܐܬܟܬܒ.</li>
 </ul>
-<p><strong>3.3 Full Paradigm: Ethpeel of q-ṭ-l (be killed)</strong></p>
+<p><strong>3.3 Full Paradigm: Ethpeel of <em>q-ṭ-l</em> (be
+killed)</strong></p>
 <p><strong>Perfect (all 10 forms):</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
 <col style="width: 25%" />
-<col style="width: 27%" />
 <col style="width: 25%" />
-<col style="width: 20%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Person / Number /
 Gender</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Translation</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: left;">3msg</td>
-<td style="text-align: right;">ܐܬܩܛܠ ʾetqṭel</td>
+<tr class="odd">
+<td style="text-align: left;">3 m.sg.</td>
+<td style="text-align: left;">ܐܬܩܛܠ</td>
+<td style="text-align: left;"><em>ʾetqṭel</em></td>
 <td style="text-align: left;">he was killed</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
-<td style="text-align: left;">3fsg</td>
-<td style="text-align: right;">ܐܬܩܛܠܬ ʾetqṭelat</td>
-<td style="text-align: left;">she was kille</td>
-<td style="text-align: left;">d</td>
+<tr class="even">
+<td style="text-align: left;">3 f.sg.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬ</td>
+<td style="text-align: left;"><em>ʾetqṭlat</em></td>
+<td style="text-align: left;">she was killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">2msg</td>
-<td style="text-align: right;">ܐܬܩܛܠܬ ʾetqṭelt</td>
-<td style="text-align: left;">you (m.sg.) w</td>
-<td style="text-align: left;">ere killed</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.sg.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬ</td>
+<td style="text-align: left;"><em>ʾetqṭelt</em></td>
+<td style="text-align: left;">you (m.sg.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fsg</td>
-<td style="text-align: right;">ܐܬܩܛܠܬܝ ʾetqṭeltī</td>
-<td style="text-align: left;">you (f.sg.) w</td>
-<td style="text-align: left;">ere killed</td>
+<tr class="even">
+<td style="text-align: left;">2 f.sg.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬܝ</td>
+<td style="text-align: left;"><em>ʾetqṭelt(y)</em></td>
+<td style="text-align: left;">you (f.sg.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">1sg</td>
-<td style="text-align: right;">ܐܬܩܛܠܬ ʾetqṭelet</td>
+<tr class="odd">
+<td style="text-align: left;">1 c.sg.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬ</td>
+<td style="text-align: left;"><em>ʾetqṭlet</em></td>
 <td style="text-align: left;">I was killed</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
-<td style="text-align: left;">3mpl</td>
-<td style="text-align: right;">ܐܬܩܛܠܘ ʾetqṭelw</td>
-<td style="text-align: left;">they (m.) wer</td>
-<td style="text-align: left;">e killed</td>
+<tr class="even">
+<td style="text-align: left;">3 m.pl.</td>
+<td style="text-align: left;">ܐܬܩܛܠܘ</td>
+<td style="text-align: left;"><em>ʾetqṭelū</em></td>
+<td style="text-align: left;">they (m.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">3fpl</td>
-<td style="text-align: right;">ܐܬܩܛܠ ʾetqṭel(n)</td>
-<td style="text-align: left;">they (f.) wer</td>
-<td style="text-align: left;">e killed</td>
+<tr class="odd">
+<td style="text-align: left;">3 f.pl.</td>
+<td style="text-align: left;">ܐܬܩܛܠ / ܐܬܩܛܠܝ</td>
+<td style="text-align: left;"><em>ʾetqṭel</em></td>
+<td style="text-align: left;">they (f.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">2mpl</td>
-<td style="text-align: right;">ܐܬܩܛܠܬܘܢ ʾetqṭeltūn</td>
-<td style="text-align: left;">you (m.pl.) w</td>
-<td style="text-align: left;">ere killed</td>
+<tr class="even">
+<td style="text-align: left;">2 m.pl.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬܘܢ</td>
+<td style="text-align: left;"><em>ʾetqṭeltūn</em></td>
+<td style="text-align: left;">you (m.pl.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fpl</td>
-<td style="text-align: right;">ܐܬܩܛܠܬܝܢ ʾetqṭeltēn</td>
-<td style="text-align: left;">you (f.pl.) w</td>
-<td style="text-align: left;">ere killed</td>
+<tr class="odd">
+<td style="text-align: left;">2 f.pl.</td>
+<td style="text-align: left;">ܐܬܩܛܠܬܝܢ</td>
+<td style="text-align: left;"><em>ʾetqṭeltēn</em></td>
+<td style="text-align: left;">you (f.pl.) were killed</td>
 </tr>
-<tr>
-<td style="text-align: left;">1pl</td>
-<td style="text-align: right;">ܐܬܩܛܠܢ ʾetqṭelan</td>
-<td style="text-align: left;">we were kille</td>
-<td style="text-align: left;">d</td>
+<tr class="even">
+<td style="text-align: left;">1 c.pl.</td>
+<td style="text-align: left;">ܐܬܩܛܠܢ</td>
+<td style="text-align: left;"><em>ʾetqṭeln</em></td>
+<td style="text-align: left;">we were killed</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Participial Forms (Ethpeel Participle of q-ṭ-l):</strong></p>
-<div class="tablewrap"><table style="width:98%;">
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 27%" />
-<col style="width: 26%" />
-<col style="width: 21%" />
-</colgroup>
+<p><strong>Participial Forms (Ethpeel Participle of
+<em>q-ṭ-l</em>):</strong></p>
+<div class="tablewrap"><table>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Form</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Translation</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: left;">Active Participle m.sg.</td>
-<td style="text-align: right;">ܡܬܩܛܠ metqṭel</td>
-<td style="text-align: left;">being killed</td>
-<td style="text-align: left;">(m.sg.)</td>
+<tr class="odd">
+<td style="text-align: left;">Participle m.sg.</td>
+<td style="text-align: left;">ܡܬܩܛܠ</td>
+<td style="text-align: left;"><em>metqṭel</em></td>
+<td style="text-align: left;">being killed (m.sg.)</td>
 </tr>
-<tr>
-<td style="text-align: left;">Active Participle f.sg.</td>
-<td style="text-align: right;">ܡܬܩܛܠܐ metqṭelā</td>
-<td style="text-align: left;">being killed</td>
-<td style="text-align: left;">(f.sg.)</td>
+<tr class="even">
+<td style="text-align: left;">Participle f.sg.</td>
+<td style="text-align: left;">ܡܬܩܛܠܐ</td>
+<td style="text-align: left;"><em>metqṭlā</em></td>
+<td style="text-align: left;">being killed (f.sg.)</td>
 </tr>
-<tr>
-<td style="text-align: left;">Active Participle m.pl.</td>
-<td style="text-align: right;">ܡܬܩܛܠܝܢ metqṭelīn</td>
-<td style="text-align: left;">being killed</td>
-<td style="text-align: left;">(m.pl.)</td>
+<tr class="odd">
+<td style="text-align: left;">Participle m.pl.</td>
+<td style="text-align: left;">ܡܬܩܛܠܝܢ</td>
+<td style="text-align: left;"><em>metqṭlīn</em></td>
+<td style="text-align: left;">being killed (m.pl.)</td>
 </tr>
-<tr>
-<td style="text-align: left;">Active Participle f.pl.</td>
-<td style="text-align: right;">ܡܬܩܛܠܢ metqṭelān</td>
-<td style="text-align: left;">being killed</td>
-<td style="text-align: left;">(f.pl.)</td>
+<tr class="even">
+<td style="text-align: left;">Participle f.pl.</td>
+<td style="text-align: left;">ܡܬܩܛܠܢ</td>
+<td style="text-align: left;"><em>metqṭlān</em></td>
+<td style="text-align: left;">being killed (f.pl.)</td>
 </tr>
 </tbody>
 </table></div>
@@ -306,296 +319,325 @@ Gender</strong></th>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 4: The Ettaphal and Etpaael Stems</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: The Ettaphal and Etpaael Stems</h3>
 <p><strong>4.1 The Ettaphal — Passive of the Aphel</strong></p>
 <p>The <strong>Ettaphal</strong> is the passive counterpart of the Aphel
-(causative) stem. Its formation inserts <strong>ʾetta-</strong> before
-the root. Since the Aphel adds the causative meaning (‘to cause to X’),
-the Ettaphal means <strong>‘to be caused to X’</strong> — i.e., the
-passive of a causative, as in ‘to be saved’ (from ‘to save’), ‘to be
-sent’ (from ‘to send’).</p>
-<p><strong>Example 1:</strong> Root ḥ-y-y / Aphel ʾaḥyī (save/give life)
-→ Ettaphal: <strong>ʾettaḥyī</strong> ܐܬܬܚܝ ‘he was saved / given
-life’</p>
-<p><strong>Example 2:</strong> Root ʾ-l-p / Aphel ʾalep (teach) →
-Ettaphal: <strong>ʾettalap</strong> ܐܬܬܠܦ ‘he was taught’</p>
-<p><strong>Example 3:</strong> Root ʾ-q-m / Aphel ʾaqīm (raise up) →
-Ettaphal: <strong>ʾettaqam</strong> ܐܬܬܩܡ ‘he was raised up’</p>
-<p><strong>Full Paradigm — Etpaael Perfect of š-d-r (be sent):</strong>
-(Paael <em>šaddar</em> ‘send’ → <em>ʾeštaddar</em>; before š the t of
-ʾet- swaps places with it)</p>
-<div class="tablewrap"><table style="width:98%;">
+(causative) stem. Its formation prefixes <strong>ʾetta-</strong>
+(spelled ܐܬܬ- with two <em>taws</em>) before the root:
+<strong>ʾettaCCaC</strong>. Since the Aphel adds causative meaning (“to
+cause to X”), the Ettaphal means <strong>“to be caused to X”</strong>.
+It is the rarest of the six stems in Syriac; for many roots (especially
+hollow verbs like <em>q-w-m</em> and <em>r-w-m</em>), the Ethpeel
+(<strong>ʾetqīm</strong> ܐܬܩܝܡ “he was raised/established”,
+<strong>ʾetrīm</strong> ܐܬܪܝܡ “he was exalted”) regularly serves as the
+passive of the Aphel as well.</p>
+<ul>
+<li><strong>Example 1:</strong> Root <em>q-r-b</em> / Aphel
+<em>ʾaqreb</em> (bring near, offer) → Ettaphal:
+<strong>ʾettaqrab</strong> ܐܬܬܩܪܒ “it was offered / brought near”.</li>
+<li><strong>Example 2:</strong> Root <em>y-s-p</em> / Aphel
+<em>ʾawsep</em> (add) → Ettaphal: <strong>ʾettawsap</strong> ܐܬܬܘܣܦ “it
+was added”.</li>
+<li><strong>Example 3:</strong> Root <em>ʿ-y-r</em> / Aphel
+<em>ʾaʿīr</em> (awaken) → Ettaphal: <strong>ʾettʿīr</strong> ܐܬܬܥܝܪ “he
+was awakened”.</li>
+</ul>
+<p><strong>Selected Paradigm — Ettaphal Perfect of <em>q-r-b</em> (be
+offered / brought near):</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 26%" />
-<col style="width: 26%" />
-<col style="width: 21%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th><strong>Person / N / G</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Person / N / G</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Translation</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>3msg</td>
-<td style="text-align: right;">ܐܫܬܕܪ ʾeštaddar</td>
-<td style="text-align: left;">he was sent</td>
-<td style="text-align: left;"></td>
+<tr class="odd">
+<td style="text-align: left;">3 m.sg.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒ</td>
+<td style="text-align: left;"><em>ʾettaqrab</em></td>
+<td style="text-align: left;">he/it was offered / brought near</td>
 </tr>
-<tr>
-<td>3fsg</td>
-<td style="text-align: right;">ܐܫܬܕܪܬ ʾeštaddrat</td>
-<td style="text-align: left;">she was sent</td>
-<td style="text-align: left;"></td>
+<tr class="even">
+<td style="text-align: left;">3 f.sg.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒܬ</td>
+<td style="text-align: left;"><em>ʾettaqrbat</em></td>
+<td style="text-align: left;">she/it was offered / brought near</td>
 </tr>
-<tr>
-<td>2msg</td>
-<td style="text-align: right;">ܐܫܬܕܪܬ ʾeštaddart</td>
-<td style="text-align: left;">you (m.sg.)</td>
-<td style="text-align: left;">were sent</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.sg.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒܬ</td>
+<td style="text-align: left;"><em>ʾettaqrabt</em></td>
+<td style="text-align: left;">you (m.sg.) were brought near</td>
 </tr>
-<tr>
-<td>1sg</td>
-<td style="text-align: right;">ܐܫܬܕܪܬ ʾeštaddret</td>
-<td style="text-align: left;">I was sent</td>
-<td style="text-align: left;"></td>
+<tr class="even">
+<td style="text-align: left;">1 c.sg.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒܬ</td>
+<td style="text-align: left;"><em>ʾettaqrbet</em></td>
+<td style="text-align: left;">I was brought near</td>
 </tr>
-<tr>
-<td>3mpl</td>
-<td style="text-align: right;">ܐܫܬܕܪܘ ʾeštaddarw</td>
-<td style="text-align: left;">they (m.) we</td>
-<td style="text-align: left;">re sent</td>
+<tr class="odd">
+<td style="text-align: left;">3 m.pl.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒܘ</td>
+<td style="text-align: left;"><em>ʾettaqrabū</em></td>
+<td style="text-align: left;">they (m.) were brought near</td>
 </tr>
-<tr>
-<td>1pl</td>
-<td style="text-align: right;">ܐܫܬܕܪܢ ʾeštaddarn</td>
-<td style="text-align: left;">we were sent</td>
-<td style="text-align: left;"></td>
+<tr class="even">
+<td style="text-align: left;">1 c.pl.</td>
+<td style="text-align: left;">ܐܬܬܩܪܒܢ</td>
+<td style="text-align: left;"><em>ʾettaqrabn</em></td>
+<td style="text-align: left;">we were brought near</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>4.2 The Etpaael — Passive/Reflexive of the Paael</strong></p>
 <p>The <strong>Etpaael</strong> is the passive or reflexive of the Paael
-(intensive/causative) stem. Its prefix is <strong>ʾetpa-</strong>. Since
-the Paael often carries intensive meaning (‘to bless greatly’, ‘to
-teach’), the Etpaael means <strong>‘to be blessed’, ‘to be taught’, ‘to
-be sanctified’</strong>. It can also be reflexive (‘to sanctify
-oneself’).</p>
-<p><strong>Example 1:</strong> Root b-r-k / Paael barrek (bless) →
-Etpaael: <strong>ʾetbarrak</strong> ܐܬܒܪܟ ‘he was blessed’</p>
-<p><strong>Example 2:</strong> Root y-l-p / Paael yallep (teach) →
-Etpaael: <strong>ʾetyallap</strong> ܐܬܝܠܦ ‘he was taught / he
-learned’</p>
-<p><strong>Example 3:</strong> Root q-d-š / Paael qaddeš (sanctify) →
-Etpaael: <strong>ʾetqaddaš</strong> ܐܬܩܕܫ ‘he was sanctified / he
-sanctified himself’</p>
-<p><strong>Full Paradigm — Etpaael Perfect of b-r-k (be
+(intensive/factitive) stem. Its prefix is <strong>ʾet-</strong> attached
+to the Paael stem (with doubled R2 and <em>a</em> vowel after R2:
+<strong>ʾetCaCCaC</strong>; participle <strong>metCaCCaC</strong>).
+Since the Paael carries intensive or factitive meaning (“to bless”, “to
+teach”, “to send”, “to sanctify”), the Etpaael means <strong>“to be
+blessed”, “to be taught”, “to be sent”, “to be sanctified”</strong> (or
+reflexively, “to sanctify oneself”).</p>
+<ul>
+<li><strong>Example 1:</strong> Root <em>b-r-k</em> / Paael
+<em>barrek</em> (bless) → Etpaael: <strong>ʾetbarrak</strong> ܐܬܒܪܟ “he
+was blessed”.</li>
+<li><strong>Example 2:</strong> Root <em>ʾ-l-p</em> (<em>y-l-p</em>) /
+Paael <em>ʾallep</em> (teach) → Etpaael: <strong>ʾetallap</strong> ܐܬܐܠܦ
+“he was taught / instructed”.</li>
+<li><strong>Example 3:</strong> Root <em>q-d-š</em> / Paael
+<em>qaddeš</em> (sanctify) → Etpaael: <strong>ʾetqaddaš</strong> ܐܬܩܕܫ
+“he was sanctified” (participle <strong>metqaddaš</strong> ܡܬܩܕܫ).</li>
+<li><strong>Example 4:</strong> Root <em>š-d-r</em> / Paael
+<em>šaddar</em> (send) → Etpaael: <strong>ʾeštaddar</strong> ܐܫܬܕܪ “he
+was sent” (with metathesis of <em>t</em> and <em>š</em>).</li>
+</ul>
+<p><strong>Full Paradigm — Etpaael Perfect of <em>b-r-k</em> (be
 blessed):</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 26%" />
-<col style="width: 26%" />
-<col style="width: 21%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th><strong>Person / N / G</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Person / N / G</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Translation</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>3msg</td>
-<td style="text-align: right;">ܐܬܒܪܟ ʾetbarrak</td>
-<td style="text-align: left;">he was blesse</td>
-<td style="text-align: left;">d</td>
+<tr class="odd">
+<td style="text-align: left;">3 m.sg.</td>
+<td style="text-align: left;">ܐܬܒܪܟ</td>
+<td style="text-align: left;"><em>ʾetbarrak</em></td>
+<td style="text-align: left;">he was blessed</td>
 </tr>
-<tr>
-<td>3fsg</td>
-<td style="text-align: right;">ܐܬܒܪܟܬ ʾetbarkat</td>
-<td style="text-align: left;">she was bless</td>
-<td style="text-align: left;">ed</td>
+<tr class="even">
+<td style="text-align: left;">3 f.sg.</td>
+<td style="text-align: left;">ܐܬܒܪܟܬ</td>
+<td style="text-align: left;"><em>ʾetbarrkat</em></td>
+<td style="text-align: left;">she was blessed</td>
 </tr>
-<tr>
-<td>2msg</td>
-<td style="text-align: right;">ܐܬܒܪܟܬ ʾetbarkart</td>
-<td style="text-align: left;">you (m.sg.) w</td>
-<td style="text-align: left;">ere blessed</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.sg.</td>
+<td style="text-align: left;">ܐܬܒܪܟܬ</td>
+<td style="text-align: left;"><em>ʾetbarrakt</em></td>
+<td style="text-align: left;">you (m.sg.) were blessed</td>
 </tr>
-<tr>
-<td>1sg</td>
-<td style="text-align: right;">ܐܬܒܪܟܬ ʾetbarkaret</td>
+<tr class="even">
+<td style="text-align: left;">1 c.sg.</td>
+<td style="text-align: left;">ܐܬܒܪܟܬ</td>
+<td style="text-align: left;"><em>ʾetbarrket</em></td>
 <td style="text-align: left;">I was blessed</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
-<td>3mpl</td>
-<td style="text-align: right;">ܐܬܒܪܟܘ ʾetbarkaw</td>
-<td style="text-align: left;">they were ble</td>
-<td style="text-align: left;">ssed</td>
+<tr class="odd">
+<td style="text-align: left;">3 m.pl.</td>
+<td style="text-align: left;">ܐܬܒܪܟܘ</td>
+<td style="text-align: left;"><em>ʾetbarrakū</em></td>
+<td style="text-align: left;">they (m.) were blessed</td>
 </tr>
-<tr>
-<td>1pl</td>
-<td style="text-align: right;">ܐܬܒܪܟܢ ʾetbarkan</td>
-<td style="text-align: left;">we were bless</td>
-<td style="text-align: left;">ed</td>
+<tr class="even">
+<td style="text-align: left;">1 c.pl.</td>
+<td style="text-align: left;">ܐܬܒܪܟܢ</td>
+<td style="text-align: left;"><em>ʾetbarrakn</em></td>
+<td style="text-align: left;">we were blessed</td>
 </tr>
 </tbody>
 </table></div>
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 9</text></name><questiontext format="html"><text><![CDATA[Which stem is the passive of the Aphel?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Ettaphal (<i>ʾettaqam</i>, 'he was raised')]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ethpeel]]></text><feedback format="html"><text><![CDATA[That is the passive of the Peal.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Etpaael]]></text><feedback format="html"><text><![CDATA[That is the passive of the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael]]></text><feedback format="html"><text><![CDATA[The Paael is active.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 9</text></name><questiontext format="html"><text><![CDATA[Which stem is the passive of the Aphel?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Ettaphal (<i>ʾettaqrab</i>, 'he was offered')]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ethpeel]]></text><feedback format="html"><text><![CDATA[That is the passive of the Peal.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Etpaael]]></text><feedback format="html"><text><![CDATA[That is the passive of the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael]]></text><feedback format="html"><text><![CDATA[The Paael is active.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 5: The Passive Participle (Peal)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: The Passive Participle (Peal)</h3>
 <p><strong>5.1 Form and Usage</strong></p>
 <p>Distinct from the Ethpeel, the <strong>Peal passive
 participle</strong> is a simple adjectival form expressing a
-<strong>completed passive state</strong>: ‘written’ (ktīb), ‘killed’
-(qṭīl), ‘bound’ (ʾsīr). Its pattern is <strong>CāCoC</strong> or in
-vocalized manuscripts <strong>CCīC</strong>. It agrees in gender and
-number with its noun, like any adjective. It is often used in
-<strong>verbless clauses</strong> with a predicative function: <em>gawrā
-qṭīlā</em> ܓܒܪܐ ܩܛܝܠܐ = ‘the man is killed / the killed man’.</p>
-<p>Students of Arabic will recognise the <strong>passive participle (ism
-al-mafʿūl)</strong>: مَقْتُول maqṭūl ‘killed’, مَكْتُوب maktūb ‘written’. The
-Hebrew equivalent is <strong>qāṭūl</strong>: קָטוּל. The pattern is
-strikingly consistent across Semitic languages.</p>
+<strong>completed passive state</strong>: “written” (<em>ktīb</em>),
+“killed” (<em>qṭīl</em>), “bound” (<em>ʾasīr</em>). Its pattern is
+<strong>CCīC</strong>. It agrees in gender and number with its noun,
+like any adjective. It is often used in <strong>verbless
+clauses</strong> with a predicative function: <em>gabrā qṭīl</em> ܓܒܪܐ
+ܩܛܝܠ = “the man is killed” (or emphatic <em>gabrā qṭīlā</em> ܓܒܪܐ ܩܛܝܠܐ
+= “the slain man”).</p>
+<p>Students of Arabic will recognise the <strong>passive participle
+(<em>ism al-mafʿūl</em>)</strong>: مَقْتُول <em>maqṭūl</em> “killed”, مَكْتُوب
+<em>maktūb</em> “written”. The Hebrew equivalent is
+<strong>qāṭūl</strong>: קָטוּל <em>qāṭūl</em>, כָּתוּב <em>kātūb</em>.</p>
 <p><strong>5.2 Passive Participles — Ten Key Verbs</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table style="width:100%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 22%" />
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 29%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Root</strong></th>
-<th style="text-align: right;"><strong>Estrangela (m.sg.)</strong></th>
+<th style="text-align: left;"><strong>Estrangela (m.sg.)</strong></th>
 <th style="text-align: left;"><strong>Translit. (m.sg.)</strong></th>
-<th style="text-align: left;"><strong>Estrangela (f.sg.)</strong></th>
+<th style="text-align: left;"><strong>Estrangela (f.sg.
+emph.)</strong></th>
+<th style="text-align: left;"><strong>Translit. (f.sg.
+emph.)</strong></th>
 <th style="text-align: left;"><strong>English Meaning</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>k-t-b</em></td>
-<td style="text-align: right;">ܟܬܝܒ <em>ktīb</em></td>
-<td style="text-align: left;">*ܟܬܝܒܬܐ</td>
-<td style="text-align: left;">written ktībtā*</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܟܬܝܒ</td>
+<td style="text-align: left;"><em>ktīb</em></td>
+<td style="text-align: left;">ܟܬܝܒܬܐ</td>
+<td style="text-align: left;"><em>ktībtā</em></td>
+<td style="text-align: left;">written</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>q-ṭ-l</em></td>
-<td style="text-align: right;">ܩܛܝܠ <em>qṭīl</em></td>
-<td style="text-align: left;">*ܩܛܝܠܬܐ</td>
-<td style="text-align: left;">killed, slain qṭīltā*</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܩܛܝܠ</td>
+<td style="text-align: left;"><em>qṭīl</em></td>
+<td style="text-align: left;">ܩܛܝܠܬܐ</td>
+<td style="text-align: left;"><em>qṭīltā</em></td>
+<td style="text-align: left;">killed, slain</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʾ-s-r</em></td>
-<td style="text-align: right;">ܐܣܝܪ <em>ʾsīr</em></td>
-<td style="text-align: left;">*ܐܣܝܪܬܐ</td>
-<td style="text-align: left;">bound, impris ʾsīrtā*</td>
-<td style="text-align: left;">oned</td>
+<td style="text-align: left;">ܐܣܝܪ</td>
+<td style="text-align: left;"><em>ʾasīr</em></td>
+<td style="text-align: left;">ܐܣܝܪܬܐ</td>
+<td style="text-align: left;"><em>ʾasīrtā</em></td>
+<td style="text-align: left;">bound, imprisoned</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>š-r-y</em></td>
-<td style="text-align: right;">ܫܪܐ <em>šrī</em></td>
-<td style="text-align: left;"><em>ܫܪܐ šrīyā</em></td>
-<td style="text-align: left;">loosed, relea</td>
-<td style="text-align: left;">sed</td>
+<td style="text-align: left;">ܫܪܐ</td>
+<td style="text-align: left;"><em>šrē</em></td>
+<td style="text-align: left;">ܫܪܝܬܐ</td>
+<td style="text-align: left;"><em>šrītā</em></td>
+<td style="text-align: left;">loosed, released (abs. f.sg. ܫܪܝܐ
+<em>šaryā</em>)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>š-d-r</em></td>
-<td style="text-align: right;">ܫܕܝܪ <em>šdīr</em></td>
-<td style="text-align: left;">*ܫܕܝܪܬܐ</td>
-<td style="text-align: left;">sent šdīrtā*</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܫܕܝܪ</td>
+<td style="text-align: left;"><em>šdīr</em></td>
+<td style="text-align: left;">ܫܕܝܪܬܐ</td>
+<td style="text-align: left;"><em>šdīrtā</em></td>
+<td style="text-align: left;">sent</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>p-q-d</em></td>
-<td style="text-align: right;">ܦܩܝܕ <em>pqīd</em></td>
-<td style="text-align: left;">*ܦܩܝܕܬܐ</td>
-<td style="text-align: left;">commanded; co pqīdtā*</td>
-<td style="text-align: left;">mmandment (noun)</td>
+<td style="text-align: left;">ܦܩܝܕ</td>
+<td style="text-align: left;"><em>pqīd</em></td>
+<td style="text-align: left;">ܦܩܝܕܬܐ</td>
+<td style="text-align: left;"><em>pqīdtā</em></td>
+<td style="text-align: left;">commanded, appointed</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʿ-m-d</em></td>
-<td style="text-align: right;">ܥܡܝܕ <em>ʿmīd</em></td>
-<td style="text-align: left;">*ܥܡܝܕܬܐ</td>
-<td style="text-align: left;">baptized (lit ʿmīdtā*</td>
-<td style="text-align: left;">. ‘dipped’)</td>
+<td style="text-align: left;">ܥܡܝܕ</td>
+<td style="text-align: left;"><em>ʿmīd</em></td>
+<td style="text-align: left;">ܥܡܝܕܬܐ</td>
+<td style="text-align: left;"><em>ʿmīdtā</em></td>
+<td style="text-align: left;">baptized (lit. “dipped”)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ṣ-l-b</em></td>
-<td style="text-align: right;">ܨܠܝܒ <em>ṣlīb</em></td>
-<td style="text-align: left;">*ܨܠܝܒܬܐ</td>
-<td style="text-align: left;">crucified; al ṣlībtā*</td>
-<td style="text-align: left;">so: the cross</td>
+<td style="text-align: left;">ܨܠܝܒ</td>
+<td style="text-align: left;"><em>ṣlīb</em></td>
+<td style="text-align: left;">ܨܠܝܒܬܐ</td>
+<td style="text-align: left;"><em>ṣlībtā</em></td>
+<td style="text-align: left;">crucified</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>q-b-r</em></td>
-<td style="text-align: right;">ܩܒܝܪ <em>qbīr</em></td>
-<td style="text-align: left;">*ܩܒܝܪܬܐ</td>
-<td style="text-align: left;">buried qbīrtā*</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܩܒܝܪ</td>
+<td style="text-align: left;"><em>qbīr</em></td>
+<td style="text-align: left;">ܩܒܝܪܬܐ</td>
+<td style="text-align: left;"><em>qbīrtā</em></td>
+<td style="text-align: left;">buried</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>b-r-k</em></td>
-<td style="text-align: right;">ܒܪܝܟ <em>brīk</em></td>
-<td style="text-align: left;">*ܒܪܝܟܬܐ</td>
-<td style="text-align: left;">blessed (adj. brīktā*</td>
-<td style="text-align: left;">)</td>
+<td style="text-align: left;">ܒܪܝܟ</td>
+<td style="text-align: left;"><em>brīk</em></td>
+<td style="text-align: left;">ܒܪܝܟܬܐ</td>
+<td style="text-align: left;"><em>brīktā</em></td>
+<td style="text-align: left;">blessed</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>5.3 Passive Participle in Verbless Clauses</strong></p>
-<p>Examples of the passive participle used predicatively in verbless
-clauses:</p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
 <col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 19%" />
-<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Word Gloss</strong></th>
 <th style="text-align: left;"><strong>English</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: right;">ܓܒܪܐ * ܩܛܝܠܐ</td>
-<td style="text-align: left;">gawrā qṭīlā* m killed.m.sg</td>
-<td style="text-align: left;">an.the T</td>
-<td style="text-align: left;">he man is killed.</td>
+<tr class="odd">
+<td style="text-align: left;">ܓܒܪܐ ܩܛܝܠ</td>
+<td style="text-align: left;"><em>gabrā qṭīl</em></td>
+<td style="text-align: left;">the-man killed (m.sg.)</td>
+<td style="text-align: left;">The man is killed.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܝܘܚܢܢ * ܐܣܝܪ</td>
-<td style="text-align: left;">Yūḥannan ʾsīr* Yu</td>
-<td style="text-align: left;">khannan bound Yu</td>
-<td style="text-align: left;">khannan is bound.</td>
+<tr class="even">
+<td style="text-align: left;">ܝܘܚܢܢ ܐܣܝܪ</td>
+<td style="text-align: left;"><em>Yūḥannan ʾasīr</em></td>
+<td style="text-align: left;">Yukhannan bound</td>
+<td style="text-align: left;">Yukhannan is bound.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܟܬܒܐ ܟܬܝܒ * ܒܩܘܫܬܐ</td>
-<td style="text-align: left;">ketābā ktīb b-qūštā* b written</td>
-<td style="text-align: left;">ook.the T in truth. in-truth</td>
-<td style="text-align: left;">he book is written</td>
+<tr class="odd">
+<td style="text-align: left;">ܟܬܒܐ ܟܬܝܒ ܒܩܘܫܬܐ</td>
+<td style="text-align: left;"><em>ktābā ktīb b-qūštā</em></td>
+<td style="text-align: left;">the-book written in-truth</td>
+<td style="text-align: left;">The book is written in truth.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܡܫܝܚܐ ܒܪܝܟ * ܠܥܠܡ</td>
-<td style="text-align: left;">Mšīḥā brīk l-ʿālam* M blessed fore</td>
-<td style="text-align: left;">essiah.the T ver blessed fore</td>
-<td style="text-align: left;">he Messiah is ver.</td>
+<tr class="even">
+<td style="text-align: left;">ܡܫܝܚܐ ܒܪܝܟ ܠܥܠܡ</td>
+<td style="text-align: left;"><em>Mšīḥā brīk l-ʿālam</em></td>
+<td style="text-align: left;">the-Messiah blessed forever</td>
+<td style="text-align: left;">The Messiah is blessed forever.</td>
 </tr>
 </tbody>
 </table></div>
@@ -603,217 +645,230 @@ clauses:</p>
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 10</text></name><questiontext format="html"><text><![CDATA[What is the Peal passive participle pattern?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>CCīC</i>: <i>brīk</i> 'blessed', <i>qṭīl</i> 'killed']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>CāCeC</i>: <i>qāṭel</i>]]></text><feedback format="html"><text><![CDATA[That is the active participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>meCCaC</i>: <i>meqṭal</i>]]></text><feedback format="html"><text><![CDATA[That is the infinitive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>metCCeC</i>: <i>metqṭel</i>]]></text><feedback format="html"><text><![CDATA[That is the Ethpeel participle.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 6: Vocabulary — 30 Words (Passive Focus)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary — 30 Words (Passive Focus)</h3>
-<p>These 30 words are central to Lesson 10 and to Syriac Christian
-literature generally. Each entry includes the basic (Peal) root, an
-Et-stem form where relevant, and the English meaning. Many are important
-theological terms.</p>
-<div class="tablewrap"><table style="width:98%;">
+<p>These words are central to Lesson 10 and to Syriac Christian
+literature generally. Each entry includes the basic (Peal or derived)
+form, its Et-stem counterpart, and the English meaning.</p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 23%" />
 <col style="width: 25%" />
-<col style="width: 36%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Root</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>English</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʿ-m-d</em></td>
-<td style="text-align: right;">ܥܡܕ / * ܐܬܥܡܕ</td>
-<td style="text-align: left;">ʿmad / ʾetʿmed* b immerse)</td>
-<td style="text-align: left;">aptize / to be baptized (dip,</td>
+<td style="text-align: left;">ܥܡܕ / ܐܬܥܡܕ</td>
+<td style="text-align: left;"><em>ʿmad</em> / <em>ʾetʿmed</em></td>
+<td style="text-align: left;">be baptized, dip / to be baptized</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>g-l-y</em></td>
-<td style="text-align: right;">ܓܠܐ / * ܐܬܓܠܝ</td>
-<td style="text-align: left;">glā / ʾetglī* r appear</td>
-<td style="text-align: left;">eveal / to be revealed,</td>
+<td style="text-align: left;">ܓܠܐ / ܐܬܓܠܝ</td>
+<td style="text-align: left;"><em>glā</em> / <em>ʾetglī</em></td>
+<td style="text-align: left;">reveal / to be revealed, appear</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>ḥ-y-y / Aph.</em></td>
-<td style="text-align: right;">ܐܚܝ / * ܐܬܚܝܝ</td>
-<td style="text-align: left;">ʾaḥyī / ʾetḥayyī* s</td>
-<td style="text-align: left;">ave, give life / to be saved</td>
+<tr class="odd">
+<td style="text-align: left;"><em>ḥ-y-y</em></td>
+<td style="text-align: left;">ܐܚܝ / ܐܬܚܝܝ</td>
+<td style="text-align: left;"><em>ʾaḥī</em> / <em>ʾetḥayyī</em></td>
+<td style="text-align: left;">save, give life (Aphel) / to be preserved
+alive (Etpaael)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>q-ṭ-l</em></td>
-<td style="text-align: right;">ܩܛܠ / * ܐܬܩܛܠ</td>
-<td style="text-align: left;">qṭal / ʾetqṭel* k</td>
-<td style="text-align: left;">ill / to be killed</td>
+<td style="text-align: left;">ܩܛܠ / ܐܬܩܛܠ</td>
+<td style="text-align: left;"><em>qṭal</em> / <em>ʾetqṭel</em></td>
+<td style="text-align: left;">kill / to be killed</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʾ-s-r</em></td>
-<td style="text-align: right;">ܐܣܪ / * ܐܬܐܣܪ</td>
-<td style="text-align: left;">ʾasar / ʾetʾeser* b</td>
-<td style="text-align: left;">ind / to be bound</td>
+<td style="text-align: left;">ܐܣܪ / ܐܬܐܣܪ</td>
+<td style="text-align: left;"><em>ʾesar</em> / <em>ʾetʾsar</em></td>
+<td style="text-align: left;">bind / to be bound</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>š-r-y</em></td>
-<td style="text-align: right;">ܫܪܐ / * ܐܬܫܪܝ</td>
-<td style="text-align: left;">šrā / ʾetšrī* l released</td>
-<td style="text-align: left;">oosen / to be loosed,</td>
+<td style="text-align: left;">ܫܪܐ / ܐܬܫܪܝ</td>
+<td style="text-align: left;"><em>šrā</em> / <em>ʾetšrī</em></td>
+<td style="text-align: left;">loosen / to be loosed, released</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>š-d-r</em></td>
-<td style="text-align: right;">ܫܕܪ / * ܐܫܬܕܪ</td>
-<td style="text-align: left;">šaddar / ʾeštaddar*</td>
-<td style="text-align: left;">send / to be sent (Etpaael)</td>
+<td style="text-align: left;">ܫܕܪ / ܐܫܬܕܪ</td>
+<td style="text-align: left;"><em>šaddar</em> / <em>ʾeštaddar</em></td>
+<td style="text-align: left;">send (Paael) / to be sent (Etpaael)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ʾ-s-y</em></td>
-<td style="text-align: right;">ܐܣܐ / * ܐܬܐܣܝ</td>
-<td style="text-align: left;">ʾasī / ʾetʾasī* h</td>
-<td style="text-align: left;">eal / to be healed</td>
+<td style="text-align: left;">ܐܣܝ / ܐܬܐܣܝ</td>
+<td style="text-align: left;"><em>ʾassī</em> / <em>ʾetʾassī</em></td>
+<td style="text-align: left;">heal (Paael) / to be healed (Etpaael)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>q-w-m / Aph.</em></td>
-<td style="text-align: right;">ܐܩܝܡ / * ܐܬܬܩܡ</td>
-<td style="text-align: left;">ʾaqīm / ʾettaqam* r (Ettaphal)</td>
-<td style="text-align: left;">aise up / to be raised</td>
+<tr class="odd">
+<td style="text-align: left;"><em>q-w-m</em></td>
+<td style="text-align: left;">ܐܩܝܡ / ܐܬܩܝܡ</td>
+<td style="text-align: left;"><em>ʾaqīm</em> / <em>ʾetqīm</em></td>
+<td style="text-align: left;">raise up (Aphel) / to be raised,
+established (Ethpeel)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>k-n-š</em></td>
-<td style="text-align: right;">ܟܢܫ / * ܐܬܟܢܫ</td>
-<td style="text-align: left;">knaš / ʾetkneš* g</td>
-<td style="text-align: left;">ather / to be gathered</td>
+<td style="text-align: left;">ܟܢܫ / ܐܬܟܢܫ</td>
+<td style="text-align: left;"><em>knaš</em> / <em>ʾetkneš</em></td>
+<td style="text-align: left;">gather / to be gathered</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>d-k-y</em></td>
-<td style="text-align: right;">ܕܟܐ / * ܐܬܕܟܝ</td>
-<td style="text-align: left;">dkā / ʾetdkī* p</td>
-<td style="text-align: left;">urify / to be purified</td>
+<td style="text-align: left;">ܕܟܝ / ܐܬܕܟܝ</td>
+<td style="text-align: left;"><em>dakkī</em> / <em>ʾetdakkī</em></td>
+<td style="text-align: left;">purify (Paael) / to be purified
+(Etpaael)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>š-b-q</em></td>
-<td style="text-align: right;">ܫܒܩ / * ܐܬܫܒܩ</td>
-<td style="text-align: left;">šbaq / ʾetšbaq* f forgiven</td>
-<td style="text-align: left;">orgive, leave / to be</td>
+<td style="text-align: left;">ܫܒܩ / ܐܫܬܒܩ</td>
+<td style="text-align: left;"><em>šbaq</em> / <em>ʾeštbaq</em></td>
+<td style="text-align: left;">forgive, leave / to be forgiven</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>b-r-k</em></td>
-<td style="text-align: right;">ܒܪܟ / * ܐܬܒܪܟ</td>
-<td style="text-align: left;">barrek / ʾetbarrak* b (Etpaael)</td>
-<td style="text-align: left;">less (Paael) / to be blessed</td>
+<td style="text-align: left;">ܒܪܟ / ܐܬܒܪܟ</td>
+<td style="text-align: left;"><em>barrek</em> / <em>ʾetbarrak</em></td>
+<td style="text-align: left;">bless (Paael) / to be blessed
+(Etpaael)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>y-l-p</em></td>
-<td style="text-align: right;">ܝܠܦ / * ܐܬܝܠܦ</td>
-<td style="text-align: left;">yallep / ʾetyallap* t (Etpaael)</td>
-<td style="text-align: left;">each (Paael) / to be taught</td>
+<tr class="even">
+<td style="text-align: left;"><em>ʾ-l-p</em> (<em>y-l-p</em>)</td>
+<td style="text-align: left;">ܐܠܦ / ܐܬܐܠܦ</td>
+<td style="text-align: left;"><em>ʾallep</em> / <em>ʾetallap</em></td>
+<td style="text-align: left;">teach (Paael) / to be taught
+(Etpaael)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>m-š-ḥ</em></td>
-<td style="text-align: right;">ܡܫܚ / * ܐܬܡܫܚ</td>
-<td style="text-align: left;">mšaḥ / ʾetmšaḥ* a</td>
-<td style="text-align: left;">noint / to be anointed</td>
+<td style="text-align: left;">ܡܫܚ / ܐܬܡܫܚ</td>
+<td style="text-align: left;"><em>mšaḥ</em> / <em>ʾetmšaḥ</em></td>
+<td style="text-align: left;">anoint / to be anointed</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ṣ-l-b</em></td>
-<td style="text-align: right;">ܨܠܒ / * ܐܬܨܠܒ</td>
-<td style="text-align: left;">ṣlab / ʾetṣlab* c</td>
-<td style="text-align: left;">rucify / to be crucified</td>
+<td style="text-align: left;">ܨܠܒ / ܐܨܛܠܒ</td>
+<td style="text-align: left;"><em>ṣlab</em> / <em>ʾeṣṭleb</em></td>
+<td style="text-align: left;">crucify / to be crucified</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>q-b-r</em></td>
-<td style="text-align: right;">ܩܒܪ / * ܐܬܩܒܪ</td>
-<td style="text-align: left;">qbar / ʾetqbar* b</td>
-<td style="text-align: left;">ury / to be buried</td>
+<td style="text-align: left;">ܩܒܪ / ܐܬܩܒܪ</td>
+<td style="text-align: left;"><em>qbar</em> / <em>ʾetqbar</em></td>
+<td style="text-align: left;">bury / to be buried</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>d-w-n / Aph.</em></td>
-<td style="text-align: right;">ܐܕܝܢ / * ܐܬܕܝܢ</td>
-<td style="text-align: left;">ʾaddīn / ʾettaddīn* j (Ettaphal)</td>
-<td style="text-align: left;">udge / to be judged</td>
+<tr class="even">
+<td style="text-align: left;"><em>d-w-n</em></td>
+<td style="text-align: left;">ܕܢ / ܐܬܕܝܢ</td>
+<td style="text-align: left;"><em>dān</em> / <em>ʾetdīn</em></td>
+<td style="text-align: left;">judge (Peal) / to be judged (Ethpeel)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ḥ-y-b</em></td>
-<td style="text-align: right;">ܚܝܒ / * ܐܬܚܝܒ</td>
-<td style="text-align: left;">ḥayyeb / ʾetḥayyab* c condemned</td>
-<td style="text-align: left;">ondemn, make guilty / to be</td>
+<td style="text-align: left;">ܚܝܒ / ܐܬܚܝܒ</td>
+<td style="text-align: left;"><em>ḥayyeb</em> / <em>ʾetḥayyab</em></td>
+<td style="text-align: left;">condemn, make guilty / to be
+condemned</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>p-r-q</em></td>
-<td style="text-align: right;">ܦܪܩ / * ܐܬܦܪܩ</td>
-<td style="text-align: left;">praq / ʾetpraq* r</td>
-<td style="text-align: left;">edeem, save / to be redeemed</td>
+<td style="text-align: left;">ܦܪܩ / ܐܬܦܪܩ</td>
+<td style="text-align: left;"><em>praq</em> / <em>ʾetpreq</em></td>
+<td style="text-align: left;">redeem, save / to be redeemed</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>k-l-l</em></td>
-<td style="text-align: right;">ܟܠܠ / * ܐܬܟܠܠ</td>
-<td style="text-align: left;">kallel / ʾetkallal* c</td>
-<td style="text-align: left;">rown / to be crowned</td>
+<td style="text-align: left;">ܟܠܠ / ܐܬܟܠܠ</td>
+<td style="text-align: left;"><em>kallel</em> / <em>ʾetkallal</em></td>
+<td style="text-align: left;">crown (Paael) / to be crowned
+(Etpaael)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>r-w-m / Aph.</em></td>
-<td style="text-align: right;">ܐܪܝܡ / * ܐܬܪܝܡ</td>
-<td style="text-align: left;">ʾarīm / ʾetrīm* e</td>
-<td style="text-align: left;">xalt / to be exalted</td>
+<tr class="even">
+<td style="text-align: left;"><em>r-w-m</em></td>
+<td style="text-align: left;">ܐܪܝܡ / ܐܬܪܝܡ</td>
+<td style="text-align: left;"><em>ʾarīm</em> / <em>ʾetrīm</em></td>
+<td style="text-align: left;">exalt (Aphel) / to be exalted
+(Ethpeel)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>š-p-l</em></td>
-<td style="text-align: right;">ܫܦܠ / * ܐܬܫܦܠ</td>
-<td style="text-align: left;">špel / ʾetšpal* h</td>
-<td style="text-align: left;">umiliate / to be humbled</td>
+<tr class="odd">
+<td style="text-align: left;"><em>m-k-k</em></td>
+<td style="text-align: left;">ܡܟܟ / ܐܬܡܟܟ</td>
+<td style="text-align: left;"><em>makkek</em> / <em>ʾetmakkak</em></td>
+<td style="text-align: left;">humble (Paael) / to be humbled
+(Etpaael)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>t-r-d</em></td>
-<td style="text-align: right;">ܬܪܕ / * ܐܬܬܪܕ</td>
-<td style="text-align: left;">trad / ʾettrad* c out</td>
-<td style="text-align: left;">ast out, expel / to be cast</td>
+<tr class="even">
+<td style="text-align: left;"><em>ṭ-r-d</em></td>
+<td style="text-align: left;">ܛܪܕ / ܐܬܛܪܕ</td>
+<td style="text-align: left;"><em>ṭrad</em> / <em>ʾeṭṭred</em></td>
+<td style="text-align: left;">cast out, expel / to be cast out</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>ʾ-w-d / Aph.</em></td>
-<td style="text-align: right;">ܐܘܕܝ <em>ʾawdī</em></td>
-<td style="text-align: left;">confess, give</td>
-<td style="text-align: left;">thanks (Aphel)</td>
+<tr class="odd">
+<td style="text-align: left;"><em>y-d-y</em></td>
+<td style="text-align: left;">ܐܘܕܝ / ܐܬܬܘܕܝ</td>
+<td style="text-align: left;"><em>ʾawdī</em> / <em>ʾettawdī</em></td>
+<td style="text-align: left;">confess, give thanks (Aphel) / to be
+confessed (Ettaphal)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>t-w-b</em></td>
-<td style="text-align: right;">ܬܒ / * ܬܝܒ</td>
-<td style="text-align: left;">tāb / tāyib* r (participle)</td>
-<td style="text-align: left;">eturn, repent; repentant</td>
+<td style="text-align: left;">ܬܒ / ܬܐܒ</td>
+<td style="text-align: left;"><em>tāb</em> / <em>tāyeb</em></td>
+<td style="text-align: left;">return, repent (Peal perf. / ptcp.)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>y-l-d</em></td>
-<td style="text-align: right;">ܝܠܕ / * ܐܬܝܠܕ</td>
-<td style="text-align: left;">yled / ʾetyled* g (Ethpeel)</td>
-<td style="text-align: left;">ive birth / to be born</td>
+<td style="text-align: left;">ܝܠܕ / ܐܬܝܠܕ</td>
+<td style="text-align: left;"><em>īled</em> / <em>ʾetyled</em></td>
+<td style="text-align: left;">give birth / to be born (Ethpeel)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>n-h-r / Aph.</em></td>
-<td style="text-align: right;">ܐܢܗܪ / * ܐܬܢܗܪ</td>
-<td style="text-align: left;">nahhar / ʾetnahhar* enlightened</td>
-<td style="text-align: left;">illuminate / to be illumined,</td>
+<tr class="even">
+<td style="text-align: left;"><em>n-h-r</em></td>
+<td style="text-align: left;">ܐܢܗܪ / ܐܬܢܗܪ</td>
+<td style="text-align: left;"><em>ʾanhar</em> / <em>ʾetnahhar</em></td>
+<td style="text-align: left;">illuminate (Aphel/Paael) / to be illumined
+(Etpaael)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>m-l-y</em></td>
-<td style="text-align: right;">ܡܠܐ / * ܐܬܡܠܝ</td>
-<td style="text-align: left;">mlā / ʾetmlī* f</td>
-<td style="text-align: left;">ill / to be filled</td>
+<td style="text-align: left;">ܡܠܐ / ܐܬܡܠܝ</td>
+<td style="text-align: left;"><em>mlā</em> / <em>ʾetmlī</em></td>
+<td style="text-align: left;">fill / to be filled</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>p-r-š / Aph.</em></td>
-<td style="text-align: right;">ܐܦܪܫ / * ܐܬܦܪܫ</td>
-<td style="text-align: left;">ʾaprash / ʾetpreš* s separated</td>
-<td style="text-align: left;">eparate, distinguish / to be</td>
+<tr class="even">
+<td style="text-align: left;"><em>p-r-š</em></td>
+<td style="text-align: left;">ܦܪܫ / ܐܬܦܪܫ</td>
+<td style="text-align: left;"><em>praš</em> / <em>ʾetpreš</em></td>
+<td style="text-align: left;">separate, distinguish / to be
+separated</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʾ-ḥ-d</em></td>
-<td style="text-align: right;">ܐܚܕ / * ܐܬܐܚܕ</td>
-<td style="text-align: left;">ʾaḥad / ʾetʾaḥed*</td>
-<td style="text-align: left;">unite / to be united</td>
+<td style="text-align: left;">ܐܚܕ / ܐܬܐܚܕ</td>
+<td style="text-align: left;"><em>ʾeḥad</em> / <em>ʾetʾḥed</em></td>
+<td style="text-align: left;">seize, hold, shut / to be seized,
+shut</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ḥ-l-m</em></td>
-<td style="text-align: right;">ܚܠܡ / * ܐܬܚܠܡ</td>
-<td style="text-align: left;">ḥelam / ʾetḥelam*</td>
-<td style="text-align: left;">dream / to be dreamed</td>
+<td style="text-align: left;">ܚܠܡ / ܐܬܚܠܡ</td>
+<td style="text-align: left;"><em>ḥlam</em> / <em>ʾetḥlam</em></td>
+<td style="text-align: left;">heal, be sound / to be healed,
+recover</td>
 </tr>
 </tbody>
 </table></div>
@@ -822,7 +877,7 @@ theological terms.</p>
 <p><strong>Additional words</strong></p>
 <div class="tablewrap"><table>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;">Syriac (Estrangela)</th>
 <th style="text-align: left;">Transliteration</th>
 <th style="text-align: left;">Part of Speech</th>
@@ -830,35 +885,36 @@ theological terms.</p>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">ܡܕܥܐ</td>
-<td style="text-align: left;">maddʿā</td>
+<td style="text-align: left;"><em>maddʿā</em></td>
 <td style="text-align: left;">m. noun</td>
-<td style="text-align: left;">knowledge, mind (root y-d-ʿ)</td>
+<td style="text-align: left;">knowledge, mind (root <em>y-d-ʿ</em>)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">ܐܪܡܠܘܬܐ</td>
-<td style="text-align: left;">ʾarmlūtā</td>
+<td style="text-align: left;"><em>ʾarmlūtā</em></td>
 <td style="text-align: left;">f. noun</td>
 <td style="text-align: left;">widowhood</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">ܥܣܒܐ</td>
-<td style="text-align: left;">ʿesbā</td>
+<td style="text-align: left;"><em>ʿesbā</em></td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">grass, herb</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">ܐܫܦܠ</td>
-<td style="text-align: left;">ʾašpel</td>
+<td style="text-align: left;"><em>ʾašpel</em></td>
 <td style="text-align: left;">verb (Aphel)</td>
-<td style="text-align: left;">to humble, bring low (root š-p-l)</td>
+<td style="text-align: left;">to humble, bring low (root
+<em>š-p-l</em>)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">ܚܛܝܬܐ</td>
-<td style="text-align: left;">ḥṭīttā</td>
+<td style="text-align: left;"><em>ḥṭītā</em></td>
 <td style="text-align: left;">f. noun</td>
-<td style="text-align: left;">sin (root ḥ-ṭ-y)</td>
+<td style="text-align: left;">sin (root <em>ḥ-ṭ-y</em>)</td>
 </tr>
 </tbody>
 </table></div>
@@ -869,140 +925,79 @@ theological terms.</p>
 <p>The narrative continues from Lesson 9. Yukhannan has been bound and
 dragged to the furnace. Now the passive voice dominates the story:
 things happen <em>to</em> Yukhannan — he is thrown, he is saved, the
-miracle is revealed to the city. The story showcases Ethpeel, Ettaphal,
+miracle is revealed to the city. The story showcases Ethpeel, Etpaael,
 and passive participle forms throughout.</p>
-<p><strong>Full Syriac Text with Interlinear Gloss:</strong></p>
-<div class="tablewrap"><table style="width:98%;">
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 24%" />
-<col style="width: 25%" />
-<col style="width: 21%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
-<th style="text-align: left;"><strong>Transliteration</strong></th>
-<th style="text-align: left;"><strong>Word Gloss</strong></th>
-<th style="text-align: left;"><strong>English</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: right;">ܘܐܬܪܡܝ ܝܘܚܢܢ <em> ܒܐܬܘܢܐ
-b-ʾattūnā</em></td>
-<td style="text-align: left;">w-ʾetremy Yūḥannan an Yukhannan in</td>
-<td style="text-align: left;">d-was.thrown An to-furnace thrown
-into</td>
-<td style="text-align: left;">d Yukhannan was the furnace.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܢܘܪܐ ܠܐ ܩܪܒܬ <em> ܠܗ leh</em></td>
-<td style="text-align: left;">w-nūrā lā qrebet a it.approache</td>
-<td style="text-align: left;">nd-fire.the not B d to.him not
-approach</td>
-<td style="text-align: left;">ut the fire did him.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܝܟ ܕܐܬܥܒܕ ܥܡ ܚܢܢܝܐ * ܘܚܒܪ̈ܘܗܝ Ḥananyā
-w-ḥa</td>
-<td style="text-align: left;">ʾayk d-ʾetʿbed ʿam a brāw(hy)*
-Hananiah</td>
-<td style="text-align: left;">s that-was.done with J with Hanania
-and-companions-his</td>
-<td style="text-align: left;">ust as it was done h and his
-companions.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܬܚܙܝ ܓܝܪ ܓܒܪܐ ܕܢܘܪ * ܒܓܘ ܐܬܘܢܐ d-nūr
-b-gaw</td>
-<td style="text-align: left;">ʾetḥzī gēr gabrā w ʾattūnā* of.fire
-in-m</td>
-<td style="text-align: left;">as.seen for man F idst was seen in
-furnace.the</td>
-<td style="text-align: left;">or a man of fire the midst of the
-furnace.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܝܘܚܢܢ ܐܬܢܗܪ ܡܢ <em> ܢܘܗܪܗ men
-nūhreh</em></td>
-<td style="text-align: left;">w-Yūḥannan ʾetnahhar a was.illumine</td>
-<td style="text-align: left;">nd-Yūḥannan An d from illumined by
-light-his</td>
-<td style="text-align: left;">d Yukhannan was his light.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܟܕ ܢܦܩ ܐܬܚܙܝ ܦܪܨܘܦܗ * ܐܝܟ ܫܡܫܐ parṣūpeh
-ʾay</td>
-<td style="text-align: left;">w-kad nepaq ʾetḥzī a k šemšā* was.seen
-fac</td>
-<td style="text-align: left;">nd-when he.went.out A e-his like out, his
-fac sun</td>
-<td style="text-align: left;">nd when he came e was seen like the
-sun.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܟܠܗ ܟܢܫܐ ܐܬܟܢܫ <em> ܕܢܚܙܐ
-d-neḥzē</em></td>
-<td style="text-align: left;">kulleh kansā ʾetknaš a was.gathered</td>
-<td style="text-align: left;">ll crowd.the A to.see gathered to</td>
-<td style="text-align: left;">ll the crowd was see.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܪܒܐ ܐܬܐ ܐܬܝܕܥ ܒܟܠܗ * ܡܕܝܢܬܐ ʾetyādeʿ
-b-k</td>
-<td style="text-align: left;">w-rabbā ʾattā a ulleh was.made.kno
-mdīntā*</td>
-<td style="text-align: left;">nd-great sign A wn in-all was made kno
-city.the</td>
-<td style="text-align: left;">nd the great sign wn in all the city.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܣ̈ܓܝܐܐ ܕܚܠܘ <em> ܘܐܬܦܢܝܘ
-w-ʾetpanīw</em></td>
-<td style="text-align: left;">saggīʾē dḥelw m and-they.tur</td>
-<td style="text-align: left;">any they.feared M ned.back repented.</td>
-<td style="text-align: left;">any feared and</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܐܡܪܝܢ: ܒܪܝܟ ܗܘ ܐܠܗܐ * ܕܝܘܚܢܢ ʾAlāhā
-d-Yūḥ</td>
-<td style="text-align: left;">w-ʾāmrīn: brīk hū a annan* is God
-of-Yūḥ</td>
-<td style="text-align: left;">nd-they.say: blessed A annan ’Blessed is
-th</td>
-<td style="text-align: left;">nd they said: e God of Yukhannan!’</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܝܘܚܢܢ ܐܬܦܪܩ ܡܢ ܐܝ̈ܕܝ * ܒ̈ܥܠܕܒܒܘܗܝ men
-ʾīdī</td>
-<td style="text-align: left;">w-Yūḥannan ʾetpraq an was.redeemed
-baʿeldabbāw(hy)*</td>
-<td style="text-align: left;">d-Yūḥannan And from saved from t hands.of
-enemies-his</td>
-<td style="text-align: left;">Yukhannan was he hands of his
-enemies.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܫܘܒܚܐ ܐܬܝܗܒ <em> ܠܐܠܗܐ
-l-ʾAlāhā</em></td>
-<td style="text-align: left;">w-šubḥā ʾetyahab a to-God</td>
-<td style="text-align: left;">nd-glory was.given A to God.</td>
-<td style="text-align: left;">nd glory was given</td>
-</tr>
-</tbody>
-</table></div>
-<p><strong>Smooth English Translation:</strong></p>
-<p><em>And Yukhannan was thrown into the furnace. But the fire did not
-approach him — just as it was done with Hananiah and his companions. For
-a man of fire was seen in the midst of the furnace, and Yukhannan was
-illumined by his light. When he came out, his face was seen like the
-sun. All the crowd was gathered to see. And the great sign was made
-known in all the city. Many feared and repented. And they said: ‘Blessed
-is the God of Yukhannan!’ And Yukhannan was saved from the hands of his
-enemies, and glory was given to God.</em></p>
-]]></text></questiontext></question>
-<question type="description"><name><text>Module 3 · Lesson 10 · Section 7: The Story — Part 10 (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 10 (continued)</h3>
+<p><strong>Sentence 1</strong></p>
+<p>ܘܐܬܪܡܝ ܝܘܚܢܢ ܒܐܬܘܢܐ</p>
+<p><em>w-ʾetrmī Yūḥannan b-ʾattūnā</em></p>
+<p>w-ʾetrmī (and-was-thrown) Yūḥannan (Yukhannan) b-ʾattūnā
+(into-the-furnace)</p>
+<p><em>→ And Yukhannan was thrown into the furnace.</em></p>
+<p><strong>Sentence 2</strong></p>
+<p>ܘܢܘܪܐ ܠܐ ܩܪܒܬ ܠܗ</p>
+<p><em>w-nūrā lā qerbat leh</em></p>
+<p>w-nūrā (and-the-fire) lā (not) qerbat (approached) leh (to-him)</p>
+<p><em>→ But the fire did not approach him,</em></p>
+<p><strong>Sentence 3</strong></p>
+<p>ܐܝܟ ܕܐܬܥܒܕ ܥܡ ܚܢܢܝܐ ܘܚܒܪܘܗܝ</p>
+<p><em>ʾayk d-ʾetʿbed ʿam Ḥananyā w-ḥabrāw-hy</em></p>
+<p>ʾayk (just-as) d-ʾetʿbed (that-was-done) ʿam (with) Ḥananyā
+(Hananiah) w-ḥabrāw-hy (and-his-companions)</p>
+<p><em>→ just as it was done with Hananiah and his companions.</em></p>
+<p><strong>Sentence 4</strong></p>
+<p>ܐܬܚܙܝ ܓܝܪ ܓܒܪܐ ܕܢܘܪ ܒܓܘ ܐܬܘܢܐ</p>
+<p><em>ʾetḥzī gēr gabrā d-nūr b-gaw ʾattūnā</em></p>
+<p>ʾetḥzī (was-seen) gēr (for) gabrā (a-man) d-nūr (of-fire) b-gaw
+(in-the-midst-of) ʾattūnā (the-furnace)</p>
+<p><em>→ For a man of fire was seen in the midst of the
+furnace,</em></p>
+<p><strong>Sentence 5</strong></p>
+<p>ܘܝܘܚܢܢ ܐܬܢܗܪ ܡܢ ܢܘܗܪܗ</p>
+<p><em>w-Yūḥannan ʾetnahhar men nūhreh</em></p>
+<p>w-Yūḥannan (and-Yukhannan) ʾetnahhar (was-illumined) men (from)
+nūhreh (his-light)</p>
+<p><em>→ and Yukhannan was illumined by his light.</em></p>
+<p><strong>Sentence 6</strong></p>
+<p>ܘܟܕ ܢܦܩ ܐܬܚܙܝ ܦܪܨܘܦܗ ܐܝܟ ܫܡܫܐ</p>
+<p><em>w-kad npaq ʾetḥzī parṣōpeh ʾayk šemšā</em></p>
+<p>w-kad (and-when) npaq (he-came-out) ʾetḥzī (was-seen) parṣōpeh
+(his-face) ʾayk (like) šemšā (the-sun)</p>
+<p><em>→ And when he came out, his face was seen like the sun.</em></p>
+<p><strong>Sentence 7</strong></p>
+<p>ܟܠܗ ܟܢܫܐ ܐܬܟܢܫ ܕܢܚܙܐ</p>
+<p><em>kulleh kenšā ʾetkneš d-neḥzē</em></p>
+<p>kulleh (all-of-it) kenšā (the-crowd) ʾetkneš (was-gathered) d-neḥzē
+(that-it-might-see)</p>
+<p><em>→ All the crowd was gathered to see.</em></p>
+<p><strong>Sentence 8</strong></p>
+<p>ܘܐܬܐ ܪܒܬܐ ܐܬܝܕܥܬ ܒܟܠܗ ܡܕܝܢܬܐ</p>
+<p><em>w-ʾātā rabbtā ʾetīdʿat b-kullāh mdīttā</em></p>
+<p>w-ʾātā (and-a-sign) rabbtā (great) ʾetīdʿat (was-made-known) b-kullāh
+(in-all-of-it) mdīttā (the-city)</p>
+<p><em>→ And a great sign was made known in all the city.</em></p>
+<p><strong>Sentence 9</strong></p>
+<p>ܣܓܝܐܐ ܕܚܠܘ ܘܐܬܦܢܝܘ</p>
+<p><em>saggīʾē dḥelw w-ʾetpnīw</em></p>
+<p>saggīʾē (many) dḥelw (feared) w-ʾetpnīw
+(and-turned-back/repented)</p>
+<p><em>→ Many feared and repented.</em></p>
+<p><strong>Sentence 10</strong></p>
+<p>ܘܐܡܪܝܢ ܒܪܝܟ ܗܘ ܐܠܗܐ ܕܝܘܚܢܢ</p>
+<p><em>w-ʾāmrīn: brīk hū ʾAlāhā d-Yūḥannan</em></p>
+<p>w-ʾāmrīn (and-they-say) brīk (blessed) hū (is) ʾAlāhā (the-God)
+d-Yūḥannan (of-Yukhannan)</p>
+<p><em>→ And they said: “Blessed is the God of Yukhannan!”</em></p>
+<p><strong>Sentence 11</strong></p>
+<p>ܘܝܘܚܢܢ ܐܬܦܪܩ ܡܢ ܐܝܕܝ ܒܥܠܕܒܒܘܗܝ</p>
+<p><em>w-Yūḥannan ʾetpreq men ʾīday bʿeldbābāw-hy</em></p>
+<p>w-Yūḥannan (and-Yukhannan) ʾetpreq (was-saved/redeemed) men (from)
+ʾīday (the-hands-of) bʿeldbābāw-hy (his-enemies)</p>
+<p><em>→ And Yukhannan was saved from the hands of his enemies,</em></p>
+<p><strong>Sentence 12</strong></p>
+<p>ܘܫܘܒܚܐ ܐܬܝܗܒ ܠܐܠܗܐ</p>
+<p><em>w-šūbḥā ʾetīheb l-ʾAlāhā</em></p>
+<p>w-šūbḥā (and-glory) ʾetīheb (was-given) l-ʾAlāhā (to-God)</p>
+<p><em>→ and glory was given to God.</em></p>
 <p><strong>Biblical Allusion:</strong> The reference to
 <strong>Ḥananyā</strong> and his companions (Hananiah/Shadrach — cf. Dan
 3) is intentional. This is a common hagiographic motif in Syriac martyr
@@ -1017,109 +1012,107 @@ literature: the saint re-enacts biblical miracles.</p>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܐܬܒܪܟ (<i>ʾetbarrak</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Etpaael (passive of Paael): 'he was blessed']]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾet-</i> + doubled middle letter.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ethpeel: 'he knelt']]></text><feedback format="html"><text><![CDATA[The doubled r marks the Paael base.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael: 'he blessed']]></text><feedback format="html"><text><![CDATA[<i>ʾet-</i> makes it passive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ettaphal]]></text><feedback format="html"><text><![CDATA[That is the passive of the Aphel.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܡܬܩܛܠ (<i>metqṭel</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Ethpeel participle: 'being killed']]></text><feedback format="html"><text><![CDATA[Correct: m- + <i>et-</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Ethpeel perfect: 'he was killed']]></text><feedback format="html"><text><![CDATA[The perfect is <i>ʾetqṭel</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal infinitive: 'to kill']]></text><feedback format="html"><text><![CDATA[That is <i>meqṭal</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal passive participle: 'killed']]></text><feedback format="html"><text><![CDATA[That is <i>qṭīl</i>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܒܪܝܟ (<i>brīk</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal passive participle: 'blessed']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael perfect: 'he blessed']]></text><feedback format="html"><text><![CDATA[That is <i>barrek</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Etpaael: 'he was blessed']]></text><feedback format="html"><text><![CDATA[That is <i>ʾetbarrak</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A noun, 'blessing']]></text><feedback format="html"><text><![CDATA[The noun is <i>būrktā</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Make passive: <i>yallep rabbā tlāmīdē</i> 'the teacher taught the disciples'.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetyalpw tlāmīdē</i> — the disciples were taught]]></text><feedback format="html"><text><![CDATA[Correct: Etpaael, plural to agree with the disciples.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetyallap rabbā</i> — the teacher was taught]]></text><feedback format="html"><text><![CDATA[The object becomes the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭelw tlāmīdē</i>]]></text><feedback format="html"><text><![CDATA[Wrong root.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>yalpū tlāmīdē</i> — the disciples learned]]></text><feedback format="html"><text><![CDATA[That is active.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Make passive: <i>malkā qṭal l-gawrā</i> 'the king killed the man'.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetqṭel gawrā</i> — the man was killed]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭel malkā</i> — the king was killed]]></text><feedback format="html"><text><![CDATA[The man, not the king, becomes the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qṭīl malkā</i>]]></text><feedback format="html"><text><![CDATA[That is 'the king is killed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqaṭṭal l-malkā</i>]]></text><feedback format="html"><text><![CDATA[That is an Etpaael, and the subject is wrong.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Make passive: <i>ʾallep rabbā l-talmīdē</i> 'the teacher taught the disciples'.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetallapū talmīdē</i> — the disciples were taught]]></text><feedback format="html"><text><![CDATA[Correct: Etpaael, plural to agree with the disciples.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetallap rabbā</i> — the teacher was taught]]></text><feedback format="html"><text><![CDATA[The object becomes the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭelū talmīdē</i>]]></text><feedback format="html"><text><![CDATA[Wrong root.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>īlepū talmīdē</i> — the disciples learned]]></text><feedback format="html"><text><![CDATA[That is active.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Make passive: <i>malkā qṭal l-gabrā</i> 'the king killed the man'.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetqṭel gabrā</i> — the man was killed]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭel malkā</i> — the king was killed]]></text><feedback format="html"><text><![CDATA[The man, not the king, becomes the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qṭīl malkā</i>]]></text><feedback format="html"><text><![CDATA[That is 'the king is killed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqaṭṭal l-malkā</i>]]></text><feedback format="html"><text><![CDATA[That is an Etpaael, and the subject is wrong.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܐܬܓܠܝ ܢܘܗܪܐ ܒܚܫܘܟܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The light was revealed in the darkness.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The light revealed the darkness.]]></text><feedback format="html"><text><![CDATA[<i>ʾetglī</i> is passive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The darkness was revealed in the light.]]></text><feedback format="html"><text><![CDATA[<i>nūhrā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He revealed the light.]]></text><feedback format="html"><text><![CDATA[Passive, no agent.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܫܝܚܐ ܐܬܨܠܒ ܘܐܬܩܒܪ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Messiah was crucified and buried.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah crucified and buried.]]></text><feedback format="html"><text><![CDATA[Both verbs are passive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah was anointed and blessed.]]></text><feedback format="html"><text><![CDATA[<i>ṣ-l-b</i> 'crucify', <i>q-b-r</i> 'bury'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah prayed and was buried.]]></text><feedback format="html"><text><![CDATA[<i>ʾetṣleb</i> is 'was crucified'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܫܝܚܐ ܐܨܛܠܒ ܘܐܬܩܒܪ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Messiah was crucified and buried.]]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾeṣṭleb</i> (with metathesis and emphatic assimilation) and <i>ʾetqbar</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah crucified and buried.]]></text><feedback format="html"><text><![CDATA[Both verbs are passive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah was anointed and blessed.]]></text><feedback format="html"><text><![CDATA[<i>ṣ-l-b</i> 'crucify', <i>q-b-r</i> 'bury'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Messiah prayed and was buried.]]></text><feedback format="html"><text><![CDATA[<i>ʾeṣṭleb</i> is 'was crucified'.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܐܫܬܡܥ ܩܠܗ ܒܟܠ ܐܬܪ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[His voice was heard in every place.]]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾeštmaʿ</i>, with metathesis.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He heard his voice in every place.]]></text><feedback format="html"><text><![CDATA[<i>ʾeštmaʿ</i> is passive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His voice was sent to every place.]]></text><feedback format="html"><text><![CDATA[Root š-m-ʿ, 'hear'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Every place heard his voice.]]></text><feedback format="html"><text><![CDATA[Passive.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'He was baptized in the river'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetʿmed b-nahrā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʿmad b-nahrā</i>]]></text><feedback format="html"><text><![CDATA[That is active.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetʿmed b-yammā</i>]]></text><feedback format="html"><text><![CDATA[<i>yammā</i> is 'sea'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetʿamdat b-nahrā</i>]]></text><feedback format="html"><text><![CDATA[That is 'she was baptized'.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 25</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The dead man was raised'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾettaqam mītā</i>]]></text><feedback format="html"><text><![CDATA[Correct: Ettaphal of the Aphel <i>ʾaqīm</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾaqīm mītā</i>]]></text><feedback format="html"><text><![CDATA[That is active: 'he raised the dead man'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qām mītā</i>]]></text><feedback format="html"><text><![CDATA[That is 'the dead man stood up'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭel mītā</i>]]></text><feedback format="html"><text><![CDATA[That is 'was killed'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 10 · Check 25</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The dead man was raised'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾetqīm mītā</i>]]></text><feedback format="html"><text><![CDATA[Correct: Hollow passive of <i>ʾaqīm</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾaqīm mītā</i>]]></text><feedback format="html"><text><![CDATA[That is active: 'he raised the dead man'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qām mītā</i>]]></text><feedback format="html"><text><![CDATA[That is 'the dead man stood up'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾetqṭel mītā</i>]]></text><feedback format="html"><text><![CDATA[That is 'was killed'.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 3 · Lesson 10 · Section 10: Grammatical Summary Box</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary Box</h3>
 <p><strong>Complete Table of All Six Syriac Verbal Stems</strong></p>
 <p>This is the master reference table for all six Syriac stems. Memorise
-the patterns, the characteristic prefixes, and the cross-linguistic
-equivalents.</p>
-<div class="tablewrap"><table style="width:98%;">
+the patterns, the characteristic prefixes, and the functions.</p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 13%" />
-<col style="width: 14%" />
 <col style="width: 20%" />
-<col style="width: 16%" />
-<col style="width: 32%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Stem</strong></th>
-<th style="text-align: left;"><strong>Perf. 3msg</strong></th>
+<th style="text-align: left;"><strong>Perf. 3 m.sg.</strong></th>
 <th style="text-align: left;"><strong>Participle</strong></th>
 <th style="text-align: left;"><strong>Prefix</strong></th>
 <th style="text-align: left;"><strong>Meaning / Function</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Peal ܦܥܠ</td>
-<td style="text-align: left;">qṭal ܩܛܠ</td>
-<td style="text-align: left;">qāṭel ܩܛܠ</td>
+<td style="text-align: left;"><em>qṭal</em> ܩܛܠ</td>
+<td style="text-align: left;"><em>qāṭel</em> ܩܛܠ</td>
 <td style="text-align: left;">(none)</td>
-<td style="text-align: left;">Basic active: ‘he killed’</td>
+<td style="text-align: left;">Basic active: “he killed”</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Paael ܦܥܠ</td>
-<td style="text-align: left;">qaṭtel ܩܛܠ</td>
-<td style="text-align: left;">mqaṭtel ܡܩܛܠ</td>
-<td style="text-align: left;">doubling</td>
-<td style="text-align: left;">Intensive / denominative: ‘he slew
-repeatedly / he executed’</td>
+<td style="text-align: left;"><em>qaddeš</em> ܩܕܫ</td>
+<td style="text-align: left;"><em>mqaddeš</em> ܡܩܕܫ</td>
+<td style="text-align: left;">doubling of R2</td>
+<td style="text-align: left;">Intensive / factitive: “he
+sanctified”</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Aphel ܐܦܥܠ</td>
-<td style="text-align: left;">ʾaqṭel ܐܩܛܠ</td>
-<td style="text-align: left;">maqṭel ܡܩܛܠ</td>
-<td style="text-align: left;">ʾa-</td>
-<td style="text-align: left;">Causative: ‘he caused to kill’</td>
+<td style="text-align: left;"><em>ʾaqreb</em> ܐܩܪܒ</td>
+<td style="text-align: left;"><em>maqreb</em> ܡܩܪܒ</td>
+<td style="text-align: left;"><em>ʾa-</em></td>
+<td style="text-align: left;">Causative: “he brought near /
+offered”</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Ethpeel ܐܬܦܥܠ</td>
-<td style="text-align: left;">ʾetqṭel ܐܬܩܛܠ</td>
-<td style="text-align: left;">metqṭel ܡܬܩܛܠ</td>
-<td style="text-align: left;">ʾet-</td>
-<td style="text-align: left;">Passive/reflexive of Peal: ‘he was
-killed’</td>
+<td style="text-align: left;"><em>ʾetqṭel</em> ܐܬܩܛܠ</td>
+<td style="text-align: left;"><em>metqṭel</em> ܡܬܩܛܠ</td>
+<td style="text-align: left;"><em>ʾet-</em></td>
+<td style="text-align: left;">Passive/reflexive of Peal: “he was
+killed”</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Etpaael ܐܬܦܥܠ</td>
-<td style="text-align: left;">ʾetqatṭal ܐܬܩܛܠ</td>
-<td style="text-align: left;">metqatṭal ܡܬܩܛܠ</td>
-<td style="text-align: left;">ʾetpa-</td>
-<td style="text-align: left;">Passive/reflexive of Paael: ‘he was
-executed’</td>
+<td style="text-align: left;"><em>ʾetqaddaš</em> ܐܬܩܕܫ</td>
+<td style="text-align: left;"><em>metqaddaš</em> ܡܬܩܕܫ</td>
+<td style="text-align: left;"><em>ʾet-</em> (R2 doubled)</td>
+<td style="text-align: left;">Passive/reflexive of Paael: “he was
+sanctified”</td>
 </tr>
-<tr>
-<td style="text-align: left;">Ettaphal ܐܬܐܦܥܠ</td>
-<td style="text-align: left;">ʾettaqṭal ܐܬܬܩܛܠ</td>
-<td style="text-align: left;">mettaqṭal ܡܬܬܩܛܠ</td>
-<td style="text-align: left;">ʾetta-</td>
-<td style="text-align: left;">Passive of Aphel: ‘he was caused to be
-killed’</td>
+<tr class="even">
+<td style="text-align: left;">Ettaphal ܐܬܬܦܥܠ</td>
+<td style="text-align: left;"><em>ʾettaqrab</em> ܐܬܬܩܪܒ</td>
+<td style="text-align: left;"><em>mettaqrab</em> ܡܬܬܩܪܒ</td>
+<td style="text-align: left;"><em>ʾetta-</em></td>
+<td style="text-align: left;">Passive of Aphel: “he/it was offered”</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Passive Participle Pattern</strong></p>
 <blockquote>
 <p><strong>Peal Passive Participle</strong></p>
-<p>Pattern: CCīC (or CāCoC in some vocalization traditions)</p>
-<p>Agrees in gender and number with noun (like any adjective)</p>
-<p>m.sg.: ktīb ܟܬܝܒ | f.sg.: ktībtā ܟܬܝܒܬܐ | m.pl.: ktībīn | f.pl.:
-ktībān</p>
-<p>Used predicatively in verbless clauses: gawrā qṭīlā = ‘the man is
-killed’</p>
-<p>Compare: Arabic mafʿūl (مَكْتُوب maktūb ‘written’); Hebrew qāṭūl
-(קָטוּל)</p>
+<p>Pattern: <em>CCīC</em> Agrees in gender and number with noun (like
+any adjective) m.sg. abs.: <em>ktīb</em> ܟܬܝܒ | f.sg. emph.:
+<em>ktībtā</em> ܟܬܝܒܬܐ | m.pl. abs.: <em>ktībīn</em> | f.pl. abs.:
+<em>ktībān</em> Used predicatively in verbless clauses: <em>gabrā
+qṭīl</em> = “the man is killed” Compare: Arabic <em>mafʿūl</em> (مَكْتُوب
+<em>maktūb</em> “written”); Hebrew <em>qāṭūl</em> (קָטוּל)</p>
 </blockquote>
 <p><strong>Ethpeel Phonological Rules</strong></p>
 <blockquote>
 <p><strong>Assimilation &amp; Metathesis in Ethpeel</strong></p>
-<p>Before sibilants (z, s, š, ṣ): METATHESIS — t moves after the
-sibilant</p>
-<p>ʾet- + š-m-ʿ → ʾeštmaʿ (not *ʾetšmaʿ)</p>
-<p>Before dentals (d, ṭ): ASSIMILATION — t assimilates to the following
-letter</p>
-<p>ʾet- + d-k-y → ʾeddkī</p>
-<p>Before all other consonants: no change — ʾet- + q-ṭ-l → ʾetqṭel</p>
+<p>Before sibilants (<em>z</em>, <em>s</em>, <em>š</em>, <em>ṣ</em>):
+METATHESIS — <em>t</em> moves after the sibilant (and voices to
+<em>d</em> after <em>z</em>, or becomes emphatic <em>ṭ</em> after
+<em>ṣ</em>) <em>ʾet-</em> + <em>š-m-ʿ</em> → <em>ʾeštmaʿ</em> (not
+*<em>ʾetšmaʿ</em>); <em>ʾet-</em> + <em>ṣ-l-b</em> → <em>ʾeṣṭleb</em>
+Before dentals (<em>d</em>, <em>ṭ</em>, <em>t</em>): ASSIMILATION —
+<em>t</em> assimilates to the following letter <em>ʾet-</em> +
+<em>d-k-y</em> → <em>ʾeddkī</em>; <em>ʾet-</em> + <em>ṭ-r-d</em> →
+<em>ʾeṭṭred</em> Before all other consonants: no change — <em>ʾet-</em>
++ <em>q-ṭ-l</em> → <em>ʾetqṭel</em></p>
 </blockquote>
-<p><em>The Acts of Mar Yukhannan • Lesson 10: The Passive Voice • Syriac
-Language Course</em></p>
 
 ]]></text></questiontext></question>
 </quiz>

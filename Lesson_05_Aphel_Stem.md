@@ -1,900 +1,498 @@
 ## LESSON 5
 
-
 ### The Aphel Stem: Divine Action & Causative Verbs
 
+<div class="chapter-image">
+  <img src="images/Lesson_05.jpg" alt="Rabbula Gospels: architectural canon tables with illumination." />
+  <p class="caption"><em>Rabbula Gospels: architectural canon tables with illumination.</em></p>
+</div>
 
 ܐܦܥܠ *ʾaphel*
 
 #### Section 1: Review of Lessons 1–4
 
-
 **Quick Summary**
 
+Before diving into the Aphel stem, let's review the foundational material from the first four lessons:
 
-Before diving into the Aphel stem, let's review the foundational
-material from the first four lessons:
-
-- Lesson 0: The Estrangela alphabet, letter order, and the non-joining
-  letters.
-
-- Lesson 1: The noun system (gender, number, and the absolute,
-  construct, and emphatic states), independent pronouns, verbless
-  clauses, and the particles *d-* (relative/possessive) and *l-* (to/for,
-  direct object).
-
-- Lesson 2: The Peal stem and its active participle. With enclitic
-  pronouns, the participle forms the narrative present (*kāteb-nā*, "I am
-  writing").
-
-- Lesson 3: The Peal perfect (suffix conjugation) of ܟܬܒ
-  (*k-t-b*, 'write'), V-S-O narrative word order, and the conjunction
-  *w-*.
-
-- Lesson 4: Pronominal suffixes on nouns and prepositions, and the idiom
-  *ʾit l-* for "to have".
+- Lesson 0: The Estrangela alphabet, letter order, and the non-joining letters.
+- Lesson 1: The noun system (gender, number, and the absolute, construct, and emphatic states), independent pronouns, verbless clauses, and the particles *d-* (relative/possessive) and *l-* (to/for, direct object).
+- Lesson 2: The Peal stem and its active participle. With enclitic pronouns, the participle forms the narrative present (*kāteb-nā*, "I am writing").
+- Lesson 3: The Peal perfect (suffix conjugation) of ܟܬܒ (*k-t-b*, "write"), V-S-O narrative word order, and the conjunction *w-*.
+- Lesson 4: Pronominal suffixes on nouns and prepositions, and the idiom *ʾīt l-* for "to have".
 
 **5-Question Warm-Up Drill**
 
+Answer these questions using what you've learned. Answers are in Section 9.
 
-Answer these questions using what you've learned. Answers are in
-Section 9.
-
-1.  ܟܬܒ — Give the 3rd m.sg. Peal perfect and its
-    meaning.
-
-2.  What are the three states of the Syriac noun? Give an example of
-    each.
-
-3.  Translate: ܗܘ ܪܒܐ ܗܘ (*hū rabbā hū*)
-
-4.  What does the Peal active participle of ܐܙܠ (*ʾ-z-l*,
-    'go') look like, m.sg.?
-
-5.  Identify the root and stem of the form ܟܬܒܬ (*ketbat*)
+1. ܟܬܒ — Give the 3rd m.sg. Peal perfect and its meaning.
+2. What are the three states of the Syriac noun? Give an example of each.
+3. Translate: ܗܘ ܪܒܐ ܗܘ (*hū rabbā hū*)
+4. What does the Peal active participle of ܐܙܠ (*ʾ-z-l*, "go") look like, m.sg.?
+5. Identify the root and stem of the form ܟܬܒܬ (*ketbat*).
 
 #### Section 2: The Derived Stems — Overview
 
+One of the most powerful features of Semitic languages — shared by Syriac, Hebrew, and Arabic — is the system of **derived verbal stems**. A single three-consonant root can generate multiple verbs with systematically related meanings, simply by modifying the vowel pattern and/or adding prefixes or affixes.
 
-One of the most powerful features of Semitic languages — shared by
-Syriac, Hebrew, and Arabic — is the system of **derived verbal
-stems**. A single three-consonant root can generate multiple verbs with
-systematically related meanings, simply by modifying the vowel pattern
-and/or adding prefixes or affixes.
-
-This is very different from Greek or Latin, where related meanings
-usually require entirely different words. In Syriac, once you know a
-root, you already know the building blocks of an entire semantic family.
+This is very different from Greek or Latin, where related meanings usually require entirely different words. In Syriac, once you know a root, you already know the building blocks of an entire semantic family.
 
 **The Three Major Active Stems**
 
-
-  ------------- ------------------ ---------------- ----------------------
-  **Stem Name**    **Formation     **Basic Meaning       **Example**
-                    Pattern**          Shift**      
-
-    **Peal**       Basic vowel      Basic action /  ܟܬܒ *---
-                     pattern            state        katab, 'he wrote'*
-
-    **Paael**   Middle root letter   Intensive /    ܩܕܫ *---
-                     doubled          Factitive          qaddaš, 'he
-                                                        sanctified'*
-
-    **Aphel**    ʾa- prefix added     Causative     ܐܚܝܝ *---
-                                                    ʾaḥyī, 'he caused to
-                                                           live'*
-
-  ------------- ------------------ ---------------- ----------------------
+| **Stem Name** | **Formation Pattern** | **Basic Meaning Shift** | **Example** |
+|:---|:---|:---|:---|
+| **Peal** | Basic vowel pattern | Basic action / state | ܟܬܒ — *ktab*, "he wrote" |
+| **Paael** | Middle root letter doubled | Intensive / Factitive | ܩܕܫ — *qaddeš*, "he sanctified" |
+| **Aphel** | *ʾa-* prefix added | Causative | ܐܚܝ — *ʾaḥī*, "he caused to live" |
 
 **Cross-Linguistic Comparison**
 
+For those coming from Hebrew or Arabic, these correspondences will look familiar:
 
-For those coming from Hebrew or Arabic, these correspondences will look
-familiar:
+| **Syriac** | **Peal** | **Paael** | **Aphel** |
+|:---|:---|:---|:---|
+| Hebrew | Qal | Piel | Hiphil |
+| Arabic | Form I | Form II | Form IV |
+| Function | Basic | Intensive / Factitive | Causative |
 
-  ----------------- ----------------- --------------------- -----------------
-     **Syriac**         **Peal**            **Paael**           **Aphel**
-
-       Hebrew              Qal                Piel               Hiphil
-
-       Arabic            Form I              Form II             Form IV
-
-      Function            Basic        Intensive/Factitive      Causative
-
-  ----------------- ----------------- --------------------- -----------------
-
-For learners with a Greek background: Greek uses **voice** (active,
-middle, passive) and **aspect** to express some of these distinctions,
-but there is no exact parallel to the Semitic derived stem system. The
-Greek causative construction (e.g., *ποιεῖν + infinitive*) expresses
-what the Aphel does morphologically. Latin similarly uses
-circumlocutions (*facere + infinitive*) or prefix verbs for some
-causative senses.
+For learners with a Greek background: Greek uses **voice** (active, middle, passive) and **aspect** to express some of these distinctions, but there is no exact parallel to the Semitic derived stem system. The Greek causative construction (e.g., *ποιεῖν* + infinitive) expresses what the Aphel does morphologically. Latin similarly uses circumlocutions (*facere* + infinitive) or prefix verbs for some causative senses.
 
 #### Section 3: The Aphel Stem
 
-
 **Core Meaning: Causative**
 
-
-The Aphel stem expresses **causative** action — 'to *cause* X to
-happen' or 'to *make* X do Y.' In theological language, this is the
-stem of divine action: God *ʾaḥyī* (gave life), God *ʾaglī* (revealed),
-God *ʾaqreb* (brought near).
+The Aphel stem expresses **causative** action — "to *cause* X to happen" or "to *make* X do Y." In theological language, this is the stem of divine action: God *ʾaḥī* (gave life), God *ʾaglī* (revealed), God *ʾaqreb* (brought near).
 
 **Formation**
 
-
-- **Perfect:** ʾa- prefix + CeCC pattern (same person suffixes as Peal
-  perfect)
-
-- **Participle:** m- prefix + CaCC-eC pattern (cf. Peal participle)
+- **Perfect:** *ʾa-* prefix + *CCeC* pattern (same person suffixes as Peal perfect)
+- **Participle:** *m-* prefix + *aCCeC* pattern (`maCCeC`, cf. Peal participle)
 
 **Comparison with Other Languages**
 
-
-- **Hebrew Hiphil:** prefix הִ/הֶ (hi-/he-) added to the root. E.g.,
-  *ḥāyāh* (live) → *heḥĕyāh* (give life); *qārab* (draw near) → *hiqrīb*
-  (bring near/offer). The structural parallel to Syriac Aphel is very
-  close.
-
-- **Arabic Form IV:** ʾa- prefix + CaCaCa → ʾaCCaCa. E.g., *ḫaraja* (go
-  out) → *ʾaḫraja* (bring out); *qāraba* (approach) → *ʾaqraba* (bring
-  near). The Syriac Aphel prefix ʾa- is cognate with Arabic Form IV.
-
-- **Greek/Latin:** No direct morphological equivalent. Greek uses prefix
-  verbs (e.g., *ζωοποιεῖν*, 'to give life') or constructions with
-  ποιεῖν + inf. Latin uses *facere + infinitive* or prefix verbs.
+- **Hebrew Hiphil:** prefix הִ/הֶ (*hi-*/ *he-*) added to the root. E.g., *ḥāyāh* (live) → *heḥĕyāh* (give life); *qārab* (draw near) → *hiqrīb* (bring near/offer). The structural parallel to Syriac Aphel is very close.
+- **Arabic Form IV:** *ʾa-* prefix + *CaCaCa* → *ʾaCCaCa*. E.g., *ḫaraja* (go out) → *ʾaḫraja* (bring out); *qaruba* (draw near) → *ʾaqraba* (bring near). The Syriac Aphel prefix *ʾa-* is cognate with Arabic Form IV.
+- **Greek/Latin:** No direct morphological equivalent. Greek uses prefix verbs (e.g., *ζωοποιεῖν*, "to give life") or constructions with *ποιεῖν* + inf. Latin uses *facere* + infinitive or prefix verbs.
 
 **Aphel Examples: Peal → Aphel**
 
+| **Peal (Syr)** | **Root** | **Peal Meaning** | **Aphel (Syr)** | **Aphel Translit** | **Aphel Meaning** |
+|:---|:---|:---|:---|:---|:---|
+| ܚܝܐ | *ḥ-y-y* | to live (Peal) | ܐܚܝ | *ʾaḥī* | to give life, save |
+| ܩܪܒ | *q-r-b* | to draw near (Peal) | ܐܩܪܒ | *ʾaqreb* | to bring near, offer |
+| ܢܦܩ | *n-p-q* | to go out (Peal) | ܐܦܩ | *ʾappeq* | to bring out, produce |
+| ܢܦܠ | *n-p-l* | to fall (Peal) | ܐܦܠ | *ʾappel* | to cause to fall, throw down |
 
-  ------------------ ---------- ----------- ------------------- ------------ ---------------------
-    **Peal (Syr)**    **Root**    **Peal      **Aphel (Syr)**     **Aphel      **Aphel Meaning**
-                                 Meaning**                       Translit**  
+**The Strong Root *q-r-b* in the Aphel**
 
-   ܚܝܝ   *ḥ-y-y*   'to live'  ܐܚܝܝ    *ʾaḥyī*       'to give life,
-                                  (Peal)                                            save'
-
-   ܩܪܒ   *q-r-b*    'to draw   ܐܩܪܒ    *ʾaqreb*     'to bring near,
-                                  near'                                            offer'
-                                  (Peal)                                     
-
-   ܦܩ     *n-p-q*      'to go    ܐܦܩ     *ʾappeq*      'to bring out,
-                                   out'                                           produce'
-                                  (Peal)                                     
-
-   ܢܦܠ   *n-p-l*   'to fall'  ܐܦܠ     *ʾappel*    'to cause to fall,
-                                  (Peal)                                         throw down'
-
-  ------------------ ---------- ----------- ------------------- ------------ ---------------------
-
-**The ʾAlap-Lamed-Peh Root (ʾ-l-p) in the Aphel**
-
-
-The root ܐܠܦ (*ʾ-l-p*) means 'learn' in the Peal stem. In
-the Aphel, it means **'to teach'** — that is, 'to cause someone to
-learn.' This root will be used for all paradigm tables in Sections
-4–5.
+The strong root ܩܪܒ (*q-r-b*) means "draw near, approach" in the Peal stem (*qreb*). In the causative Aphel stem (*ʾaqreb*), it means **"to bring near, to offer"** — that is, "to cause someone or something to come near." Because all three of its consonants are strong and remain visible in every form, *q-r-b* serves as our model paradigm for the Aphel in Sections 4–5.
 
 #### Section 4: Aphel Perfect Paradigm
 
-
-**Root: ʾ-l-p \| Stem: Aphel \| Meaning: 'to teach'**
-
+**Root: *q-r-b* | Stem: Aphel | Meaning: "to bring near, offer"**
 
 ܐܦܥܠ **Perfect — Full Conjugation**
 
-  ------------ --------------------- --------------------- ----------------------------
-   **Person**     **Estrangela**      **Transliteration**        **Translation**
-
-  **3 m.sg.**    ܐܠܦ          *ʾalep*                 he taught
-
-  **3 f.sg.**    ܐܠܦܬ         *ʾallpat*                she taught
-
-  **2 m.sg.**    ܐܠܦܬ         *ʾalept*            you (m.sg.) taught
-
-  **2 f.sg.**   ܐܠܦܬܝ        *ʾalepti*            you (f.sg.) taught
-
-  **1 c.sg.**    ܐܠܦܬ         *ʾallpet*                 I taught
-
-  **3 m.pl.**    ܐܠܦܘ         *ʾallpū*              they (m.) taught
-
-  **3 f.pl.**    ܐܠܦܝ         *ʾallpī*              they (f.) taught
-
-  **2 m.pl.**   ܐܠܦܬܘܢ       *ʾaleptūn*           you (m.pl.) taught
-
-  **2 f.pl.**   ܐܠܦܬܝܢ       *ʾaleptin*           you (f.pl.) taught
-
-  **1 c.pl.**    ܐܠܦܢ         *ʾallpen*                we taught
-
-  ------------ --------------------- --------------------- ----------------------------
+| **Person** | **Estrangela** | **Transliteration** | **Translation** |
+|:---|:---|:---|:---|
+| **3 m.sg.** | ܐܩܪܒ | *ʾaqreb* | he brought near |
+| **3 f.sg.** | ܐܩܪܒܬ | *ʾaqrbat* | she brought near |
+| **2 m.sg.** | ܐܩܪܒܬ | *ʾaqrebt* | you (m.sg.) brought near |
+| **2 f.sg.** | ܐܩܪܒܬܝ | *ʾaqrebt(y)* | you (f.sg.) brought near |
+| **1 c.sg.** | ܐܩܪܒܬ | *ʾaqrbet* | I brought near |
+| **3 m.pl.** | ܐܩܪܒܘ | *ʾaqrebū* | they (m.) brought near |
+| **3 f.pl.** | ܐܩܪܒ / ܐܩܪܒܝ | *ʾaqreb* | they (f.) brought near |
+| **2 m.pl.** | ܐܩܪܒܬܘܢ | *ʾaqrebtūn* | you (m.pl.) brought near |
+| **2 f.pl.** | ܐܩܪܒܬܝܢ | *ʾaqrebtēn* | you (f.pl.) brought near |
+| **1 c.pl.** | ܐܩܪܒܢ | *ʾaqrebn* | we brought near |
 
 **Formation Notes:**
 
-
-- **Prefix:** ʾa- added before the root (3 m.sg.: ʾalep)
-
-- **Root-internal vowel:** e vowel between R2 and R3 in 3 m.sg.
-
-- **Suffixes:** Identical to Peal perfect suffixes (-at, -t, -ti, -et,
-  -ū, -ī, -tūn, -tin, -n)
-
-- **Note on gutturals:** When R1 is Alaph (ʾ), assimilation or
-  lengthening may occur in some forms
+- **Prefix:** *ʾa-* added before the root (3 m.sg.: *ʾaqreb*).
+- **Root-internal vowel:** *e* vowel between R2 and R3 in 3 m.sg. (elided before vocalic endings *-at* and *-et*: *ʾaqrbat*, *ʾaqrbet*).
+- **Suffixes:** Identical to Peal perfect suffixes (*-at*, *-t*, *-t(y)*, *-et*, *-ū*, zero/silent *-y*, *-tūn*, *-tēn*, *-n*).
+- **Weak roots preview:** When R1 is *n* (*n-p-q*), the *n* assimilates to R2 (*ʾappeq*, "he brought out"). When R1 is *y* (*y-d-ʿ*), the prefix + *y* becomes *ʾaw-* (*ʾawdaʿ*, "he made known").
 
 **Comparison: Hebrew Hiphil Perfect**
 
+The Hebrew Hiphil perfect is structurally parallel to the Syriac Aphel perfect, with a causative prefix (הִ- *hi-* / הֶ- *he-*) and essentially the same suffix set:
 
-The Hebrew Hiphil perfect is structurally parallel to the Syriac Aphel
-perfect, with a causative prefix (הִ- hi-/הֶ- he-) and essentially the
-same suffix set:
-
-  ------------ ---------------- --------------------- -------------------------
-   **Person**      **Hebrew      **Transliteration**       **Translation**
-                  (Hiphil)**                          
-
-    3 m.sg.         הֶֽאֱמִין              heʾĕmīn        he believed (H. Hiphil of
-                                                               ʾ-m-n)
-
-    3 f.sg.         הֶֽאֱמִינָה            heʾĕmīnāh             she believed
-
-    1 c.sg.         הֶֽאֱמַנְתִּי            heʾĕmantī              I believed
-
-    3 m.pl.         הֶֽאֱמִינוּ            heʾĕmīnū              they believed
-
-  ------------ ---------------- --------------------- -------------------------
+| **Person** | **Hebrew (Hiphil)** | **Transliteration** | **Translation** |
+|:---|:---|:---|:---|
+| 3 m.sg. | הִקְרִיב | *hiqrīb* | he brought near (Hiphil of *q-r-b*) |
+| 3 f.sg. | הִקְרִיבָה | *hiqrībāh* | she brought near |
+| 1 c.sg. | הִקְרַבְתִּי | *hiqrabtī* | I brought near |
+| 3 m.pl. | הִקְרִיבוּ | *hiqrībū* | they brought near |
 
 **Comparison: Arabic Form IV Perfect**
 
+Arabic Form IV (*ʾaCCaCa*) is cognate with the Syriac Aphel. The prefix *ʾa-* and the causative meaning are identical; only the internal vowel pattern differs:
 
-Arabic Form IV (ʾaCCaCa) is cognate with the Syriac Aphel. The prefix
-ʾa- and the causative meaning are identical; only the internal vowel
-pattern differs:
-
-  ------------ ---------------- --------------------- -------------------------
-   **Person**   **Arabic (Form   **Transliteration**       **Translation**
-                    IV)**                             
-
-    3 m.sg.          أَرْسَلَ              ʾarsala           he sent (Form IV of
-                                                               r-s-l)
-
-    3 f.sg.         أَرْسَلَتْ             ʾarsalat                she sent
-
-    1 c.sg.         أَرْسَلْتُ             ʾarsaltu                 I sent
-
-    3 m.pl.         أَرْسَلُوا             ʾarsalū                they sent
-
-  ------------ ---------------- --------------------- -------------------------
+| **Person** | **Arabic (Form IV)** | **Transliteration** | **Translation** |
+|:---|:---|:---|:---|
+| 3 m.sg. | أَرْسَلَ | *ʾarsala* | he sent (Form IV of *r-s-l*) |
+| 3 f.sg. | أَرْسَلَتْ | *ʾarsalat* | she sent |
+| 1 c.sg. | أَرْسَلْتُ | *ʾarsaltu* | I sent |
+| 3 m.pl. | أَرْسَلُوا | *ʾarsalū* | they sent |
 
 #### Section 5: Aphel Participle Paradigm
 
+**Root: *q-r-b* | Stem: Aphel | Meaning: "bringing near / offering"**
 
-**Root: ʾ-l-p \| Stem: Aphel \| Meaning: 'causing to learn /
-teaching'**
+The Aphel active participle expresses ongoing or habitual causative action. The participle prefix is **m-** (as in all derived stems), replacing the *ʾ-* of the perfect prefix (`ʾaqreb` → `maqreb`).
 
-The Aphel active participle expresses ongoing or habitual causative
-action. It also frequently serves as an adjective. The participle prefix
-is **m-** (as in all derived stems).
-
-  ------------- --------------------- --------------------- -------------------------
-    **Form**       **Estrangela**      **Transliteration**       **Translation**
-
-      m.sg.       ܡܐܠܦ          maʾlep             teaching (m.sg.)
-    (active)                                                
-
-      f.sg.      ܡܐܠܦܐ          maʾlpā             teaching (f.sg.)
-    (active)                                                
-
-      m.pl.      ܡܐܠܦܝܢ         maʾlpīn            teaching (m.pl.)
-    (active)                                                
-
-      f.pl.      ܡܐܠܦܢ          maʾlpān            teaching (f.pl.)
-    (active)                                                
-
-  ------------- --------------------- --------------------- -------------------------
+| **Form** | **Estrangela** | **Transliteration** | **Translation** |
+|:---|:---|:---|:---|
+| m.sg. (active) | ܡܩܪܒ | *maqreb* | bringing near (m.sg.) |
+| f.sg. (active) | ܡܩܪܒܐ | *maqrbā* | bringing near (f.sg.) |
+| m.pl. (active) | ܡܩܪܒܝܢ | *maqrbīn* | bringing near (m.pl.) |
+| f.pl. (active) | ܡܩܪܒܢ | *maqrbān* | bringing near (f.pl.) |
 
 **Formation Notes**
 
-
-- **Prefix:** m- added before the root (same prefix as Paael and other
-  derived-stem participles)
-
-- **Vowel pattern:** maʾ- + R2 + vowel + R3 (cf. Peal participle kāteb →
-  Aphel maʾlep)
-
-- **Gender/number suffixes:** Same as all Syriac participles: m.sg.
-  (unmarked), f.sg. (-ā), m.pl. (-īn), f.pl. (-ān)
+- **Prefix:** *m-* added before the stem (same prefix as Paael and other derived-stem participles).
+- **Vowel pattern:** *ma-* + R1R2 + *e* + R3 (cf. Peal participle *kāteb* → Aphel *maqreb*).
+- **Gender/number suffixes:** Same as all Syriac participles: m.sg. (unmarked), f.sg. (*-ā*), m.pl. (*-īn*), f.pl. (*-ān*).
 
 **Comparison with Hebrew and Arabic**
 
+- **Hebrew Hiphil participle:** prefix מַ/מֵ (*ma-*/ *me-*). E.g., *maqrīb* (bringing near / offering — from *q-r-b* Hiphil). The *m-* participle prefix is pan-Semitic.
+- **Arabic Form IV active participle:** pattern *muCCiC*. E.g., *mursil* (sending/sender — from *ʾarsala*). Note the Arabic Form IV participle has the vowel shift *u-i*, while Syriac uses *a-e*.
 
-**Hebrew Hiphil participle:** prefix מַ/מֵ (ma-/me-). E.g., *maʾămīn*
-(believing/trusting — from ʾ-m-n Hiphil). The m- participle prefix is
-pan-Semitic.
-
-**Arabic Form IV active participle:** pattern muCCiC. E.g., *mursil*
-(sending/sender — from ʾarsala). Note the Arabic Form IV participle
-has the vowel shift u-i, while Syriac uses a-e.
-
-> **KEY PATTERN: In all Syriac derived stems, the participle prefix is
-> m-. This is one of the most consistent features of Syriac verbal
-> morphology. If you see a verb beginning with m- that is not a Peal
-> form, suspect a derived-stem participle.**
+> **KEY PATTERN: In all Syriac derived stems, the participle prefix is m-. This is one of the most consistent features of Syriac verbal morphology. If you see a verb beginning with m- that is not a Peal form, suspect a derived-stem participle.**
 
 #### Section 6: Theological Vocabulary
 
-
 **Abstract Nouns and Key Theological Terms**
 
+The following twenty terms form the core theological vocabulary of early Syriac Christianity. Many are abstract nouns ending in *-ūtā* (with a single spirantized *taw*) derived from the same roots as the verbs you are learning.
 
-The following twenty terms form the core theological vocabulary of early
-Syriac Christianity. Many are abstract nouns derived from the same roots
-as the verbs you are learning.
+| **Estrangela** | **Transliteration** | **Meaning** | **Notes** |
+|:---|:---|:---|:---|
+| ܚܝܐ / ܦܘܪܩܢܐ | *ḥayyē* / *purqānā* | life (pl.) / salvation | Two overlapping terms; *ḥayyē* often = "eternal life"; *purqānā* = "redemption" |
+| ܓܠܝܢܐ | *gelyānā* | revelation, disclosure | From *g-l-y*; cf. Gk *apokalypsis*, Lat *revelatio* |
+| ܫܘܕܪܐ | *šūddārā* | sending, mission | From *šaddar*; cf. Heb *šālīaḥ* (envoy), Gk *apostolos* |
+| ܒܪܝܬܐ | *brītā* | creation, creature | From Peal *brā*; cf. Heb *bārāʾ*, Gen 1:1 |
+| ܪܚܡܐ | *raḥmē* | mercy, compassion | Pl. of *raḥmā*; cognate with Heb *raḥămīm*, Arabic *raḥma* |
+| ܕܝܢܐ | *dīnā* | judgment | Cf. Heb *dīn* (legal judgment), Arabic *dīn* (religion/judgment) |
+| ܫܘܒܚܐ | *šūbḥā* | glory, praise | Cf. Heb *kābōd*; used in doxologies |
+| ܛܝܒܘܬܐ | *ṭaybūtā* | grace, goodness | Abstract noun (*-ūtā*) from *ṭāb* (good); cf. Gk *charis*, Latin *gratia* |
+| ܗܝܡܢܘܬܐ | *haymānūtā* | faith, trust | Abstract noun (*-ūtā*) from *haymen*; cf. Heb *ʾĕmūnāh* |
+| ܟܐܢܘܬܐ | *kēnūtā* | righteousness, justice | Abstract noun (*-ūtā*) from *kēn*; cf. Gk *dikaiosynē*, Heb *ṣĕdāqāh* |
+| ܚܛܝܬܐ | *ḥṭītā* | sin, transgression | From *ḥ-ṭ-y*; cf. Gk *hamartia*, Heb *ḥēṭʾ* |
+| ܡܥܡܘܕܝܬܐ | *maʿmūdītā* | baptism | Lit. "immersion"; from *ʿ-m-d*; cf. Gk *baptisma* |
+| ܨܠܘܬܐ | *ṣlūtā* | prayer | From *ṣ-l-y*; cf. Heb *tĕfillāh* |
+| ܝܘܠܦܢܐ | *yūlpānā* | teaching, instruction | Abstract noun from *y-l-p* / *ʾallep* |
+| ܢܒܝܘܬܐ | *nbīyūtā* | prophecy | Abstract noun (*-ūtā*) from *nbīyā*; cf. Heb *nĕbūʾāh*, Gk *prophēteia* |
+| ܩܝܡܐ | *qyāmā* | covenant, resurrection | Double meaning: covenant (cf. Heb *bĕrīt*) and standing/resurrection |
+| ܟܬܒܐ | *ktābā* | scripture, writing, book | From *k-t-b*; cf. Arabic *kitāb*, Hebrew *kĕtābīm* |
+| ܒܘܪܟܬܐ | *būrktā* | blessing | From *b-r-k*; cf. Heb *bĕrākāh*, Arabic *baraka* |
+| ܪܘܚܐ | *rūḥā* | spirit, wind, breath | Usually f. noun; cf. Heb *rūaḥ*, Arabic *rūḥ*, Gk *pneuma* |
+| ܫܪܪܐ | *šrārā* | truth, reality | Cf. Heb *ʾĕmet*, Gk *alētheia*; from *š-r-r* ("to be firm/true") |
 
-  ----------------------- --------------------- ---------------- ---------------------------------
-      **Estrangela**       **Transliteration**    **Meaning**                **Notes**
+**Key Aphel and Related Verbs in Theological Context**
 
-          ܚܝܐ /             ḥayye / purqānā    salvation / life   Two overlapping terms; ḥayye
-    ܦܘܪܩܢܐ                                               (life/lives, pl.) often =
-                                                                    'eternal life'; purqānā =
-                                                                          'redemption'
-
-     ܓܠܝܐ            glāyā           revelation,        From Aphel ʾaglī; cf. Gk
-                                                   disclosure       apokalypsis, Lat revelatio
-
-     ܫܕܪܐ           šedārā         sending, mission    From šadar; cf. Heb šāliaḥ
-                                                                       (envoy), Gk apostolos
-
-    ܒܪܝܬܐ           brīttā             creation     From Peal brā; cf. Heb bārāʾ, Gen
-                                                                                1:1
-
-     ܪܚܡܐ            raḥmē              mercy,       Pl. of raḥmā; cognate with Heb
-                                                   compassion          raḥămīm, Arabic raḥma
-
-     ܕܝܢܐ            dīnā              judgment       Cf. Heb dīn (legal judgment),
-                                                                  Arabic dīn (religion/judgment)
-
-    ܫܘܒܚܐ            šūbḥā          glory, praise   Cf. Heb kābōd; used in doxologies
-
-    ܛܝܒܘܬܐ         ṭaybūttā        grace, goodness   Abstract noun from ṭāb (good);
-                                                                    cf. Gk charis, Latin gratia
-
-   ܗܝܡܢܘܬܐ        haymānūttā         faith, trust    Abstract noun from hayman; cf.
-                                                                            Heb ʾĕmūnāh
-
-    ܟܐܢܘܬܐ          kēnūttā         righteousness,   Cf. Gk dikaiosynē, Heb ṣĕdāqāh
-                                                    justice      
-
-    ܚܛܝܬܐ           ḥṭīttā               sin,           Cf. Gk hamartia, Heb ḥēṭ
-                                                 transgression   
-
-   ܡܥܡܘܕܝܬܐ       maʿmūdīttā           baptism       Lit. 'immersion'; from ʿ-m-d;
-                                                                          cf. Gk baptisma
-
-    ܨܠܘܬܐ           ṣlūttā              prayer        From ṣ-l-y; cf. Heb tefillah
-
-    ܐܘܠܦܢܐ          ʾūlpānā           teaching,      Abstract noun from Aphel ʾalep
-                                                  instruction    
-
-    ܢܒܘܬܐ           nebūttā            prophecy      From n-b-y; cf. Heb nĕbūʾāh, Gk
-                                                                            prophēteia
-
-     ܩܝܡܐ            qyāmā            covenant,     Double meaning: covenant (cf. Heb
-                                                  resurrection        bĕrīt) and resurrection
-
-     ܟܬܒܐ            ktābā            scripture,      From k-t-b; cf. Arabic kitāb,
-                                                    writing               Hebrew kĕtābīm
-
-    ܒܘܪܟܬܐ          būrktā             blessing       From b-r-k; cf. Heb bĕrākāh,
-                                                                           Arabic baraka
-
-     ܪܘܚܐ            rūḥā           spirit, wind,    f\. noun; cf. Heb rūaḥ, Arabic
-                                                     breath               rūḥ, Gk pneuma
-
-     ܫܪܪܐ            šrārā          truth, reality  Cf. Heb ʾĕmet, Gk alētheia; šrār
-                                                                       = 'to be firm/true'
-
-  ----------------------- --------------------- ---------------- ---------------------------------
-
-**Key Aphel Verbs in Theological Context**
-
-
-  ------------------- -------------- ------------ ------------- ---------------------------
-    **Estrangela**     **Translit**    **Stem**    **Meaning**        **Usage Note**
-
-   ܐܚܝܝ      ʾaḥyī         Aphel     to save, give Causative of ḥ-y-y (live);
-                                                      life       divine act par excellence
-
-   ܐܓܠܝ      ʾaglī         Aphel      to reveal,     Causative of g-l-y (be
-                                                     uncover     revealed); cf. Heb gillāh
-
-   ܫܕܪ       šadar       Peal/Aphel     to send    Common verb; šadar/ʾešdar;
-                                                                       cf. Heb šālaḥ
-
-   ܒܪܐ        brā           Peal       to create     Note: in Syriac this is
-                                                                 Peal (not Aphel); cf. Heb
-                                                                           bārāʾ
-
-   ܐܟܪܙ      ʾkraz         Aphel     to proclaim,    From k-r-z; kerygmatic
-                                                     preach             vocabulary
-
-   ܐܪܝܡ       ʾrīm         Aphel       to exalt,   Causative of r-m (be high);
-                                                     lift up           cf. Heb hērīm
-
-   ܐܫܦܠ      ʾšpel         Aphel      to humble,     Causative of š-p-l (be
-                                                      lower        low); antonym of ʾrīm
-
-   ܐܦܪܩ      ʾpraq         Aphel      to redeem,     Causative of p-r-q (be
-                                                     deliver     freed); cf. purqānā above
-
-   ܩܕܫ       qaddaš        Paael     to sanctify,    Preview of Paael; from
-                                                    make holy    q-d-š (be holy); cf. Heb
-                                                                          qiddēš
-
-   ܐܩܪܒ      ʾaqreb        Aphel       to bring     Causative of q-r-b (draw
-                                                   near, offer   near); cf. Arabic qurraba
-
-  ------------------- -------------- ------------ ------------- ---------------------------
+| **Estrangela** | **Translit** | **Stem** | **Meaning** | **Usage Note** |
+|:---|:---|:---|:---|:---|
+| ܐܚܝ | *ʾaḥī* | Aphel | to save, give life | Causative of *ḥ-y-y* (live); divine act par excellence |
+| ܐܓܠܝ | *ʾaglī* | Aphel | to reveal, uncover | From *g-l-y* (also Peal *glā* "reveal"); 3 m.sg. spelled with final *yodh* |
+| ܫܕܪ | *šaddar* | Paael | to send | Common verb (root *š-d-r*, preview of Lesson 6 Paael); cf. Heb *šālaḥ* |
+| ܒܪܐ | *brā* | Peal | to create | Note: in Syriac this is Peal (not Aphel); cf. Heb *bārāʾ* |
+| ܐܟܪܙ | *ʾakrez* | Aphel | to proclaim, preach | Denominative Aphel from *kārōzā* (herald); kerygmatic vocabulary |
+| ܐܪܝܡ | *ʾarīm* | Aphel | to exalt, lift up | Causative of *r-w-m* (be high); cf. Heb *hērīm* |
+| ܐܫܦܠ | *ʾašpel* | Aphel | to humble, lower | Causative of *š-p-l* (be low); antonym of *ʾarīm* |
+| ܦܪܩ | *praq* | Peal | to redeem, deliver, save | Standard Peal verb for "redeem" (source of *purqānā* above) |
+| ܩܕܫ | *qaddeš* | Paael | to sanctify, make holy | Preview of Lesson 6 Paael; from *q-d-š* (be holy); cf. Heb *qiddēš* |
+| ܐܩܪܒ | *ʾaqreb* | Aphel | to bring near, offer | Causative of *q-r-b* (draw near); cf. Heb *hiqrīb*, Arabic Form IV *ʾaqraba* |
 
 #### Section 7: The Story — Part 5
 
-
 **Yukhannan Preaches to the Crowds**
 
+**Narrative note:** This passage features heavy use of the Aphel stem to describe God's causative actions in history. Notice the verbless clauses used for theological assertions (sentences 6 and 9) and how indirect objects and pronominal objects are expressed with prepositions + suffixes (`lī`, `lāḵ`, `lān`, `lḵūn`, `lhūn`) that you learned in Lesson 4.
 
-**Narrative note:** This passage features heavy use of the Aphel stem to
-describe God's causative actions in history. Notice the verbless
-clauses used for theological assertions (sentences 6 and 9). Aphel forms
-are highlighted in the transliteration.
-
-> *Key Aphel forms in this passage: ʾkraz (proclaimed), ʾalep (taught),
-> ʾaḥyī (gave life/saved), ʾaglī (revealed), ʾaqrebtūn (brought near),
-> ʾappaqnī (brought me out), ʾaḥyat (gave life), ʾaqrebtnī (brought me
-> near)*
+> *Key Aphel forms in this passage: ʾakrez (proclaimed), ʾawdaʿ (made known), ʾaḥī (gave life/saved), ʾaglī (revealed), ʾaqrebtūn (you brought near/offered), ʾappeq (brought out), ʾaḥyat (gave life), ʾaqrbat (brought near).*
 
 **Sentence 1**
 
+ܘܝܘܚܢܢ ܩܡ ܒܡܨܥܬ ܥܡܐ ܘܐܟܪܙ ܠܗܘܢ
 
-ܘܝܘܚܢܢ ܩܡ ܒܡܨܥܬ ܥܡܐ ܘܐܟܪܙ ܐܢܘܢ
+*w-Yūḥannan qām b-meṣʿat ʿammā w-ʾakrez lhūn*
 
-*w-Yukhannan qam b-meṣʿat ʿammā w-ʾkraz ʾennūn*
+w- (and-) Yūḥannan (Yukhannan) qām (stood) b-meṣʿat (in-the-midst-of) ʿammā (the-people) w-ʾakrez (and-proclaimed) lhūn (to-them)
 
-w- (and-) Yukhannan (John) qam (rose/stood) b-meṣʿat (in-the-midst-of)
-ʿammā (the-people) w-ʾkraz (and-proclaimed) ʾennūn (them)
-
-*→ And Yukhannan stood in the midst of the people and proclaimed to
-them:*
+*→ And Yukhannan stood in the midst of the people and proclaimed to them:*
 
 **Sentence 2**
 
+ܡܪܝܐ ܫܕܪ ܠܝ ܘܐܘܕܥ ܠܟܘܢ ܐܘܪܚܐ ܕܚܝܐ
 
-ܡܪܝܐ ܫܕܪ ܠܝ ܕܐܐܠܦ ܝܬܟܘܢ ܐܘܪܚܐ ܕܚܝܐ
+*Māryā šaddar lī w-ʾawdaʿ lḵūn ʾūrḥā d-ḥayyē*
 
-*Māryā šadar lī d-ʾalep yātḵūn ʾūrḥā d-ḥayye*
+Māryā (the-Lord) šaddar (sent) lī (me) w-ʾawdaʿ (and-made-known) lḵūn (to-you [pl.]) ʾūrḥā (the-way) d-ḥayyē (of-life)
 
-Māryā (the-Lord) šadar (sent) lī (to-me) d-ʾalep (that-I-should-teach)
-yātḵūn (you(pl.)) ʾūrḥā (the-way) d-ḥayye (of-life)
-
-*→ 'The Lord has sent me to teach you the way of life.'*
+*→ "The Lord sent me and made known to you the way of life."*
 
 **Sentence 3**
 
+ܐܠܗܐ ܕܒܪܐ ܟܠ ܡܕܡ ܐܚܝ ܠܟܘܢ ܒܦܘܪܩܢܗ
 
-ܐܠܗܐ ܕܒܪܐ ܟܠ ܡܕܡ ܐܚܝܝ ܠܟܘܢ ܒܦܘܪܩܢܗ
+*ʾAlāhā d-brā kull meddem ʾaḥī lḵūn b-purqāneh*
 
-*Alāhā d-brā kull medem ʾaḥyī lḵūn b-purqāneh*
+ʾAlāhā (God) d-brā (who-created) kull (all) meddem (thing) ʾaḥī (caused-to-live/saved) lḵūn (you [pl.]) b-purqāneh (by-his-redemption)
 
-Alāhā (God) d-brā (who-created) kull (all) medem (thing) ʾaḥyī
-(caused-to-live/saved) lḵūn (you(pl.)) b-purqāneh (by-his-redemption)
-
-*→ 'God, who created all things, has saved you through his
-redemption.'*
+*→ "God, who created all things, has saved you through his redemption."*
 
 **Sentence 4**
 
-
 ܗܘ ܐܓܠܝ ܠܢ ܪܐܙܐ ܕܛܝܒܘܬܗ
 
-*Hū ʾaglī lān rāzā d-ṭaybūtteh*
+*Hū ʾaglī lān rāzā d-ṭaybūteh*
 
-Hū (He) ʾaglī (revealed) lān (to-us) rāzā (the-mystery) d-ṭaybūtteh
-(of-his-grace)
+Hū (He) ʾaglī (revealed) lān (to-us) rāzā (the-mystery) d-ṭaybūteh (of-his-grace)
 
-*→ 'He has revealed to us the mystery of his grace.'*
+*→ "He has revealed to us the mystery of his grace."*
 
 **Sentence 5**
 
-
 ܘܗܫܐ ܐܩܪܒܬܘܢ ܠܐܠܗܐ ܒܗܝܡܢܘܬܐ
 
-*w-hāšā ʾaqrebtūn l-Alāhā b-haymānūttā*
+*w-hāšā ʾaqrebtūn l-ʾAlāhā b-haymānūtā*
 
-w- (and-) hāšā (now) ʾaqrebtūn (you(pl.)-have-been-brought-near) l-Alāhā
-(to-God) b-haymānūttā (by-faith)
+w- (and-) hāšā (now) ʾaqrebtūn (you [pl.] have-brought-near/drawn-near) l-ʾAlāhā (to-God) b-haymānūtā (by-faith)
 
-*→ 'And now you have been brought near to God through faith.'*
+*→ "And now you have drawn near to God through faith."*
 
 **Sentence 6**
 
-
 ܗܢܘ ܫܪܪܐ ܕܡܠܟܘܬܐ ܕܐܠܗܐ
 
-*Hannū šrārā d-malkūttā d-Alāhā*
+*Hānaw šrārā d-malkūtā d-ʾAlāhā*
 
-Hannū (This-is) šrārā (the-truth) d-malkūttā (of-the-kingdom) d-Alāhā
-(of-God)
+Hānaw (This-is) šrārā (the-truth) d-malkūtā (of-the-kingdom) d-ʾAlāhā (of-God)
 
-*→ 'This is the truth of the kingdom of God.'*
+*→ "This is the truth of the kingdom of God."*
 
 **Sentence 7**
 
-
 ܘܥܡܐ ܫܡܥ ܡܠܘܗܝ ܘܐܬܕܡܪ ܛܒ
 
-*w-ʿammā šmaʿ mellāw-hy w-ʾetdammer ṭāb*
+*w-ʿammā šmaʿ mellāw-hy w-ḥdī ṭāb*
 
-w- (and-) ʿammā (the-people) šmaʿ (heard) mellāw-hy (his-words)
-w-ʾetdammer (and-marveled) ṭāb (greatly/well)
+w- (and-) ʿammā (the-people) šmaʿ (heard) mellāw-hy (his-words) w-ḥdī (and-rejoiced) ṭāb (greatly)
 
-*→ And the people heard his words and marveled greatly.*
+*→ And the people heard his words and rejoiced greatly.*
 
 **Sentence 8**
 
+ܘܐܡܪ ܓܒܪܐ ܚܕ ܡܢ ܥܡܐ ܡܢ ܐܢܬ ܘܡܢ ܫܕܪ ܠܟ
 
-ܘܐܡܪ ܓܒܪܐ ܚܕ ܡܢ ܥܡܐ ܡܢ ܐܢܬ ܘܡܢ ܫܕܪܟ
+*w-ʾemar gabrā ḥad men ʿammā: man ʾant w-man šaddar lāḵ?*
 
-*w-ʾemar gabrā ḥad men ʿammā: man ʾant w-man šedrāḵ?*
+w-ʾemar (and-said) gabrā (a-man) ḥad (one) men (from) ʿammā (the-people) man (who) ʾant (are-you) w-man (and-who) šaddar (sent) lāḵ (you)
 
-w-ʾemar (and-said) gabrā (a-man) ḥad (one) men (from) ʿammā (the-people)
-man (who) ʾant (are-you) w-man (and-who) šedrāḵ (sent-you)
-
-*→ And a man from the people said: 'Who are you, and who sent you?'*
+*→ And a man from the people said: "Who are you, and who sent you?"*
 
 **Sentence 9**
 
-
 ܥܢܐ ܝܘܚܢܢ ܘܐܡܪ ܐܢܐ ܥܒܕܗ ܕܡܪܝܐ
 
-*ʿnā Yukhannan w-ʾemar: ʾenā ʿabdeh d-Māryā*
+*ʿnā Yūḥannan w-ʾemar: ʾenā ʿabdeh d-Māryā*
 
-ʿnā (answered) Yukhannan (Yukhannan) w-ʾemar (and-said) ʾenā (I) ʿabdeh
-(servant-of) d-Māryā (the-Lord)
+ʿnā (answered) Yūḥannan (Yukhannan) w-ʾemar (and-said) ʾenā (I) ʿabdeh (servant-of) d-Māryā (the-Lord)
 
-*→ Yukhannan answered and said: 'I am the servant of the Lord.'*
+*→ Yukhannan answered and said: "I am the servant of the Lord."*
 
 **Sentence 10**
 
+ܗܘ ܐܦܩ ܠܝ ܡܢ ܡܕܒܪܐ ܘܐܟܪܙܬ ܠܥܡܗ
 
-ܗܘ ܐܦܩܢܝ ܡܢ ܡܕܒܪܐ ܕܐܐܠܦ ܠܥܡܗ
+*Hū ʾappeq lī men madbrā w-ʾakrzet l-ʿammeh*
 
-*Hū ʾappaqnī men madbārā d-ʾalep l-ʿammeh*
+Hū (He) ʾappeq (brought-out) lī (me) men (from) madbrā (the-wilderness) w-ʾakrzet (and-I-proclaimed) l-ʿammeh (to-his-people)
 
-Hū (He) ʾappaqnī (brought-me-out) men (from) madbārā (the-wilderness)
-d-ʾalep (to-teach) l- (to) ʿammeh (his-people)
-
-*→ 'He brought me out from the wilderness to teach his people.'*
+*→ "He brought me out from the wilderness, and I proclaimed to his people."*
 
 **Sentence 11**
 
+ܘܪܘܚܐ ܕܐܠܗܐ ܗܝ ܕܐܚܝܬ ܠܝ ܘܐܩܪܒܬ ܠܝ ܠܡܠܟܘܬܗ
 
-ܘܪܘܚܐ ܕܐܠܗܐ ܗܝ ܕܐܚܝܬ ܠܝ ܘܐܩܪܒܬܢܝ ܠܡܠܟܘܬܗ
+*w-rūḥā d-ʾAlāhā hī d-ʾaḥyat lī w-ʾaqrbat lī l-malkūteh*
 
-*w-rūḥā d-Alāhā hī d-ʾaḥyat lī w-ʾaqrebtnī l-malkūtteh*
+w- (and-) rūḥā (the-Spirit) d-ʾAlāhā (of-God) hī (she-is) d-ʾaḥyat (who-gave-life) lī (to-me) w-ʾaqrbat (and-brought-near) lī (me) l-malkūteh (to-his-kingdom)
 
-w- (and-) rūḥā (the-Spirit) d-Alāhā (of-God) hī (she/it-is) d-ʾaḥyat
-(who-gave-life) lī (to-me) w-ʾaqrebtnī (and-brought-me-near) l-malkūtteh
-(to-his-kingdom)
-
-*→ 'And it is the Spirit of God who gave me life and brought me near to
-his kingdom.'*
+*→ "And it is the Spirit of God who gave me life and brought me near to his kingdom."*
 
 #### Section 8: Exercises
 
-
 **Exercise 1: Stem Identification**
 
+Identify each verb form as Peal or Aphel, give its person/number/gender, root, and English meaning.
 
-Identify each verb form as Peal or Aphel, give its person/number/gender,
-root, and English meaning.
-
-  -------- --------------------- ---------------------------------------------
-   **\#**     **Estrangela**                  **Transliteration**
-
-     1       ܐܠܦ                       ʾalep
-
-     2       ܟܬܒ                        katab
-
-     3       ܐܚܝܝ                       ʾaḥyī
-
-     4       ܐܙܠ                        ʾazal
-
-     5       ܐܩܪܒ                      ʾaqreb
-
-     6       ܡܐܠܦ                      maʾlep
-
-     7       ܫܡܥ                        šmaʿ
-
-     8       ܐܦܩ                       ʾappeq
-
-     9       ܟܬܒ                        kāteb
-
-     10      ܐܓܠܝ                       ʾaglī
-
-  -------- --------------------- ---------------------------------------------
+| **#** | **Estrangela** | **Transliteration** |
+|---:|:---|:---|
+| 1 | ܐܟܪܙ | *ʾakrez* |
+| 2 | ܟܬܒ | *ktab* |
+| 3 | ܐܚܝ | *ʾaḥī* |
+| 4 | ܐܙܠ | *ʾezal* |
+| 5 | ܐܩܪܒ | *ʾaqreb* |
+| 6 | ܡܩܪܒ | *maqreb* |
+| 7 | ܫܡܥ | *šmaʿ* |
+| 8 | ܐܦܩ | *ʾappeq* |
+| 9 | ܟܬܒ | *kāteb* |
+| 10 | ܐܓܠܝ | *ʾaglī* |
 
 **Exercise 2: Conjugation Drill**
 
+Fully conjugate the following two Aphel verbs in the perfect (all 10 persons) and the participle (all 4 forms). Use the paradigm in Sections 4–5 as a model.
 
-Fully conjugate the following two Aphel verbs in the perfect (all 10
-persons) and the participle (all 4 forms). Use the paradigm in Sections
-4–5 as a model.
-
-6.  *Root š-d-r (send) — Aphel: ʾešdar*
-
-7.  *Root r-m (be high) — Aphel: ʾrīm (exalt)*
+1. *Root š-l-m (be complete) — Aphel: ʾašlem (hand over, deliver)*
+2. *Root r-w-m (be high) — Aphel: ʾarīm (exalt)*
 
 **Exercise 3: Translation Drill (Syriac → English)**
 
+Translate the following sentences into English. All contain Aphel forms or theological vocabulary from this lesson.
 
-Translate the following sentences into English. All contain Aphel forms.
-
-1.  ܐܠܗܐ ܐܚܝܝ ܠܥܡܗ *(Alāhā ʾaḥyī l-ʿammeh)*
-
-2.  ܝܘܚܢܢ ܐܠܦ ܠܬܠܡܝܕܘܗܝ *(Yūḥannan ʾalep l-talmīdāw-hy)*
-
-3.  ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܘܪܐ *(Hū ʾappeq lhūn men bēt
-    ʾesūrā)*
-
-4.  ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ *(Rūḥā ʾaglī šrārā)*
-
-5.  ܡܪܝܐ ܐܩܪܒܢ ܠܡܠܟܘܬܗ *(Māryā ʾaqrebnān l-malkūtteh)*
-
-6.  ܡܐܠܦ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ *(Maʾlep ʾenā lḵūn ʾūrḥā)*
-
-7.  ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ *(ʾAnt ʾrīmt l-ʿabdāḵ)*
-
-8.  ܗܢܘ ܐܘܠܦܢܐ ܕܡܠܟܘܬܐ *(Hannū ʾūlpānā d-malkūttā)*
+1. ܐܠܗܐ ܐܚܝ ܠܥܡܗ (*ʾAlāhā ʾaḥī l-ʿammeh*)
+2. ܝܘܚܢܢ ܐܟܪܙ ܠܬܠܡܝܕܘܗܝ (*Yūḥannan ʾakrez l-talmīdāw-hy*)
+3. ܗܘ ܐܦܩ ܠܗܘܢ ܡܢ ܒܝܬ ܐܣܝܪܐ (*Hū ʾappeq lhūn men bēt ʾasīrē*)
+4. ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ (*Rūḥā ʾaglī šrārā*)
+5. ܡܪܝܐ ܐܩܪܒ ܠܢ ܠܡܠܟܘܬܗ (*Māryā ʾaqreb lān l-malkūteh*)
+6. ܡܟܪܙ ܐܢܐ ܠܟܘܢ ܐܘܪܚܐ (*Makrez ʾenā lḵūn ʾūrḥā*)
+7. ܐܢܬ ܐܪܝܡܬ ܠܥܒܕܟ (*ʾAnt ʾarīmt l-ʿabdāḵ*)
+8. ܗܢܘ ܝܘܠܦܢܐ ܕܡܠܟܘܬܐ (*Hānaw yūlpānā d-malkūtā*)
 
 **Exercise 4: Production Drill (English → Syriac Aphel)**
 
-
-Render the following causative sentences into Syriac using the Aphel
-stem. More than one correct answer may exist.
+Render the following causative sentences into Syriac using the Aphel stem. More than one correct answer may exist.
 
 1. God revealed his glory to the people.
-
-2. She taught the children the law.
-
+2. She proclaimed the law to the children.
 3. The Spirit brought him out of the wilderness.
-
 4. You (m.pl.) have brought near the offering.
-
-5. The prophet gave life to the dead (mītē).
-
-6. The Lord exalted the humble (makīkē).
+5. The prophet gave life to the dead (*mītē*).
+6. The Lord exalted the humble (*makkīkē*).
 
 **Exercise 5: Reading Comprehension**
 
+Re-read the story in Section 7, then answer the following comprehension questions in complete Syriac sentences if possible, or in English.
 
-Re-read the story in Section 7, then answer the following comprehension
-questions in complete Syriac sentences if possible, or in English.
-
-1. What did Yukhannan say the Lord sent him to do?
-
-2. What three actions does Yukhannan attribute to God in his speech?
-    (Name the Aphel verbs.)
-
+1. What did Yukhannan say the Lord sent him and made known to the people?
+2. What three actions does Yukhannan attribute to God in sentences 3–5? (Name the Aphel verbs.)
 3. What question does the man from the crowd ask?
-
 4. How does Yukhannan identify himself?
-
-5. What brought Yukhannan out of the wilderness and brought him near
-    the kingdom?
+5. Who brought Yukhannan out of the wilderness (sentence 10), and who gave him life and brought him near to the kingdom (sentence 11)?
 
 #### Section 9: Answer Key
 
-
 **Section 1 Warm-Up**
 
-
-**Q1:** Peal perfect 3 m.sg. of k-t-b: ܟܬܒ (katab) = 'he
-wrote'
-
-**Q2:** Absolute: ܡܠܟ (malk, 'king'); Emphatic: ܡܠܟܐ (malkā, 'the
-king'); Construct: ܡܠܟ (malk + genitive, 'king of...')
-
-**Q3:** 'He is great' — verbless clause with pronoun as copula
-
-**Q4:** ܐܙܠ (ʾāzel), 'going' — the CāCeC pattern
-
-
-**Q5:** Root: k-t-b; Stem: Peal; Form: perfect 3 f.sg. ---
-'she wrote' (the same letters also spell 2 m.sg. and 1 c.sg.)
+- **Q1:** Peal perfect 3 m.sg. of *k-t-b*: ܟܬܒ (*ktab*) = "he wrote"
+- **Q2:** Absolute: ܡܠܟ (*melek*, "a king"); Construct: ܡܠܟ (*melek* + genitive, "king of...", identical to the absolute in m.sg.); Emphatic: ܡܠܟܐ (*malkā*, "the king"). (Before pronominal suffixes, the bound stem *malk-* is used.)
+- **Q3:** "He is great" — verbless clause with pronoun as copula
+- **Q4:** ܐܙܠ (*ʾāzel*), "going" — the *CāCeC* pattern
+- **Q5:** Root: *k-t-b*; Stem: Peal; Form: perfect 3 f.sg. — "she wrote" (unvocalized ܟܬܒܬ also spells 2 m.sg. *ktabt* and 1 c.sg. *ktabet*)
 
 **Exercise 1: Identification**
 
+| **#** | **Stem** | **Person** | **Root** | **Meaning** |
+|---:|:---|:---|:---|:---|
+| 1 | Aphel | 3 m.sg. | *k-r-z* | he proclaimed |
+| 2 | Peal | 3 m.sg. | *k-t-b* | he wrote |
+| 3 | Aphel | 3 m.sg. | *ḥ-y-y* | he gave life / saved |
+| 4 | Peal | 3 m.sg. | *ʾ-z-l* | he went |
+| 5 | Aphel | 3 m.sg. | *q-r-b* | he brought near |
+| 6 | Aphel Ptcp | m.sg. | *q-r-b* | bringing near |
+| 7 | Peal | 3 m.sg. | *š-m-ʿ* | he heard |
+| 8 | Aphel | 3 m.sg. | *n-p-q* | he brought out |
+| 9 | Peal Ptcp | m.sg. | *k-t-b* | writing / writer |
+| 10 | Aphel | 3 m.sg. | *g-l-y* | he revealed |
 
-  -------- ------------ ------------ ------------ ------------------------------
-   **\#**    **Stem**    **Person**    **Root**            **Meaning**
+**Exercise 2: Conjugation Drill**
 
-     1        Aphel       3 m.sg.       ʾ-l-p               he taught
-
-     2         Peal       3 m.sg.       k-t-b                he wrote
-
-     3        Aphel       3 m.sg.       ḥ-y-y              he gave life
-
-     4         Peal       3 m.sg.       ʾ-z-l                he went
-
-     5        Aphel       3 m.sg.       q-r-b            he brought near
-
-     6      Aphel Ptcp     m.sg.        ʾ-l-p                teaching
-
-     7         Peal       3 m.sg.       š-m-ʿ                he heard
-
-     8        Aphel       3 m.sg.       n-p-q             he brought out
-
-     9      Peal Ptcp      m.sg.        k-t-b             writing/writer
-
-     10       Aphel       3 m.sg.       g-l-y              he revealed
-
-  -------- ------------ ------------ ------------ ------------------------------
+1. **Root *š-l-m* (Aphel: *ʾašlem*)** — *Perfect:* 3 m.sg. ܐܫܠܡ (*ʾašlem*), 3 f.sg. ܐܫܠܡܬ (*ʾašlmat*), 2 m.sg. ܐܫܠܡܬ (*ʾašlemt*), 2 f.sg. ܐܫܠܡܬܝ (*ʾašlemt(y)*), 1 c.sg. ܐܫܠܡܬ (*ʾašlmet*), 3 m.pl. ܐܫܠܡܘ (*ʾašlemū*), 3 f.pl. ܐܫܠܡ / ܐܫܠܡܝ (*ʾašlem*), 2 m.pl. ܐܫܠܡܬܘܢ (*ʾašlemtūn*), 2 f.pl. ܐܫܠܡܬܝܢ (*ʾašlemtēn*), 1 c.pl. ܐܫܠܡܢ (*ʾašlemn*). *Participle:* m.sg. ܡܫܠܡ (*mašlem*), f.sg. ܡܫܠܡܐ (*mašlmā*), m.pl. ܡܫܠܡܝܢ (*mašlmīn*), f.pl. ܡܫܠܡܢ (*mašlmān*).
+2. **Root *r-w-m* (Aphel: *ʾarīm*)** — *Perfect:* 3 m.sg. ܐܪܝܡ (*ʾarīm*), 3 f.sg. ܐܪܝܡܬ (*ʾarīmat*), 2 m.sg. ܐܪܝܡܬ (*ʾarīmt*), 2 f.sg. ܐܪܝܡܬܝ (*ʾarīmt(y)*), 1 c.sg. ܐܪܝܡܬ (*ʾarīmet*), 3 m.pl. ܐܪܝܡܘ (*ʾarīmū*), 3 f.pl. ܐܪܝܡ / ܐܪܝܡܝ (*ʾarīm*), 2 m.pl. ܐܪܝܡܬܘܢ (*ʾarīmtūn*), 2 f.pl. ܐܪܝܡܬܝܢ (*ʾarīmtēn*), 1 c.pl. ܐܪܝܡܢ (*ʾarīmn*). *Participle:* m.sg. ܡܪܝܡ (*mrīm*), f.sg. ܡܪܝܡܐ (*mrīmā*), m.pl. ܡܪܝܡܝܢ (*mrīmīn*), f.pl. ܡܪܝܡܢ (*mrīmān*).
 
 **Exercise 3: Translation**
 
-
-  -------- ------------------------------------------------------------------
-   **\#**                           **Translation**
-
-     1                           God saved his people.
-
-     2                      Yukhannan taught his disciples.
-
-     3                       He brought them out of prison.
-
-     4                       The Spirit revealed the truth.
-
-     5                  The Lord brought us near to his kingdom.
-
-     6                         I am teaching you the way.
-
-     7                   You (m.sg.) have exalted your servant.
-
-     8                    This is the teaching of the kingdom.
-
-  -------- ------------------------------------------------------------------
+| **#** | **Translation** |
+|---:|:---|
+| 1 | God saved his people. |
+| 2 | Yukhannan proclaimed to his disciples. |
+| 3 | He brought them out of prison. |
+| 4 | The Spirit revealed the truth. |
+| 5 | The Lord brought us near to his kingdom. |
+| 6 | I am proclaiming to you the way. |
+| 7 | You (m.sg.) have exalted your servant. |
+| 8 | This is the teaching of the kingdom. |
 
 **Exercise 4: Production (sample answers)**
 
-
-1. *Alāhā ʾaglī šūbḥeh l-ʿammā*
-
-2. *ʾalepat l-yalūdē nāmūsā*
-
-3. *Rūḥā ʾappaqeh men madbārā*
-
-4. *ʾaqrebtūn qūrbānā*
-
-5. *Nebīyā ʾaḥyī l-mītē*
-
-6. *Māryā ʾrīm l-makīkē*
+1. *ʾAlāhā ʾaglī šūbḥeh l-ʿammā* (ܐܠܗܐ ܐܓܠܝ ܫܘܒܚܗ ܠܥܡܐ)
+2. *ʾAkrzat nāmūsā l-yalūdē* (ܐܟܪܙܬ ܢܡܘܣܐ ܠܝܠܘܕܐ)
+3. *Rūḥā ʾappeq leh men madbrā* (ܪܘܚܐ ܐܦܩ ܠܗ ܡܢ ܡܕܒܪܐ)
+4. *ʾAqrebtūn qūrbānā* (ܐܩܪܒܬܘܢ ܩܘܪܒܢܐ)
+5. *Nbīyā ʾaḥī l-mītē* (ܢܒܝܐ ܐܚܝ ܠܡܝܬܐ)
+6. *Māryā ʾarīm l-makkīkē* (ܡܪܝܐ ܐܪܝܡ ܠܡܟܝܟܐ)
 
 **Exercise 5: Comprehension**
 
-
-  -------- ------------------------------------------------------------------
-   **\#**                              **Answer**
-
-     1               To teach them the way of life (ʾūrḥā d-ḥayye).
-
-     2       ʾaḥyī (saved/gave life), ʾaglī (revealed), ʾaqrebtūn (brought
-                                         near).
-
-     3                     'Who are you, and who sent you?'
-
-     4                    As the servant (ʿabdeh) of the Lord.
-
-     5                     The Spirit of God (Rūḥā d-Alāhā).
-
-  -------- ------------------------------------------------------------------
+| **#** | **Answer** |
+|---:|:---|
+| 1 | The Lord sent him and made known (*ʾawdaʿ*) to them the way of life (*ʾūrḥā d-ḥayyē*). |
+| 2 | *ʾaḥī* (saved/gave life), *ʾaglī* (revealed), *ʾaqrebtūn* (you have drawn near / offered). |
+| 3 | "Who are you, and who sent you?" (*man ʾant w-man šaddar lāḵ?*) |
+| 4 | As the servant (*ʿabdeh*) of the Lord (*d-Māryā*). |
+| 5 | The Lord (*Hū*, referring to *Māryā*) brought him out of the wilderness (s. 10), and the Spirit of God (*rūḥā d-ʾAlāhā*) gave him life and brought him near to his kingdom (s. 11). |
 
 #### Section 10: Grammatical Summary
 
-
 **THE APHEL STEM — FORMATION RULES**
 
-
-  ------------------ ------------------------- ---------------------------
-     **Feature**             **Rule**                  **Example**
-
-    Perfect prefix    ʾa- (Ayin-Alaph) before   ʾa + R1 + e + R2 + suffix
-                               root            
-
-   Perfect 3 m.sg.   ʾa + R1R2eR3 (no suffix)     ʾalep, ʾaḥyī, ʾaqreb
-
-      Suffix set       Same as Peal perfect    -at, -t, -ti, -et, -ū, -ī,
-                                                     -tūn, -tin, -n
-
-  Participle prefix       m- before root           m + ʾ + R2 + e + R3
-
-  Participle 3 m.sg.        maʾ + R2eR3                  maʾlep
-
-      Participle      Same as all participles   -ā (f.sg.), -īn (m.pl.),
-       suffixes                                        -ān (f.pl.)
-
-     Core meaning            Causative         'to cause X to happen' /
-                                                   'to make X do Y'
-
-  ------------------ ------------------------- ---------------------------
+| **Feature** | **Rule** | **Example** |
+|:---|:---|:---|
+| Perfect prefix | *ʾa-* (Alaph) before root | *ʾa* + R1 + R2 + *e* + R3 |
+| Perfect 3 m.sg. | *ʾa* + R1R2*e*R3 (no suffix) | *ʾaqreb*, *ʾakrez*, *ʾaḥī* |
+| Suffix set | Same as Peal perfect | *-at*, *-t*, *-t(y)**, *-et*, *-ū*, zero/*-y*, *-tūn*, *-tēn*, *-n* |
+| Participle prefix | *m-* before stem | *m* + *a* + R1 + R2 + *e* + R3 |
+| Participle m.sg. | *ma*R1R2*e*R3 | *maqreb*, *makrez*, *mappeq* |
+| Participle suffixes | Same as all participles | *-ā* (f.sg.), *-īn* (m.pl.), *-ān* (f.pl.) |
+| Core meaning | Causative | "to cause X to happen" / "to make X do Y" |
 
 **Meaning Pattern**
 
+> **PEAL (basic) + ʾa- prefix = APHEL (causative)**
+> *"to X" → "to cause to X" / "to make X happen"*
+> *ḥ-y-y*: live → *ʾaḥī*: give life/save | *q-r-b*: draw near → *ʾaqreb*: bring near | *n-p-q*: go out → *ʾappeq*: bring out
 
-> **PEAL (basic) + ʾa- prefix = APHEL (causative)** *'to X' → 'to
-> cause to X' / 'to make X happen'* ḥ-y-y: live → ʾaḥyī: give
-> life/save \| q-r-b: draw near → ʾaqreb: bring near \| n-p-q: go out →
-> ʾappeq: bring out
+**Comparative Summary: Three Active Stems**
 
-**Comparative Summary: Three Stems**
+| **Stem** | **Meaning** | **Perfect 3 m.sg.** | **Participle m.sg.** | **Translation** |
+|:---|:---|:---|:---|:---|
+| Peal | Basic | *ktab* (ܟܬܒ) | *kāteb* (ܟܬܒ) | "he wrote" / "writing" |
+| Paael | Intensive / Factitive | *qaddeš* (ܩܕܫ) | *mqaddeš* (ܡܩܕܫ) | "he sanctified" / "sanctifying" |
+| Aphel | Causative | *ʾaqreb* (ܐܩܪܒ) | *maqreb* (ܡܩܪܒ) | "he brought near" / "bringing near" |
 
-
-  ---------- --------------------- --------------- --------------- -----------------
-   **Stem**       **Meaning**        **Perfect 3    **Participle    **Translation**
-                                       m.sg.**         m.sg.**     
-
-     Peal            Basic              katab           kāteb       'he wrote' /
-                                                                      'writing'
-
-    Paael     Intensive/Factitive      qaddaš          mqaddeš     'he sanctified'
-                                                                   / 'sanctifying'
-
-    Aphel          Causative           ʾalep          maʾlep       'he taught' /
-                                                                     'teaching'
-
-  ---------- --------------------- --------------- --------------- -----------------
-
-> **Remember: In all three derived stems (Paael, Aphel, Ethpaael, etc.),
-> the active participle always takes a m- prefix. This is your clearest
-> signal that you are reading a derived-stem participle.**
+> **Remember: In all derived stems (Paael, Aphel, Ethpeel, Etpaael, Ettaphal), the participle always takes a m- prefix. This is your clearest signal that you are reading a derived-stem participle.**
 
 #### Section 11: Additional Vocabulary
 
+The following 15 high-frequency Aphel verbs expand your repertoire of causative verbs in Syriac narrative.
 
-The following high-frequency words round out this lesson's vocabulary
-to 15 terms.
-
-  -----------------------------------------------------------------------
-  Estrangela        Transliteration   Gender/Type       Meaning
-
-  ----------------- ----------------- ----------------- -----------------
-  ܐܚܝܐ              ʾaḥyā             m                 give life
-
-  ܐܓܠܐ              ʾaglā             m                 reveal
-
-  ܐܠܒܫ              ʾalbāš            m                 clothe
-
-  ܐܦܩܕ              ʾapqad            m                 entrust
-
-  ܐܪܡܝ              ʾarmī             m                 lift up
-
-  ܐܫܕܪ              ʾašdar            m                 send
-
-  ܐܠܦܐ              ʾalpā             m                 teach
-
-  ܐܓܠܘܬܐ             aglūtā            f                 revelation
-
-  ܐܫܕܘܬܐ             asdūtā            f                 sending
-
-  ܐܥܠܘܬܐ             aʿlūtā            f                 ascent
-
-  ܐܠܦܘܬܐ             alpūtā            f                 teaching
-
-  ܐܣܬܡܐ             ʾastmā            m                 hide
-
-  ܐܠܒܘܫܐ             albūšā            m                 clothing
-
-  ܐܩܪܒ              ʾaqrab            m                 bring near
-
-  ܐܩܘܡ              ʾaqūm             m                 raise, stand
-
-  -----------------------------------------------------------------------
+| Estrangela | Transliteration | Gender/Type | Meaning |
+|:---|:---|:---|:---|
+| ܐܠܒܫ | *ʾalbeš* | verb | clothe |
+| ܐܦܩܕ | *ʾapqed* | verb | entrust, charge |
+| ܐܪܡܝ | *ʾarmī* | verb | cast, put |
+| ܐܩܝܡ | *ʾaqīm* | verb | raise up, establish |
+| ܐܣܓܝ | *ʾasgī* | verb | multiply, increase |
+| ܐܘܟܠ | *ʾawkel* | verb | feed |
+| ܐܘܬܒ | *ʾawteb* | verb | seat, settle |
+| ܐܥܠ | *ʾaʿel* | verb | bring in |
+| ܐܣܩ | *ʾasseq* | verb | bring up |
+| ܐܚܬ | *ʾaḥḥet* | verb | bring down |
+| ܐܦܢܝ | *ʾapnī* | verb | turn back, convert |
+| ܐܫܠܡ | *ʾašlem* | verb | hand over, deliver |
+| ܐܫܟܚ | *ʾeškaḥ* | verb | find, be able |
+| ܐܘܒܕ | *ʾawbed* | verb | destroy, lose |
+| ܐܘܕܥ | *ʾawdaʿ* | verb | make known |

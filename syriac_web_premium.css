@@ -145,6 +145,32 @@ body > p:first-of-type em,
   margin-bottom: 0.3rem;
 }
 
+/* ─── Chapter Image ──────────────────────────────────────────────── */
+.chapter-image {
+  margin: 1.5rem auto 2rem;
+  text-align: center;
+  max-width: 650px;
+}
+
+.chapter-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--border);
+  display: block;
+  margin: 0 auto;
+}
+
+.chapter-image .caption {
+  font-family: var(--ui-font);
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.6rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
 /* Divider after header */
 hr {
   border: none;

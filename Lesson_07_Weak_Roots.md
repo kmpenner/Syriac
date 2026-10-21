@@ -2,6 +2,11 @@
 
 ### Navigating Weak Roots: I-Alaph, I-Yodh, and III-Yodh verbs
 
+<div class="chapter-image">
+  <img src="images/Lesson_07.jpg" alt="The ancient citadel and pillars of Urfa (classical Edessa)." />
+  <p class="caption"><em>The ancient citadel and pillars of Urfa (classical Edessa).</em></p>
+</div>
+
 ---
 
 #### Section 1: Review of Lessons 5–6
@@ -9,7 +14,7 @@
 
 **Quick Summary**
 
-In Lessons 5 and 6, we expanded our vocabulary exponentially by learning how Semitic roots generate new meanings through derived stems. The **Aphel** stem (prefix *ʾa-*) generates causative verbs (e.g., God *ʾaḥyī* "gave life"). The **Paael** stem (doubled middle radical) generates intensive or factitive verbs (e.g., *qaddaš* "he made holy"). 
+In Lessons 5 and 6, we expanded our vocabulary exponentially by learning how Semitic roots generate new meanings through derived stems. The **Aphel** stem (prefix *ʾa-*) generates causative verbs (e.g., God *ʾaḥī* "gave life", *ʾaqreb* "brought near"). The **Paael** stem (doubled middle radical) generates intensive or factitive verbs (e.g., *qaddeš* "he made holy", *ʾallep* "he taught"). 
 
 **5-Question Warm-Up Drill**
 
@@ -17,8 +22,8 @@ In Lessons 5 and 6, we expanded our vocabulary exponentially by learning how Sem
 
 1. What stem does a verb belonging to the pattern *ʾaCCeC* belong to (e.g., *ʾaqreb*)?
 2. What consonant prefix marks the active participle of *all* derived stems (Aphel, Paael, etc.)?
-3. Translate: *Alāhā ʾaglī šrārā*.
-4. If *q-d-š* in Peal means "to be holy", what does it mean in Paael (*qaddaš*)?
+3. Translate: *ʾAlāhā ʾaglī šrārā* (ܐܠܗܐ ܐܓܠܝ ܫܪܪܐ).
+4. If *q-d-š* in Peal means "to be holy", what does it mean in Paael (*qaddeš*)?
 5. How would you recognize a Paael participle versus a Peal participle?
 
 ---
@@ -60,7 +65,7 @@ Very common verbs like *y-d-ʿ* (to know) and *y-t-b* (to sit). The initial `y` 
 
 *   *y-d-ʿ* $\rightarrow$ *īdaʿ* (he knew).
 *   *y-t-b* $\rightarrow$ *īteb* (he sat).
-*Note: The verb y-h-b (to give) is highly irregular and behaves like a strong verb without an internal vowel: yahb (he gave).*
+*Note: The verb y-h-b (to give) is irregular in the perfect: yahb / yhab (he gave), where the h is silent in pronunciation (yab).*
 
 **3. III-Yodh Verbs (Third consonant is Yodh)**
 
@@ -82,10 +87,12 @@ Because III-Yodh verbs lose their third consonant so frequently, memorizing thei
 | **3 m.sg.** | ܚܙܐ | ḥzā | he saw | Ends in *ā* (Alaph) |
 | **3 f.sg.** | ܚܙܬ | ḥzāt | she saw | Ends in *āt* |
 | **2 m.sg.** | ܚܙܝܬ | ḥzayt | you (m) saw | Yodh reappears, *ay* diphthong |
-| **2 f.sg.** | ܚܙܝܬܝ | ḥzaytī | you (f) saw | Yodh reappears |
+| **2 f.sg.** | ܚܙܝܬܝ | ḥzayt(y) | you (f) saw | Yodh reappears |
 | **1 c.sg.** | ܚܙܝܬ | ḥzēt | I saw | Yodh contracts with *et* to *ēt* |
 | **3 m.pl.** | ܚܙܘ | ḥzaw | they (m) saw | *w* makes *aw* diphthong |
 | **3 f.pl.** | ܚܙܝ | ḥzay | they (f) saw | *y* makes *ay* diphthong |
+| **2 m.pl.** | ܚܙܝܬܘܢ | ḥzaytūn | you (m.pl) saw | *ay* diphthong + *-tūn* |
+| **2 f.pl.** | ܚܙܝܬܝܢ | ḥzaytēn | you (f.pl) saw | *ay* diphthong + *-tēn* |
 | **1 c.pl.** | ܚܙܝܢ | ḥzayn | we saw | *ay* diphthong |
 
 ---
@@ -124,7 +131,7 @@ Two of the most common verbs in Syriac are doubly weak and highly irregular.
 | ܐ.ܬ.ܝ | ʾetā (ܐܬܐ) | to come | I-Alaph & III-Yodh |
 | ܗ.ܘ.ܝ | hwā (ܗܘܐ) | to be/become | III-Yodh |
 | (Noun)| ܪܘܓܙܐ (rūgzā) | anger/wrath | Emotion abstract |
-| (Noun)| ܗܡܙܡܢ (hemzman)| word / report | Court term |
+| (Noun)| ܛܒܐ (ṭebbā) | report / tidings | Court term |
 
 ---
 
@@ -133,20 +140,20 @@ Two of the most common verbs in Syriac are doubly weak and highly irregular.
 
 **The Summons**
 
-*Narrative note: Pay attention to the massive use of weak roots—ʾemar (said), ʾezal (went), īdaʿ (knew), hwā (was/became), ḥzaw (they saw), ʾetā (came).*
+*Narrative note: Pay attention to the massive use of weak roots—ʾemar (said), ʾezal (went), īdaʿ (knew), hwā (was/became), ḥzayn (we saw), ʾetā (came).*
 
 **Sentence 1**
 
-ܟܕ ܐܡܪ ܝܘܚܢܢ ܡܠܬܐ ܕܐܠܗܐ، ܐܙܠܘ ܩܫܝܫܐ ܠܘܬ ܡܠܟܐ
-kad ʾemar Yūḥannan meltā d-Alāhā, ʾezalū qašīšē l-wāt malkā.
-kad (when) ʾemar (said) Yūḥannan (John) meltā (the-word) d-Alāhā (of-God), ʾezalū (went) qašīšē (the-elders/guards) l-wāt (to-the-presence-of) malkā (the-king).
+ܟܕ ܐܡܪ ܝܘܚܢܢ ܡܠܬܐ ܕܐܠܗܐ ܐܙܠܘ ܢܛܘܪܐ ܠܘܬ ܡܠܟܐ
+kad ʾemar Yūḥannan meltā d-ʾAlāhā, ʾezalū nāṭōrē lwāt malkā.
+kad (when) ʾemar (said) Yūḥannan (John) meltā (the-word) d-ʾAlāhā (of-God), ʾezalū (went) nāṭōrē (the-guards) lwāt (to-the-presence-of) malkā (the-king).
 → When Yukhannan said the word of God, the guards went to the king.
 
 **Sentence 2**
 
 ܐܡܪܝܢ ܠܗ ܝܕܥܝܢ ܚܢܢ ܡܐ ܗܘܐ ܒܬܪܥܐ
-ʾāmrīn l-eh: yādʿīn-ḥnan mā hwā b-tarʿā!
-ʾāmrīn (they-[are]-saying) l-eh (to-him): yādʿīn (knowing) -ḥnan (are-we) mā (what) hwā (happened/was) b-tarʿā (in-the-gate)!
+ʾāmrīn leh: yādʿīn ḥnan mā hwā b-tarʿā!
+ʾāmrīn (they-[are]-saying) leh (to-him): yādʿīn (knowing) ḥnan (are-we) mā (what) hwā (happened/was) b-tarʿā (in-the-gate)!
 → They say to him: "We know what happened at the gate!"
 
 **Sentence 3**
@@ -159,15 +166,15 @@ kad (when) ʾemar (said) Yūḥannan (John) meltā (the-word) d-Alāhā (of-God)
 **Sentence 4**
 
 ܗܘܐ ܗܫܐ ܡܠܟܐ ܪܓܝܙ ܛܒ 
-hwā hāšā malkā ragīz ṭāb.
-hwā (became/was) hāšā (now) malkā (the-king) ragīz (angry) ṭāb (greatly/very).
+hwā hāšā malkā rgīz ṭāb.
+hwā (became/was) hāšā (now) malkā (the-king) rgīz (angry) ṭāb (greatly/very).
 → Now the king was very angry.
 
 **Sentence 5**
 
-ܐܡ̣ܪ ܡܠܟܐ ܠܩܫܝܫܐ ܐܝܬܝܘܗܝ ܠܗܪܟܐ
-ʾemar malkā l-qašīšē: ʾaytāw-hy l-harkā!
-ʾemar (said) malkā (the-king) l-qašīšē (to-the-guards): ʾaytāw-hy (let-them-bring-him [Aphel imperative]) l-harkā (to-here)!
+ܐܡܪ ܡܠܟܐ ܠܢܛܘܪܐ ܐܝܬܝܘܗܝ ܠܗܪܟܐ
+ʾemar malkā l-nāṭōrē: ʾaytiwhy l-harkā!
+ʾemar (said) malkā (the-king) l-nāṭōrē (to-the-guards): ʾaytiwhy (bring-him! [Aphel imperative pl. of ʾ-t-y + 3m.sg. suffix]) l-harkā (to-here)!
 → The king said to the guards: "Bring him here!"
 
 **Sentence 6**
@@ -204,8 +211,8 @@ Conjugate the root *ʾ-m-r* (to say) in the Peal perfect for:
 
 Translate the following past narrative clauses involving weak verbs.
 
-1. ʾEmarū qašīšē meltā.
-2. Ḥzayn nūhrā d-Alāhā b-tarʿā.
+1. ʾEmarū nāṭōrē meltā.
+2. Ḥzayn nūhrā d-ʾAlāhā b-tarʿā.
 3. W-īdaʿ malkā rūgzā (wrath).
 4. Hwaw b-ʾarʿā.
 
@@ -215,7 +222,7 @@ Render the following narrative sentences into Syriac transliteration. (Remember 
 
 1. The evil king saw (ḥzā) the man.
 2. We came (ʾetayn) to the kingdom.
-3. I gave (yahbet) the garment to the guard (*qašīšā*).
+3. I gave (yahbet) the garment to the guard (*nāṭōrā*).
 4. John knew (*īdaʿ*) the word of God.
 
 **Exercise 5: Reading Comprehension**
@@ -234,10 +241,10 @@ Re-read Section 7 and answer:
 **Section 1 Warm-Up**
 
 1. Aphel. (Causative). 
-2. *Mīm* (m-). e.g., *maʾlep*, *mqaddeš*.
+2. *Mīm* (m-). e.g., *maqreb*, *mqaddeš*, *mallep*.
 3. God revealed the truth.
 4. To make holy / to sanctify.
-5. The vowel pattern: *mqaddeš* (Paael) vs *kāteb* (Peal). The Peal has no *m-* prefix in the active participle.
+5. The vowel pattern and prefix: *mqaddeš* (Paael) vs *kāteb* (Peal). The Peal has no *m-* prefix in the active participle.
 
 **Exercise 1: Weak Root Identification**
 
@@ -263,15 +270,15 @@ Re-read Section 7 and answer:
 **Exercise 4: Production Drill**
 
 1. Ḥzā malkā bīšā l-gabrā. (*l-* marks direct object).
-2. ʾEtayn l-malkūttā.
-3. Yahbet lbūšā l-qašīšā.
-4. Īdaʿ Yūḥannan meltā d-Alāhā.
+2. ʾEtayn l-malkūtā.
+3. Yahbet lbūšā l-nāṭōrā.
+4. Īdaʿ Yūḥannan meltā d-ʾAlāhā.
 
 **Exercise 5: Reading Comprehension**
 
 1. To the king.
 2. A man who said an evil word.
-3. He became very angry (*ragīz ṭāb*) and demanded the man be brought to him.
+3. He became very angry (*rgīz ṭāb*) and demanded the man be brought to him.
 
 ---
 
@@ -291,37 +298,36 @@ Re-read Section 7 and answer:
 
 #### Section 11: Additional Vocabulary
 
-The following 30 genuinely new high-frequency words supplement this lesson's vocabulary, focusing on derived nouns (abstract and concrete) from weak roots and related weak-root vocabulary.
+The following 28 high-frequency words supplement this lesson's vocabulary, focusing on derived nouns from weak roots.
 
 | Estrangela | Transliteration | Gender/Type | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ܚܕܝܘܬܐ | ḥədāyūttā | f. noun | oneness, unity | from root ḥ-d-y |
-| ܕܡܘܬܐ | dəmūttā | f. noun | likeness, image | from root d-m-y (to be like) |
+| ܚܕܝܘܬܐ | ḥdāyūtā | f. noun | oneness, unity | from root ḥ-d-y |
+| ܕܡܘܬܐ | dmūtā | f. noun | likeness, image | from root d-m-y (to be like) |
 | ܚܙܘܐ | ḥezwā | m. noun | vision, sight | from III-Yodh root ḥ-z-y |
 | ܒܢܝܢܐ | benyānā | m. noun | building, structure | from III-Yodh root b-n-y |
-| ܡܣܩܬܐ | masqətā | f. noun | ascent, exaltation | from root s-l-q |
-| ܩܪܘܬܐ | qərūttā | f. noun | calling, vocation | from III-Alaph/Yodh root q-r-ʾ |
-| ܥܘܕܪܢܐ | ʿawdərānā | m. noun | help, aid | from root ʿ-d-r |
-| ܝܙܦܐ | yāzəpā | m. noun | beauty, loan | from root y-z-p |
-| ܡܘܗܒܬܐ | mawhaḇtā | f. noun | gift, offering | from I-Yodh root y-h-b |
-| ܡܐܬܝܬܐ | meʾtīttā | f. noun | coming, arrival | from weak root ʾ-t-y |
-| ܗܘܝܐ | hewyā | m. noun | being, existence | from III-Yodh root h-w-y |
+| ܡܣܩܬܐ | masqtā | f. noun | ascent, exaltation | from root s-l-q |
+| ܩܪܝܢܐ | qeryānā | m. noun | reading, calling | from III-Alaph root q-r-ʾ |
+| ܥܘܕܪܢܐ | ʿūdrānā | m. noun | help, aid | from root ʿ-d-r |
+| ܝܙܦܬܐ | īzaptā | f. noun | loan, borrowing | from root y-z-p (cf. *yazpā* "borrower") |
+| ܡܘܗܒܬܐ | mawhabtā | f. noun | gift, offering | from I-Yodh root y-h-b |
+| ܡܐܬܝܬܐ | meʾtītā | f. noun | coming, arrival | from weak root ʾ-t-y |
+| ܗܘܝܐ | hwāyā | m. noun | being, genesis, existence | verbal noun from h-w-y (f.sg. ptcp. is *hāwyā*) |
 | ܥܠܡܐ | ʿālmā | m. noun | world, eternity | from root ʿ-l-m |
-| ܕܘܩܐ | dūqā | m. noun | observation, look-out | from weak root d-w-q |
-| ܓܘܪܐ | gūrā | m. noun | dwelling, cave | from weak root g-w-r |
-| ܛܘܦܣܐ | ṭūpsā | m. noun | pattern, type | loanword/concept |
-| ܩܘܡܐ | qūmā | m. noun | standing, height | from root q-y-m |
-| ܢܒܝܐ | nḇīyā | m. noun | prophet | from root n-b-ʾ |
-| ܥܘܫܢܐ | ʿūšnā | m. noun | strength, power | from root ʿ-š-n |
-| ܣܗܕܘܬܐ | sāhdūttā | f. noun | testimony, witness | from root s-h-d |
-| ܪܘܡܐ | rawmā | m. noun | highness, height | from weak root r-w-m |
-| ܩܪܐ | qərā | m. noun | cold | from weak root q-r-ʾ |
-| ܚܠܡܐ | ḥelmā | m. noun | dream | from weak root ḥ-l-m |
-| ܕܝܫܐ | dayšā | m. noun | trampling, treading | from weak root d-w-š |
-| ܝܠܠܬܐ | yaleltā | f. noun | lamenting, wailing | from root y-l-l |
-| ܦܘܪܐ | pūrā | m. noun | winepress, fruit | from weak root p-w-r |
+| ܕܘܩܐ | dūqā | m. noun | aim, gaze, spectacle | from hollow root d-w-q |
+| ܡܥܪܬܐ | mʿarrtā | f. noun | cave, den | from root ʿ-r-r |
+| ܛܘܦܣܐ | ṭūpsā | m. noun | pattern, type | from Greek typos |
+| ܩܘܡܐ | qūmā | m. noun | stature, standing | from root q-w-m |
+| ܢܒܝܐ | nbīyā | m. noun | prophet | from root n-b-y |
+| ܣܗܕܘܬܐ | sāhdūtā | f. noun | testimony, witness | from root s-h-d |
+| ܩܘܪܐ | qūrā | m. noun | cold | from geminate root q-r-r |
+| ܚܠܡܐ | ḥelmā | m. noun | dream | from root ḥ-l-m |
+| ܕܝܫܐ | dayšā | m. noun | trampling, treading | from hollow root d-w-š |
+| ܝܠܠܬܐ | yīlaltā | f. noun | lamenting, wailing | from root y-l-l |
+| ܡܥܨܪܬܐ | maʿṣartā | f. noun | winepress | from root ʿ-ṣ-r |
 | ܐܣܘܪܐ | ʾesūrā | m. noun | bond, chain | from root ʾ-s-r |
-| ܫܠܝܐ | šelyā | m. noun | quiet, peace | from weak root š-l-y |
-| ܐܬܐ | ʾātā | f. noun | sign, omen | from root ʾ-t-y |
-| ܢܝܚܐ | nyāḥā | m. noun | rest, tranquility | from weak root n-w-ḥ |
+| ܫܠܝܐ | šelyā | m. noun | quiet, stillness | from weak root š-l-y |
+| ܐܬܐ | ʾātā | f. noun | sign, miracle | from root ʾ-t-y |
+| ܢܝܚܐ | nyāḥā | m. noun | rest, tranquility | from hollow root n-w-ḥ |
 | ܒܗܬܬܐ | behttā | f. noun | shame, disgrace | from root b-h-t |
+

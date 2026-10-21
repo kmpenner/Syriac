@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
 <question type="description"><name><text>Module 3 · Lesson 9</text></name><questiontext format="html"><text><![CDATA[<h3><strong>Commands and Intentions</strong></h3>
-
+<div class="chapter-image">
+<img src="images/Lesson_09.jpg" alt="The righteous men in the fiery furnace (J.J. Tissot)." />
+<p class="caption">
+<em>The righteous men in the fiery furnace (J.J. Tissot).</em>
+</p>
+</div>
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 1: Review of Lessons 1–8</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lessons 1–8</h3>
 <p>Before diving into new material, take a moment to consolidate what
 you have learned so far. Lessons 1–8 have introduced you to the
 following foundational topics:</p>
 <ul>
-<li><p><strong>Lesson 0:</strong> The Estrangela alphabet</p></li>
-<li><p><strong>Lesson 1:</strong> Noun states, independent pronouns,
-verbless clauses, and the particles <em>d-</em> and <em>l-</em></p></li>
-<li><p><strong>Lesson 2:</strong> The Peal active participle with
-enclitic pronouns (the narrative present)</p></li>
-<li><p><strong>Lesson 3:</strong> The Peal perfect (<em>qṭal</em>) — all
-persons and numbers; V-S-O word order</p></li>
-<li><p><strong>Lesson 4:</strong> Pronominal suffixes on nouns and
-prepositions; <em>ʾit l-</em> (“to have”)</p></li>
-<li><p><strong>Lesson 5:</strong> The Aphel stem — causation</p></li>
-<li><p><strong>Lesson 6:</strong> The Paael stem — intensive and
-factitive meaning</p></li>
-<li><p><strong>Lesson 7:</strong> Weak roots: I-Alaph, I-Yodh, and
-III-Yodh verbs</p></li>
-<li><p><strong>Lesson 8:</strong> The Peal imperfect (<em>neqṭol</em>):
-the future, and <em>d-</em> + imperfect for purpose</p></li>
+<li><strong>Lesson 0:</strong> The Estrangela alphabet</li>
+<li><strong>Lesson 1:</strong> Noun states, independent pronouns,
+verbless clauses, and the particles <em>d-</em> and <em>l-</em></li>
+<li><strong>Lesson 2:</strong> The Peal active participle with enclitic
+pronouns (the narrative present)</li>
+<li><strong>Lesson 3:</strong> The Peal perfect (<em>qṭal</em>) — all
+persons and numbers; V-S-O word order</li>
+<li><strong>Lesson 4:</strong> Pronominal suffixes on nouns and
+prepositions; <em>ʾīt l-</em> (“to have”)</li>
+<li><strong>Lesson 5:</strong> The Aphel stem — causation
+(<em>ʾaqreb</em>)</li>
+<li><strong>Lesson 6:</strong> The Paael stem — intensive and factitive
+meaning (<em>barrek</em>, <em>qaddeš</em>, <em>ʾallep</em>)</li>
+<li><strong>Lesson 7:</strong> Weak roots: I-Alaph, I-Yodh, and III-Yodh
+verbs</li>
+<li><strong>Lesson 8:</strong> The Peal imperfect (<em>neqṭūl</em> /
+<em>neqṭol</em>): the future, and <em>d-</em> + imperfect for
+purpose</li>
 </ul>
 <p><strong>Warm-Up Drill: Five Quick Questions</strong></p>
 <p>Answer each question from memory before checking against your notes.
@@ -36,44 +43,51 @@ Write your answer in full Syriac script with transliteration.</p>
 <col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th>#</th>
-<th>Question</th>
-<th>Expected answer</th>
-<th>Syriac</th>
+<tr class="header">
+<th style="text-align: right;">#</th>
+<th style="text-align: left;">Question</th>
+<th style="text-align: left;">Expected answer</th>
+<th style="text-align: left;">Syriac</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>What is the Peal perfect 3 m.sg. of <em>k-t-b</em> (write)?</td>
-<td><em>ktab</em> — he wrote</td>
-<td>ܟܬܒ</td>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">What is the Peal perfect 3 m.sg. of
+<em>k-t-b</em> (write)?</td>
+<td style="text-align: left;"><em>ktab</em> — he wrote</td>
+<td style="text-align: left;">ܟܬܒ</td>
 </tr>
-<tr>
-<td>2</td>
-<td>What is the Peal imperfect 3 m.sg. of <em>š-m-ʿ</em> (hear)?</td>
-<td><em>nešmaʿ</em> — he will hear</td>
-<td>ܢܫܡܥ</td>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">What is the Peal imperfect 3 m.sg. of
+<em>š-m-ʿ</em> (hear)?</td>
+<td style="text-align: left;"><em>nešmaʿ</em> — he will hear</td>
+<td style="text-align: left;">ܢܫܡܥ</td>
 </tr>
-<tr>
-<td>3</td>
-<td>How do you say “the king commanded” (<em>p-q-d</em>, 3 m.sg.
-perfect)?</td>
-<td><em>pqad malkā</em> — the king commanded</td>
-<td>ܦܩܕ ܡܠܟܐ</td>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">How do you say “the king commanded”
+(<em>p-q-d</em>, 3 m.sg. perfect)?</td>
+<td style="text-align: left;"><em>pqad malkā</em> — the king
+commanded</td>
+<td style="text-align: left;">ܦܩܕ ܡܠܟܐ</td>
 </tr>
-<tr>
-<td>4</td>
-<td>What does the Paael stem add to the root’s meaning?</td>
-<td>Intensity, repetition, or a denominative meaning</td>
-<td>—</td>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">What does the Paael stem add to the root’s
+meaning?</td>
+<td style="text-align: left;">Intensity, repetition, or
+factitive/denominative meaning</td>
+<td style="text-align: left;">—</td>
 </tr>
-<tr>
-<td>5</td>
-<td>Give the Aphel perfect 3 m.sg. of <em>n-p-q</em> (go out).</td>
-<td><em>ʾappeq</em> — he brought out / caused to go out</td>
-<td>ܐܦܩ</td>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">Give the Aphel perfect 3 m.sg. of
+<em>n-p-q</em> (go out).</td>
+<td style="text-align: left;"><em>ʾappeq</em> — he brought out / caused
+to go out</td>
+<td style="text-align: left;">ܐܦܩ</td>
 </tr>
 </tbody>
 </table></div>
@@ -90,153 +104,160 @@ perfect)?</td>
 commands</strong> or requests addressed to a second person (“you”). In
 Syriac, as in Hebrew and Arabic, the imperative exists only in the
 second person — singular and plural, masculine and feminine. There is no
-first-person or third-person imperative; those ideas are expressed by
-other means (the cohortative and the jussive).</p>
+separate first-person or third-person imperative form; indirect commands
+or wishes (“let us go”, “let him write”) are expressed by the imperfect
+(often introduced by <em>d-</em>).</p>
 <p>The <strong>formation</strong> of the Peal imperative follows a
-straightforward rule: take the <strong>imperfect form</strong>, strip
+straightforward rule: take the <strong>imperfect stem</strong>, strip
 away the <strong>t-</strong> prefix of the 2nd person, and you have the
-imperative. The vowel pattern is then <strong>CCoC</strong> for the
-masculine singular (e.g., <em>ktob</em> “write!”). This parallels the
-Hebrew Qal imperative (<strong>כְּתֹב</strong> ktōv) and the Arabic
-imperative (<strong>اكتب</strong> uktub), though the exact vowel
-patterns differ.</p>
+imperative. The vowel pattern for action verbs is <strong>CCūC</strong>
+(pronounced <em>ū</em> in West Syriac and <em>o</em> in East Syriac,
+often written <em>ktob</em> or <em>ktūb</em>, “write!”). This parallels
+the Hebrew Qal imperative (כְּתֹב <em>ktōb</em>) and the Arabic imperative
+(اُكْتُبْ <em>uktub</em>).</p>
 <p><strong>2.2 Peal Imperative — Formation</strong></p>
-<p><strong>Masculine Singular:</strong> <em>CCoC</em> — the simplest
-form, the bare root with the characteristic o-vowel. E.g.,
-<strong>ktob</strong> ܟܬܘܒ “Write! (to one man)”</p>
-<p><strong>Feminine Singular:</strong> <em>CCoC + -ī</em> — add the
-feminine marker ī. E.g., <strong>ktobī</strong> ܟܬܘܒܝ “Write! (to one
-woman)”</p>
-<p><strong>Masculine Plural:</strong> <em>CCoC + -w</em> — add the
-masculine plural ending. E.g., <strong>ktobw</strong> ܟܬܘܒܘ “Write! (to
-a group of men)”</p>
-<p><strong>Feminine Plural:</strong> <em>CCoC + -ān</em> — add the
-feminine plural ending. E.g., <strong>ktobān</strong> ܟܬܘܒܢ “Write! (to
-a group of women)”</p>
+<ul>
+<li><strong>Masculine Singular:</strong> <em>CCūC</em> (or
+<em>CCoC</em>) — the simplest form, the bare root with its
+characteristic stem vowel written with <em>waw</em>. E.g.,
+<strong>ktūb</strong> (<em>ktob</em>) ܟܬܘܒ “Write! (to one man)”.</li>
+<li><strong>Feminine Singular:</strong> <em>CCūC(y)</em> — add silent
+final <em>yodh</em> (<code>-y</code>, historically <code>-ī</code>) in
+spelling. E.g., <strong>ktūb(y)</strong> (<em>ktobī</em>) ܟܬܘܒܝ “Write!
+(to one woman)”.</li>
+<li><strong>Masculine Plural:</strong> <em>CCūC(w)</em> — add the
+masculine plural <em>waw</em> (<code>-w</code> / <code>-ū</code>, or
+fuller <code>-ūn</code>). E.g., <strong>ktūb(w)</strong>
+(<em>ktobw</em>) ܟܬܘܒܘ “Write! (to a group of men)”.</li>
+<li><strong>Feminine Plural:</strong> <em>CCūCēn</em> — add the feminine
+plural ending <code>-ēn</code> (spelled <code>-yn</code>). E.g.,
+<strong>ktūbēn</strong> (<em>ktobēn</em>) ܟܬܘܒܝܢ “Write! (to a group of
+women)”.</li>
+</ul>
 <p><strong>2.3 Complete Paradigm Tables</strong></p>
-<p><strong>Root k-t-b</strong> ܟܬܒ <strong>(write)</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<p><strong>Root <em>k-t-b</em> ܟܬܒ (write)</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 30%" />
-<col style="width: 23%" />
-<col style="width: 24%" />
-<col style="width: 20%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Person/Gender/Number</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Literal Meaning</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: left;">2msg (m. sg.)</td>
-<td style="text-align: right;">ܟܬܘܒ ktob</td>
-<td style="text-align: left;">Write! (to on</td>
-<td style="text-align: left;">e man)</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.sg.</td>
+<td style="text-align: left;">ܟܬܘܒ</td>
+<td style="text-align: left;"><em>ktūb</em> (<em>ktob</em>)</td>
+<td style="text-align: left;">Write! (to one man)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fsg (f. sg.)</td>
-<td style="text-align: right;">ܟܬܘܒܝ ktobī</td>
-<td style="text-align: left;">Write! (to on</td>
-<td style="text-align: left;">e woman)</td>
+<tr class="even">
+<td style="text-align: left;">2 f.sg.</td>
+<td style="text-align: left;">ܟܬܘܒܝ</td>
+<td style="text-align: left;"><em>ktūb(y)</em> (<em>ktobī</em>)</td>
+<td style="text-align: left;">Write! (to one woman)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2mpl (m. pl.)</td>
-<td style="text-align: right;">ܟܬܘܒܘ ktobw</td>
-<td style="text-align: left;">Write! (to a</td>
-<td style="text-align: left;">group of men)</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.pl.</td>
+<td style="text-align: left;">ܟܬܘܒܘ</td>
+<td style="text-align: left;"><em>ktūb(w)</em> (<em>ktobw</em>)</td>
+<td style="text-align: left;">Write! (to a group of men)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fpl (f. pl.)</td>
-<td style="text-align: right;">ܟܬܘܒܢ ktobān</td>
-<td style="text-align: left;">Write! (to a</td>
-<td style="text-align: left;">group of women)</td>
+<tr class="even">
+<td style="text-align: left;">2 f.pl.</td>
+<td style="text-align: left;">ܟܬܘܒܝܢ</td>
+<td style="text-align: left;"><em>ktūbēn</em> (<em>ktobēn</em>)</td>
+<td style="text-align: left;">Write! (to a group of women)</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Root š-m-ʿ</strong> ܫܡܥ <strong>(hear)</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<p><strong>Root <em>š-m-ʿ</em> ܫܡܥ (hear — <em>a</em>-vowel
+class)</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 30%" />
-<col style="width: 22%" />
-<col style="width: 24%" />
-<col style="width: 20%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Person/Gender/Number</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Literal Meaning</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: left;">2msg</td>
-<td style="text-align: right;">ܫܡܥ šmaʿ</td>
-<td style="text-align: left;">Hear! (to one</td>
-<td style="text-align: left;">man)</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.sg.</td>
+<td style="text-align: left;">ܫܡܥ</td>
+<td style="text-align: left;"><em>šmaʿ</em></td>
+<td style="text-align: left;">Hear! (to one man)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fsg</td>
-<td style="text-align: right;">ܫܡܥܝ šmaʿī</td>
-<td style="text-align: left;">Hear! (to one</td>
-<td style="text-align: left;">woman)</td>
+<tr class="even">
+<td style="text-align: left;">2 f.sg.</td>
+<td style="text-align: left;">ܫܡܥܝ</td>
+<td style="text-align: left;"><em>šmaʿ(y)</em> (<em>šmaʿī</em>)</td>
+<td style="text-align: left;">Hear! (to one woman)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2mpl</td>
-<td style="text-align: right;">ܫܡܥܘ šmaʿw</td>
-<td style="text-align: left;">Hear! (to a g</td>
-<td style="text-align: left;">roup of men)</td>
+<tr class="odd">
+<td style="text-align: left;">2 m.pl.</td>
+<td style="text-align: left;">ܫܡܥܘ</td>
+<td style="text-align: left;"><em>šmaʿ(w)</em> (<em>šmaʿw</em>)</td>
+<td style="text-align: left;">Hear! (to a group of men)</td>
 </tr>
-<tr>
-<td style="text-align: left;">2fpl</td>
-<td style="text-align: right;">ܫܡܥܢ šmaʿān</td>
-<td style="text-align: left;">Hear! (to a g</td>
-<td style="text-align: left;">roup of women)</td>
+<tr class="even">
+<td style="text-align: left;">2 f.pl.</td>
+<td style="text-align: left;">ܫܡܥܝܢ</td>
+<td style="text-align: left;"><em>šmaʿēn</em></td>
+<td style="text-align: left;">Hear! (to a group of women)</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>2.4 Derived Stems: Paael and Aphel Imperatives</strong></p>
-<p><strong>Paael Imperative</strong>: The Paael intensifies or extends
-the root meaning. Its imperative is built from the Paael imperfect. The
-form is <strong>mCaCC-e</strong> (msg) — note the characteristic doubled
-middle radical. E.g., <strong>bārek</strong> ܒܪܟ “Bless! / Praise!”;
-<strong>ʾallep</strong> ܐܠܦ “Teach!”</p>
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 2: The Imperative (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Imperative (continued)</h3>
-<p><strong>Aphel Imperative</strong>: The Aphel is causative. Its
-imperative begins with <strong>ʾa-</strong>. E.g.,
-<strong>ʾappaq</strong> ܐܦܩ “Bring out!”; <strong>ʾaḥwī</strong> ܐܚܘܝ
-“Show!”</p>
+<p><strong>2.4 Derived Stems: Paael and Aphel Imperatives</strong></p>
+<ul>
+<li><strong>Paael Imperative:</strong> Its m.sg. imperative is built
+from the Paael stem without a prefix: <strong>CaCCeC</strong> —
+identical in consonants and vowels to the 3 m.sg. perfect, with the
+characteristic doubled middle radical. E.g., <strong>barrek</strong> ܒܪܟ
+“Bless!”; <strong>ʾallep</strong> ܐܠܦ “Teach!”.</li>
+<li><strong>Aphel Imperative:</strong> Its m.sg. imperative begins with
+<strong>ʾa-</strong> and has the pattern <strong>ʾaCCeC</strong>
+(identical to the 3 m.sg. perfect). E.g., <strong>ʾappeq</strong> ܐܦܩ
+“Bring out!”; <strong>ʾaqreb</strong> ܐܩܪܒ “Bring near!”;
+<strong>ʾaḥwā</strong> ܐܚܘܐ “Show!”.</li>
+</ul>
 <p><strong>2.5 Negative Commands</strong></p>
 <blockquote>
 <p><strong>Key Rule: Negating Commands</strong></p>
 <p>In Syriac, negative commands (prohibitions) are NOT formed with the
-imperative.</p>
-<p>Instead, use: lā + IMPERFECT (2nd person).</p>
-<p>This is identical to Biblical Hebrew (אַל + jussive / לֹא + imperfect)
-and Arabic (لا + mudāriʿ).</p>
-<p>Example: lā tektob ܠܐ ܬܟܬܘܒ = “Do not write!” (lit. “you-shall-not
-write”)</p>
-<p>Example: lā tešmaʿ ܠܐ ܬܫܡܥ = “Do not listen!”</p>
+imperative. Instead, use: <strong>lā + IMPERFECT (2nd person)</strong>.
+This is parallel to Biblical Hebrew (אַל + jussive / לֹא + imperfect) and
+Arabic (لَا + jussive). Example: <em>lā tektūb</em> (ܠܐ ܬܟܬܘܒ) = “Do not
+write!” (lit. “you shall not write”) Example: <em>lā tešmaʿ</em> (ܠܐ
+ܬܫܡܥ) = “Do not listen!”</p>
 </blockquote>
 <p><strong>2.6 Cross-Linguistic Comparison</strong></p>
-<p>Students coming from different language backgrounds will find useful
-parallels:</p>
-<div class="tablewrap"><table style="width:97%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 18%" />
-<col style="width: 24%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Language</strong></th>
 <th style="text-align: left;"><strong>Form (write!)</strong></th>
 <th style="text-align: left;"><strong>Form (hear!)</strong></th>
@@ -245,98 +266,96 @@ parallels:</p>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Syriac</td>
-<td style="text-align: left;">ktob ܟܬܘܒ</td>
-<td style="text-align: left;">šmaʿ ܫܡܥ</td>
-<td style="text-align: left;">lā + imperfect</td>
-<td style="text-align: left;">2nd person only; 4 forms (g/n)</td>
+<td style="text-align: left;"><em>ktūb</em> (<em>ktob</em>) ܟܬܘܒ</td>
+<td style="text-align: left;"><em>šmaʿ</em> ܫܡܥ</td>
+<td style="text-align: left;"><em>lā</em> + imperfect</td>
+<td style="text-align: left;">2nd person only; 4 forms</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Hebrew</td>
-<td style="text-align: left;">כְּתֹב ktōv</td>
-<td style="text-align: left;">שְׁמַע šmaʿ</td>
+<td style="text-align: left;">כְּתֹב <em>ktōb</em></td>
+<td style="text-align: left;">שְׁמַע <em>šmaʿ</em></td>
 <td style="text-align: left;">אַל + jussive</td>
 <td style="text-align: left;">Similar 4-form paradigm</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Arabic</td>
-<td style="text-align: left;">اكتب uktub</td>
-<td style="text-align: left;">اسمع ismaʿ</td>
-<td style="text-align: left;">لا + imperfect</td>
+<td style="text-align: left;">اُكْتُبْ <em>uktub</em></td>
+<td style="text-align: left;">اِسْمَعْ <em>ismaʿ</em></td>
+<td style="text-align: left;">لَا + jussive</td>
 <td style="text-align: left;">Form I imperative derived from
 imperfect</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Greek</td>
 <td style="text-align: left;">γράφε / γράψον</td>
 <td style="text-align: left;">ἄκουε / ἄκουσον</td>
-<td style="text-align: left;">μή + subjunctive</td>
+<td style="text-align: left;">μή + impv./subj.</td>
 <td style="text-align: left;">Pres./Aor. distinction; no gender</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Latin</td>
-<td style="text-align: left;">scribe</td>
-<td style="text-align: left;">audi</td>
-<td style="text-align: left;">noli + infinitive</td>
-<td style="text-align: left;">4th conjugation; no gender marking</td>
+<td style="text-align: left;"><em>scribe</em></td>
+<td style="text-align: left;"><em>audi</em></td>
+<td style="text-align: left;"><em>noli</em> + infinitive</td>
+<td style="text-align: left;">Singular/plural; no gender marking</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>2.7 Example Commands with Interlinear Gloss</strong></p>
-<p>Study each command carefully. The word-by-word gloss is given
-directly below the Syriac.</p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
 <col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 20%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 <col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Word Gloss</strong></th>
 <th style="text-align: left;"><strong>English</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: right;">ܟܬܘܒ ܫܡܗ * ܕܡܠܟܐ</td>
-<td style="text-align: left;">ktob šmeh d-malkā* w of-the.king</td>
-<td style="text-align: left;">rite! name-his W the king!</td>
-<td style="text-align: left;">rite the name of</td>
+<tr class="odd">
+<td style="text-align: left;">ܟܬܘܒ ܫܡܗ ܕܡܠܟܐ</td>
+<td style="text-align: left;"><em>ktūb šmeh d-malkā</em></td>
+<td style="text-align: left;">write! name-his of-the-king</td>
+<td style="text-align: left;">Write the name of the king!</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܫܡܥ * ܩܠܝ</td>
-<td style="text-align: left;">šmaʿ qālī* h</td>
-<td style="text-align: left;">ear! voice-my H</td>
-<td style="text-align: left;">ear my voice!</td>
+<tr class="even">
+<td style="text-align: left;">ܫܡܥ ܩܠܝ</td>
+<td style="text-align: left;"><em>šmaʿ qāl-y</em></td>
+<td style="text-align: left;">hear! voice-my</td>
+<td style="text-align: left;">Hear my voice!</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܗܘܘ * ܝܕܥܝܢ</td>
-<td style="text-align: left;">haww yāḏʿīn* b</td>
-<td style="text-align: left;">e-pl. knowing K [m.pl.]</td>
-<td style="text-align: left;">now (be knowing)!</td>
+<tr class="odd">
+<td style="text-align: left;">ܗܘܘ ܝܕܥܝܢ</td>
+<td style="text-align: left;"><em>hwaw yādʿīn</em></td>
+<td style="text-align: left;">be-pl.! knowing (m.pl.)</td>
+<td style="text-align: left;">Know (be knowing)! [m.pl.]</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܠܐ * ܬܕܚܠ</td>
-<td style="text-align: left;">lā tedḥal* n</td>
-<td style="text-align: left;">ot you-fear D</td>
-<td style="text-align: left;">o not be afraid!</td>
+<tr class="even">
+<td style="text-align: left;">ܠܐ ܬܕܚܠ</td>
+<td style="text-align: left;"><em>lā tedḥal</em></td>
+<td style="text-align: left;">not you-fear</td>
+<td style="text-align: left;">Do not be afraid!</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܐܙܠܘ * ܘܐܡܪܘ</td>
-<td style="text-align: left;">ʾezlaw w-emraw* g say-pl.!</td>
-<td style="text-align: left;">o-pl.! and G [m.pl.]</td>
-<td style="text-align: left;">o and tell!</td>
+<tr class="odd">
+<td style="text-align: left;">ܐܙܠܘ ܘܐܡܪܘ</td>
+<td style="text-align: left;"><em>ʾezalw w-ʾemarw</em></td>
+<td style="text-align: left;">go-pl.! and-say-pl.!</td>
+<td style="text-align: left;">Go and tell! [m.pl.]</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܐܚܘܝܢܝ * ܐܬܐ</td>
-<td style="text-align: left;">ʾaḥwāynī ʾattā* s</td>
-<td style="text-align: left;">how-me! sign S</td>
-<td style="text-align: left;">how me a sign!</td>
+<tr class="even">
+<td style="text-align: left;">ܐܚܘܐ ܠܝ ܐܬܐ</td>
+<td style="text-align: left;"><em>ʾaḥwā lī ʾātā</em></td>
+<td style="text-align: left;">show! to-me sign</td>
+<td style="text-align: left;">Show me a sign!</td>
 </tr>
 </tbody>
 </table></div>
@@ -346,159 +365,164 @@ directly below the Syriac.</p>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 3: The Infinitive (Verbal Noun / Maṣdar)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: The Infinitive (Verbal Noun / Maṣdar)</h3>
 <p><strong>3.1 The Nature of the Syriac Infinitive</strong></p>
 <p>Syriac, like Arabic and Hebrew, possesses a <strong>verbal
-noun</strong> — a noun derived from the verb root that expresses the
+noun</strong> — a form derived from the verb root that expresses the
 action in abstract form. In Arabic this is called the
-<strong>maṣdar</strong> (مصدر, “source”). In Hebrew it corresponds to
-the <strong>infinitive construct</strong>. In Syriac it functions
-similarly and is often called the <strong>infinitive</strong> in
-grammars. It can serve as the subject of a sentence, the object of a
-verb, or — most commonly in narrative — as a <strong>complementary
-infinitive</strong> after a modal or semi-modal verb, introduced by the
-preposition <strong>l-</strong> (“to”).</p>
+<strong>maṣdar</strong> (مَصْدَر, “source”); in Hebrew it corresponds to
+the <strong>infinitive construct</strong>. In Syriac it is called the
+<strong>infinitive</strong> and is Always preceded by the prefix
+<strong>m-</strong>. In narrative, it appears most commonly as a
+<strong>complementary infinitive</strong> after a verb of beginning,
+ability, desire, or command, introduced by the prefixed preposition
+<strong>l-</strong> (“to”).</p>
 <p><strong>3.2 Infinitive Formation by Stem</strong></p>
-<p><strong>Peal Infinitive: meCCaC</strong> pattern. Insert me- prefix
-and reduce the stem. E.g., k-t-b → <strong>mektab</strong> ܡܟܬܒ ‘the
-writing / to write’. Root š-m-ʿ → <strong>mešmaʿ</strong> ܡܫܡܥ ‘the
-hearing’.</p>
-<p><strong>Paael Infinitive: mCaCCāCū</strong> — m- prefix, doubled
-middle radical, ā before the last radical, final ū. E.g., barrek (bless,
-Paael) → <strong>mbarrākū</strong> ܡܒܪܟܘ ‘the blessing’.</p>
-<p><strong>Aphel Infinitive: maCCāCū</strong> — ma- prefix with ā-vowel
-before final radical + ū. E.g., ʾappeq (bring out, Aphel) →
-<strong>mappāqū</strong> ܡܦܩܘ ‘to bring out’.</p>
+<ul>
+<li><strong>Peal Infinitive: <em>meCCaC</em></strong> pattern. Insert
+<em>me-</em> prefix and <em>a</em>-vowel in the stem. E.g.,
+<em>k-t-b</em> → <strong>mektab</strong> ܡܟܬܒ “to write”; <em>š-m-ʿ</em>
+→ <strong>mešmaʿ</strong> ܡܫܡܥ “to hear”. (For I-Alaph verbs like
+<em>ʾ-z-l</em> and <em>ʾ-s-r</em>, <em>me-</em> + <em>ʾ-</em> coalesces
+to <em>mē-</em>: <strong>mēzal</strong> ܡܐܙܠ “to go”,
+<strong>mēsar</strong> ܡܐܣܪ “to bind”.)</li>
+<li><strong>Paael Infinitive: <em>mCaCCāCū</em></strong> — <em>m-</em>
+prefix, doubled middle radical, <em>-ā-</em> before the last radical,
+final <em>-ū</em>. E.g., <em>barrek</em> (bless, Paael) →
+<strong>mbarrākū</strong> ܡܒܪܟܘ “to bless”.</li>
+<li><strong>Aphel Infinitive: <em>maCCāCū</em></strong> — <em>ma-</em>
+prefix with <em>-ā-</em> vowel before final radical + <em>-ū</em>. E.g.,
+<em>ʾappeq</em> (bring out, Aphel) → <strong>mappāqū</strong> ܡܦܩܘ “to
+bring out”.</li>
+</ul>
 <p><strong>3.3 Infinitive Forms — Five Key Verbs</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 25%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 <col style="width: 20%" />
 <col style="width: 20%" />
 <col style="width: 20%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Root</strong></th>
-<th style="text-align: right;"><strong>Meaning</strong></th>
+<th style="text-align: left;"><strong>Meaning</strong></th>
 <th style="text-align: left;"><strong>Peal Inf.</strong></th>
 <th style="text-align: left;"><strong>Paael Inf.</strong></th>
 <th style="text-align: left;"><strong>Aphel Inf.</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: left;">k-t-b</td>
-<td style="text-align: right;">write mektab ܡܟܬܒ</td>
-<td style="text-align: left;">mkatābū ܡܟܬܒܘ</td>
-<td style="text-align: left;">ʾaktābū ܐܟܬܒܘ</td>
-<td style="text-align: left;"></td>
+<tr class="odd">
+<td style="text-align: left;"><em>k-t-b</em></td>
+<td style="text-align: left;">write</td>
+<td style="text-align: left;"><em>mektab</em> ܡܟܬܒ</td>
+<td style="text-align: left;"><em>mkattābū</em> ܡܟܬܒܘ</td>
+<td style="text-align: left;"><em>maktābū</em> ܡܟܬܒܘ</td>
 </tr>
-<tr>
-<td style="text-align: left;">š-m-ʿ</td>
-<td style="text-align: right;">hear mešmaʿ ܡܫܡܥ</td>
-<td style="text-align: left;">mšamāʿū ܡܫܡܥܘ</td>
-<td style="text-align: left;">ʾašmāʿū ܐܫܡܥܘ</td>
-<td style="text-align: left;"></td>
+<tr class="even">
+<td style="text-align: left;"><em>š-m-ʿ</em></td>
+<td style="text-align: left;">hear</td>
+<td style="text-align: left;"><em>mešmaʿ</em> ܡܫܡܥ</td>
+<td style="text-align: left;"><em>mšammāʿū</em> ܡܫܡܥܘ</td>
+<td style="text-align: left;"><em>mašmāʿū</em> ܡܫܡܥܘ</td>
 </tr>
-<tr>
-<td style="text-align: left;">q-ṭ-l</td>
-<td style="text-align: right;">kill meqṭal ܡܩܛܠ</td>
-<td style="text-align: left;">mqaṭālū ܡܩܛܠܘ</td>
-<td style="text-align: left;">ʾaqṭālū ܐܩܛܠܘ</td>
-<td style="text-align: left;"></td>
+<tr class="odd">
+<td style="text-align: left;"><em>q-ṭ-l</em></td>
+<td style="text-align: left;">kill</td>
+<td style="text-align: left;"><em>meqṭal</em> ܡܩܛܠ</td>
+<td style="text-align: left;"><em>mqaṭṭālū</em> ܡܩܛܠܘ</td>
+<td style="text-align: left;"><em>maqṭālū</em> ܡܩܛܠܘ</td>
 </tr>
-<tr>
-<td style="text-align: left;">p-q-d</td>
-<td style="text-align: right;">command mepqad ܡܦܩܕ</td>
-<td style="text-align: left;">mpaqādū ܡܦܩܕܘ</td>
-<td style="text-align: left;">ʾapqādū ܐܦܩܕܘ</td>
-<td style="text-align: left;"></td>
+<tr class="even">
+<td style="text-align: left;"><em>p-q-d</em></td>
+<td style="text-align: left;">command</td>
+<td style="text-align: left;"><em>mepqad</em> ܡܦܩܕ</td>
+<td style="text-align: left;"><em>mpaqqādū</em> ܡܦܩܕܘ</td>
+<td style="text-align: left;"><em>mapqādū</em> ܡܦܩܕܘ</td>
 </tr>
-<tr>
-<td style="text-align: left;">y-d-ʿ</td>
-<td style="text-align: right;">know mīdaʿ ܡܝܕܥ</td>
-<td style="text-align: left;">myādāʿū ܡܝܕܥܘ</td>
-<td style="text-align: left;">ʾawdāʿū ܐܘܕܥܘ</td>
-<td style="text-align: left;"></td>
+<tr class="odd">
+<td style="text-align: left;"><em>y-d-ʿ</em></td>
+<td style="text-align: left;">know</td>
+<td style="text-align: left;"><em>meddaʿ</em> ܡܕܥ</td>
+<td style="text-align: left;"><em>myaddāʿū</em> ܡܝܕܥܘ</td>
+<td style="text-align: left;"><em>mawdāʿū</em> ܡܘܕܥܘ</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>3.4 The Critical Construction: l- + Infinitive</strong></p>
+<p><strong>3.4 The Critical Construction: <em>l-</em> +
+Infinitive</strong></p>
 <blockquote>
 <p><strong>The l- + Infinitive Construction</strong></p>
-<p>PATTERN: MAIN VERB + l- + INFINITIVE</p>
-<p>This construction expresses purpose or complement: ‘he began to
-write’, ‘she is able to hear’.</p>
-<p>The preposition l- is prefixed directly to the infinitive with no
-space.</p>
-<p>Compare: Greek + infinitive (γράφειν); Latin accusative + infinitive
-(scribere); Arabic أن + imperfect.</p>
-<p>In Hebrew the parallel is the lamed + infinitive construct: לִכְתֹּב
-(liktōv).</p>
+<p>PATTERN: MAIN VERB + <em>l-</em> + INFINITIVE This construction
+expresses purpose or complement: “he began to write”, “she is able to
+hear”. The preposition <em>l-</em> is prefixed directly to the
+infinitive with no space. Compare: Hebrew <em>lamed</em> + infinitive
+construct לִכְתֹּב (<em>liḵtōb</em>).</p>
 </blockquote>
-<p><strong>Eight Example Sentences with l- + Infinitive:</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<p><strong>Eight Example Sentences with <em>l-</em> +
+Infinitive:</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
 <col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 20%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 <col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>Word Gloss</strong></th>
 <th style="text-align: left;"><strong>English</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: right;">ܫܪܝ * ܠܡܟܬܒ</td>
-<td style="text-align: left;">šarī l-mektab* b</td>
-<td style="text-align: left;">egan to.write H</td>
-<td style="text-align: left;">e began to write.</td>
+<tr class="odd">
+<td style="text-align: left;">ܫܪܝ ܠܡܟܬܒ</td>
+<td style="text-align: left;"><em>šarrī l-mektab</em></td>
+<td style="text-align: left;">began to-write</td>
+<td style="text-align: left;">He began to write.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܝܟܝܠ * ܠܡܫܡܥ</td>
-<td style="text-align: left;">yākel l-mešmaʿ* i</td>
-<td style="text-align: left;">s.able to.hear H</td>
-<td style="text-align: left;">e is able to hear.</td>
+<tr class="even">
+<td style="text-align: left;">ܡܨܐ ܠܡܫܡܥ</td>
+<td style="text-align: left;"><em>mṣē l-mešmaʿ</em></td>
+<td style="text-align: left;">is-able to-hear</td>
+<td style="text-align: left;">He is able to hear.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܒܥܐ * ܠܡܐܙܠ</td>
-<td style="text-align: left;">bāʿē l-meʾzal* w</td>
-<td style="text-align: left;">ants to.go H</td>
-<td style="text-align: left;">e wants to go.</td>
+<tr class="odd">
+<td style="text-align: left;">ܒܥܐ ܠܡܐܙܠ</td>
+<td style="text-align: left;"><em>bāʿē l-mēzal</em></td>
+<td style="text-align: left;">wants to-go</td>
+<td style="text-align: left;">He wants to go.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܨܒܐ * ܠܡܩܛܠ</td>
-<td style="text-align: left;">ṣābē l-meqṭal* w</td>
-<td style="text-align: left;">ishes to.kill H</td>
-<td style="text-align: left;">e wishes to kill.</td>
+<tr class="even">
+<td style="text-align: left;">ܨܒܐ ܠܡܩܛܠ</td>
+<td style="text-align: left;"><em>ṣābē l-meqṭal</em></td>
+<td style="text-align: left;">wishes to-kill</td>
+<td style="text-align: left;">He wishes to kill.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܦܩܕ * ܠܡܐܣܪ</td>
-<td style="text-align: left;">paqed l-meʾsar* c to.bind</td>
-<td style="text-align: left;">ommanded H to bind.</td>
-<td style="text-align: left;">e commanded (them)</td>
+<tr class="odd">
+<td style="text-align: left;">ܦܩܕ ܠܡܐܣܪ</td>
+<td style="text-align: left;"><em>pqad l-mēsar</em></td>
+<td style="text-align: left;">commanded to-bind</td>
+<td style="text-align: left;">He commanded (them) to bind.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܫܕܪ * ܠܡܥܒܕ</td>
-<td style="text-align: left;">šadar l-meʿbad* s</td>
-<td style="text-align: left;">ent to.do/make H act.</td>
-<td style="text-align: left;">e sent (them) to</td>
+<tr class="even">
+<td style="text-align: left;">ܫܕܪ ܠܡܥܒܕ</td>
+<td style="text-align: left;"><em>šaddar l-meʿbad</em></td>
+<td style="text-align: left;">sent to-do/make</td>
+<td style="text-align: left;">He sent (them) to act.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܠܐ ܝܟܝܠ * ܠܡܐܙܠ</td>
-<td style="text-align: left;">lā yākel l-meʾzal* n to.go</td>
-<td style="text-align: left;">ot is.able H go.</td>
-<td style="text-align: left;">e is not able to</td>
+<tr class="odd">
+<td style="text-align: left;">ܠܐ ܡܨܐ ܠܡܐܙܠ</td>
+<td style="text-align: left;"><em>lā mṣē l-mēzal</em></td>
+<td style="text-align: left;">not is-able to-go</td>
+<td style="text-align: left;">He is not able to go.</td>
 </tr>
-<tr>
-<td style="text-align: right;">ܫܪܝܬ ܠܡܩܪܐ * ܡܠܬܐ</td>
-<td style="text-align: left;">šarīt l-meqrā maltā* y to.read</td>
-<td style="text-align: left;">ou.began Y the word. word.the</td>
-<td style="text-align: left;">ou began to read</td>
+<tr class="even">
+<td style="text-align: left;">ܫܪܝܬ ܠܡܩܪܐ ܡܠܬܐ</td>
+<td style="text-align: left;"><em>šarrīt l-meqrā meltā</em></td>
+<td style="text-align: left;">you-began to-read the-word</td>
+<td style="text-align: left;">You began to read the word.</td>
 </tr>
 </tbody>
 </table></div>
@@ -509,253 +533,242 @@ space.</p>
 <p><strong>4.1 Semi-Modal Verbs</strong></p>
 <p>These verbs function like <strong>modal auxiliaries</strong> in
 English and govern an infinitive complement introduced by
-<strong>l-</strong>. They are extremely common in Syriac narrative.
-Master these verbs and their paradigms, as they appear repeatedly in the
-Acts of Mar Yukhannan.</p>
-<p><strong>š-r-y ܫܪܝ — begin</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> šarī
-ܫܪܝ</p>
-<p><strong>Example:</strong> ܫܪܝ ܠܡܟܬܒ <em>šarī l-mektab</em> — He began
-to write.</p>
-<p><strong>Note:</strong> Very common in narrative openings. Note final
-yod (weak root š-r-y).</p>
-<p><strong>y-k-l ܝܟܠ — be able / can</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> yākel
-ܝܟܠ</p>
-<p><strong>Example:</strong> ܝܟܠ ܠܡܩܛܠ <em>yākel l-meqṭal</em> — He is
-able to kill.</p>
-<p><strong>Note:</strong> The Syriac equivalent of Greek δύναμαι, Latin
-possum. Often negated: lā yākel.</p>
-<p><strong>b-ʿ-y ܒܥܐ — want / seek / ask</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> bāʿē
-ܒܥܐ</p>
-<p><strong>Example:</strong> ܒܥܐ ܠܡܐܙܠ <em>bāʿē l-meʾzal</em> — He wants
-to go.</p>
-<p><strong>Note:</strong> Can also mean ‘ask’ or ‘pray’. Third-aleph
-weak root.</p>
-<p><strong>ṣ-b-y ܨܒܐ — wish / will / be pleased</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> ṣābē
-ܨܒܐ</p>
-<p><strong>Example:</strong> ܨܒܐ ܠܡܩܛܠ <em>ṣābē l-meqṭal</em> — He
-wishes to kill.</p>
-<p><strong>Note:</strong> Related noun ṣebyānā (will/wish) is key
-theological vocabulary.</p>
-<p><strong>p-q-d ܦܩܕ — command / order</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> paqed
-ܦܩܕ</p>
-<p><strong>Example:</strong> ܦܩܕ ܠܡܐܣܪ <em>paqed l-meʾsar</em> — He
-commanded to bind (him).</p>
-<p><strong>Note:</strong> Often takes a direct object (the recipient of
-the order) + l- + infinitive.</p>
-<p><strong>š-d-r ܫܕܪ — send</strong></p>
-<p><strong>Stem:</strong> Peal <strong>Perfect 3msg:</strong> šadar
-ܫܕܪ</p>
-<p><strong>Example:</strong> ܫܕܪ ܐܢܫ̈ܐ ܠܡܩܛܠ <em>šadar ʾenāšē
-l-meqṭal</em> — He sent men to kill.</p>
-<p><strong>Note:</strong> The l-+infinitive here expresses purpose:
-‘sent in order to kill’.</p>
+<strong>l-</strong>. They are extremely common in Syriac narrative.</p>
+<ul>
+<li><strong><em>š-r-y</em> ܫܪܝ — begin (Paael):</strong> Perfect 3 m.sg.
+<em>šarrī</em> ܫܪܝ (Participle: <em>mšarrē</em> ܡܫܪܐ). Example: ܫܪܝ
+ܠܡܟܬܒ <em>šarrī l-mektab</em> — “He began to write.” (In Peal
+<em>šrā</em> ܫܪܐ, the root means “to loosen, dwell”; in Paael
+<em>šarrī</em>, it means “to begin”.)</li>
+<li><strong><em>m-ṣ-y</em> ܡܨܐ — be able / can (Peal):</strong> Perfect
+3 m.sg. <em>mṣā</em> ܡܨܐ (Participle: <em>mṣē</em> ܡܨܐ). Example: ܡܨܐ
+ܠܡܩܛܠ <em>mṣē l-meqṭal</em> — “He is able to kill.” Often negated:
+<em>lā mṣē</em> ܠܐ ܡܨܐ (1 c.pl. contracted <em>lā mṣēnan</em> ܠܐ ܡܨܝܢܢ,
+“we are not able”).</li>
+<li><strong><em>b-ʿ-y</em> ܒܥܐ — want / seek / ask (Peal):</strong>
+Perfect 3 m.sg. <em>bʿā</em> ܒܥܐ (Participle: <em>bāʿē</em> ܒܥܐ).
+Example: ܒܥܐ ܠܡܐܙܠ <em>bāʿē l-mēzal</em> — “He wants to go.”</li>
+<li><strong><em>ṣ-b-y</em> ܨܒܐ — wish / will / be pleased
+(Peal):</strong> Perfect 3 m.sg. <em>ṣbā</em> ܨܒܐ (Participle:
+<em>ṣābē</em> ܨܒܐ). Example: ܨܒܐ ܠܡܩܛܠ <em>ṣābē l-meqṭal</em> — “He
+wishes to kill.” Related noun: <em>ṣebyānā</em> (will/wish).</li>
+<li><strong><em>p-q-d</em> ܦܩܕ — command / order (Peal):</strong>
+Perfect 3 m.sg. <em>pqad</em> ܦܩܕ. Example: ܦܩܕ ܠܡܐܣܪ <em>pqad
+l-mēsar</em> — “He commanded to bind.”</li>
+<li><strong><em>š-d-r</em> ܫܕܪ — send (Paael):</strong> Perfect 3 m.sg.
+<em>šaddar</em> ܫܕܪ. Example: ܫܕܪ ܐܢܫܐ ܠܡܩܛܠ <em>šaddar ʾnāšē
+l-meqṭal</em> — “He sent men to kill.”</li>
+</ul>
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 8</text></name><questiontext format="html"><text><![CDATA[Which verbs take <i>l-</i> + infinitive as their complement?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Verbs of beginning, ability and desire: <i>šarī</i>, <i>yākel</i>, <i>bāʿē</i>, <i>ṣbā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of motion only]]></text><feedback format="html"><text><![CDATA[Not only motion.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only the verb 'to be']]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of speaking only]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 8</text></name><questiontext format="html"><text><![CDATA[Which verbs take <i>l-</i> + infinitive as their complement?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Verbs of beginning, ability and desire: <i>šarī</i>, <i>mṣē</i>, <i>bāʿē</i>, <i>ṣbā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of motion only]]></text><feedback format="html"><text><![CDATA[Not only motion.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only the verb 'to be']]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of speaking only]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 5: Military and Emotional Vocabulary — 30 Words</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Military and Emotional Vocabulary — 30 Words</h3>
-<p>This vocabulary set is essential for the narrative of Lesson 9. Many
-of these words appear in the story and exercises. Learn both the verbal
-root and its noun/adjective derivatives.</p>
-<div class="tablewrap"><table style="width:98%;">
+<p>This vocabulary set is essential for the narrative of Lesson 9. Learn
+both the verbal root and its noun/adjective derivatives.</p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 26%" />
-<col style="width: 23%" />
-<col style="width: 32%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
-<th style="text-align: left;"><strong>Root</strong></th>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
+<tr class="header">
+<th style="text-align: left;"><strong>Root / Lemma</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
 <th style="text-align: left;"><strong>Transliteration</strong></th>
 <th style="text-align: left;"><strong>English</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>m-ḥ-y</em></td>
-<td style="text-align: right;">ܡܚܐ <em>mḥā / nemḥē</em></td>
-<td style="text-align: left;">strike, smite</td>
-<td style="text-align: left;">, hit</td>
+<td style="text-align: left;">ܡܚܐ</td>
+<td style="text-align: left;"><em>mḥā</em> / <em>nemḥē</em></td>
+<td style="text-align: left;">strike, smite, hit</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>d-ḥ-l</em></td>
-<td style="text-align: right;">ܕܚܠ *dḥel / nedḥa</td>
-<td style="text-align: left;">l* fear, be afra</td>
-<td style="text-align: left;">id</td>
+<td style="text-align: left;">ܕܚܠ</td>
+<td style="text-align: left;"><em>dḥel</em> / <em>nedḥal</em></td>
+<td style="text-align: left;">fear, be afraid</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ḥ-d-y</em></td>
-<td style="text-align: right;">ܚܕܝ <em>ḥdī / neḥdē</em></td>
-<td style="text-align: left;">rejoice, be g</td>
-<td style="text-align: left;">lad</td>
+<td style="text-align: left;">ܚܕܝ</td>
+<td style="text-align: left;"><em>ḥdī</em> / <em>neḥdē</em></td>
+<td style="text-align: left;">rejoice, be glad</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ʾ-s-r</em></td>
-<td style="text-align: right;">ܐܣܪ *ʾasar / neʾs</td>
-<td style="text-align: left;">or* bind, tie, im</td>
-<td style="text-align: left;">prison</td>
+<td style="text-align: left;">ܐܣܪ</td>
+<td style="text-align: left;"><em>ʾesar</em> / <em>nēsar</em></td>
+<td style="text-align: left;">bind, tie, imprison</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>š-r-y</em></td>
-<td style="text-align: right;">ܫܪܐ <em>šrā / nešrē</em></td>
-<td style="text-align: left;">loosen, relea</td>
-<td style="text-align: left;">se, begin</td>
+<td style="text-align: left;">ܫܪܐ</td>
+<td style="text-align: left;"><em>šrā</em> / <em>nešrē</em></td>
+<td style="text-align: left;">loosen, release; Paael <em>šarrī</em>
+begin</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>r-m-y</em></td>
-<td style="text-align: right;">ܪܡܐ <em>rmā / nerme</em></td>
+<td style="text-align: left;">ܪܡܐ</td>
+<td style="text-align: left;"><em>rmā</em> / <em>nermē</em></td>
 <td style="text-align: left;">throw, cast</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʾ-ḥ-d</em></td>
-<td style="text-align: right;">ܐܚܕ *ʾḥad / neʾḥo</td>
-<td style="text-align: left;">d* seize, grab,</td>
-<td style="text-align: left;">take hold</td>
+<td style="text-align: left;">ܐܚܕ</td>
+<td style="text-align: left;"><em>ʾeḥad</em> / <em>nēḥod</em></td>
+<td style="text-align: left;">seize, grab, take hold</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>g-r-r</em></td>
-<td style="text-align: right;">ܓܪܪ *grār / negro</td>
-<td style="text-align: left;">r* drag, pull</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܓܪ</td>
+<td style="text-align: left;"><em>gar</em> / <em>neggor</em></td>
+<td style="text-align: left;">drag, pull</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ʿ-r-q</em></td>
-<td style="text-align: right;">ܥܪܩ *ʿraq / neʿro</td>
-<td style="text-align: left;">q* flee, escape</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܥܪܩ</td>
+<td style="text-align: left;"><em>ʿraq</em> / <em>neʿroq</em></td>
+<td style="text-align: left;">flee, escape</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>r-d-p</em></td>
-<td style="text-align: right;">ܪܕܦ *rdap / nerdo</td>
-<td style="text-align: left;">p* pursue, chase</td>
-<td style="text-align: left;">, persecute</td>
+<td style="text-align: left;">ܪܕܦ</td>
+<td style="text-align: left;"><em>rdap</em> / <em>nerdop</em></td>
+<td style="text-align: left;">pursue, chase, persecute</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>q-ṭ-l</em></td>
-<td style="text-align: right;">ܩܛܠ *qṭal / neqṭo</td>
-<td style="text-align: left;">l* kill, slay</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܩܛܠ</td>
+<td style="text-align: left;"><em>qṭal</em> / <em>neqṭūl</em>
+(<em>neqṭol</em>)</td>
+<td style="text-align: left;">kill, slay</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>p-ṣ-ʿ</em></td>
-<td style="text-align: right;">ܦܨܥ *pṣāʿ / nepsa</td>
-<td style="text-align: left;">ʿ* wound, injure</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܦܨܥ</td>
+<td style="text-align: left;"><em>pṣaʿ</em> / <em>nepṣaʿ</em></td>
+<td style="text-align: left;">wound, bruise</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>z-ʿ-q</em></td>
-<td style="text-align: right;">ܙܥܩ *zʿaq / nezʿo</td>
-<td style="text-align: left;">q* cry out, shou</td>
-<td style="text-align: left;">t</td>
+<td style="text-align: left;">ܙܥܩ</td>
+<td style="text-align: left;"><em>zʿaq</em> / <em>nezʿoq</em></td>
+<td style="text-align: left;">cry out, shout</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>p-q-d</em></td>
-<td style="text-align: right;">ܦܩܕ *pqad / nepqo</td>
-<td style="text-align: left;">d* command, orde</td>
-<td style="text-align: left;">r</td>
+<td style="text-align: left;">ܦܩܕ</td>
+<td style="text-align: left;"><em>pqad</em> / <em>nepqūd</em>
+(<em>nepqod</em>)</td>
+<td style="text-align: left;">command, order</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>k-n-š</em></td>
-<td style="text-align: right;">ܟܢܫ *knaš / neksn</td>
-<td style="text-align: left;">oš* gather, assem</td>
-<td style="text-align: left;">ble</td>
+<td style="text-align: left;">ܟܢܫ</td>
+<td style="text-align: left;"><em>knaš</em> / <em>neknoš</em></td>
+<td style="text-align: left;">gather, assemble</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>estrāṭyōṭā</em></td>
-<td style="text-align: right;">ܐܣܛܪܛܝܘܛܐ <em>estrāṭyōṭā</em></td>
-<td style="text-align: left;">soldier (Gree</td>
-<td style="text-align: left;">k loanword: στρατιώτης)</td>
+<tr class="even">
+<td style="text-align: left;"><em>ʾesṭraṭyōṭā</em></td>
+<td style="text-align: left;">ܐܣܛܪܛܝܘܛܐ</td>
+<td style="text-align: left;"><em>ʾesṭraṭyōṭā</em></td>
+<td style="text-align: left;">soldier (Greek loanword:
+<em>στρατιώτης</em>)</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>ḥaylā</em></td>
-<td style="text-align: right;">ܚܝܠܐ <em>ḥaylā</em></td>
-<td style="text-align: left;">army; strengt</td>
-<td style="text-align: left;">h, power (dual meaning)</td>
+<td style="text-align: left;">ܚܝܠܐ</td>
+<td style="text-align: left;"><em>ḥaylā</em></td>
+<td style="text-align: left;">army; strength, power (dual meaning)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>saypā</em></td>
-<td style="text-align: right;">ܣܝܦܐ <em>saypā</em></td>
+<td style="text-align: left;">ܣܝܦܐ</td>
+<td style="text-align: left;"><em>saypā</em></td>
 <td style="text-align: left;">sword</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>nūrā</em></td>
-<td style="text-align: right;">ܢܘܪܐ <em>nūrā</em></td>
-<td style="text-align: left;">fire</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">ܢܘܪܐ</td>
+<td style="text-align: left;"><em>nūrā</em></td>
+<td style="text-align: left;">fire (f.)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ʾattūnā</em></td>
-<td style="text-align: right;">ܐܬܘܢܐ <em>ʾattūnā</em></td>
+<td style="text-align: left;">ܐܬܘܢܐ</td>
+<td style="text-align: left;"><em>ʾattūnā</em></td>
 <td style="text-align: left;">furnace, oven</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>šalšaltā</em></td>
-<td style="text-align: right;">ܫܠܫܠܬܐ <em>šalšaltā</em></td>
-<td style="text-align: left;">chain (relate</td>
-<td style="text-align: left;">d to Heb. שַׁלְשֶׁלֶת)</td>
+<tr class="odd">
+<td style="text-align: left;"><em>šīšaltā</em></td>
+<td style="text-align: left;">ܫܫܠܬܐ</td>
+<td style="text-align: left;"><em>šīšaltā</em></td>
+<td style="text-align: left;">chain (also spelled ܫܠܫܠܬܐ
+<em>šalšaltā</em>)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>gūbbā</em></td>
-<td style="text-align: right;">ܓܘܒܐ <em>gūbbā</em></td>
-<td style="text-align: left;">pit, cistern;</td>
-<td style="text-align: left;">den (as in lion’s den)</td>
+<td style="text-align: left;">ܓܘܒܐ</td>
+<td style="text-align: left;"><em>gūbbā</em></td>
+<td style="text-align: left;">pit, cistern; den (as in lions’ den)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>bēt-ʾsīrē</em></td>
-<td style="text-align: right;">ܒܝܬ ܐܣܝܪ̈ܐ <em>bēt-ʾsīrē</em></td>
-<td style="text-align: left;">prison (lit.</td>
-<td style="text-align: left;">‘house of the bound ones’)</td>
+<tr class="odd">
+<td style="text-align: left;"><em>bēt ʾasīrē</em></td>
+<td style="text-align: left;">ܒܝܬ ܐܣܝܪܐ</td>
+<td style="text-align: left;"><em>bēt ʾasīrē</em></td>
+<td style="text-align: left;">prison (lit. “house of the bound
+ones”)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>kansā</em></td>
-<td style="text-align: right;">ܟܢܫܐ <em>kansā</em></td>
-<td style="text-align: left;">crowd, gather</td>
-<td style="text-align: left;">ing, assembly</td>
+<tr class="even">
+<td style="text-align: left;"><em>kenšā</em></td>
+<td style="text-align: left;">ܟܢܫܐ</td>
+<td style="text-align: left;"><em>kenšā</em></td>
+<td style="text-align: left;">crowd, gathering, assembly</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>qālā</em></td>
-<td style="text-align: right;">ܩܠܐ <em>qālā</em></td>
+<td style="text-align: left;">ܩܠܐ</td>
+<td style="text-align: left;"><em>qālā</em></td>
 <td style="text-align: left;">voice, sound</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>rugzā</em></td>
-<td style="text-align: right;">ܪܘܓܙܐ <em>rugzā</em></td>
+<tr class="even">
+<td style="text-align: left;"><em>rūgzā</em></td>
+<td style="text-align: left;">ܪܘܓܙܐ</td>
+<td style="text-align: left;"><em>rūgzā</em></td>
 <td style="text-align: left;">anger, wrath</td>
-<td style="text-align: left;"></td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>deḥltā</em></td>
-<td style="text-align: right;">ܕܚܠܬܐ <em>deḥltā</em></td>
-<td style="text-align: left;">fear (noun; f</td>
-<td style="text-align: left;">rom d-ḥ-l)</td>
+<td style="text-align: left;">ܕܚܠܬܐ</td>
+<td style="text-align: left;"><em>deḥltā</em></td>
+<td style="text-align: left;">fear, reverence (noun from
+<em>d-ḥ-l</em>)</td>
 </tr>
-<tr>
-<td style="text-align: left;"><em>ʾammīnūttā</em></td>
-<td style="text-align: right;">ܐܡܝܢܘܬܐ <em>ʾammīnūttā</em></td>
-<td style="text-align: left;">steadfastness</td>
-<td style="text-align: left;">, courage, endurance</td>
+<tr class="even">
+<td style="text-align: left;"><em>ʾammīnūtā</em></td>
+<td style="text-align: left;">ܐܡܝܢܘܬܐ</td>
+<td style="text-align: left;"><em>ʾammīnūtā</em></td>
+<td style="text-align: left;">steadfastness, constancy, endurance</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;"><em>pūqdānā</em></td>
-<td style="text-align: right;">ܦܘܩܕܢܐ <em>pūqdānā</em></td>
-<td style="text-align: left;">command, comm</td>
-<td style="text-align: left;">andment (noun from p-q-d)</td>
+<td style="text-align: left;">ܦܘܩܕܢܐ</td>
+<td style="text-align: left;"><em>pūqdānā</em></td>
+<td style="text-align: left;">command, commandment (noun from
+<em>p-q-d</em>)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;"><em>ṣebyānā</em></td>
-<td style="text-align: right;">ܨܒܝܢܐ <em>ṣebyānā</em></td>
-<td style="text-align: left;">will, wish, d</td>
-<td style="text-align: left;">esire (key theological term)</td>
+<td style="text-align: left;">ܨܒܝܢܐ</td>
+<td style="text-align: left;"><em>ṣebyānā</em></td>
+<td style="text-align: left;">will, wish, desire (key theological
+term)</td>
 </tr>
 </tbody>
 </table></div>
@@ -768,125 +781,76 @@ preaching and miracles, the king summons his soldiers and issues a
 series of direct commands. The passage is rich in imperatives and
 <em>l-</em> + infinitive constructions, giving you immediate practice in
 the new grammar.</p>
-<p><strong>Full Syriac Text with Interlinear Gloss:</strong></p>
-<div class="tablewrap"><table style="width:98%;">
-<colgroup>
-<col style="width: 28%" />
-<col style="width: 23%" />
-<col style="width: 24%" />
-<col style="width: 21%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: right;"><strong>Estrangela</strong></th>
-<th style="text-align: left;"><strong>Transliteration</strong></th>
-<th style="text-align: left;"><strong>Word Gloss</strong></th>
-<th style="text-align: left;"><strong>English</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: right;">ܡܠܟܐ ܕܢ ܟܕ ܫܡܥ ܡ̈ܠܐ <em> ܗܠܝܢ mallē
-hālēn</em></td>
-<td style="text-align: left;">malkā den kad šmaʿ t he.heard wor</td>
-<td style="text-align: left;">he.king now when N ds these heard
-these</td>
-<td style="text-align: left;">ow when the king words,</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܬܡܠܝ ܒܪܘܓܙܐ ܘܙܥܩ ܒܩܠܐ * ܪܒܐ w-zʿaq
-b-qāl</td>
-<td style="text-align: left;">ʾetmalī b-rugzā h ā rabbā* with-anger</td>
-<td style="text-align: left;">e.was.filled h anger and cr
-and-he.cried.out with-voice great</td>
-<td style="text-align: left;">e was filled with ied out with a great
-voice.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܦܩܕ * ܠܐܣܛܪ̈ܛܝܘܛܘܗܝ l-estrāṭyōṭā</td>
-<td style="text-align: left;">paqed h w(hy)* to-his.soldi</td>
-<td style="text-align: left;">e.commanded H ers soldiers,</td>
-<td style="text-align: left;">e commanded his</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܙܠܘ ܘܐܚܘܕܘ <em> ܠܝܘܚܢܢ
-l-Yūḥannan</em></td>
-<td style="text-align: left;">ʾezlaw w-ʾeḥodw g Yukhannan (ob</td>
-<td style="text-align: left;">o.pl! and seize.pl! ” j.) Yukhannan!</td>
-<td style="text-align: left;">Go and seize</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܐܬܝܘ ܘܐܪܡܘܗܝ <em> ܒܐܬܘܢܐ
-b-ʾattūnā</em></td>
-<td style="text-align: left;">w-ʾatīw w-ʾarmōhy a and-throw.hi</td>
-<td style="text-align: left;">nd-come.pl! C m! into the fur
-in-the.furnace</td>
-<td style="text-align: left;">ome and throw him nace!</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܠܐ ܬܕܚܠܘܢ ܡܢ <em> ܐܬܘ̈ܬܗ
-ʾāttāw(hy)</em></td>
-<td style="text-align: left;">lā tedḥlūn men n signs-his</td>
-<td style="text-align: left;">ot you.fear.pl from D signs!”</td>
-<td style="text-align: left;">o not fear his</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܣܛܪ̈ܛܝܘܛܐ ܫܪܝܘ <em> ܠܡܐܙܠ
-l-meʾzal</em></td>
-<td style="text-align: left;">estrāṭyōṭē šarīw s to.go</td>
-<td style="text-align: left;">oldiers they.began T to go.</td>
-<td style="text-align: left;">he soldiers began</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܒܥܐ ܚܕ ܡܢܗܘܢ <em> ܠܡܗܦܟ
-l-mehpak</em></td>
-<td style="text-align: left;">bāʿē ḥad mennhon w to.turn.back</td>
-<td style="text-align: left;">anted one from-them O to turn back</td>
-<td style="text-align: left;">ne of them wanted .</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܡܪ: ܠܐ ܝܟܝܠܢ ܠܡܩܛܠ * ܙܕܝܩܐ l-meqṭal
-zad</td>
-<td style="text-align: left;">ʾemar: lā yākelnan h dīqā*
-we.are.able</td>
-<td style="text-align: left;">e.said not H to.kill not able to
-righteous.man</td>
-<td style="text-align: left;">e said: ‘We are kill a righteous
-man.’</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܐܚܪ̈ܢܐ ܐܣܪܘ ܐܝ̈ܕܘܗܝ * ܒܫܠܫܠܬܐ ʾīdāw(hy)
-b-</td>
-<td style="text-align: left;">ʾaḥrānē ʾasrw o šalšaltā* hands-his
-wi</td>
-<td style="text-align: left;">thers they.bound O th-chain hands with
-a</td>
-<td style="text-align: left;">thers bound his chain.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܘܓܪܪܘܗܝ ܠܘܬ <em> ܐܬܘܢܐ ʾattūnā</em></td>
-<td style="text-align: left;">w-grarwōhy lawāt a toward furna</td>
-<td style="text-align: left;">nd-they.dragged.him A ce him toward t</td>
-<td style="text-align: left;">nd they dragged he furnace.</td>
-</tr>
-<tr>
-<td style="text-align: right;">ܝܘܚܢܢ ܕܝܢ ܠܐ ܕܚܠ ܐܠܐ * ܨܠܝ dḥal ʾellā
-ṣ</td>
-<td style="text-align: left;">Yūḥannan dēn lā Yu allī* he.feared bu</td>
-<td style="text-align: left;">khannan but not Bu t not fear; in
-he.prayed</td>
-<td style="text-align: left;">t Yukhannan did stead he prayed.</td>
-</tr>
-</tbody>
-</table></div>
-<p><strong>Smooth English Translation:</strong></p>
-<p><em>Now when the king heard these words, he was filled with anger and
-cried out with a great voice. He commanded his soldiers: “Go and seize
-Yukhannan! Come and throw him into the furnace! Do not fear his signs!”
-The soldiers began to go. One of them wanted to turn back. He said: “We
-are not able to kill a righteous man.” Others bound his hands with a
-chain and dragged him toward the furnace. But Yukhannan did not fear;
-instead he prayed.</em></p>
+<p><strong>Sentence 1</strong></p>
+<p>ܡܠܟܐ ܕܝܢ ܟܕ ܫܡܥ ܡܠܐ ܗܠܝܢ</p>
+<p><em>malkā dēn kad šmaʿ mellē hālēn</em></p>
+<p>malkā (the-king) dēn (now/but) kad (when) šmaʿ (he-heard) mellē
+(words) hālēn (these)</p>
+<p><em>→ Now when the king heard these words,</em></p>
+<p><strong>Sentence 2</strong></p>
+<p>ܐܬܡܠܝ ܒܪܘܓܙܐ ܘܙܥܩ ܒܩܠܐ ܪܒܐ</p>
+<p><em>ʾetmlī b-rūgzā w-zʿaq b-qālā rabbā</em></p>
+<p>ʾetmlī (he-was-filled) b-rūgzā (with-anger) w-zʿaq (and-cried-out)
+b-qālā (with-voice) rabbā (great)</p>
+<p><em>→ he was filled with anger and cried out with a great
+voice.</em></p>
+<p><strong>Sentence 3</strong></p>
+<p>ܦܩܕ ܠܐܣܛܪܛܝܘܛܘܗܝ</p>
+<p><em>pqad l-ʾesṭraṭyōṭāw-hy</em></p>
+<p>pqad (he-commanded) l-ʾesṭraṭyōṭāw-hy (his-soldiers)</p>
+<p><em>→ He commanded his soldiers:</em></p>
+<p><strong>Sentence 4</strong></p>
+<p>ܐܙܠܘ ܘܐܚܘܕܘ ܠܝܘܚܢܢ</p>
+<p><em>ʾezalw w-ʾeḥodw l-Yūḥannan</em></p>
+<p>ʾezalw (go! [m.pl.]) w-ʾeḥodw (and-seize! [m.pl.]) l-Yūḥannan
+(Yukhannan)</p>
+<p><em>→ “Go and seize Yukhannan!”</em></p>
+<p><strong>Sentence 5</strong></p>
+<p>ܘܐܝܬܘ ܘܐܪܡܘܗܝ ܒܐܬܘܢܐ</p>
+<p><em>w-ʾaytāw w-ʾarmāw-hy b-ʾattūnā</em></p>
+<p>w-ʾaytāw (and-bring! [m.pl.]) w-ʾarmāw-hy (and-throw-him!) b-ʾattūnā
+(into-the-furnace)</p>
+<p><em>→ “And bring and throw him into the furnace!”</em></p>
+<p><strong>Sentence 6</strong></p>
+<p>ܠܐ ܬܕܚܠܘܢ ܡܢ ܐܬܘܬܗ</p>
+<p><em>lā tedḥlūn men ʾātwāteh</em></p>
+<p>lā (do-not) tedḥlūn (you-fear [m.pl.]) men (from) ʾātwāteh
+(his-signs)</p>
+<p><em>→ “Do not fear his signs!”</em></p>
+<p><strong>Sentence 7</strong></p>
+<p>ܐܣܛܪܛܝܘܛܐ ܫܪܝܘ ܠܡܐܙܠ</p>
+<p><em>ʾesṭraṭyōṭē šarrīw l-mēzal</em></p>
+<p>ʾesṭraṭyōṭē (the-soldiers) šarrīw (began) l-mēzal (to-go)</p>
+<p><em>→ The soldiers began to go.</em></p>
+<p><strong>Sentence 8</strong></p>
+<p>ܒܥܐ ܚܕ ܡܢܗܘܢ ܠܡܗܦܟ</p>
+<p><em>bʿā ḥad menhūn l-mehpak</em></p>
+<p>bʿā (wanted) ḥad (one) menhūn (of-them) l-mehpak (to-turn-back)</p>
+<p><em>→ One of them wanted to turn back.</em></p>
+<p><strong>Sentence 9</strong></p>
+<p>ܐܡܪ ܠܐ ܡܨܝܢܢ ܠܡܩܛܠ ܙܕܝܩܐ</p>
+<p><em>ʾemar: lā mṣēnan l-meqṭal zaddīqā</em></p>
+<p>ʾemar (he-said) lā (not) mṣēnan (we-are-able) l-meqṭal (to-kill)
+zaddīqā (a-righteous-man)</p>
+<p><em>→ He said: “We are not able to kill a righteous man.”</em></p>
+<p><strong>Sentence 10</strong></p>
+<p>ܐܚܪܢܐ ܐܣܪܘ ܐܝܕܘܗܝ ܒܫܫܠܬܐ</p>
+<p><em>ʾaḥrānē ʾesarw ʾīdāw-hy b-šīšaltā</em></p>
+<p>ʾaḥrānē (others) ʾesarw (bound) ʾīdāw-hy (his-hands) b-šīšaltā
+(with-a-chain)</p>
+<p><em>→ Others bound his hands with a chain.</em></p>
+<p><strong>Sentence 11</strong></p>
+<p>ܘܓܪܘܗܝ ܠܘܬ ܐܬܘܢܐ</p>
+<p><em>w-garrū-hy lwāt ʾattūnā</em></p>
+<p>w-garrū-hy (and-they-dragged-him) lwāt (toward) ʾattūnā
+(the-furnace)</p>
+<p><em>→ And they dragged him toward the furnace.</em></p>
+<p><strong>Sentence 12</strong></p>
+<p>ܝܘܚܢܢ ܕܝܢ ܠܐ ܕܚܠ ܐܠܐ ܨܠܝ</p>
+<p><em>Yūḥannan dēn lā dḥel ʾellā ṣallī</em></p>
+<p>Yūḥannan (Yukhannan) dēn (but) lā (not) dḥel (feared) ʾellā (rather)
+ṣallī (prayed)</p>
+<p><em>→ But Yukhannan did not fear; instead he prayed.</em></p>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 9</text></name><questiontext format="html"><text><![CDATA[In the story, why was the king filled with anger?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He heard the reports about Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The soldiers refused his order.]]></text><feedback format="html"><text><![CDATA[Only one soldier hesitated, later.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan insulted him to his face.]]></text><feedback format="html"><text><![CDATA[Not in this part.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The furnace went out.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
@@ -894,111 +858,114 @@ instead he prayed.</em></p>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 11</text></name><questiontext format="html"><text><![CDATA[What did one soldier say, and why?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA['We are not able to kill a righteous man' — moral hesitation]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['The furnace is too hot' — fear for himself]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['He is a sorcerer' — fear of his signs]]></text><feedback format="html"><text><![CDATA[The king told them not to fear the signs.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['Let us bind him first' — caution]]></text><feedback format="html"><text><![CDATA[Others bound him; he hesitated.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 12</text></name><questiontext format="html"><text><![CDATA[How was Yukhannan restrained, and how did he respond?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[His hands were bound with a chain and he was dragged to the furnace; he did not fear but prayed.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was locked in prison; he wept.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was beaten; he fled.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His feet were bound; he cursed the king.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 13</text></name><questiontext format="html"><text><![CDATA[In the king's order <i>ʾezlaw w-ʾeḥodw</i>, what are the forms?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine plural imperatives: 'Go! and seize!']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 3 m.pl.: 'they went and seized']]></text><feedback format="html"><text><![CDATA[The king is giving orders.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Infinitives: 'to go and to seize']]></text><feedback format="html"><text><![CDATA[Infinitives take <i>me-</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular imperatives]]></text><feedback format="html"><text><![CDATA[The -w ending is plural.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Which list gives the four Peal imperatives of <i>ʾ-z-l</i> (m.sg., f.sg., m.pl., f.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾezal, ʾezlī, ʾezlaw, ʾezlān</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlaw, ʾezlī, ʾezlān</i>]]></text><feedback format="html"><text><![CDATA[-ī is f.sg.; -aw is m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>tēzal, tēzlīn, tēzlūn, tēzlān</i>]]></text><feedback format="html"><text><![CDATA[Those are imperfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾazal, ʾezlat, ʾezalū, ʾezalēn</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Which list gives the four Peal imperatives of <i>ʾ-z-l</i> (m.sg., f.sg., m.pl., f.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾezal, ʾezlī, ʾezlaw, ʾezlēn</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlaw, ʾezlī, ʾezlēn</i>]]></text><feedback format="html"><text><![CDATA[-ī is f.sg.; -aw is m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>tēzal, tēzlīn, tēzlūn, tēzlān</i>]]></text><feedback format="html"><text><![CDATA[Those are imperfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlat, ʾezalū, ʾezalēn</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 1. What is the Peal imperative m.sg. of <i>ʿ-b-d</i> (do)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܥܒܘܕ <i>ʿbod</i>]]></text><feedback format="html"><text><![CDATA[Correct: drop the prefix of <i>teʿbod</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܥܒܕ <i>ʿbad</i>, 'he did']]></text><feedback format="html"><text><![CDATA[That is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܬܥܒܘܕ <i>teʿbod</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܥܒܕ <i>meʿbad</i>]]></text><feedback format="html"><text><![CDATA[That is the infinitive.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 2. What is the Peal infinitive of <i>š-d-r</i> (send)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܡܫܕܪ <i>mešdar</i>]]></text><feedback format="html"><text><![CDATA[Correct: the <i>meCCaC</i> pattern.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫܕܪ <i>šdar</i>]]></text><feedback format="html"><text><![CDATA[That is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܫܕܪ <i>nešdar</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫܕܝܪ <i>šdīr</i>]]></text><feedback format="html"><text><![CDATA[That is the passive participle.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 2. What is the Paael infinitive of <i>š-d-r</i> (send)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܡܫܕܪܘ <i>mšaddārū</i>]]></text><feedback format="html"><text><![CDATA[Correct: the Paael infinitive pattern <i>mCaCCāCū</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫܕܪ <i>šaddar</i>]]></text><feedback format="html"><text><![CDATA[That is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܫܕܪ <i>nšadder</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܫܕܪ <i>mšadder</i>]]></text><feedback format="html"><text><![CDATA[Without final -ū, that is the participle.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Hear the voice of God! (to a woman)]]></text><feedback format="html"><text><![CDATA[Correct: the -ī ending is f.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Hear the voice of God! (to men)]]></text><feedback format="html"><text><![CDATA[The m.pl. ends in -w.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She heard the voice of God.]]></text><feedback format="html"><text><![CDATA[The 3 f.sg. perfect ends in -at.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My voice heard God.]]></text><feedback format="html"><text><![CDATA[<i>-ī</i> here is the imperative ending, not 'my'.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܠܐ ܬܙܥܩܘܢ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Do not cry out! (m.pl.)]]></text><feedback format="html"><text><![CDATA[Correct: <i>lā</i> + imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They did not cry out.]]></text><feedback format="html"><text><![CDATA[The t- prefix is 2nd person.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You will cry out.]]></text><feedback format="html"><text><![CDATA[<i>lā</i> makes it negative; here a prohibition.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Do not cry out! (m.sg.)]]></text><feedback format="html"><text><![CDATA[-ūn marks the plural.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܝܘܚܢܢ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king wanted to bind Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct: <i>bāʿē</i> + <i>l-</i> + infinitive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king bound Yukhannan.]]></text><feedback format="html"><text><![CDATA[<i>l-meʾsar</i> is 'to bind'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan wanted to bind the king.]]></text><feedback format="html"><text><![CDATA[<i>malkā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king asked Yukhannan to bind him.]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܝܟܝܠ ܐܠܗܐ ܠܡܚܐ ܐܣܛܪ̈ܛܝܘܛܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is able to strike the soldiers.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God struck the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>yākel</i> + infinitive is 'is able to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The soldiers are able to strike God.]]></text><feedback format="html"><text><![CDATA[<i>Alāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God wants to save the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>l-meḥā</i> is 'to strike'.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yukhannan wished to pray.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan prayed.]]></text><feedback format="html"><text><![CDATA[<i>ṣbā</i> + infinitive is 'wished to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan began to pray.]]></text><feedback format="html"><text><![CDATA['Began' is <i>šarī</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan was able to pray.]]></text><feedback format="html"><text><![CDATA['Was able' is <i>ʾeškaḥ</i> or <i>yākel</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'Do not kill the righteous man!' (m.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>lā teqṭlūn l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Correct: <i>lā</i> + imperfect 2 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭulw l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Syriac does not negate the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭalū l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is 'they did not kill'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā teqṭūl l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is m.sg.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'He began to pray'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>šarī l-meṣlā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ṣallī</i>]]></text><feedback format="html"><text><![CDATA[That is 'he prayed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-meṣlā</i>]]></text><feedback format="html"><text><![CDATA[That is 'he wants to pray'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šarī ṣallī</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'She wants to read the book'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>bāʿyā l-meqrā ketābā</i>]]></text><feedback format="html"><text><![CDATA[Correct: f.sg. participle <i>bāʿyā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-meqrā ketābā</i>]]></text><feedback format="html"><text><![CDATA[<i>bāʿē</i> is m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qrāt ketābā</i>]]></text><feedback format="html"><text><![CDATA[That is 'she read the book'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿyā qrī ketābā</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
-<question type="description"><name><text>Module 3 · Lesson 9 · Section 9: Grammatical Summary Box</text></name><questiontext format="html"><text><![CDATA[<h3>Section 9: Grammatical Summary Box</h3>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܠܝܘܚܢܢ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king wanted to bind Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct: <i>bāʿē</i> + <i>l-</i> + infinitive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king bound Yukhannan.]]></text><feedback format="html"><text><![CDATA[<i>l-mēsar</i> is 'to bind'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan wanted to bind the king.]]></text><feedback format="html"><text><![CDATA[<i>malkā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king asked Yukhannan to bind him.]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܨܐ ܐܠܗܐ ܠܡܡܚܐ ܠܐܣܛܪ̈ܛܝܘܛܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is able to strike the soldiers.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God struck the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>mṣē</i> + infinitive is 'is able to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The soldiers are able to strike God.]]></text><feedback format="html"><text><![CDATA[<i>ʾAlāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God wants to save the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>l-memḥā</i> is 'to strike'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܝܘ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yukhannan wished to pray.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan prayed.]]></text><feedback format="html"><text><![CDATA[<i>ṣbā</i> + infinitive is 'wished to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan began to pray.]]></text><feedback format="html"><text><![CDATA['Began' is <i>šarī</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan was able to pray.]]></text><feedback format="html"><text><![CDATA['Was able' is <i>ʾeškaḥ</i> or <i>mṣē</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'Do not kill the righteous man!' (m.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>lā teqṭlūn l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Correct: <i>lā</i> + imperfect 2 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭolw l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Syriac does not negate the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭalū l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is 'they did not kill'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā teqṭūl l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is m.sg.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'He began to pray'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>šarī l-mṣallāyū</i>]]></text><feedback format="html"><text><![CDATA[Correct: Paael infinitive of <i>ṣ-l-y</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ṣallī</i>]]></text><feedback format="html"><text><![CDATA[That is 'he prayed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-mṣallāyū</i>]]></text><feedback format="html"><text><![CDATA[That is 'he wants to pray'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šarī ṣallī</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'She wants to read the book'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>bāʿyā l-meqrā ktābā</i>]]></text><feedback format="html"><text><![CDATA[Correct: f.sg. participle <i>bāʿyā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-meqrā ktābā</i>]]></text><feedback format="html"><text><![CDATA[<i>bāʿē</i> is m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qrāt ktābā</i>]]></text><feedback format="html"><text><![CDATA[That is 'she read the book'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿyā qrī ktābā</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 10: Grammatical Summary Box</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary Box</h3>
 <p><strong>The Imperative at a Glance</strong></p>
-<div class="tablewrap"><table style="width:97%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 24%" />
 <col style="width: 25%" />
-<col style="width: 22%" />
-<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Form</strong></th>
-<th style="text-align: right;"><strong>Ending</strong></th>
-<th style="text-align: left;"><strong>Example (k-t-b)</strong></th>
+<th style="text-align: left;"><strong>Ending</strong></th>
+<th style="text-align: left;"><strong>Example
+(<em>k-t-b</em>)</strong></th>
 <th style="text-align: left;"><strong>Estrangela</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Masculine Singular</td>
-<td style="text-align: right;">CCoC (bare k stem)</td>
-<td style="text-align: left;">tob ܟ</td>
-<td style="text-align: left;">ܬܘܒ</td>
+<td style="text-align: left;"><em>CCūC</em> (<em>CCoC</em>, bare
+stem)</td>
+<td style="text-align: left;"><em>ktūb</em> (<em>ktob</em>)</td>
+<td style="text-align: left;">ܟܬܘܒ</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Feminine Singular</td>
-<td style="text-align: right;">CCoC + k ī</td>
-<td style="text-align: left;">tobī ܟ</td>
-<td style="text-align: left;">ܬܘܒܝ</td>
+<td style="text-align: left;"><em>CCūC</em> + <em>-y</em>
+(<em>-ī</em>)</td>
+<td style="text-align: left;"><em>ktūb(y)</em> (<em>ktobī</em>)</td>
+<td style="text-align: left;">ܟܬܘܒܝ</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Masculine Plural</td>
-<td style="text-align: right;">CCoC + k w</td>
-<td style="text-align: left;">tobw ܟ</td>
-<td style="text-align: left;">ܬܘܒܘ</td>
+<td style="text-align: left;"><em>CCūC</em> + <em>-w</em>
+(<em>-ū</em>)</td>
+<td style="text-align: left;"><em>ktūb(w)</em> (<em>ktobw</em>)</td>
+<td style="text-align: left;">ܟܬܘܒܘ</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Feminine Plural</td>
-<td style="text-align: right;">CCoC + k ān</td>
-<td style="text-align: left;">tobān ܟ</td>
-<td style="text-align: left;">ܬܘܒܢ</td>
+<td style="text-align: left;"><em>CCūC</em> + <em>-ēn</em></td>
+<td style="text-align: left;"><em>ktūbēn</em> (<em>ktobēn</em>)</td>
+<td style="text-align: left;">ܟܬܘܒܝܢ</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Infinitive Patterns</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 14%" />
-<col style="width: 27%" />
-<col style="width: 24%" />
-<col style="width: 31%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;"><strong>Stem</strong></th>
-<th style="text-align: right;"><strong>Pattern</strong></th>
+<th style="text-align: left;"><strong>Pattern</strong></th>
 <th style="text-align: left;"><strong>Example</strong></th>
 <th style="text-align: left;"><strong>Notes</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Peal</td>
-<td style="text-align: right;">meCCaC mektab ܡܟܬܒ</td>
-<td style="text-align: left;">Most common;</td>
-<td style="text-align: left;">parallel to Hebrew inf. construct with
-l-</td>
+<td style="text-align: left;"><em>meCCaC</em></td>
+<td style="text-align: left;"><em>mektab</em> ܡܟܬܒ</td>
+<td style="text-align: left;">Most common; parallel to Hebrew inf.
+construct with <em>l-</em></td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">Paael</td>
-<td style="text-align: right;">mCaCCāCū mbarrākū ܡܒܪ</td>
-<td style="text-align: left;">ܟܘ Double middl</td>
-<td style="text-align: left;">e radical characteristic</td>
+<td style="text-align: left;"><em>mCaCCāCū</em></td>
+<td style="text-align: left;"><em>mbarrākū</em> ܡܒܪܟܘ</td>
+<td style="text-align: left;">Doubled middle radical + <em>-ū</em>
+ending</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">Aphel</td>
-<td style="text-align: right;">maCCāCū mappāqū ܡܦܩܘ</td>
-<td style="text-align: left;">ʾa- prefix as</td>
-<td style="text-align: left;">in the Aphel perfect</td>
+<td style="text-align: left;"><em>maCCāCū</em></td>
+<td style="text-align: left;"><em>mappāqū</em> ܡܦܩܘ</td>
+<td style="text-align: left;"><em>ma-</em> prefix with <em>-ū</em>
+ending</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>The l- + Infinitive Construction</strong></p>
+<p><strong>The <em>l-</em> + Infinitive Construction</strong></p>
 <blockquote>
 <p><strong>Quick Reference</strong></p>
-<p>MAIN VERB + l- + INFINITIVE = ‘to [do X]’</p>
-<p>šarī l-mektab = He began to write</p>
-<p>yākel l-mešmaʿ = He is able to hear</p>
-<p>bāʿē l-meʾzal = He wants to go</p>
-<p>paqed l-meʾsar = He commanded to bind</p>
-<p>NEGATIVE: lā + IMPERFECT (not imperative!) for prohibitions</p>
+<p>MAIN VERB + <em>l-</em> + INFINITIVE = “to [do X]” <em>šarrī
+l-mektab</em> = He began to write <em>mṣē l-mešmaʿ</em> = He is able to
+hear <em>bāʿē l-mēzal</em> = He wants to go <em>pqad l-mēsar</em> = He
+commanded to bind NEGATIVE: <em>lā</em> + IMPERFECT (not imperative!)
+for prohibitions</p>
 </blockquote>
-<p><em>The Acts of Mar Yukhannan • Lesson 9: Commands and Intentions •
-Syriac Language Course</em></p>
 
 ]]></text></questiontext></question>
 </quiz>

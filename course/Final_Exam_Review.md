@@ -3,10 +3,10 @@
 What to study:
 
 - Everything in the Module 1 and Module 2 review guides.
-- The imperative (qṭol, qṭul-ī, qṭul-w) and the prohibition lā + imperfect.
-- The Peal infinitive meqṭal and its use after l- with šarī, yākel, bāʿē, ṣbā; derived-stem infinitives l-mqaddāšū, l-maqrābū.
-- The passive stems Ethpeel, Etpaael and Ettaphal; metathesis of t with sibilants (ʾeštmaʿ, ʾeštaddar).
-- Object suffixes on the perfect: qaṭlanī, qaṭleh, qaṭlāh, qaṭlan, qaṭlhūn.
+- The imperative (qṭol, qṭolī, qṭolū, qṭolēn) and the prohibition lā + imperfect.
+- The Peal infinitive meqṭal and its use after l- with šarrī, mṣē, bāʿē, ṣbā; derived-stem infinitives l-mqaddāšū, l-maqrābū.
+- The passive stems Ethpeel, Etpaael and Ettaphal; metathesis of t with sibilants (ʾeštmaʿ, ʾeštaddar, ʾeṣṭleb).
+- Object suffixes and 3rd plural enclitics on the perfect: qaṭlanī, qaṭleh, qaṭlāh, qaṭlan, qṭal ʾennōn.
 - Demonstratives, comparison with men, and the numbers 1–10 with gender agreement.
 - All vocabulary (Appendix B) and the whole story.
 - Expect an unseen passage built only from words in the glossary.

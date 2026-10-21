@@ -2,6 +2,11 @@
 
 ### The Narrative Past: The Peal Perfect and Verb Syntax
 
+<div class="chapter-image">
+  <img src="images/Lesson_03.jpg" alt="Rabbula Gospels: illumination of the gathered apostles." />
+  <p class="caption"><em>Rabbula Gospels: illumination of the gathered apostles.</em></p>
+</div>
+
 ---
 
 #### Section 1: Review of Lesson 2
@@ -9,15 +14,15 @@
 
 **Quick Summary**
 
-In Lesson 2, we moved our verbless clauses into the active present tense using the **Peal Active Participle** (e.g., *kāteb*, "writing"). We learned that by attaching shortened enclitic pronouns to the participle (*-nā*, *-t*, *-ḥnan*), Syriac forms the equivalent of the English present continuous (*kāteb-nā*, "I am writing").
+In Lesson 2, we moved our verbless clauses into the active present tense using the **Peal Active Participle** (e.g., *kāteb*, "writing"). We learned that by combining the participle with personal/enclitic pronouns (*kāteb-nā*, *kātbat*, *kātbīnan*), Syriac forms the equivalent of the English present continuous ("I am writing").
 
 **5-Question Warm-Up Drill**
 
 *(Answers in Section 9)*
 
 1. What is the m.sg. active participle of the root *ʿ-b-d* (to do/make)?
-2. How would you say "We are going" (root: *ʾ-z-l*, enclitic: *-ḥnan*)?
-3. Translate: *Šāmʿīn-tūn meltā d-Alāhā*.
+2. How would you say "We are going" (root: *ʾ-z-l*, pronoun: *ḥnan* / enclitic *-nan*)?
+3. Translate: *Šāmʿīn ʾantūn* (or *šāmʿītūn*) *meltā d-ʾAlāhā*.
 4. What happens to the enclitic pronoun in the 3rd person plural (*hennōn/hennēn*) present tense?
 5. Write "She is writing" using the root *k-t-b* and the 3rd f.sg pronoun.
 
@@ -60,7 +65,7 @@ Syriac is a heavily VSO (Verb-Subject-Object) language in past narrative. When r
 
 Syriac narratives chain countless actions together using the attached conjunction `w-` (and). "And he went... and he saw... and he wrote."
 
-*   *W-npaq Yūḥannan w-ḥza malkā.* (And Yukhannan went out and saw the king).
+*   *W-npaq Yūḥannan w-ḥzā malkā.* (And Yukhannan went out and saw the king).
 
 ---
 
@@ -75,15 +80,15 @@ Syriac narratives chain countless actions together using the attached conjunctio
 | **3 m.sg.** | ܟܬܒ | ktab | he wrote | kataba (ـَ) | kātab (ـַ) |
 | **3 f.sg.** | ܟܬܒܬ | ketbat | she wrote | katabat (ـَت) | kātbāh (ـָה) |
 | **2 m.sg.** | ܟܬܒܬ | ktabt | you (m) wrote | katabta (ـتَ) | kātabtā (ـתָּ) |
-| **2 f.sg.** | ܟܬܒܬܝ | ktabtī | you (f) wrote | katabti (ـتِ) | kātabt (ـתְּ) |
+| **2 f.sg.** | ܟܬܒܬܝ | ktabt(y) | you (f) wrote | katabti (ـتِ) | kātabt (ـתְּ) |
 | **1 c.sg.** | ܟܬܒܬ | ketbet | I wrote | katabtu (ـتُ) | kātabtī (ـתִּי) |
-| **3 m.pl.** | ܟܬܒܘ | ktabū | they (m) wrote | katabū (ـوا) | kātbū (ـוּ) |
-| **3 f.pl.** | ܟܬܒܝ | ktabī | they (f) wrote | katabna (ـنَ) | - |
+| **3 m.pl.** | ܟܬܒܘ | ktabū (ktab(w)) | they (m) wrote | katabū (ـوا) | kātbū (ـוּ) |
+| **3 f.pl.** | ܟܬܒ / ܟܬܒܝ | ktab (ktab(y)) | they (f) wrote | katabna (ـنَ) | - |
 | **2 m.pl.** | ܟܬܒܬܘܢ | ktabtūn | you (m.pl) wrote | katabtum (ـتم)| ktabtem (ـתֶּם) |
 | **2 f.pl.** | ܟܬܒܬܝܢ | ktabtēn | you (f.pl) wrote | - | - |
 | **1 c.pl.** | ܟܬܒܢ | ktabn | we wrote | katabnā (ـنَا) | kātabnū (ـנוּ) |
 
-*Orthography Note: Notice how the single letter Taw (ܬ) represents both `-t` (you, m) and `-et` (I). Context and pointing (if present) clarify the reading.*
+*Orthography Note: Notice how the single letter Taw (ܬ) represents 3 f.sg. (-at), 2 m.sg. (-t), and 1 c.sg. (-et). In 3 f.pl. (ܟܬܒ / ܟܬܒܝ) and 2 f.sg. (ܟܬܒܬܝ), the final Yodh is written as an historical orthographic marker but is silent in standard pronunciation (ktab, ktabt; fuller forms ktabēn for 3 f.pl. and ktabtōn for 3 m.pl. also occur).*
 
 ---
 
@@ -106,17 +111,18 @@ Syriac narratives chain countless actions together using the attached conjunctio
 | :--- | :--- | :--- | :--- | :--- |
 | ܫ.ܒ.ܩ | šbaq (ܫܒܩ) | to leave, abandon| ܘ (w-) | and |
 | ܢ.ܦ.ܩ | npaq (ܢܦܩ) | to go out, exit | ܟܕ (kad) | when, while |
-| ܢ.ܛ.ܪ | nṭar (ܢܛܪ) | to keep, watch | ܓܝܪ (gēr) | for, because (Greek $\gamma\acute{a}\rho$)|
+| ܢ.ܛ.ܪ | nṭar (ܢܛܪ) | to keep, watch | ܓܝܪ (gēr) | for, because (Greek $\gamma\acute{\alpha}\rho$)|
 | ܩ.ܪ.ܒ | qreb (ܩܪܒ) | to draw near | ܬܘܒ (tūb) | again, furthermore |
 | ܪ.ܕ.ܦ | rdap (ܪܕܦ) | to pursue | ܗܝܕܝܢ (hāydēn) | then, at that time |
 | ܦ.ܠ.ܚ | plaḥ (ܦܠܚ) | to serve, work | ܕܝܢ (dēn) | but, however (Greek $\delta\acute{\epsilon}$)|
-| ܣ.ܓ.ܕ | sgad (ܣܓܕ) | to worship, bow |
-| ܩ.ܛ.ܠ | qṭal (ܩܛܠ) | to kill |
-| ܦ.ܪ.ܩ | praq (ܦܪܩ) | to save, rescue |
-| ܥ.ܪ.ܩ | ʿraq (ܥܪܩ) | to flee |
-| ܝ.ܠ.ܕ | īled (ܝܠܕ) | to give birth |
-| ܥ.ܩ.ܪ | ʿqar (ܥܩܪ) | to root out, dig |
-| ܣ.ܠ.ܩ | sleq (ܣܠܩ) | to ascend, climb |
+| ܣ.ܓ.ܕ | sgad (ܣܓܕ) | to worship, bow | ܩܕܡ (qdām) | before, in front of |
+| ܩ.ܛ.ܠ | qṭal (ܩܛܠ) | to kill | ܗܠܝܢ (hālēn) | these (c.pl.) |
+| ܦ.ܪ.ܩ | praq (ܦܪܩ) | to save, rescue | | |
+| ܥ.ܪ.ܩ | ʿraq (ܥܪܩ) | to flee | | |
+| ܝ.ܠ.ܕ | īled (ܝܠܕ) | to give birth | | |
+| ܥ.ܩ.ܪ | ʿqar (ܥܩܪ) | to root out, dig | | |
+| ܣ.ܠ.ܩ | sleq (ܣܠܩ) | to ascend, climb | | |
+| ܩ.ܘ.ܡ | qām (ܩܡ) | to rise, stand (hollow verb, preview of L7) | | |
 
 ---
 
@@ -129,16 +135,16 @@ Syriac narratives chain countless actions together using the attached conjunctio
 
 **Sentence 1**
 
-ܘܟܕ ܐܡܪ ܗܢܝܢ ܢܦܩ ܝܘܚܢܢ
-w-kad ʾemar hānēn, npaq Yūḥannan.
-w-kad (and-when) ʾemar (he-said) hānēn (these-[things]), npaq (went-out) Yūḥannan (John).
+ܘܟܕ ܐܡܪ ܗܠܝܢ ܢܦܩ ܝܘܚܢܢ
+w-kad ʾemar hālēn, npaq Yūḥannan.
+w-kad (and-when) ʾemar (he-said) hālēn (these-[things]), npaq (went-out) Yūḥannan (John).
 → And when he said these things, Yukhannan went out.
 
 **Sentence 2**
 
 ܘܐܙܠ ܝܘܚܢܢ ܒܐܪܥܐ ܘܫܒܩ ܬܠܡܝܕܘܗܝ
-w-ʾezal Yūḥannan b-ʾarʿā, w-shbaq talmīdāw-hy.
-w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-earth), w- (and-) shbaq (he-left) talmīdāw-hy (his-disciples).
+w-ʾezal Yūḥannan b-ʾarʿā, w-šbaq talmīdāw-hy.
+w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-earth), w- (and-) šbaq (he-left) talmīdāw-hy (his-disciples).
 → And Yukhannan went in the earth, and he left his disciples.
 
 **Sentence 3**
@@ -151,8 +157,8 @@ w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-earth), w- (and
 **Sentence 4**
 
 ܘܩܪܒ ܝܘܚܢܢ ܠܡܠܟܘܬܐ ܕܡܠܟܐ ܒܝܫܐ
-w-qreb Yūḥannan l-malkūttā d-malkā bīšā.
-w- (and-) qreb (drew-near) Yūḥannan (John) l- (to) malkūttā (the-kingdom) d- (of) malkā (the-king) bīšā (evil).
+w-qreb Yūḥannan l-malkūtā d-malkā bīšā.
+w- (and-) qreb (drew-near) Yūḥannan (John) l- (to) malkūtā (the-kingdom) d- (of) malkā (the-king) bīšā (evil).
 → And Yukhannan drew near to the kingdom of the evil king.
 
 **Sentence 5**
@@ -165,8 +171,8 @@ w- (and-) rabbā (the-great-one) d- (of) malkā (the-king) rdap (pursued) l- (to
 **Sentence 6**
 
 ܘܥܪܩ ܝܘܚܢܢ ܘܩܡ ܩܕܡ ܬܪܥܐ ܕܡܠܟܘܬܐ
-w-ʿraq Yūḥannan w-qām qdām tarʿā d-malkūttā.
-w- (and-) ʿraq (fled) Yūḥannan (John) w- (and-) qām (stood) qdām (before) tarʿā (gate) d- (of) malkūttā (the-kingdom).
+w-ʿraq Yūḥannan w-qām qdām tarʿā d-malkūtā.
+w- (and-) ʿraq (fled) Yūḥannan (John) w- (and-) qām (stood) qdām (before) tarʿā (gate) d- (of) malkūtā (the-kingdom).
 → And Yukhannan fled and stood before the gate of the kingdom.
 
 ---
@@ -199,7 +205,7 @@ Translate the following past narrative clauses.
 1. W-šbaq Yūḥannan l-malkā.
 2. Rdapū talmīdē l-bīšā.
 3. Npaq malkā dēn men tarʿā.
-4. Ktabn meltā d-Alāhā.
+4. Ktabn meltā d-ʾAlāhā.
 
 **Exercise 4: Production Drill (English → Syriac)**
 
@@ -226,10 +232,10 @@ Re-read Section 7 and answer:
 **Section 1 Warm-Up**
 
 1. *ʿābed*
-2. *ʾāzlīn-ḥnan*
+2. *ʾāzlīn ḥnan* (or fused *ʾāzlīnan*)
 3. You all (pl) are hearing the word of God.
 4. It is not used. The plural participle ending (*-īn* / *-ān*) already marks the plural unambiguously.
-5. Kātbā-hī (or just *Kātbā*).
+5. *Kātbā-hī* (or just *Kātbā*).
 
 **Exercise 1: Perfect Identification**
 
@@ -255,7 +261,7 @@ Re-read Section 7 and answer:
 **Exercise 4: Production Drill**
 
 1. ʿraq barnāšā bīšā men nūhrā.
-2. W-nṭar Yūḥannan meltā d-Alāhā.
+2. W-nṭar Yūḥannan meltā d-ʾAlāhā.
 3. Kad qrebū talmīdē, sgadū.
 4. Praq malkā rabbā l-ʾarʿā.
 
@@ -263,7 +269,7 @@ Re-read Section 7 and answer:
 
 1. His disciples (*talmīdāw-hy*).
 2. He pursued (*rdap*) Yukhannan.
-3. Before the gate of the kingdom (*qdām tarʿā d-malkūttā*).
+3. Before the gate of the kingdom (*qdām tarʿā d-malkūtā*).
 
 ---
 
@@ -275,53 +281,51 @@ Re-read Section 7 and answer:
 
 | Person | Syriac | Translit |
 | :--- | :--- | :--- |
-| **3 m.sg.** | ܫܒܩ | shbaq (he left) |
+| **3 m.sg.** | ܫܒܩ | šbaq (he left) |
 | **3 f.sg.** | ܫܒܩܬ | šebqat (she left)|
 | **2 m.sg.** | ܫܒܩܬ | šbaqt (you left) |
 | **1 c.sg.** | ܫܒܩܬ | šebqet (I left) |
-| **3 m.pl.** | ܫܒܩܘ | shbaqū (they left)|
-| **1 c.pl.** | ܫܒܩܢ | shbaqn (we left) |
+| **3 m.pl.** | ܫܒܩܘ | šbaqū (they left)|
+| **1 c.pl.** | ܫܒܩܢ | šbaqn (we left) |
 
 **VSO RULE**
 
 
 | 1. Verb | 2. Subject | 3. Object / Preposition |
 | :--- | :--- | :--- |
-| Npaq (Went out) | Malka (The King) | men (from) ʾarʿā (the earth) |
+| Npaq (Went out) | malkā (The King) | men (from) ʾarʿā (the earth) |
 
 #### Section 11: Additional Vocabulary
 
-The following 30 genuinely new high-frequency words supplement this lesson's vocabulary, focusing on nouns related to narrative past (perfect tense) action and contexts.
+The following 28 high-frequency words supplement this lesson's vocabulary, focusing on nouns related to narrative past action and contexts.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | ܫܪܐ | šrā | verb (Peal) | to loosen, release; to dwell | III-Yodh root š-r-y |
-| ܫܒܝܬܐ | šḇītā | f. noun | captivity, escape | from root š-b-y (to capture) |
+| ܫܒܝܬܐ | šbītā | f. noun | captivity, captives | from root š-b-y (to capture) |
 | ܩܛܠܐ | qeṭlā | m. noun | slaughter, killing | from root q-ṭ-l (to kill) |
-| ܓܢܘܒܘܬܐ | gənūbūttā | f. noun | theft, stealing | from root g-n-b (to steal) |
+| ܓܢܒܘܬܐ | gannābūtā | f. noun | theft, stealing | from root g-n-b (to steal) |
 | ܫܘܒܩܢܐ | šubqānā | m. noun | forgiveness, remission | from root š-b-q (to leave) |
 | ܡܦܩܢܐ | mappqānā | m. noun | going out, exit | from root n-p-q (to go out) |
-| ܕܡܥܬܐ | demʿətā | f. noun | tear, weeping | from root d-m-ʿ (to weep) |
-| ܚܡܝܡܘܬܐ | ḥammīmūttā | f. noun | heat, warmth | from root ḥ-m-m (to be hot) |
+| ܕܡܥܬܐ | demʿtā | f. noun | tear, weeping | from root d-m-ʿ (to weep) |
+| ܚܡܝܡܘܬܐ | ḥammīmūtā | f. noun | heat, warmth | from root ḥ-m-m (to be hot) |
 | ܡܚܘܬܐ | mḥūtā | f. noun | striking, blow | from root m-ḥ-y (to strike) |
 | ܥܪܘܩܐ | ʿārōqā | m. noun | fugitive | from root ʿ-r-q (to flee) |
 | ܩܘܪܒܐ | qūrbā | m. noun | drawing near, approach | from root q-r-b (to draw near) |
-| ܪܕܘܦܝܐ | redūpyā | m. noun | pursuit, persecution | from root r-d-p (to pursue) |
-| ܡܣܩܢܐ | masqānā | m. noun | ascent, rising | from root s-l-q (to ascend) |
-| ܦܠܚܘܬܐ | pəlḥūttā | f. noun | service, labor | from root p-l-ḥ (to serve) |
-| ܕܘܪܟܐ | dūrkā | m. noun | treading, path | from root d-r-k (to tread) |
-| ܥܡܕܐ | ʿamdā | m. noun | pillar, column | |
+| ܪܕܘܦܝܐ | rdūpyā | m. noun | pursuit, persecution | from root r-d-p (to pursue) |
+| ܡܣܩܢܐ | masqqānā | m. noun | stairs, ladder, ascent | from root s-l-q (to ascend) |
+| ܦܠܚܘܬܐ | plḥūtā | f. noun | service, labor | from root p-l-ḥ (to serve) |
+| ܕܘܪܟܐ | dūrkā | m. noun | treading | from root d-r-k (to tread) |
+| ܥܡܘܕܐ | ʿammūdā | m. noun | pillar, column | from root ʿ-m-d |
 | ܫܠܝܛܐ | šallīṭā | m. noun | authority, ruler | from root š-l-ṭ (to rule) |
 | ܪܓܡܐ | regmā | m. noun | stoning, lapidation | from root r-g-m (to stone) |
 | ܡܛܪܬܐ | maṭartā | f. noun | guard, watch | from root n-ṭ-r (to watch) |
-| ܢܛܘܪܘܬܐ | nāṭōrūttā | f. noun | watching, guarding | from root n-ṭ-r (to watch) |
+| ܢܛܘܪܘܬܐ | nāṭōrūtā | f. noun | watching, guarding | from root n-ṭ-r (to watch) |
 | ܟܝܢܐ | kyānā | m. noun | nature, being | from root k-w-n (to be) |
-| ܣܒܥܘܬܐ | səbʿūttā | f. noun | satisfaction, plenty | from root s-b-ʿ (to be satisfied) |
+| ܣܒܥܘܬܐ | sbʿūtā | f. noun | satisfaction, plenty | from root s-b-ʿ (to be satisfied) |
 | ܓܪܒܐ | garbā | m. noun | scab, leprosy | from root g-r-b |
-| ܫܒܝܐ | šəḇyā | m. noun | captive, prisoner | from root š-b-y (to capture) |
-| ܦܠܚ | pəlaḥ | verb (Peal) | to serve, work | Peal perfect form |
+| ܫܒܝܐ | šabyā | m. noun | captive, prisoner | from root š-b-y (to capture) |
 | ܡܡܠܠܐ | mamlā | m. noun | speech, discourse | from root m-l-l (to speak) |
-| ܓܠܝܘܬܐ | gelyūttā | f. noun | revelation, manifestation | from root g-l-y (to reveal) |
-| ܬܘܒ | tūb | adverb | again, furthermore | common particle |
-| ܥܕܡܐ | ʿedāmā | preposition | until, as far as | used in past narrative |
-| ܡܕܒܪܢܐ | mədbərānā | m. noun | leader, guide | from root d-b-r (to lead) |
+| ܓܠܝܘܬܐ | gelyūtā | f. noun | revelation, manifestation | from root g-l-y (to reveal) |
+| ܥܕܡܐ | ʿdammā | preposition | until, as far as | used in past narrative |
+| ܡܕܒܪܢܐ | mdabbrānā | m. noun | leader, guide | from root d-b-r (to lead) |

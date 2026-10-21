@@ -4,6 +4,11 @@
 
 ### The Alphabet and the Light: The Estrangela Script
 
+<div class="chapter-image">
+  <img src="images/Lesson_00.jpg" alt="Early Syriac Peshitta manuscript showing classical script columns." />
+  <p class="caption"><em>Early Syriac Peshitta manuscript showing classical script columns.</em></p>
+</div>
+
 ---
 
 #### Section 1: Introduction to the Script
@@ -57,7 +62,7 @@ Syriac letters follow the same order as Hebrew and the ancient "Abgad" order of 
 | ܩ | Qoph | q | Uvular 'k' | ק | ق |
 | ܪ | Rish | r | Rolled 'r' | ר | ر |
 | ܫ | Shin | š | sh as in 'she' | ש | ش |
-| ܬ | Taw | t / th | t as in 'tall' | ת | ث |
+| ܬ | Taw | t / th | t as in 'tall' | ת | ت |
 
 ---
 
@@ -79,10 +84,10 @@ In your reading, you will notice that certain letters never connect to the lette
 
 | Word | Translit | Meaning | Analysis |
 | :--- | :--- | :--- | :--- |
-| ܐܠܗܐ | Alāhā | God | Alaph (NJ) + Lamad + He (NJ) + Alaph |
+| ܐܠܗܐ | ʾAlāhā | God | Alaph (NJ) + Lamad + He (NJ) + Alaph (NJ) |
 | ܡܠܟܐ | malkā | King | Mim + Lamad + Kaph + Alaph (NJ) |
-| ܐܪܥܐ | ʾarʿā | Earth | Alaph (NJ) + Rish (NJ) + ʿe + Alaph |
-| ܢܘܗܪܐ | nūhrā | Light | Nun + Waw (NJ) + He (NJ) + Rish (NJ) + Alaph |
+| ܐܪܥܐ | ʾarʿā | Earth | Alaph (NJ) + Rish (NJ) + ʿe + Alaph (NJ) |
+| ܢܘܗܪܐ | nūhrā | Light | Nun + Waw (NJ) + He (NJ) + Rish (NJ) + Alaph (NJ) |
 | ܝܘܚܢܢ | Yūḥannan | John | Yodh + Waw (NJ) + Heth + Nun + Nun |
 
 ---
@@ -97,23 +102,23 @@ In your reading, you will notice that certain letters never connect to the lette
 *Narrative note: Before the Acts of Mar Yukhannan begin, we see the scribe, Addai, preparing the parchment. This part introduces the visual rhythm of the script.*
 
 <div class="sentence">
-<span class="sentence-syriac">ܐܢܐ ܥܕܝ ܣܦܪܐ</span>
-<span class="sentence-translit">ʾenā ʿAdday sāp̄rā.</span>
-<span class="sentence-gloss">ʾenā (I) ʿAdday (Addai) sāp̄rā (the-scribe)</span>
+<span class="sentence-syriac">ܐܢܐ ܐܕܝ ܣܦܪܐ</span>
+<span class="sentence-translit">ʾenā ʾAddai sāprā.</span>
+<span class="sentence-gloss">ʾenā (I) ʾAddai (Addai) sāprā (the-scribe)</span>
 <span class="sentence-translation">I am Addai the scribe.</span>
 </div>
 
 <div class="sentence">
 <span class="sentence-syriac">ܟܬܒ ܐܢܐ ܡܠܬܐ ܕܐܠܗܐ</span>
-<span class="sentence-translit">kāteb ʾenā meltā d-Alāhā.</span>
-<span class="sentence-gloss">kāteb (writing) ʾenā (I) meltā (the-word) d- (of) Alāhā (God)</span>
+<span class="sentence-translit">kāteb ʾenā meltā d-ʾAlāhā.</span>
+<span class="sentence-gloss">kāteb (writing) ʾenā (I) meltā (the-word) d- (of) ʾAlāhā (God)</span>
 <span class="sentence-translation">I am writing the word of God.</span>
 </div>
 
 <div class="sentence">
 <span class="sentence-syriac">ܗܢܘ ܟܬܒܐ ܕܝܘܚܢܢ</span>
-<span class="sentence-translit">hannū ktābā d-Yūḥannan.</span>
-<span class="sentence-gloss">hannū (this-is) ktābā (the-writing/book) d- (of) Yūḥannan (John)</span>
+<span class="sentence-translit">hānaw ktābā d-Yūḥannan.</span>
+<span class="sentence-gloss">hānaw (this-is) ktābā (the-writing/book) d- (of) Yūḥannan (John)</span>
 <span class="sentence-translation">This is the book of Yukhannan.</span>
 </div>
 
@@ -179,11 +184,11 @@ The 22 letter names learned in Section 2 (Alaph, Beth, Gamal … Taw) count as t
 
 | Estrangela | Transliteration | Gender/Type | Meaning |
 | :--- | :--- | :--- | :--- |
-| ܐܣܛܪܢܓܠܐ | Estrangelā | f | "Rounded" script |
-| ܣܦܪܐ | sāp̄rā | m | Scribe, writer |
+| ܐܣܛܪܢܓܠܐ | ʾEsṭrangelā | f | "Rounded" script |
+| ܣܦܪܐ | sāprā | m | Scribe, writer |
 | ܟܬܒܐ | ktābā | m | Book, scripture |
-| ܡܓܠܬܐ | megalltā | f | Scroll |
-| ܩܪܨܐ | qarṣā | m | Parchment |
-| ܩܠܡܐ | qalmā | m | Pen, reed |
+| ܡܓܠܬܐ | megaltā | f | Scroll |
+| ܟܪܛܝܣܐ | karṭīsā | m | Parchment, document |
+| ܩܢܝܐ | qanyā | m | Reed, pen |
 | ܕܝܘܬܐ | dīyūtā | f | Ink |
 | ܢܡܘܣܐ | nāmūsā | m | Law (from Gk Nomos) |

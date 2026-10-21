@@ -10,18 +10,18 @@
 
 **Independent and enclitic personal pronouns** [L1, L2]
 
-| Person | Syriac | Independent | Enclitic |
+| Person | Syriac | Independent | Enclitic (on m.sg. / pl. participle) |
 | :--- | :--- | :--- | :--- |
-| **1 c.sg.** | ܐܢܐ | ʾenā | -nā |
-| **2 m.sg.** | ܐܢܬ | ʾant (said ʾat) | -t |
-| **2 f.sg.** | ܐܢܬܝ | ʾantī (said ʾat) | -tī |
+| **1 c.sg.** | ܐܢܐ | ʾenā | -nā (kāteb ʾenā / kāteb-nā) |
+| **2 m.sg.** | ܐܢܬ | ʾant (said ʾat) | -at (kāteb ʾant / kātbat) |
+| **2 f.sg.** | ܐܢܬܝ | ʾantī (said ʾat) | -āt(y) (kātbā ʾantī / kātbāt(y)) |
 | **3 m.sg.** | ܗܘ | hū | hū |
 | **3 f.sg.** | ܗܝ | hī | hī |
-| **1 c.pl.** | ܚܢܢ | ḥnan | -ḥnan |
-| **2 m.pl.** | ܐܢܬܘܢ | ʾantūn (said ʾattūn) | -tūn |
-| **2 f.pl.** | ܐܢܬܝܢ | ʾantēn (said ʾattēn) | -tēn |
-| **3 m.pl.** | ܗܢܘܢ | hennōn | — |
-| **3 f.pl.** | ܗܢܝܢ | hennēn | — |
+| **1 c.pl.** | ܚܢܢ | ḥnan | -īnan (kātbīn ḥnan / kātbīnan) |
+| **2 m.pl.** | ܐܢܬܘܢ | ʾantūn (said ʾattūn) | -ītūn (kātbīn ʾantūn / kātbītūn) |
+| **2 f.pl.** | ܐܢܬܝܢ | ʾantēn (said ʾattēn) | -ātēn (kātbān ʾantēn / kātbātēn) |
+| **3 m.pl.** | ܗܢܘܢ | hennōn | ʾennōn (enclitic copula/object) |
+| **3 f.pl.** | ܗܢܝܢ | hennēn | ʾennēn (enclitic copula/object) |
 
 **Demonstratives** [L12]
 
@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **m.sg.** | ܗܢܐ hānā | ܗܘ haw |
 | **f.sg.** | ܗܕܐ hādē | ܗܝ hāy |
-| **pl.** | ܗܠܝܢ hāllēn | ܗܢܘܢ hānōn (m), ܗܢܝܢ hānēn (f) |
+| **pl.** | ܗܠܝܢ hālēn | ܗܢܘܢ hānōn (m), ܗܢܝܢ hānēn (f) |
 
 ---
 
@@ -42,7 +42,7 @@
 | :--- | :--- | :--- |
 | **Emphatic sg.** (normal form) | ܡܠܟܐ malkā 'the king, a king' | ܡܠܟܬܐ malktā 'queen' |
 | **Absolute sg.** | ܡܠܟ melek | ܡܠܟܐ malkā |
-| **Construct sg.** | ܡܠܟ malk | ܡܠܟܬ malkat |
+| **Construct sg.** | ܡܠܟ melek (bound stem before suffixes: malk-) | ܡܠܟܬ malkat |
 | **Emphatic pl.** | ܡܠܟܐ malkē (with *syāmē* ̈) | ܡܠܟܬܐ malkātā |
 | **Absolute pl.** | ܡܠܟܝܢ malkīn | ܡܠܟܢ malkān |
 
@@ -52,20 +52,20 @@ The plural dots (*syāmē*, ̈) mark plurals that would otherwise look singular.
 
 | Person | Suffix | Syriac | Transliteration |
 | :--- | :--- | :--- | :--- |
-| **my** | -ī | ܡܠܟܝ | malk-ī |
+| **my** | -ī (-y) | ܡܠܟܝ | malk-y |
 | **your (m.sg.)** | -āḵ | ܡܠܟܟ | malk-āḵ |
-| **your (f.sg.)** | -ēḵ | ܡܠܟܟܝ | malk-ēḵ |
+| **your (f.sg.)** | -ēḵ(y) | ܡܠܟܟܝ | malk-ēḵ(y) |
 | **his** | -eh | ܡܠܟܗ | malk-eh |
 | **her** | -āh | ܡܠܟܗ | malk-āh |
 | **our** | -an | ܡܠܟܢ | malk-an |
-| **your (m.pl.)** | -kūn | ܡܠܟܟܘܢ | malk-kūn |
-| **your (f.pl.)** | -kēn | ܡܠܟܟܝܢ | malk-kēn |
+| **your (m.pl.)** | -kūn | ܡܠܟܟܘܢ | malk-ḵūn |
+| **your (f.pl.)** | -kēn | ܡܠܟܟܝܢ | malk-ḵēn |
 | **their (m.)** | -hūn | ܡܠܟܗܘܢ | malk-hūn |
 | **their (f.)** | -hēn | ܡܠܟܗܝܢ | malk-hēn |
 
-On a **plural** noun the suffixes take a *y* link: ܡܠܟܝ̈ malkay 'my kings', ܡܠܟܘ̈ܗܝ malkaw 'his kings', ܡܠܟܝ̈ܗ malkēh 'her kings'.
+On a **plural** noun the suffixes take a *y* link: ܡܠܟܝ̈ malkay 'my kings', ܡܠܟܘ̈ܗܝ malkāw-hy 'his kings', ܡܠܟܝ̈ܗ malkēh 'her kings'.
 
-**Prepositions with suffixes** [L4]: ܠܝ lī, ܠܟ lāḵ, ܠܟܝ lēḵ, ܠܗ leh, ܠܗ lāh, ܠܢ lan, ܠܟܘܢ lḵūn, ܠܟܝܢ lḵēn, ܠܗܘܢ lhūn, ܠܗܝܢ lhēn. **Possession:** ܐܝܬ ܠܝ īt lī 'I have'; ܠܝܬ ܠܝ layt lī 'I do not have'.
+**Prepositions with suffixes** [L4]: ܠܝ lī, ܠܟ lāḵ, ܠܟܝ lēḵ(y), ܠܗ leh, ܠܗ lāh, ܠܢ lan, ܠܟܘܢ lḵūn, ܠܟܝܢ lḵēn, ܠܗܘܢ lhūn, ܠܗܝܢ lhēn. **Possession:** ܐܝܬ ܠܝ ʾīt lī 'I have'; ܠܝܬ ܠܝ layt lī 'I do not have'.
 
 ---
 
@@ -77,9 +77,9 @@ On a **plural** noun the suffixes take a *y* link: ܡܠܟܝ̈ malkay 'my kings',
 | Person | Syriac | Translit. | | Person | Syriac | Translit. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **3 m.sg.** | ܟܬܒ | ktab | | **3 m.pl.** | ܟܬܒܘ | ktabū |
-| **3 f.sg.** | ܟܬܒܬ | ketbat | | **3 f.pl.** | ܟܬܒܝ | ktabī |
+| **3 f.sg.** | ܟܬܒܬ | ketbat | | **3 f.pl.** | ܟܬܒ / ܟܬܒܝ | ktab / ktab(y) |
 | **2 m.sg.** | ܟܬܒܬ | ktabt | | **2 m.pl.** | ܟܬܒܬܘܢ | ktabtūn |
-| **2 f.sg.** | ܟܬܒܬܝ | ktabtī | | **2 f.pl.** | ܟܬܒܬܝܢ | ktabtēn |
+| **2 f.sg.** | ܟܬܒܬܝ | ktabt(y) | | **2 f.pl.** | ܟܬܒܬܝܢ | ktabtēn |
 | **1 c.sg.** | ܟܬܒܬ | ketbet | | **1 c.pl.** | ܟܬܒܢ | ktabn |
 
 **Imperfect** [L8] — *q-ṭ-l* 'kill'
@@ -103,7 +103,7 @@ On a **plural** noun the suffixes take a *y* link: ܡܠܟܝ̈ malkay 'my kings',
 | **m.pl.** | ܟܬܒܝܢ kātbīn | ܟܬܝܒܝܢ ktībīn |
 | **f.pl.** | ܟܬܒܢ kātbān | ܟܬܝܒܢ ktībān |
 
-The present tense is participle + enclitic: ܟܬܒ ܐܢܐ kāteb-nā 'I write, I am writing' [L2].
+The present tense is participle + enclitic: ܟܬܒ ܐܢܐ kāteb ʾenā / kāteb-nā 'I write, I am writing' [L2].
 
 **Infinitive** [L9] — ܡܩܛܠ meqṭal, usually with ܠ: ܠܡܩܛܠ l-meqṭal 'to kill'.
 
@@ -176,15 +176,16 @@ III-Yodh imperfect: ܢܚܙܐ neḥzē 'he will see', ܐܚܙܐ ʾeḥzē, ܢܚܙ�
 #### A.6 Object Suffixes on the Verb
 
 
-**On the 3 m.sg. perfect** [L11] — *qṭal* 'he killed' → *qaṭl-*
+**On the 3 m.sg. perfect** [L11] — *qṭal* 'he killed' → *qaṭl-* (light suffixes) / *qṭal-* (heavy suffixes & 3 pl. enclitics)
 
 | Object | Syriac | Translit. | | Object | Syriac | Translit. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **me** | ܩܛܠܢܝ | qaṭlanī | | **us** | ܩܛܠܢ | qaṭlan |
-| **you (m.sg.)** | ܩܛܠܟ | qaṭlāḵ | | **you (m.pl.)** | ܩܛܠܟܘܢ | qaṭlkūn |
-| **you (f.sg.)** | ܩܛܠܟܝ | qaṭlēḵ | | **you (f.pl.)** | ܩܛܠܟܝܢ | qaṭlkēn |
-| **him** | ܩܛܠܗ | qaṭleh | | **them (m.)** | ܩܛܠܗܘܢ | qaṭlhūn |
-| **her** | ܩܛܠܗ | qaṭlāh | | **them (f.)** | ܩܛܠܗܝܢ | qaṭlhēn |
+| **you (m.sg.)** | ܩܛܠܟ | qaṭlāḵ | | **you (m.pl.)** | ܩܛܠܟܘܢ | qṭalkūn |
+| **you (f.sg.)** | ܩܛܠܟܝ | qaṭlēḵ(y) | | **you (f.pl.)** | ܩܛܠܟܝܢ | qṭalkēn |
+| **him** | ܩܛܠܗ | qaṭleh | | **them (m.)** | ܩܛܠ ܐܢܘܢ | qṭal ʾennōn |
+| **her** | ܩܛܠܗ | qaṭlāh | | **them (f.)** | ܩܛܠ ܐܢܝܢ | qṭal ʾennēn |
+
 
 ---
 

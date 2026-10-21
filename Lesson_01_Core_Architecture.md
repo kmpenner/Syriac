@@ -2,6 +2,11 @@
 
 ### The Core Architecture: Nouns, Pronouns, and Verbless Clauses
 
+<div class="chapter-image">
+  <img src="images/Lesson_01.jpg" alt="Rabbula Gospels (586 CE), Folio 13v: Christ in majesty with the gathered disciples." />
+  <p class="caption"><em>Rabbula Gospels (586 CE), Folio 13v: Christ in majesty with the gathered disciples.</em></p>
+</div>
+
 ---
 
 #### Section 1: Introduction and Warm-Up
@@ -35,13 +40,13 @@ One of the most striking differences between Indo-European languages (Greek, Lat
 In English, we say "God **is** good." In Greek, "ὁ θεὸς ἀγαθός **ἐστιν**." We require a verb to link the subject to its predicate.
 In Syriac, as in Hebrew and Arabic, the "is" functions implicitly. You simply place two nouns, or a noun and an adjective, next to one another.
 
-> **Alāhā ṭābā** = God [is] good.
+> **ʾAlāhā ṭābā** = God [is] good.
 
 **Cross-Linguistic Comparison: The Definite Article**
 
 Another major shift is how Syriac handles "the". 
 
-*   **Hebrew** uses a prefix: הַמֶּלֶךְ (*ha-melek*, "the king").
+*   **Hebrew** uses a prefix: הַמֶּלֶךְ (*ha-meleḵ*, "the king").
 *   **Arabic** uses a prefix: الملك (*al-malik*, "the king").
 *   **Greek** uses a separate word: ὁ βασιλεύς (*ho basileus*, "the king").
 *   **Syriac** originally used a **suffix** (the Emphatic State Alaph: ܐ). Over time, this state became the default form. Thus, *malkā* (ܡܠܟܐ) can mean "a king" or "the king" depending on context, but it is structurally the emphatic, determinate form.
@@ -60,7 +65,7 @@ Pronouns stand alone as the subject of a sentence. They distinguish gender in th
 Syriac relies heavily on tiny prepositions that attach directly to the front of the next word.
 
 *   **The Relative Particle `d-` (ܕ)**: This acts like the English "of", "which", "who", or "that". It defines relationships and possession.
-    *   *Malkūttā d-Alāhā* (The kingdom **of** God)
+    *   *Malkūtā d-ʾAlāhā* (The kingdom **of** God)
     *   *Nūhrā d-ṭābā* (The light **which** is good)
 *   **The Preposition `l-` (ܠ)**: This means "to" or "for", but it is also used heavily as a Direct Object marker (similar to the Hebrew `et` אֵת, though functioning prepositionally).
     *   *l-malkā* (to the king)
@@ -75,7 +80,7 @@ Here are the independent personal pronouns in Syriac. Observe the similarities t
 
 | Person | Estrangela | Transliteration | Translation | Arabic Cognate | Hebrew Cognate |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1 c.sg.** | ܐܢܐ | ʾenā | I | anā (أنا) | ʾănī (אֲנִי) |
+| **1 c.sg.** | ܐܢܐ | ʾenā | I | ʾanā (أنا) | ʾănī (אֲנִי) |
 | **2 m.sg.** | ܐܢܬ | ʾant | You (m) | ʾanta (أنتَ) | ʾattāh (אַתָּה) |
 | **2 f.sg.** | ܐܢܬܝ | ʾanti | You (f) | ʾanti (أنتِ) | ʾatt (אַתְּ) |
 | **3 m.sg.** | ܗܘ | hū | He / It | huwa (هو) | hūʾ (הוּא) |
@@ -86,21 +91,21 @@ Here are the independent personal pronouns in Syriac. Observe the similarities t
 | **3 m.pl.** | ܗܢܘܢ | hennōn | They (m) | hum (هم) | hēm (הֵם) |
 | **3 f.pl.** | ܗܢܝܢ | hennēn | They (f) | hunna (هنّ) | hēn (הֵן) |
 
-*Note: In ʾant, ʾanti, ʾantūn, and ʾantēn, the 'n' is historically written but often silent in pronunciation (assimilated: "at", "ati").*
+*Note: In ʾant, ʾanti, ʾantūn, and ʾantēn, the 'n' is historically written but silent in pronunciation (assimilated: "at", "at(y)", "atūn", "atēn").*
 
 ---
 
 #### Section 5: The Emphatic Noun State
 
 
-In the absolute state, the word for king is *malk*. In the emphatic state (the standard dictionary form), an ʾAlaph is added.
+For masculine singular nouns, the **absolute** state ("a king") and the **construct** state ("king of...") are identical in form: ܡܠܟ (*melek*). In the **emphatic** state (the standard dictionary form), an Alaph (*-ā*) is added to the stem (*malk-*): ܡܠܟܐ (*malkā*). For feminine abstract nouns ending in *-ūtā*, the absolute state ends in *-ū* (*malkū*) and the construct state ends in *-ūt* (*malkūt*).
 
-| Gender | Absolute State | Emphatic State (Default) | Transliteration |
-| :--- | :--- | :--- | :--- |
-| **Masc.** | ܡܠܟ | ܡܠܟܐ | malk**ā** (King) |
-| **Fem.** | ܡܠܟܘܬ | ܡܠܟܘܬܐ | malkūtt**ā** (Kingdom) |
+| Gender | Absolute State | Construct State | Emphatic State (Default) | Transliteration |
+| :--- | :--- | :--- | :--- | :--- |
+| **Masc.** | ܡܠܟ (*melek*) | ܡܠܟ (*melek*) | ܡܠܟܐ | malk**ā** (King) |
+| **Fem.** | ܡܠܟܘ (*malkū*) | ܡܠܟܘܬ (*malkūt*) | ܡܠܟܘܬܐ | malkūt**ā** (Kingdom) |
 
-*Rule of Thumb: If a noun ends in -ā (Alaph), it's overwhelmingly likely to be a masculine emphatic singular or a feminine emphatic.*
+*Rule of Thumb: If a noun ends in -ā (Alaph), it is overwhelmingly likely to be a masculine or feminine emphatic singular (or a feminine singular absolute adjective/noun such as mellā 'word', rabbā 'great [f.abs.]').*
 
 ---
 
@@ -111,10 +116,10 @@ The following core nouns feature prominently in classical Syriac literature and 
 
 | Estrangela | Translit | Gender | Meaning | Etymology / Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ܐܠܗܐ | Alāhā | m. | God | Cognate w/ Arabic *Allāh*, Heb *ʾĔlōhīm* |
+| ܐܠܗܐ | ʾAlāhā | m. | God | Cognate w/ Arabic *Allāh*, Heb *ʾĔlōhīm* |
 | ܒܪܢܫܐ | barnāšā | m. | Human, son of man | Compounded from *bar* (son) + *nāšā* (man). Standard term for human. |
 | ܡܠܟܐ | malkā | m. | King | Semitic root *m-l-k* |
-| ܡܠܟܘܬܐ | malkūttā | f. | Kingdom | Abstract noun ending *-ūttā* |
+| ܡܠܟܘܬܐ | malkūtā | f. | Kingdom | Abstract noun ending *-ūtā* |
 | ܡܠܬܐ | meltā | f. | Word, Logos | The Syriac translation of Greek *Logos* (John 1:1) |
 | ܢܘܗܪܐ | nūhrā | m. | Light | Root *n-h-r*. Cf. Arabic *nūr* |
 | ܐܪܥܐ | ʾarʿā | f. | Earth, land | Cognate with Hebrew *ʾereṣ*, Arabic *ʾarḍ* |
@@ -143,10 +148,10 @@ malkā (a-king) hū (he-[is]).
 **Sentence 2**
 
 ܘܡܠܟܘܬܐ ܕܡܠܟܐ ܪܒܐ ܗܝ
-w-malkūttā d-malkā rabbā hī.
-w- (and-) malkūttā (the-kingdom) d- (of) malkā (the-king) rabbā (great) hī (she-[is]).
+w-malkūtā d-malkā rabbā hī.
+w- (and-) malkūtā (the-kingdom) d- (of) malkā (the-king) rabbā (great) hī (she-[is]).
 → And the kingdom of the king is great.
-*(Note: 'malkūttā' is feminine, so the pronoun 'hī' is used).*
+*(Note: 'malkūtā' is feminine, so the feminine absolute predicate adjective 'rabbā' and the pronoun 'hī' are used).*
 
 **Sentence 3**
 
@@ -165,15 +170,15 @@ Yūḥannan (John) hū (he-[is]) ṭābā (good).
 **Sentence 5**
 
 ܐܠܗܐ ܠܝܘܚܢܢ ܢܘܗܪܐ ܗܘ
-Alāhā l-Yūḥannan nūhrā hū.
-Alāhā (God) l- (to/for) Yūḥannan (John) nūhrā (light) hū (he-[is]).
+ʾAlāhā l-Yūḥannan nūhrā hū.
+ʾAlāhā (God) l- (to/for) Yūḥannan (John) nūhrā (light) hū (he-[is]).
 → God is light to Yukhannan.
 
 **Sentence 6**
 
 ܡܠܬܐ ܕܐܠܗܐ ܒܐܪܥܐ ܗܝ
-meltā d-Alāhā b-ʾarʿā hī.
-meltā (the-word) d- (of) Alāhā (God) b- (in) ʾarʿā (the-earth) hī (she-[is]).
+meltā d-ʾAlāhā b-ʾarʿā hī.
+meltā (the-word) d- (of) ʾAlāhā (God) b- (in) ʾarʿā (the-earth) hī (she-[is]).
 → The word of God is in the earth.
 
 **Sentence 7**
@@ -203,15 +208,15 @@ Identify the person, gender, and number of the following pronouns, and give the 
 Identify whether the following words are taking the Emphatic State suffix (-ā). 
 
 1. ܢܘܗܪܐ (nūhrā)
-2. ܡܠܟ (malk)
+2. ܡܠܟ (melek)
 3. ܛܒܐ (ṭābā)
 
 **Exercise 3: Translation Drill (Syriac → English)**
 
 Translate the following basic verbless clauses into English.
 
-1. Alāhā hū ṭābā.
-2. Nūhrā b-malkūttā hū.
+1. ʾAlāhā hū ṭābā.
+2. Nūhrā b-malkūtā hū.
 3. Yūḥannan barnāšā hū.
 4. Meltā d-malkā bīšā hī.
 5. ʾEnā Yūḥannan.
@@ -257,7 +262,7 @@ Re-read the story in Section 7 and answer the following:
 **Exercise 2: Morphology**
 
 1. Yes (Ends in Alaph/`ā`).
-2. No (Absolute state).
+2. No (Absolute/construct state *melek*).
 3. Yes (Ends in Alaph/`ā`).
 
 **Exercise 3: Translation**
@@ -270,8 +275,8 @@ Re-read the story in Section 7 and answer the following:
 
 **Exercise 4: Production**
 
-1. Alāhā nūhrā rabbā hū.
-2. ʾarʿā malkūttā d-Alāhā hī.
+1. ʾAlāhā nūhrā rabbā hū.
+2. ʾArʿā malkūtā d-ʾAlāhā hī.
 3. Malkā barnāšā bīšā hū.
 4. ʾEnā malkā.
 
@@ -292,7 +297,7 @@ Re-read the story in Section 7 and answer the following:
 | Component 1 | Component 2 | Copula (Pronoun) | Translation |
 | :--- | :--- | :--- | :--- |
 | Subject Noun | Predicate Noun/Adj | Pronoun matching Subject | |
-| Alāhā (God) | ṭābā (good) | hū (he) | God is good. |
+| ʾAlāhā (God) | ṭābā (good) | hū (he) | God is good. |
 | Meltā (Word) | rabbā (great) | hī (she) | The word is great. |
 
 **PRONOUN REFERENCE TABLE**
@@ -308,7 +313,7 @@ Re-read the story in Section 7 and answer the following:
 
 #### Section 11: Additional Vocabulary
 
-The following high-frequency words round out this lesson's vocabulary to 30 terms.
+The following 30 high-frequency nouns supplement this lesson's core vocabulary.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -334,7 +339,7 @@ The following high-frequency words round out this lesson's vocabulary to 30 term
 | ܐܬܪܐ | ʾatrā | m. noun | place, country | |
 | ܣܗܕܐ | sāhdā | m. noun | witness, martyr | |
 | ܒܣܪܐ | besrā | m. noun | flesh | |
-| ܛܝܒܘܬܐ | ṭaybūttā | f. noun | grace | |
+| ܛܝܒܘܬܐ | ṭaybūtā | f. noun | grace | |
 | ܬܘܪܐ | tawrā | m. noun | bull, ox | |
 | ܩܝܡܐ | qyāmā | m. noun | covenant | |
 | ܐܘܪܚܐ | ʾūrḥā | f. noun | way, road | |

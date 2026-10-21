@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
 <question type="description"><name><text>Module 2 · Lesson 6</text></name><questiontext format="html"><text><![CDATA[<h3><strong>The Paael Stem: Intensive, Factitive, and Formal Religious Action</strong></h3>
-<p>ܦܐܥܠ <em>pāʿel</em></p>
+<div class="chapter-image">
+<img src="images/Lesson_06.jpg" alt="St. Ephrem the Syrian, 11th-century mosaic in Nea Moni." />
+<p class="caption">
+<em>St. Ephrem the Syrian, 11th-century mosaic in Nea Moni.</em>
+</p>
+</div>
+<p>ܦܥܠ <em>paʿʿel</em></p>
 <p><em>Worship and religious vocabulary · Conflict with established
 religion</em></p>
 ]]></text></questiontext></question>
@@ -11,624 +17,657 @@ religion</em></p>
 with the Aphel stem (causative). This lesson introduces its close
 sibling: the Paael, the intensive/factitive stem.</p>
 <ul>
-<li><p><strong>Lesson 5 review:</strong> The Aphel stem: ʾa- prefix,
-causative meaning (‘to cause X’). Perfect paradigm (ʾallep), participle
-(maʾlep). Comparison with Hebrew Hiphil and Arabic Form IV.</p></li>
-<li><p><strong>Lessons 1–4 recap:</strong> Estrangela alphabet; noun
+<li><strong>Lesson 5 review:</strong> The Aphel stem: <em>ʾa-</em>
+prefix, causative meaning (“to cause X”). Perfect paradigm
+(<em>ʾaqreb</em>), participle (<em>maqreb</em>). Comparison with Hebrew
+Hiphil and Arabic Form IV.</li>
+<li><strong>Lessons 1–4 recap:</strong> Estrangela alphabet; noun
 states, pronouns and verbless clauses; the Peal participle with
 enclitics (present); the Peal perfect (past); pronominal suffixes and
-<em>ʾit l-</em> (“to have”).</p></li>
+<em>ʾīt l-</em> (“to have”).</li>
 </ul>
 <p><strong>5-Question Warm-Up Drill</strong></p>
-<p>Answer these questions before proceeding. Answers in Section 8.</p>
+<p>Answer these questions before proceeding. Answers in Section 9.</p>
 <ol type="1">
-<li><p>Give the Aphel perfect 3 m.sg. of the root q-r-b (draw near) and
-translate it.</p></li>
-<li><p>ܡܐܠܦ — what form is this? What is its root and stem?</p></li>
-<li><p>Translate: ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ (Rūḥā ʾaglī šrārā)</p></li>
-<li><p>What is the Hebrew Hiphil equivalent of the Syriac Aphel? Give
-one example.</p></li>
-<li><p>Give the Aphel participle (all four forms) of root ʾ-l-p
-(teach).</p></li>
+<li>Give the Aphel perfect 3 m.sg. of the root <em>q-r-b</em> (draw
+near) and translate it.</li>
+<li>ܡܩܪܒ — what form is this? What is its root and stem?</li>
+<li>Translate: ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ (<em>Rūḥā ʾaglī šrārā</em>)</li>
+<li>What is the Hebrew Hiphil equivalent of the Syriac Aphel? Give one
+example.</li>
+<li>Give the Aphel participle (all four forms) of root <em>q-r-b</em>
+(bring near).</li>
 </ol>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. What is the Aphel perfect 3 m.sg. of q-r-b (draw near)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܐܩܪܒ <i>ʾaqreb</i>, 'he brought near / offered']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܩܪܒ <i>qreb</i>, 'he drew near']]></text><feedback format="html"><text><![CDATA[That is the Peal.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܩܪܒ <i>maqreb</i>, 'bringing near']]></text><feedback format="html"><text><![CDATA[That is the participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܩܪܒ <i>qarreb</i>, 'he brought close']]></text><feedback format="html"><text><![CDATA[The doubled middle letter marks the Paael.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. What form is ܡܐܠܦ?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Aphel participle m.sg. of ʾ-l-p: 'teaching']]></text><feedback format="html"><text><![CDATA[Correct: the m- prefix marks a derived-stem participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect 3 m.sg.: 'he taught']]></text><feedback format="html"><text><![CDATA[That is <i>ʾalep</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal participle m.sg.: 'learning']]></text><feedback format="html"><text><![CDATA[The Peal participle has no m- prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The Paael perfect has no prefix.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. Translate: ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ (<i>Rūḥā ʾaglī šrārā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Spirit revealed the truth.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The truth revealed the Spirit.]]></text><feedback format="html"><text><![CDATA[<i>rūḥā</i> comes first as subject; <i>šrārā</i> is the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Spirit is truth.]]></text><feedback format="html"><text><![CDATA[<i>ʾaglī</i> is a verb, 'revealed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Spirit gave life to the truth.]]></text><feedback format="html"><text><![CDATA['Gave life' is <i>ʾaḥyī</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. What form is ܡܩܪܒ (<i>maqreb</i>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Aphel participle m.sg. of q-r-b: 'bringing near / offering']]></text><feedback format="html"><text><![CDATA[Correct: the m- prefix marks a derived-stem participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect 3 m.sg.: 'he offered']]></text><feedback format="html"><text><![CDATA[That is <i>ʾaqreb</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal participle m.sg.: 'drawing near']]></text><feedback format="html"><text><![CDATA[The Peal participle has no m- prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The Paael perfect has no prefix.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. Translate: ܪܘܚܐ ܐܓܠܝ ܫܪܪܐ (<i>Rūḥā ʾaglī šrārā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Spirit revealed the truth.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The truth revealed the Spirit.]]></text><feedback format="html"><text><![CDATA[<i>rūḥā</i> comes first as subject; <i>šrārā</i> is the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Spirit is truth.]]></text><feedback format="html"><text><![CDATA[<i>ʾaglī</i> is a verb, 'revealed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Spirit gave life to the truth.]]></text><feedback format="html"><text><![CDATA['Gave life' is <i>ʾaḥī</i>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. Which Hebrew form is the equivalent of the Syriac Aphel?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The Hiphil, e.g. <i>hiqrīb</i> 'brought near']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Piel, e.g. <i>qiddēš</i> 'sanctified']]></text><feedback format="html"><text><![CDATA[The Piel matches the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Qal, e.g. <i>qārab</i> 'drew near']]></text><feedback format="html"><text><![CDATA[The Qal matches the Peal.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Niphal]]></text><feedback format="html"><text><![CDATA[The Niphal is passive/reflexive.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. Which list gives the four Aphel participle forms of ʾ-l-p?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>maʾlep, maʾlpā, maʾlpīn, maʾlpān</i>]]></text><feedback format="html"><text><![CDATA[Correct: m.sg., f.sg., m.pl., f.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾalep, ʾallpat, ʾallpū, ʾallpī</i>]]></text><feedback format="html"><text><![CDATA[Those are perfect forms.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>maʾlep, maʾlpīn, maʾlpā, maʾlpē</i>]]></text><feedback format="html"><text><![CDATA[-ē is the emphatic plural of nouns, not the participle f.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾālep, ʾālpā, ʾālpīn, ʾālpān</i>]]></text><feedback format="html"><text><![CDATA[Those are Peal participle forms.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. Which list gives the four Aphel participle forms of q-r-b?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>maqreb, maqrbā, maqrbīn, maqrbān</i>]]></text><feedback format="html"><text><![CDATA[Correct: m.sg., f.sg., m.pl., f.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾaqreb, ʾaqrbat, ʾaqrebū, ʾaqrebēn</i>]]></text><feedback format="html"><text><![CDATA[Those are perfect forms.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>maqreb, maqrbīn, maqrbā, maqrbē</i>]]></text><feedback format="html"><text><![CDATA[-ē is the emphatic plural of nouns, not the participle f.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qāreb, qārbā, qārbīn, qārbān</i>]]></text><feedback format="html"><text><![CDATA[Those are Peal participle forms.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 2 · Lesson 6 · Section 2: The Paael Stem</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Paael Stem</h3>
 <p><strong>Core Meaning: Intensive and Factitive</strong></p>
-<p>The Paael stem (also spelled Pael or Pāʿel) expresses two related
-types of intensified meaning:</p>
+<p>The Paael stem (also spelled Pael or Paʿʿel, ܦܥܠ) expresses two
+related types of intensified meaning:</p>
 <ul>
-<li><p><strong>Intensive:</strong> Repeated, thoroughgoing, or
-heightened action. ‘He wrote’ (Peal) → ‘he wrote carefully/copied out’
-(Paael).</p></li>
-<li><p><strong>Factitive:</strong> Causing someone or something to enter
-into a state. ‘Be holy’ (Peal) → ‘make holy/sanctify’ (Paael). The Paael
-turns intransitive verbs into transitive ones.</p></li>
+<li><strong>Intensive:</strong> Repeated, thoroughgoing, or heightened
+action. “He broke” (Peal <em>tbar</em>) → “he shattered into pieces”
+(Paael <em>tabbar</em>).</li>
+<li><strong>Factitive:</strong> Causing someone or something to enter
+into a state. “Be holy” (Peal <em>qdaš</em>) → “make holy / sanctify”
+(Paael <em>qaddeš</em>); “learn” (Peal <em>īlep</em>) → “make learned /
+teach” (Paael <em>ʾallep</em>). The Paael turns intransitive or stative
+verbs into transitive ones.</li>
 </ul>
 <p><strong>Formation: Gemination of the Middle Root Letter</strong></p>
 <p>The defining feature of the Paael is the <strong>doubling
-(gemination) of the middle root consonant (R2)</strong>. This is written
-with a <em>dageš</em>-like diacritic in pointing, or simply by writing
-the letter twice in some scripts.</p>
+(gemination) of the middle root consonant (R2)</strong>.</p>
 <ul>
-<li><p><strong>Perfect:</strong> CaR₁R₂R₂eR₃ pattern — e.g., barrek
-(from b-r-k), qaddaš (from q-d-š), yallep (from y-l-p)</p></li>
-<li><p><strong>Participle:</strong> mCaR₁R₂R₂eR₃ pattern (m- prefix) —
-e.g., mbarrek, mqaddeš, myallep</p></li>
+<li><strong>Perfect:</strong> <em>R₁aR₂R₂eR₃</em> pattern — e.g.,
+<em>barrek</em> (from <em>b-r-k</em>), <em>qaddeš</em> (from
+<em>q-d-š</em>), <em>ʾallep</em> (from <em>ʾ-l-p</em> / <em>y-l-p</em>,
+“teach”).</li>
+<li><strong>Participle:</strong> <em>mR₁aR₂R₂eR₃</em> pattern
+(<em>m-</em> prefix) — e.g., <em>mbarrek</em>, <em>mqaddeš</em>,
+<em>mallep</em> (where the initial <em>ʾ</em> of <em>ʾallep</em> elides
+in spelling: ܡܠܦ).</li>
 </ul>
 <p><strong>Cross-Linguistic Comparison</strong></p>
 <ul>
-<li><p><strong>Hebrew Piel:</strong> The direct cognate of the Syriac
+<li><strong>Hebrew Piel:</strong> The direct cognate of the Syriac
 Paael. Also formed by doubling R2. Compare: <em>kipper</em> (Piel,
-‘atone/cover’ — from k-p-r), <em>bērak</em> (Piel, ‘bless’ — from
-b-r-k), <em>qiddēš</em> (Piel, ‘sanctify’). The structural identity is
-near-perfect.</p></li>
-<li><p><strong>Arabic Form II:</strong> Formed by doubling R2 (qaddama,
-‘to present/offer’; ʿallama, ‘to teach/instruct’; qaddasa, ‘to
-sanctify’). Arabic Form II corresponds precisely to Syriac Paael in both
-form and function.</p></li>
-<li><p><strong>Greek:</strong> No direct morphological equivalent.
+“atone/cover” — from <em>k-p-r</em>), <em>bēraḵ</em> (Piel, “bless” —
+from <em>b-r-k</em>), <em>qiddēš</em> (Piel, “sanctify”). The structural
+identity is near-perfect.</li>
+<li><strong>Arabic Form II:</strong> Formed by doubling R2
+(<em>qaddama</em>, “to present/offer”; <em>ʿallama</em>, “to
+teach/instruct”; <em>qaddasa</em>, “to sanctify”). Arabic Form II
+corresponds precisely to Syriac Paael in both form and function.</li>
+<li><strong>Greek:</strong> No direct morphological equivalent.
 Intensives expressed via prefix verbs (e.g., <em>κατα-</em> compounds),
-aspect (perfect), or adverbs. Latin uses intensifying prefixes or
-separate lexical items.</p></li>
+aspect, or adverbs. Latin uses intensifying prefixes or separate lexical
+items.</li>
 </ul>
 <p><strong>Paael Examples: Peal → Paael</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table style="width:100%;">
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 11%" />
-<col style="width: 13%" />
-<col style="width: 19%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Peal (Syr)</strong></th>
+<th style="text-align: left;"><strong>Root</strong></th>
+<th style="text-align: left;"><strong>Peal Meaning</strong></th>
+<th style="text-align: left;"><strong>Paael (Syr)</strong></th>
+<th style="text-align: left;"><strong>Paael Translit</strong></th>
+<th style="text-align: left;"><strong>Paael Meaning</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Peal (Syr)</strong></td>
-<td style="text-align: center;"><strong>Root</strong></td>
-<td style="text-align: center;"><strong>Peal Meaning</strong></td>
-<td style="text-align: center;"><strong>Paael (Syr)</strong></td>
-<td style="text-align: center;"><strong>Paael Translit</strong></td>
-<td style="text-align: center;"><strong>Paael Meaning</strong></td>
+<tr class="odd">
+<td style="text-align: left;">ܒܪܟ</td>
+<td style="text-align: left;"><em>b-r-k</em></td>
+<td style="text-align: left;">kneel (Peal <em>brak</em>)</td>
+<td style="text-align: left;">ܒܪܟ</td>
+<td style="text-align: left;"><em>barrek</em></td>
+<td style="text-align: left;">bless, pronounce blessing</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܒܪܟ b-r-k</td>
-<td style="text-align: center;">’kneel,</td>
-<td style="text-align: center;">ܒܪܟ barre bless (Peal)’</td>
-<td style="text-align: center;">k ’bless/prono</td>
-<td style="text-align: center;">unce</td>
-<td style="text-align: center;">blessing’</td>
+<tr class="even">
+<td style="text-align: left;">ܩܕܫ</td>
+<td style="text-align: left;"><em>q-d-š</em></td>
+<td style="text-align: left;">be holy (Peal <em>qdaš</em>)</td>
+<td style="text-align: left;">ܩܕܫ</td>
+<td style="text-align: left;"><em>qaddeš</em></td>
+<td style="text-align: left;">sanctify, make holy</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܩܕܫ q-d-š ’</td>
-<td style="text-align: center;">be holy</td>
-<td style="text-align: center;">ܩܕܫ qadda (Peal)’</td>
-<td style="text-align: center;">š ’sanctify/make</td>
-<td style="text-align: center;">holy’</td>
-<td style="text-align: center;"></td>
+<tr class="odd">
+<td style="text-align: left;">ܝܠܦ</td>
+<td style="text-align: left;"><em>y-l-p</em> / <em>ʾ-l-p</em></td>
+<td style="text-align: left;">learn (Peal <em>īlep</em>)</td>
+<td style="text-align: left;">ܐܠܦ</td>
+<td style="text-align: left;"><em>ʾallep</em></td>
+<td style="text-align: left;">teach (make learned)</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܝܠܦ y-l-p</td>
-<td style="text-align: center;">’learn</td>
-<td style="text-align: center;">ܝܠܦ yalle (Peal)’</td>
-<td style="text-align: center;">p ’teach (ma</td>
-<td style="text-align: center;">ke</td>
-<td style="text-align: center;">learned)’</td>
+<tr class="even">
+<td style="text-align: left;">ܫܡܫ</td>
+<td style="text-align: left;"><em>š-m-š</em></td>
+<td style="text-align: left;">(used in Paael)</td>
+<td style="text-align: left;">ܫܡܫ</td>
+<td style="text-align: left;"><em>šammeš</em></td>
+<td style="text-align: left;">minister, serve formally</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܫܡܫ š-m-š</td>
-<td style="text-align: center;">’serve</td>
-<td style="text-align: center;">ܫܡܫ šamme (Peal)’</td>
-<td style="text-align: center;">š ’minister/s</td>
-<td style="text-align: center;">erve</td>
-<td style="text-align: center;">formally’</td>
-</tr>
-<tr>
-<td style="text-align: center;">ܟܢܫ k-n-š</td>
-<td style="text-align: center;">’gather</td>
-<td style="text-align: center;">ܟܢܫ kanne (Peal)’</td>
-<td style="text-align: center;">š ’assemble/col</td>
-<td style="text-align: center;">lect’</td>
-<td style="text-align: center;"></td>
+<tr class="odd">
+<td style="text-align: left;">ܟܢܫ</td>
+<td style="text-align: left;"><em>k-n-š</em></td>
+<td style="text-align: left;">gather (intrans., Peal <em>knaš</em>)</td>
+<td style="text-align: left;">ܟܢܫ</td>
+<td style="text-align: left;"><em>kanneš</em></td>
+<td style="text-align: left;">assemble, collect (trans.)</td>
 </tr>
 </tbody>
 </table></div>
 <blockquote>
-<p><strong>KEY INSIGHT: When the Paael is applied to an INTRANSITIVE
-verb (e.g., ‘be holy’), it makes the action TRANSITIVE and FACTITIVE:
-‘make X holy / sanctify.’ This is called the factitive use, and it is
-the Paael’s most theologically important function. Compare Hebrew Piel
-kipper (‘atone’), qiddēš (‘sanctify’), bērak (‘bless’).</strong></p>
+<p><strong>KEY INSIGHT: When the Paael is applied to an INTRANSITIVE or
+STATIVE verb (e.g., “be holy” or “learn”), it makes the action
+TRANSITIVE and FACTITIVE: “make X holy / sanctify” (<em>qaddeš</em>) or
+“make X learn / teach” (<em>ʾallep</em>). Note that “teach” in Syriac is
+a I-Alaph Paael verb: perfect ܐܠܦ (<em>ʾallep</em>) and participle ܡܠܦ
+(<em>mallep</em>).</strong></p>
 </blockquote>
-<p><strong>Comparison of the Three Major Stems</strong></p>
-<div class="tablewrap"><table style="width:97%;">
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 6 · Section 2: The Paael Stem (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Paael Stem (continued)</h3>
+<p><strong>Comparison of the Three Major Active Stems</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 20%" />
-<col style="width: 33%" />
-<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Root</strong></th>
+<th style="text-align: left;"><strong>Peal (basic)</strong></th>
+<th style="text-align: left;"><strong>Paael
+(intensive/factitive)</strong></th>
+<th style="text-align: left;"><strong>Aphel (causative)</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Syriac</strong></td>
-<td style="text-align: center;"><strong>Peal (basic)</strong></td>
-<td style="text-align: center;"><strong>Paael
-(intensive/factitive)</strong></td>
-<td style="text-align: center;"><strong>Aphel (causative)</strong></td>
+<tr class="odd">
+<td style="text-align: left;"><em>q-d-š</em></td>
+<td style="text-align: left;"><em>qdaš</em> (“be holy”)</td>
+<td style="text-align: left;"><em>qaddeš</em> (“sanctify, make
+holy”)</td>
+<td style="text-align: left;">—</td>
 </tr>
-<tr>
-<td style="text-align: center;">q-d-š</td>
-<td style="text-align: center;">qadaš (‘be holy’)</td>
-<td style="text-align: center;">qaddaš (‘sanctify/make holy’)</td>
-<td style="text-align: center;">—</td>
+<tr class="even">
+<td style="text-align: left;"><em>b-r-k</em></td>
+<td style="text-align: left;"><em>brak</em> (“kneel”)</td>
+<td style="text-align: left;"><em>barrek</em> (“bless solemnly”)</td>
+<td style="text-align: left;"><em>ʾabrek</em> (“make kneel”)</td>
 </tr>
-<tr>
-<td style="text-align: center;">b-r-k</td>
-<td style="text-align: center;">berak (‘kneel’)</td>
-<td style="text-align: center;">barrek (‘bless intensively’)</td>
-<td style="text-align: center;">—</td>
+<tr class="odd">
+<td style="text-align: left;"><em>q-r-b</em></td>
+<td style="text-align: left;"><em>qreb</em> (“draw near”)</td>
+<td style="text-align: left;"><em>qarreb</em> (“bring close,
+present”)</td>
+<td style="text-align: left;"><em>ʾaqreb</em> (“bring near, offer”)</td>
 </tr>
-<tr>
-<td style="text-align: center;">k-t-b</td>
-<td style="text-align: center;">katab (‘write’)</td>
-<td style="text-align: center;">katteb (‘write carefully/copy’) (’</td>
-<td style="text-align: center;">ʾakteb dictate/cause to write’)</td>
+<tr class="even">
+<td style="text-align: left;"><em>y-l-p</em> / <em>ʾ-l-p</em></td>
+<td style="text-align: left;"><em>īlep</em> (“learn”)</td>
+<td style="text-align: left;"><em>ʾallep</em> (“teach, instruct”)</td>
+<td style="text-align: left;">—</td>
 </tr>
-<tr>
-<td style="text-align: center;">y-l-p</td>
-<td style="text-align: center;">yalep (‘learn’)</td>
-<td style="text-align: center;">yallep (‘teach — make ʾal learned’)</td>
-<td style="text-align: center;">lep (‘cause to learn’)</td>
-</tr>
-<tr>
-<td style="text-align: center;">š-m-š</td>
-<td style="text-align: center;">šemaš (‘serve’)</td>
-<td style="text-align: center;">šammeš (‘minister formally’)</td>
-<td style="text-align: center;">—</td>
+<tr class="odd">
+<td style="text-align: left;"><em>ḥ-y-y</em></td>
+<td style="text-align: left;"><em>ḥyā</em> (“live”)</td>
+<td style="text-align: left;"><em>ḥayyī</em> (“preserve alive”)</td>
+<td style="text-align: left;"><em>ʾaḥī</em> (“give life, save”)</td>
 </tr>
 </tbody>
 </table></div>
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 6</text></name><questiontext format="html"><text><![CDATA[What is the basic meaning shift of the Paael stem?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Intensive or factitive ('make X')]]></text><feedback format="html"><text><![CDATA[Correct: <i>qadaš</i> 'be holy' → <i>qaddaš</i> 'make holy'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Causative with an ʾa- prefix]]></text><feedback format="html"><text><![CDATA[That is the Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Passive]]></text><feedback format="html"><text><![CDATA[The passive of the Paael is the Ethpaael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No change in meaning]]></text><feedback format="html"><text><![CDATA[The Paael shifts the meaning.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 7</text></name><questiontext format="html"><text><![CDATA[How is the Paael formed?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[By doubling the middle root letter (<i>qaddaš</i>)]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By adding the prefix ʾa-]]></text><feedback format="html"><text><![CDATA[That is the Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By adding the prefix ʾet-]]></text><feedback format="html"><text><![CDATA[That is the ʾet- (passive) stems.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By lengthening the first vowel]]></text><feedback format="html"><text><![CDATA[That is the Peal participle pattern.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 6</text></name><questiontext format="html"><text><![CDATA[What is the basic meaning shift of the Paael stem?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Intensive or factitive ('make X')]]></text><feedback format="html"><text><![CDATA[Correct: <i>qdaš</i> 'be holy' → <i>qaddeš</i> 'make holy'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Causative with an ʾa- prefix]]></text><feedback format="html"><text><![CDATA[That is the Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Passive]]></text><feedback format="html"><text><![CDATA[The passive of the Paael is the Etpaael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No change in meaning]]></text><feedback format="html"><text><![CDATA[The Paael shifts the meaning.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 7</text></name><questiontext format="html"><text><![CDATA[How is the Paael formed?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[By doubling the middle root letter (<i>qaddeš</i>)]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By adding the prefix ʾa-]]></text><feedback format="html"><text><![CDATA[That is the Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By adding the prefix ʾet-]]></text><feedback format="html"><text><![CDATA[That is the ʾet- (passive) stems.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[By lengthening the first vowel]]></text><feedback format="html"><text><![CDATA[That is the Peal participle pattern.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 2 · Lesson 6 · Section 3: Paael Perfect Paradigm</text></name><questiontext format="html"><text><![CDATA[<h3>Section 3: Paael Perfect Paradigm</h3>
-<p><strong>Root: b-r-k | Stem: Paael | Meaning: ‘to bless’</strong></p>
-<p>ܦܐܥܠ <strong>Perfect — Full Conjugation (Root b-r-k)</strong></p>
-<div class="tablewrap"><table style="width:98%;">
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 32%" />
-</colgroup>
+<p><strong>Root: <em>b-r-k</em> | Stem: Paael | Meaning: “to
+bless”</strong></p>
+<p>ܦܥܠ <strong>Perfect — Full Conjugation (Root
+<em>b-r-k</em>)</strong></p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Person</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Transliteration</strong></th>
+<th style="text-align: left;"><strong>Translation</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Person</strong></td>
-<td style="text-align: center;"><strong>Estrangela</strong></td>
-<td style="text-align: center;"><strong>Transliteration</strong></td>
-<td style="text-align: center;"><strong>Translation</strong></td>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 m.sg.</strong></td>
+<td style="text-align: left;">ܒܪܟ</td>
+<td style="text-align: left;"><em>barrek</em></td>
+<td style="text-align: left;">he blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>3 m.sg.</strong></td>
-<td style="text-align: center;">ܒܪܟ *barrek</td>
-<td style="text-align: center;">* he bl</td>
-<td style="text-align: center;">essed</td>
+<tr class="even">
+<td style="text-align: left;"><strong>3 f.sg.</strong></td>
+<td style="text-align: left;">ܒܪܟܬ</td>
+<td style="text-align: left;"><em>barrkat</em></td>
+<td style="text-align: left;">she blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>3 f.sg.</strong></td>
-<td style="text-align: center;">ܒܪܟܬ *barreka</td>
-<td style="text-align: center;">t* she b</td>
-<td style="text-align: center;">lessed</td>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 m.sg.</strong></td>
+<td style="text-align: left;">ܒܪܟܬ</td>
+<td style="text-align: left;"><em>barrekt</em></td>
+<td style="text-align: left;">you (m.sg.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>2 m.sg.</strong></td>
-<td style="text-align: center;">ܒܪܟܬ *barrek</td>
-<td style="text-align: center;">t* you (m.sg</td>
-<td style="text-align: center;">.) blessed</td>
+<tr class="even">
+<td style="text-align: left;"><strong>2 f.sg.</strong></td>
+<td style="text-align: left;">ܒܪܟܬܝ</td>
+<td style="text-align: left;"><em>barrekt(y)</em></td>
+<td style="text-align: left;">you (f.sg.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>2 f.sg.</strong></td>
-<td style="text-align: center;">ܒܪܟܬܝ *barrekt</td>
-<td style="text-align: center;">i* you (f.sg</td>
-<td style="text-align: center;">.) blessed</td>
+<tr class="odd">
+<td style="text-align: left;"><strong>1 c.sg.</strong></td>
+<td style="text-align: left;">ܒܪܟܬ</td>
+<td style="text-align: left;"><em>barrket</em></td>
+<td style="text-align: left;">I blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>1 c.sg.</strong></td>
-<td style="text-align: center;">ܒܪܟܬ *barreki</td>
-<td style="text-align: center;">t* I bl</td>
-<td style="text-align: center;">essed</td>
+<tr class="even">
+<td style="text-align: left;"><strong>3 m.pl.</strong></td>
+<td style="text-align: left;">ܒܪܟܘ</td>
+<td style="text-align: left;"><em>barrekū</em></td>
+<td style="text-align: left;">they (m.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>3 m.pl.</strong></td>
-<td style="text-align: center;">ܒܪܟܘ *barrek</td>
-<td style="text-align: center;">ū* they (m.</td>
-<td style="text-align: center;">) blessed</td>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 f.pl.</strong></td>
+<td style="text-align: left;">ܒܪܟ / ܒܪܟܝ</td>
+<td style="text-align: left;"><em>barrek</em></td>
+<td style="text-align: left;">they (f.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>3 f.pl.</strong></td>
-<td style="text-align: center;">ܒܪܟܝ *barrek</td>
-<td style="text-align: center;">ī* they (f.</td>
-<td style="text-align: center;">) blessed</td>
+<tr class="even">
+<td style="text-align: left;"><strong>2 m.pl.</strong></td>
+<td style="text-align: left;">ܒܪܟܬܘܢ</td>
+<td style="text-align: left;"><em>barrektūn</em></td>
+<td style="text-align: left;">you (m.pl.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>2 m.pl.</strong></td>
-<td style="text-align: center;">ܒܪܟܬܘܢ *barrekit</td>
-<td style="text-align: center;">ūn* you (m.pl</td>
-<td style="text-align: center;">.) blessed</td>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 f.pl.</strong></td>
+<td style="text-align: left;">ܒܪܟܬܝܢ</td>
+<td style="text-align: left;"><em>barrektēn</em></td>
+<td style="text-align: left;">you (f.pl.) blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>2 f.pl.</strong></td>
-<td style="text-align: center;">ܒܪܟܬܝܢ *barrekit</td>
-<td style="text-align: center;">in* you (f.pl</td>
-<td style="text-align: center;">.) blessed</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>1 c.pl.</strong></td>
-<td style="text-align: center;">ܒܪܟܢ *barreki</td>
-<td style="text-align: center;">n* we bl</td>
-<td style="text-align: center;">essed</td>
+<tr class="even">
+<td style="text-align: left;"><strong>1 c.pl.</strong></td>
+<td style="text-align: left;">ܒܪܟܢ</td>
+<td style="text-align: left;"><em>barrekn</em></td>
+<td style="text-align: left;">we blessed</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Formation Notes</strong></p>
 <ul>
-<li><p><strong>Root:</strong> b-r-k. In the Paael, R2 (resh, r) is
-geminated: b-rr-k → barrek</p></li>
-<li><p><strong>Perfect vowel pattern:</strong> a under R1, doubled R2, e
-vowel between R2 and R3 (same as Peal CeCC but with geminate
-R2)</p></li>
-<li><p><strong>Suffix set:</strong> Essentially identical to Peal and
-Aphel perfect suffixes</p></li>
-<li><p><strong>Guttural roots:</strong> When R2 is a guttural (Ayin,
-Ḥet, He, Alaph), gemination may be ‘virtual’ — compensatory lengthening
-of the preceding vowel occurs instead</p></li>
+<li><strong>Root:</strong> <em>b-r-k</em>. In the Paael, R2 (<em>r</em>)
+is geminated in the morphological pattern: <em>barrek</em> (compare
+<em>qaddeš</em>, <em>šabbeḥ</em>, <em>mallel</em>).</li>
+<li><strong>Perfect vowel pattern:</strong> <em>a</em> under R1, doubled
+R2, <em>e</em> vowel between R2 and R3 (elided before vocalic endings
+<em>-at</em> and <em>-et</em>: <em>barrkat</em>, <em>barrket</em>).</li>
+<li><strong>Suffix set:</strong> Identical to Peal and Aphel perfect
+suffixes.</li>
+<li><strong>I-Alaph root <em>ʾallep</em> (“to teach”):</strong>
+Conjugates regularly on this pattern: 3 m.sg. ܐܠܦ (<em>ʾallep</em>), 3
+f.sg. ܐܠܦܬ (<em>ʾallpat</em>), 2 m.sg. ܐܠܦܬ (<em>ʾallept</em>), 1 c.sg.
+ܐܠܦܬ (<em>ʾallpet</em>), 3 m.pl. ܐܠܦܘ (<em>ʾallepū</em>), 1 c.pl. ܐܠܦܢ
+(<em>ʾallepn</em>).</li>
 </ul>
 <p><strong>Comparison: Hebrew Piel Perfect</strong></p>
 <p>The Hebrew Piel perfect is structurally near-identical to the Syriac
 Paael perfect. Compare:</p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 27%" />
-<col style="width: 32%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Person</strong></th>
+<th style="text-align: left;"><strong>Hebrew (Piel)</strong></th>
+<th style="text-align: left;"><strong>Transliteration</strong></th>
+<th style="text-align: left;"><strong>Translation</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Person</strong></td>
-<td style="text-align: center;"><strong>Hebrew (Piel)</strong></td>
-<td style="text-align: center;"><strong>Transliteration</strong></td>
-<td style="text-align: center;"><strong>Translation</strong></td>
+<tr class="odd">
+<td style="text-align: left;">3 m.sg.</td>
+<td style="text-align: left;">בֵּרַךְ</td>
+<td style="text-align: left;"><em>bēraḵ</em></td>
+<td style="text-align: left;">he blessed (Piel <em>b-r-k</em>)</td>
 </tr>
-<tr>
-<td style="text-align: center;">3 m.sg.</td>
-<td style="text-align: center;">בֵּרַךְ</td>
-<td style="text-align: center;">bērāḵ</td>
-<td style="text-align: center;">he blessed (Piel b-r-k)</td>
+<tr class="even">
+<td style="text-align: left;">3 f.sg.</td>
+<td style="text-align: left;">בֵּרְכָה</td>
+<td style="text-align: left;"><em>bērĕḵāh</em></td>
+<td style="text-align: left;">she blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;">3 f.sg.</td>
-<td style="text-align: center;">בֵּרְכָה</td>
-<td style="text-align: center;">bērĕḵāh</td>
-<td style="text-align: center;">she blessed</td>
+<tr class="odd">
+<td style="text-align: left;">1 c.sg.</td>
+<td style="text-align: left;">בֵּרַכְתִּי</td>
+<td style="text-align: left;"><em>bēraḵtī</em></td>
+<td style="text-align: left;">I blessed</td>
 </tr>
-<tr>
-<td style="text-align: center;">1 c.sg.</td>
-<td style="text-align: center;">בֵּרַכְתִּי</td>
-<td style="text-align: center;">bēraḵtī</td>
-<td style="text-align: center;">I blessed</td>
-</tr>
-<tr>
-<td style="text-align: center;">3 m.pl.</td>
-<td style="text-align: center;">בֵּרְכוּ</td>
-<td style="text-align: center;">bērĕḵū</td>
-<td style="text-align: center;">they blessed</td>
+<tr class="even">
+<td style="text-align: left;">3 m.pl.</td>
+<td style="text-align: left;">בֵּרְכוּ</td>
+<td style="text-align: left;"><em>bērĕḵū</em></td>
+<td style="text-align: left;">they blessed</td>
 </tr>
 </tbody>
 </table></div>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 2 · Lesson 6 · Section 4: Paael Participle Paradigm</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Paael Participle Paradigm</h3>
-<p><strong>Root: b-r-k | Stem: Paael | Meaning: ‘one who
-blesses’</strong></p>
-<p>The Paael active participle takes the same m- prefix as all
+<p><strong>Root: <em>b-r-k</em> | Stem: Paael | Meaning:
+“blessing”</strong></p>
+<p>The Paael active participle takes the same <em>m-</em> prefix as all
 derived-stem participles. The gemination of R2 is preserved
 throughout.</p>
-<div class="tablewrap"><table style="width:98%;">
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 30%" />
-</colgroup>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Form</strong></th>
+<th style="text-align: left;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Transliteration</strong></th>
+<th style="text-align: left;"><strong>Translation</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Form</strong></td>
-<td style="text-align: center;"><strong>Estrangela</strong></td>
-<td style="text-align: center;"><strong>Transliteration</strong></td>
-<td style="text-align: center;"><strong>Translation</strong></td>
+<tr class="odd">
+<td style="text-align: left;"><strong>m.sg.</strong></td>
+<td style="text-align: left;">ܡܒܪܟ</td>
+<td style="text-align: left;"><em>mbarrek</em></td>
+<td style="text-align: left;">blessing (m.sg.)</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>m.sg.</strong></td>
-<td style="text-align: center;">ܡܒܪܟ *mbarre</td>
-<td style="text-align: center;">k* blessing</td>
-<td style="text-align: center;">(m.sg.)</td>
+<tr class="even">
+<td style="text-align: left;"><strong>f.sg.</strong></td>
+<td style="text-align: left;">ܡܒܪܟܐ</td>
+<td style="text-align: left;"><em>mbarrkā</em></td>
+<td style="text-align: left;">blessing (f.sg.)</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>f.sg.</strong></td>
-<td style="text-align: center;">ܡܒܪܟܐ *mbarrk</td>
-<td style="text-align: center;">ā* blessing</td>
-<td style="text-align: center;">(f.sg.)</td>
+<tr class="odd">
+<td style="text-align: left;"><strong>m.pl.</strong></td>
+<td style="text-align: left;">ܡܒܪܟܝܢ</td>
+<td style="text-align: left;"><em>mbarrkīn</em></td>
+<td style="text-align: left;">blessing (m.pl.)</td>
 </tr>
-<tr>
-<td style="text-align: center;"><strong>m.pl.</strong></td>
-<td style="text-align: center;">ܡܒܪܟܝܢ *mbarrkī</td>
-<td style="text-align: center;">n* blessing</td>
-<td style="text-align: center;">(m.pl.)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>f.pl.</strong></td>
-<td style="text-align: center;">ܡܒܪܟܢ *mbarrkā</td>
-<td style="text-align: center;">n* blessing</td>
-<td style="text-align: center;">(f.pl.)</td>
+<tr class="even">
+<td style="text-align: left;"><strong>f.pl.</strong></td>
+<td style="text-align: left;">ܡܒܪܟܢ</td>
+<td style="text-align: left;"><em>mbarrkān</em></td>
+<td style="text-align: left;">blessing (f.pl.)</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Formation Notes</strong></p>
 <ul>
-<li><p><strong>Prefix:</strong> m- (identical to Aphel participle
-prefix)</p></li>
-<li><p><strong>Vowel pattern:</strong> m + a + R1R2R2 + e + R3
-(preserves gemination of R2)</p></li>
-<li><p><strong>Suffixes:</strong> Standard participle endings: m.sg.
-(unmarked), f.sg. (-ā), m.pl. (-īn), f.pl. (-ān)</p></li>
+<li><strong>Prefix:</strong> <em>m-</em> (identical to Aphel participle
+prefix).</li>
+<li><strong>Vowel pattern:</strong> <em>m</em> + R1 + <em>a</em> + R2R2
++ <em>e</em> + R3 (preserves gemination of R2). For ܐܠܦ
+(<em>ʾallep</em>, “teach”), the initial Alaph elides after <em>m-</em>:
+m.sg. ܡܠܦ (<em>mallep</em>), f.sg. ܡܠܦܐ (<em>mallpā</em>), m.pl. ܡܠܦܝܢ
+(<em>mallpīn</em>), f.pl. ܡܠܦܢ (<em>mallpān</em>).</li>
+<li><strong>Suffixes:</strong> Standard participle endings: m.sg.
+(unmarked), f.sg. (<em>-ā</em>), m.pl. (<em>-īn</em>), f.pl.
+(<em>-ān</em>).</li>
 </ul>
 <p><strong>Comparison with Hebrew and Arabic</strong></p>
-<p><strong>Hebrew Piel participle:</strong> prefix מְ (mĕ-) + doubled R2.
-E.g., <em>mĕbārēk</em> (blessing, from b-r-k Piel), <em>mĕqaddēš</em>
-(sanctifying, from q-d-š Piel). Structurally identical to Syriac Paael
-participle.</p>
-<p><strong>Arabic Form II active participle:</strong> pattern muCaCCiC
-(mu + R1 + a + R2R2 + i + R3). E.g., <em>muʿallim</em> (teacher, from
-ʿ-l-m Form II), <em>muqaddis</em> (sanctifier, from q-d-s Form II). The
-m- prefix and gemination are pan-Semitic features.</p>
+<ul>
+<li><strong>Hebrew Piel participle:</strong> prefix מְ (<em>mĕ-</em>) +
+doubled R2. E.g., <em>mĕbārēḵ</em> (blessing, from <em>b-r-k</em> Piel),
+<em>mĕqaddēš</em> (sanctifying, from <em>q-d-š</em> Piel). Structurally
+identical to Syriac Paael participle.</li>
+<li><strong>Arabic Form II active participle:</strong> pattern
+<em>muCaCCiC</em> (<em>mu</em> + R1 + <em>a</em> + R2R2 + <em>i</em> +
+R3). E.g., <em>muʿallim</em> (teacher, from <em>ʿ-l-m</em> Form II),
+<em>muqaddis</em> (sanctifier, from <em>q-d-s</em> Form II). The
+<em>m-</em> prefix and gemination are pan-Semitic features.</li>
+</ul>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 8</text></name><questiontext format="html"><text><![CDATA[What does ܡܒܪܟ (<i>mbarrek</i>) mean?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[blessing (Paael participle m.sg.)]]></text><feedback format="html"><text><![CDATA[Correct: m- prefix plus doubled middle letter.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[he blessed]]></text><feedback format="html"><text><![CDATA[The perfect is <i>barrek</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[blessed (passive)]]></text><feedback format="html"><text><![CDATA[The passive would use ʾet-.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[blessing (noun, 'a blessing')]]></text><feedback format="html"><text><![CDATA[The noun is <i>būrktā</i>.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 2 · Lesson 6 · Section 5: Worship and Religious Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Worship and Religious Vocabulary</h3>
-<p><strong>Paael Verbs for Worship and Ministry</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<p><strong>Paael and Related Verbs for Worship and Ministry</strong></p>
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 17%" />
-<col style="width: 14%" />
-<col style="width: 16%" />
-<col style="width: 27%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Translit</strong></th>
+<th style="text-align: left;"><strong>Stem</strong></th>
+<th style="text-align: left;"><strong>Meaning</strong></th>
+<th style="text-align: left;"><strong>Notes</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Estrangela</strong></td>
-<td style="text-align: center;"><strong>Translit</strong></td>
-<td style="text-align: center;"><strong>Stem</strong></td>
-<td style="text-align: center;"><strong>Meaning</strong></td>
-<td style="text-align: center;"><strong>Notes</strong></td>
+<tr class="odd">
+<td style="text-align: left;">ܒܪܟ</td>
+<td style="text-align: left;"><em>barrek</em></td>
+<td style="text-align: left;">Paael (<em>b-r-k</em>)</td>
+<td style="text-align: left;">bless, pronounce blessing</td>
+<td style="text-align: left;">Cf. Heb Piel <em>bēraḵ</em>; Arabic
+<em>bāraka</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܒܪܟ barrek</td>
-<td style="text-align: center;">Paael b-r-k</td>
-<td style="text-align: center;">bless,</td>
-<td style="text-align: center;">Cf. Heb Pie pronounce blessing</td>
-<td style="text-align: center;">l bērak; Arabic bāraka</td>
+<tr class="even">
+<td style="text-align: left;">ܠܛ</td>
+<td style="text-align: left;"><em>lāṭ</em></td>
+<td style="text-align: left;">Peal (<em>l-w-ṭ</em>)</td>
+<td style="text-align: left;">curse</td>
+<td style="text-align: left;">Antonym of <em>barrek</em>; cf. Heb
+<em>qillēl</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܠܛ laṭ</td>
-<td style="text-align: center;">Peal l-ṭ</td>
-<td style="text-align: center;">curse</td>
-<td style="text-align: center;">Antonym of ba</td>
-<td style="text-align: center;">rrek; cf. Heb qillēl</td>
+<tr class="odd">
+<td style="text-align: left;">ܨܠܝ</td>
+<td style="text-align: left;"><em>ṣallī</em></td>
+<td style="text-align: left;">Paael (<em>ṣ-l-y</em>)</td>
+<td style="text-align: left;">pray, intercede</td>
+<td style="text-align: left;">III-Yodh Paael; cf. Arabic
+<em>ṣallā</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܨܠܝ ṣallī</td>
-<td style="text-align: center;">Paael ṣ-l-y</td>
-<td style="text-align: center;">pray,</td>
-<td style="text-align: center;">Cf. Heb hit intercede</td>
-<td style="text-align: center;">pallēl; Arabic ṣallā</td>
+<tr class="even">
+<td style="text-align: left;">ܣܓܕ</td>
+<td style="text-align: left;"><em>sgad</em></td>
+<td style="text-align: left;">Peal (<em>s-g-d</em>)</td>
+<td style="text-align: left;">bow down, worship</td>
+<td style="text-align: left;">Cf. Arabic <em>sajada</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܣܓܕ sgad</td>
-<td style="text-align: center;">Peal s-g-d</td>
-<td style="text-align: center;">bow down,</td>
-<td style="text-align: center;">Cf. Arabic sa worship</td>
-<td style="text-align: center;">jada; Heb hištaḥawāh</td>
+<tr class="odd">
+<td style="text-align: left;">ܫܡܫ</td>
+<td style="text-align: left;"><em>šammeš</em></td>
+<td style="text-align: left;">Paael (<em>š-m-š</em>)</td>
+<td style="text-align: left;">minister, serve formally</td>
+<td style="text-align: left;">Liturgical service; cf. Hebrew
+<em>šimmēš</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܫܡܫ šammeš</td>
-<td style="text-align: center;">Paael š-m-š</td>
-<td style="text-align: center;">minister,</td>
-<td style="text-align: center;">Liturgical se serve formally</td>
-<td style="text-align: center;">rvice; cf. Hebrew šimmeš</td>
+<tr class="even">
+<td style="text-align: left;">ܐܠܦ</td>
+<td style="text-align: left;"><em>ʾallep</em></td>
+<td style="text-align: left;">Paael (<em>ʾ-l-p</em>)</td>
+<td style="text-align: left;">teach, instruct</td>
+<td style="text-align: left;">Factitive of <em>īlep</em> (“learn”);
+ptcp. ܡܠܦ <em>mallep</em>; cf. Arabic <em>ʿallama</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܝܠܦ yallep</td>
-<td style="text-align: center;">Paael y-l-p</td>
-<td style="text-align: center;">teach,</td>
-<td style="text-align: center;">Factitive of instruct</td>
-<td style="text-align: center;">‘learn’; cf. Arabic ʿallama</td>
+<tr class="odd">
+<td style="text-align: left;">ܩܕܫ</td>
+<td style="text-align: left;"><em>qaddeš</em></td>
+<td style="text-align: left;">Paael (<em>q-d-š</em>)</td>
+<td style="text-align: left;">sanctify, make holy</td>
+<td style="text-align: left;">Cf. Heb Piel <em>qiddēš</em>; Arabic
+<em>qaddasa</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܩܕܫ qaddaš</td>
-<td style="text-align: center;">Paael q-d-š</td>
-<td style="text-align: center;">sanctify,</td>
-<td style="text-align: center;">Cf. Heb Piel make holy</td>
-<td style="text-align: center;">qiddēš; Arabic qaddasa</td>
+<tr class="even">
+<td style="text-align: left;">ܫܒܚ</td>
+<td style="text-align: left;"><em>šabbeḥ</em></td>
+<td style="text-align: left;">Paael (<em>š-b-ḥ</em>)</td>
+<td style="text-align: left;">praise, glorify</td>
+<td style="text-align: left;">Cf. Syriac <em>šūbḥā</em> (glory);
+doxological use</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܫܒܚ šabbeḥ</td>
-<td style="text-align: center;">Paael š-b-ḥ</td>
-<td style="text-align: center;">praise,</td>
-<td style="text-align: center;">Cf. Syriac glorify</td>
-<td style="text-align: center;">šūbḥā (glory); doxological use</td>
+<tr class="odd">
+<td style="text-align: left;">ܩܒܠ</td>
+<td style="text-align: left;"><em>qabbel</em></td>
+<td style="text-align: left;">Paael (<em>q-b-l</em>)</td>
+<td style="text-align: left;">receive, accept</td>
+<td style="text-align: left;">Cf. Arabic <em>qabila</em>; used for
+receiving guests or sacraments</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܩܒܠ qabbel</td>
-<td style="text-align: center;">Paael q-b-l</td>
-<td style="text-align: center;">receive,</td>
-<td style="text-align: center;">Cf. Arabic qa accept (ritual)</td>
-<td style="text-align: center;">bila; used for receiving sacraments</td>
+<tr class="even">
+<td style="text-align: left;">ܡܠܠ</td>
+<td style="text-align: left;"><em>mallel</em></td>
+<td style="text-align: left;">Paael (<em>m-l-l</em>)</td>
+<td style="text-align: left;">speak, converse</td>
+<td style="text-align: left;">Intensive of speech; cf. Heb
+<em>millēl</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܡܠܠ mallel</td>
-<td style="text-align: center;">Paael m-l-l</td>
-<td style="text-align: center;">speak,</td>
-<td style="text-align: center;">Intensive of converse, preach</td>
-<td style="text-align: center;">speech; cf. Heb millēl</td>
+<tr class="odd">
+<td style="text-align: left;">ܕܟܝ</td>
+<td style="text-align: left;"><em>dakkī</em></td>
+<td style="text-align: left;">Paael (<em>d-k-y</em>)</td>
+<td style="text-align: left;">purify, cleanse</td>
+<td style="text-align: left;">Factitive of <em>dkā</em> (“be pure”);
+cf. Heb Piel <em>zikkāh</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܕܟܝ dakkī</td>
-<td style="text-align: center;">Paael d-k-y</td>
-<td style="text-align: center;">purify,</td>
-<td style="text-align: center;">Factitive cleanse</td>
-<td style="text-align: center;">of ‘be pure’; cf. Heb Piel zikkāh</td>
+<tr class="even">
+<td style="text-align: left;">ܡܫܚ</td>
+<td style="text-align: left;"><em>mšaḥ</em></td>
+<td style="text-align: left;">Peal (<em>m-š-ḥ</em>)</td>
+<td style="text-align: left;">anoint, smear with oil</td>
+<td style="text-align: left;">Root of <em>mšīḥā</em> (Messiah/Christ);
+cf. Heb <em>māšaḥ</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܡܫܚ mašeḥ</td>
-<td style="text-align: center;">Paael m-š-ḥ</td>
-<td style="text-align: center;">anoint, smear</td>
-<td style="text-align: center;">Root of m with oil</td>
-<td style="text-align: center;">ĕšīḥā (Messiah/Christ); cf. Heb
-māšaḥ</td>
+<tr class="odd">
+<td style="text-align: left;">ܨܡ</td>
+<td style="text-align: left;"><em>ṣām</em></td>
+<td style="text-align: left;">Peal (<em>ṣ-w-m</em>)</td>
+<td style="text-align: left;">fast, abstain</td>
+<td style="text-align: left;">Hollow verb; cf. Heb <em>ṣūm</em>, Arabic
+<em>ṣāma</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܨܡ ṣam</td>
-<td style="text-align: center;">Peal ṣ-w-m</td>
-<td style="text-align: center;">fast, abstain</td>
-<td style="text-align: center;">Cf. Heb ṣûm</td>
-<td style="text-align: center;">; Arabic ṣāma</td>
-</tr>
-<tr>
-<td style="text-align: center;">ܚܓܓ ḥagag</td>
-<td style="text-align: center;">Peal ḥ-g-g</td>
-<td style="text-align: center;">feast,</td>
-<td style="text-align: center;">Cf. Heb ḥāga celebrate</td>
-<td style="text-align: center;">g; Arabic ḥajja</td>
+<tr class="even">
+<td style="text-align: left;">ܚܓ</td>
+<td style="text-align: left;"><em>ḥag</em></td>
+<td style="text-align: left;">Peal (<em>ḥ-g-g</em>)</td>
+<td style="text-align: left;">celebrate a feast</td>
+<td style="text-align: left;">Cf. Heb <em>ḥāgag</em>, Arabic
+<em>ḥajja</em></td>
 </tr>
 </tbody>
 </table></div>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 6 · Section 5: Worship and Religious Vocabulary (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Worship and Religious Vocabulary (continued)</h3>
 <p><strong>Nouns for Temple, Worship, and Religious
 Community</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 40%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Estrangela</strong></th>
+<th style="text-align: left;"><strong>Translit</strong></th>
+<th style="text-align: left;"><strong>Meaning</strong></th>
+<th style="text-align: left;"><strong>Notes</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Estrangela</strong></td>
-<td style="text-align: center;"><strong>Translit</strong></td>
-<td style="text-align: center;"><strong>Meaning</strong></td>
-<td style="text-align: center;"><strong>Notes</strong></td>
+<tr class="odd">
+<td style="text-align: left;">ܡܕܒܚܐ</td>
+<td style="text-align: left;"><em>madbḥā</em></td>
+<td style="text-align: left;">altar</td>
+<td style="text-align: left;">From <em>d-b-ḥ</em> (sacrifice); cf. Heb
+<em>mizbēaḥ</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܡܕܒܚܐ madbḥā</td>
-<td style="text-align: center;">altar</td>
-<td style="text-align: center;">From d-b-ḥ (</td>
-<td style="text-align: center;">slaughter/sacrifice); cf. Heb
-mizbēaḥ</td>
+<tr class="even">
+<td style="text-align: left;">ܟܗܢܐ</td>
+<td style="text-align: left;"><em>kāhnā</em></td>
+<td style="text-align: left;">priest</td>
+<td style="text-align: left;">Cf. Heb <em>kōhēn</em>; Arabic
+<em>kāhin</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܟܗܢܐ kāhnā</td>
-<td style="text-align: center;">priest</td>
-<td style="text-align: center;">Cf. Heb k</td>
-<td style="text-align: center;">ōhēn; Arabic kāhin</td>
+<tr class="odd">
+<td style="text-align: left;">ܗܝܟܠܐ</td>
+<td style="text-align: left;"><em>hayklā</em></td>
+<td style="text-align: left;">temple, palace, sanctuary</td>
+<td style="text-align: left;">Cf. Heb <em>hēḵāl</em> (from Akkadian
+<em>ēkallu</em>); Gk <em>naos</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܗܝܟܠܐ hayklā</td>
-<td style="text-align: center;">temple,</td>
-<td style="text-align: center;">Cf. Heb h sanctuary</td>
-<td style="text-align: center;">ēḵāl (from Akkadian ēkallu); Gk
-naos</td>
+<tr class="even">
+<td style="text-align: left;">ܟܢܘܫܬܐ</td>
+<td style="text-align: left;"><em>knūštā</em></td>
+<td style="text-align: left;">synagogue, assembly</td>
+<td style="text-align: left;">From <em>k-n-š</em> (gather); cf. Heb
+<em>kĕneset</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܟܢܘܫܬܐ knūštā</td>
-<td style="text-align: center;">synagogue,</td>
-<td style="text-align: center;">From k-n-š (g assembly</td>
-<td style="text-align: center;">ather); cf. Heb kĕneset</td>
+<tr class="odd">
+<td style="text-align: left;">ܩܘܪܒܢܐ</td>
+<td style="text-align: left;"><em>qūrbānā</em></td>
+<td style="text-align: left;">offering, sacrifice</td>
+<td style="text-align: left;">From <em>q-r-b</em> (draw near/offer);
+cf. Heb <em>qorbān</em> (Mark 7:11)</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܩܘܪܒܢܐ qūrbānā</td>
-<td style="text-align: center;">offering,</td>
-<td style="text-align: center;">From q-r-b ( sacrifice</td>
-<td style="text-align: center;">draw near/offer); cf. Heb qorbān (Mark
-7:11)</td>
+<tr class="even">
+<td style="text-align: left;">ܒܣܡܐ</td>
+<td style="text-align: left;"><em>besmā</em></td>
+<td style="text-align: left;">incense, spice</td>
+<td style="text-align: left;">Cf. Heb <em>bōśem</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܒܣܡܐ besmā</td>
-<td style="text-align: center;">incense, spic</td>
-<td style="text-align: center;">e Cf. Heb b</td>
-<td style="text-align: center;">ōśem; Arabic balsam</td>
+<tr class="odd">
+<td style="text-align: left;">ܡܝܐ</td>
+<td style="text-align: left;"><em>mayyā</em></td>
+<td style="text-align: left;">water</td>
+<td style="text-align: left;">Pl. form standard; cf. Heb <em>mayim</em>,
+Arabic <em>māʾ</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܡܝܐ mayyā</td>
-<td style="text-align: center;">water</td>
-<td style="text-align: center;">Pl. form sta</td>
-<td style="text-align: center;">ndard; cf. Heb mayim, Arabic māʾ</td>
+<tr class="even">
+<td style="text-align: left;">ܡܫܚܐ</td>
+<td style="text-align: left;"><em>mešḥā</em></td>
+<td style="text-align: left;">oil, ointment</td>
+<td style="text-align: left;">From <em>m-š-ḥ</em> (anoint); root of
+<em>mšīḥā</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܡܫܚܐ mešḥā</td>
-<td style="text-align: center;">oil, ointment</td>
-<td style="text-align: center;">From m-š-ḥ (a</td>
-<td style="text-align: center;">noint); root of Messiah</td>
+<tr class="odd">
+<td style="text-align: left;">ܠܚܡܐ</td>
+<td style="text-align: left;"><em>laḥmā</em></td>
+<td style="text-align: left;">bread, food</td>
+<td style="text-align: left;">Cf. Heb <em>leḥem</em> (Bethlehem =
+<em>bēt leḥem</em>)</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܠܚܡܐ laḥmā</td>
-<td style="text-align: center;">bread, food</td>
-<td style="text-align: center;">Cf. Heb le</td>
-<td style="text-align: center;">ḥem (Bethlehem = bēt leḥem); Arabic
-laḥm</td>
+<tr class="even">
+<td style="text-align: left;">ܟܣܐ</td>
+<td style="text-align: left;"><em>kāsā</em></td>
+<td style="text-align: left;">cup</td>
+<td style="text-align: left;">Cf. Heb <em>kōs</em>; Gk
+<em>potērion</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܟܣܐ kāsā</td>
-<td style="text-align: center;">cup</td>
-<td style="text-align: center;">Cf. Heb</td>
-<td style="text-align: center;">kôs; Gk potērion</td>
+<tr class="odd">
+<td style="text-align: left;">ܢܡܘܣܐ</td>
+<td style="text-align: left;"><em>nāmūsā</em></td>
+<td style="text-align: left;">law, Torah</td>
+<td style="text-align: left;">From Gk <em>nomos</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">ܢܡܘܣܐ nāmūsā</td>
-<td style="text-align: center;">law, Torah</td>
-<td style="text-align: center;">From Gk</td>
-<td style="text-align: center;">nomos via Aramaic</td>
+<tr class="even">
+<td style="text-align: left;">ܨܠܘܬܐ</td>
+<td style="text-align: left;"><em>ṣlūtā</em></td>
+<td style="text-align: left;">prayer</td>
+<td style="text-align: left;">Abstract noun from <em>ṣ-l-y</em>
+(Paael)</td>
 </tr>
-<tr>
-<td style="text-align: center;">ܨܠܘܬܐ ṣlūttā</td>
-<td style="text-align: center;">prayer</td>
-<td style="text-align: center;">Abstract no</td>
-<td style="text-align: center;">un from ṣ-l-y (Paael)</td>
-</tr>
-<tr>
-<td style="text-align: center;">ܟܢܘܫܬܐ knūštā</td>
-<td style="text-align: center;">assembly,</td>
-<td style="text-align: center;">Also used for congregation</td>
-<td style="text-align: center;">synagogue (same word)</td>
-</tr>
-<tr>
-<td style="text-align: center;">ܦܘܩܕܢܐ pūqdānā</td>
-<td style="text-align: center;">commandment,</td>
-<td style="text-align: center;">From p-q-d (c decree</td>
-<td style="text-align: center;">ommand); cf. Heb piqqūd</td>
-</tr>
-<tr>
-<td style="text-align: center;">ܢܡܘܣܐ nāmūsā</td>
-<td style="text-align: center;">law, rule</td>
-<td style="text-align: center;">Dual use: T</td>
-<td style="text-align: center;">orah and general law</td>
+<tr class="odd">
+<td style="text-align: left;">ܦܘܩܕܢܐ</td>
+<td style="text-align: left;"><em>pūqdānā</em></td>
+<td style="text-align: left;">commandment, decree</td>
+<td style="text-align: left;">From <em>p-q-d</em> (command); cf. Heb
+<em>piqqūd</em></td>
 </tr>
 </tbody>
 </table></div>
@@ -638,268 +677,271 @@ laḥm</td>
 <p><strong>Yukhannan Blesses the People and Angers the
 Priests</strong></p>
 <p><strong>Narrative note:</strong> This passage is rich in Paael forms
-(barrek, ṣallī, šabbeḥ, yallep, qaddaš, šammeš). It also introduces the
-central conflict of the Acts: Yukhannan’s ministry challenges the
-established religious order. Notice the theological contrast between
-sacrifice (qūrbānā) and faith (haymānūttā).</p>
+(<em>barrek</em>, <em>ṣallī</em>, <em>šabbeḥ</em>, <em>ʾallep</em>,
+<em>mqaddeš</em>, <em>mšammeš</em>). It also introduces the central
+conflict of the Acts: Yukhannan’s ministry challenges the established
+religious order. Notice the theological contrast between sacrifice
+(<em>qūrbānā</em>) and faith (<em>haymānūtā</em>).</p>
 <blockquote>
 <p><em>Key Paael forms: barrek (blessed), ṣallī (prayed), šabbeḥ
-(praised), yallep (taught), qaddaš (sanctified), šammeš (minister),
-šabbeḥ (praised again at end). Note also metqaddeš — the Ethpaael
-(passive of Paael), previewing Lesson 7.</em></p>
+(praised), ʾallep (taught), mqaddeš (sanctifies, Paael participle),
+mšammeš (ministering). Note also metqaddaš in sentence 9 — the Etpaael
+participle (passive of Paael, “is sanctified”), previewing Lesson
+10.</em></p>
 </blockquote>
 <p><strong>Sentence 1</strong></p>
 <p>ܘܝܘܚܢܢ ܩܡ ܥܠ ܡܕܒܚܐ ܘܒܪܟ ܠܥܡܐ</p>
-<p><em>w-Yukhannan qam ʿal madbḥā w-barrek l-ʿammā</em></p>
-<p>w- (and-) Yukhannan (John) qam (stood) ʿal (upon) madbḥā (the-altar)
-w-barrek (and-blessed) l-ʿammā (the-people)</p>
-<p><em>→ And Yukhannan stood at the altar and blessed the
+<p><em>w-Yūḥannan qām ʿal madbḥā w-barrek l-ʿammā</em></p>
+<p>w- (and-) Yūḥannan (Yukhannan) qām (stood) ʿal (by/upon) madbḥā
+(the-altar) w-barrek (and-blessed) l-ʿammā (the-people)</p>
+<p><em>→ And Yukhannan stood by the altar and blessed the
 people.</em></p>
 <p><strong>Sentence 2</strong></p>
-<p>ܘܨܠܝ ܒܐܕܢܐ ܪܡܐ ܘܫܒܚ ܠܐܠܗܐ</p>
-<p><em>w-ṣallī b-ʾednā rāmā w-šabbeḥ l-Alāhā</em></p>
-<p>w-ṣallī (and-prayed) b-ʾednā (with-voice) rāmā (loud) w-šabbeḥ
-(and-praised) l-Alāhā (God)</p>
+<p>ܘܨܠܝ ܒܩܠܐ ܪܡܐ ܘܫܒܚ ܠܐܠܗܐ</p>
+<p><em>w-ṣallī b-qālā rāmā w-šabbeḥ l-ʾAlāhā</em></p>
+<p>w-ṣallī (and-prayed) b-qālā (with-voice) rāmā (loud) w-šabbeḥ
+(and-praised) l-ʾAlāhā (God)</p>
 <p><em>→ He prayed with a loud voice and praised God.</em></p>
 <p><strong>Sentence 3</strong></p>
-<p>ܘܝܠܦ ܠܗܘܢ ܐܘܪܚܐ ܚܕܬܐ ܕܨܠܘܬܐ</p>
-<p><em>w-yallep lhūn ʾūrḥā ḥattā d-ṣlūttā</em></p>
-<p>w-yallep (and-taught) lhūn (them) ʾūrḥā (the-way) ḥattā (new)
-d-ṣlūttā (of-prayer)</p>
+<p>ܘܐܠܦ ܠܗܘܢ ܐܘܪܚܐ ܚܕܬܐ ܕܨܠܘܬܐ</p>
+<p><em>w-ʾallep lhūn ʾūrḥā ḥdattā d-ṣlūtā</em></p>
+<p>w-ʾallep (and-taught) lhūn (them) ʾūrḥā (the-way) ḥdattā (new)
+d-ṣlūtā (of-prayer)</p>
 <p><em>→ He taught them the new way of prayer.</em></p>
 <p><strong>Sentence 4</strong></p>
-<p>ܘܐܡܪ ܠܐ ܡܕܒܚܐ ܕܟܗܢܘܬܐ ܗܘ ܕܩܕܫ ܐܢܫ</p>
-<p><em>w-ʾemar: lā madbḥā d-kahnūttā hū d-qaddaš ʾenāš</em></p>
-<p>w-ʾemar (and-said) lā (not) madbḥā (the-altar) d-kahnūttā
-(of-the-priesthood) hū (it-is) d-qaddaš (that-sanctifies) ʾenāš
+<p>ܘܐܡܪ ܠܐ ܡܕܒܚܐ ܕܟܗܢܘܬܐ ܗܘ ܕܡܩܕܫ ܐܢܫ</p>
+<p><em>w-ʾemar: lā madbḥā d-kāhnūtā hū d-mqaddeš ʾnāš</em></p>
+<p>w-ʾemar (and-said) lā (not) madbḥā (the-altar) d-kāhnūtā
+(of-the-priesthood) hū (it-is) d-mqaddeš (that-sanctifies) ʾnāš
 (a-person)</p>
-<p><em>→ ‘It is not the altar of the priesthood that sanctifies a
-person.’</em></p>
+<p><em>→ “It is not the altar of the priesthood that sanctifies a
+person.”</em></p>
 <p><strong>Sentence 5</strong></p>
-<p>ܐܠܐ ܡܪܝܐ ܗܘ ܕܩܕܫ ܠܟܘܢ ܒܪܘܚܗ</p>
-<p><em>ʾellā Māryā hū d-qaddaš lḵūn b-rūḥeh</em></p>
-<p>ʾellā (but/rather) Māryā (the-Lord) hū (he-is) d-qaddaš
-(who-sanctifies) lḵūn (you(pl.)) b-rūḥeh (by-his-Spirit)</p>
-<p><em>→ ‘Rather, it is the Lord who sanctifies you by his
-Spirit.’</em></p>
+<p>ܐܠܐ ܡܪܝܐ ܗܘ ܕܡܩܕܫ ܠܟܘܢ ܒܪܘܚܗ</p>
+<p><em>ʾellā Māryā hū d-mqaddeš lḵūn b-rūḥeh</em></p>
+<p>ʾellā (but/rather) Māryā (the-Lord) hū (he-is) d-mqaddeš
+(who-sanctifies) lḵūn (you [pl.]) b-rūḥeh (by-his-Spirit)</p>
+<p><em>→ “Rather, it is the Lord who sanctifies you by his
+Spirit.”</em></p>
 <p><strong>Sentence 6</strong></p>
-<p>ܫܡܥܘ ܕܝܢ ܟܗܢܐ ܡܠܘܗܝ ܘܐܬܪܓܙܘ ܥܠܘܗܝ</p>
-<p><em>šmeʿū dēn kāhnē mellāw-hy w-ʾetragzū ʿlāw-hy</em></p>
-<p>šmeʿū (heard) dēn (but/now) kāhnē (the-priests) mellāw-hy (his-words)
-w-ʾetragzū (and-were-angered) ʿlāw-hy (against-him)</p>
+<p>ܫܡܥܘ ܕܝܢ ܟܗܢܐ ܡܠܘܗܝ ܘܪܓܙܘ ܥܠܘܗܝ</p>
+<p><em>šmaʿū dēn kāhnē mellāw-hy w-rgezū ʿlāw-hy</em></p>
+<p>šmaʿū (heard) dēn (but/now) kāhnē (the-priests) mellāw-hy (his-words)
+w-rgezū (and-were-angered) ʿlāw-hy (against-him)</p>
 <p><em>→ But the priests heard his words and were angered against
 him.</em></p>
 <p><strong>Sentence 7</strong></p>
-<p>ܘܐܡܪܘ ܡܢ ܝܗܒ ܠܟ ܫܘܠܛܢܐ ܕܫܡܫ ܒܗܝܟܠܐ</p>
-<p><em>w-ʾemrū: man yahab lāḵ šulṭānā d-šammeš b-hayklā?</em></p>
+<p>ܘܐܡܪܘ ܡܢ ܝܗܒ ܠܟ ܫܘܠܛܢܐ ܕܡܫܡܫ ܐܢܬ ܒܗܝܟܠܐ</p>
+<p><em>w-ʾemrū: man yahab lāḵ šulṭānā d-mšammeš ʾant b-hayklā?</em></p>
 <p>w-ʾemrū (and-they-said) man (who) yahab (gave) lāḵ (to-you) šulṭānā
-(authority) d-šammeš (to-minister) b-hayklā (in-the-temple)</p>
-<p><em>→ ‘Who gave you authority to minister in the temple?’</em></p>
+(authority) d-mšammeš (that-ministering) ʾant (you-are) b-hayklā
+(in-the-temple)</p>
+<p><em>→ “Who gave you authority that you minister in the
+temple?”</em></p>
 <p><strong>Sentence 8</strong></p>
-<p>ܥܢܐ ܝܘܚܢܢ ܘܐܡܪ ܐܠܗܐ ܫܕܪܢܝ ܕܐܩܕܫ ܠܥܡܗ</p>
-<p><em>ʿnā Yukhannan w-ʾemar: Alāhā šedarnī d-ʾqaddeš l-ʿammeh</em></p>
-<p>ʿnā (answered) Yukhannan (Yukhannan) w-ʾemar (and-said) Alāhā (God)
-šedarnī (sent-me) d-ʾqaddeš (to-sanctify) l-ʿammeh (his-people)</p>
-<p><em>→ Yukhannan answered: ‘God sent me to sanctify his
-people.’</em></p>
+<p>ܥܢܐ ܝܘܚܢܢ ܘܐܡܪ ܐܠܗܐ ܫܕܪ ܠܝ ܘܡܩܕܫ ܐܢܐ ܠܥܡܗ</p>
+<p><em>ʿnā Yūḥannan w-ʾemar: ʾAlāhā šaddar lī w-mqaddeš ʾenā
+l-ʿammeh</em></p>
+<p>ʿnā (answered) Yūḥannan (Yukhannan) w-ʾemar (and-said) ʾAlāhā (God)
+šaddar (sent) lī (me) w-mqaddeš (and-sanctifying) ʾenā (I-am) l-ʿammeh
+(his-people)</p>
+<p><em>→ Yukhannan answered: “God sent me, and I am sanctifying his
+people.”</em></p>
 <p><strong>Sentence 9</strong></p>
 <p>ܠܐ ܒܩܘܪܒܢܐ ܐܠܐ ܒܗܝܡܢܘܬܐ ܡܬܩܕܫ ܐܢܫ</p>
-<p><em>lā b-qūrbānā ʾellā b-haymānūttā metqaddeš ʾenāš</em></p>
-<p>lā (not) b-qūrbānā (by-sacrifice) ʾellā (but) b-haymānūttā (by-faith)
-metqaddeš (is-sanctified) ʾenāš (a-person)</p>
-<p><em>→ ‘A person is not sanctified by sacrifice but by
-faith.’</em></p>
+<p><em>lā b-qūrbānā ʾellā b-haymānūtā metqaddaš ʾnāš</em></p>
+<p>lā (not) b-qūrbānā (by-sacrifice) ʾellā (but) b-haymānūtā (by-faith)
+metqaddaš (is-sanctified) ʾnāš (a-person)</p>
+<p><em>→ “A person is not sanctified by sacrifice but by
+faith.”</em></p>
 <p><strong>Sentence 10</strong></p>
-<p>ܘܪܓܙ ܪܒ ܟܗܢܐ ܘܦܩܕ ܕܢܦܩܘܢ ܠܗ ܡܢ ܗܝܟܠܐ</p>
-<p><em>w-regaz rab kāhnē w-pqad d-nuppqūn leh men hayklā</em></p>
-<p>w-regaz (and-was-enraged) rab (chief) kāhnē (of-priests) w-pqad
-(and-commanded) d-nuppqūn (that-they-expel) leh (him) men (from) hayklā
-(the-temple)</p>
-<p><em>→ And the chief priest was enraged and commanded that they expel
-him from the temple.</em></p>
+<p>ܘܪܓܙ ܪܒ ܟܗܢܐ ܘܐܦܩ ܠܗ ܡܢ ܗܝܟܠܐ</p>
+<p><em>w-rgez rab kāhnē w-ʾappeq leh men hayklā</em></p>
+<p>w-rgez (and-was-enraged) rab (chief) kāhnē (of-priests) w-ʾappeq
+(and-expelled/brought-out) leh (him) men (from) hayklā (the-temple)</p>
+<p><em>→ And the chief priest was enraged and expelled him from the
+temple.</em></p>
 <p><strong>Sentence 11</strong></p>
 <p>ܝܘܚܢܢ ܕܝܢ ܠܐ ܕܚܠ ܐܠܐ ܫܒܚ ܠܐܠܗܐ ܒܟܠܗ ܠܒܗ</p>
-<p><em>Yukhannan dēn lā dḥel ʾellā šabbeḥ l-Alāhā b-kulleh
+<p><em>Yūḥannan dēn lā dḥel ʾellā šabbeḥ l-ʾAlāhā b-kulleh
 lebbeh</em></p>
-<p>Yukhannan (Yukhannan) dēn (but/however) lā (not) dḥel (feared) ʾellā
-(but) šabbeḥ (praised) l-Alāhā (God) b-kulleh (with-all) lebbeh
+<p>Yūḥannan (Yukhannan) dēn (but/however) lā (not) dḥel (feared) ʾellā
+(but) šabbeḥ (praised) l-ʾAlāhā (God) b-kulleh (with-all) lebbeh
 (his-heart)</p>
 <p><em>→ But Yukhannan was not afraid; rather he praised God with all
 his heart.</em></p>
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 9</text></name><questiontext format="html"><text><![CDATA[In the story, what does Yukhannan do at the altar?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He blessed, prayed, praised and taught (<i>barrek, ṣallī, šabbeḥ, yallep</i>).]]></text><feedback format="html"><text><![CDATA[Correct (sentences 1–3).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He offered a sacrifice and anointed the priest.]]></text><feedback format="html"><text><![CDATA[He contrasts sacrifice with faith; he offers none.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He wrote the law and read it aloud.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He baptized the people.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 9</text></name><questiontext format="html"><text><![CDATA[In the story, what does Yukhannan do at the altar?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He blessed, prayed, praised and taught (<i>barrek, ṣallī, šabbeḥ, ʾallep</i>).]]></text><feedback format="html"><text><![CDATA[Correct (sentences 1–3).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He offered a sacrifice and anointed the priest.]]></text><feedback format="html"><text><![CDATA[He contrasts sacrifice with faith; he offers none.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He wrote the law and read it aloud.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He baptized the people.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 10</text></name><questiontext format="html"><text><![CDATA[What does Yukhannan teach about the true source of sanctification?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Not the altar but the Lord, by his Spirit, sanctifies; a person is sanctified by faith, not sacrifice.]]></text><feedback format="html"><text><![CDATA[Correct (sentences 4–5, 9).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The altar of the priesthood sanctifies a person.]]></text><feedback format="html"><text><![CDATA[He denies exactly this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Prayer in the temple sanctifies a person.]]></text><feedback format="html"><text><![CDATA[He does not say this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Baptism alone sanctifies.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 11</text></name><questiontext format="html"><text><![CDATA[How do the priests react, and why?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[They are angered (<i>ʾetragzū</i>), because he bypasses priestly authority.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They praise God with him.]]></text><feedback format="html"><text><![CDATA[They are angered.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They ask to be baptized.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They ignore him.]]></text><feedback format="html"><text><![CDATA[They confront him: 'Who gave you authority?']]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 12</text></name><questiontext format="html"><text><![CDATA[What does Yukhannan claim when asked about his authority?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Divine commission: 'God sent me (<i>šedarnī</i>) to sanctify his people.']]></text><feedback format="html"><text><![CDATA[Correct (sentence 8).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That the chief priest appointed him.]]></text><feedback format="html"><text><![CDATA[The chief priest wants him expelled.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That the people chose him.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That he needs no authority.]]></text><feedback format="html"><text><![CDATA[He claims God's.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 12</text></name><questiontext format="html"><text><![CDATA[What does Yukhannan claim when asked about his authority?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Divine commission: 'God sent me (<i>šaddar lī</i>) to sanctify his people.']]></text><feedback format="html"><text><![CDATA[Correct (sentence 8).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That the chief priest appointed him.]]></text><feedback format="html"><text><![CDATA[The chief priest wants him expelled.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That the people chose him.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[That he needs no authority.]]></text><feedback format="html"><text><![CDATA[He claims God's.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 13</text></name><questiontext format="html"><text><![CDATA[What does Yukhannan do after being threatened with expulsion?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He is not afraid and praises God with all his heart.]]></text><feedback format="html"><text><![CDATA[Correct: fearless devotion over fear of human authority.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He flees to the wilderness.]]></text><feedback format="html"><text><![CDATA[Not in this part of the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He apologizes to the priests.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He curses the chief priest.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 14</text></name><questiontext format="html"><text><![CDATA[The form <i>metqaddeš</i> in sentence 9 is an Ethpaael. What does that stem express?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The passive of the Paael: 'is sanctified']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The causative: 'causes to be holy']]></text><feedback format="html"><text><![CDATA[That would be Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The active intensive: 'sanctifies']]></text><feedback format="html"><text><![CDATA[That is <i>qaddaš</i>, the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Peal state: 'is holy']]></text><feedback format="html"><text><![CDATA[That is <i>qadaš</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܫܒܚ (<i>šabbeḥ</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Paael perfect 3 m.sg. of š-b-ḥ: 'he praised']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The doubled b marks the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[No ʾa- prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael participle m.sg.]]></text><feedback format="html"><text><![CDATA[The participle would be <i>mšabbaḥ</i>, with m-.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 14</text></name><questiontext format="html"><text><![CDATA[The form <i>metqaddaš</i> in sentence 9 is an Etpaael. What does that stem express?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The passive of the Paael: 'is sanctified']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The causative: 'causes to be holy']]></text><feedback format="html"><text><![CDATA[That would be Aphel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The active intensive: 'sanctifies']]></text><feedback format="html"><text><![CDATA[That is <i>qaddeš</i>, the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The Peal state: 'is holy']]></text><feedback format="html"><text><![CDATA[That is <i>qdaš</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܫܒܚ (<i>šabbeḥ</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Paael perfect 3 m.sg. of š-b-ḥ: 'he praised']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[The doubled b marks the Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[No ʾa- prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael participle m.sg.]]></text><feedback format="html"><text><![CDATA[The participle would be <i>mšabbeḥ</i>, with m-.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܣܓܕ (<i>sgad</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal perfect 3 m.sg. of s-g-d: 'he worshipped']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Paael perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[No doubling.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[No ʾa- prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal participle m.sg.]]></text><feedback format="html"><text><![CDATA[The participle is <i>sāged</i>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Which of these is an <b>Aphel</b> form?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܐܩܪܒ <i>ʾaqreb</i>, 'he brought near']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܒܪܟ <i>barrek</i>, 'he blessed']]></text><feedback format="html"><text><![CDATA[Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܨܠܝ <i>ṣallī</i>, 'he prayed']]></text><feedback format="html"><text><![CDATA[Paael.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫܡܫ <i>šammeš</i>, 'he ministered']]></text><feedback format="html"><text><![CDATA[Paael.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܗܝ ܩܕܫܬ ܠܒܢܝܗ (<i>Hī qaddešat l-bnāy-hy</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[She sanctified her children.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She was sanctified by her children.]]></text><feedback format="html"><text><![CDATA[<i>qaddešat</i> is active.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Her children sanctified her.]]></text><feedback format="html"><text><![CDATA[<i>hī</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She is holy with her children.]]></text><feedback format="html"><text><![CDATA[The Paael is factitive: 'made holy'.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܒܪܟ ܐܢܐ ܠܐܠܗܐ (<i>Mbarrek ʾenā l-Alāhā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[I am blessing God.]]></text><feedback format="html"><text><![CDATA[Correct: participle + pronoun = present.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I blessed God.]]></text><feedback format="html"><text><![CDATA[The past would be the perfect <i>barrket</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is blessing me.]]></text><feedback format="html"><text><![CDATA[<i>ʾenā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Blessed am I by God.]]></text><feedback format="html"><text><![CDATA[The participle is active.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܐܢܬ ܝܠܦܬ ܠܢ ܢܡܘܣܐ (<i>ʾAnt yallapt lān nāmūsā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[You (m.sg.) taught us the law.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You learned the law from us.]]></text><feedback format="html"><text><![CDATA[The Paael <i>yallep</i> is 'teach'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We taught you the law.]]></text><feedback format="html"><text><![CDATA[<i>ʾant</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You wrote us the law.]]></text><feedback format="html"><text><![CDATA['Wrote' would be <i>ktabt</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܕܟܝ ܡܝܐ ܠܡܥܡܘܕܝܬܐ (<i>Dakkī mayyā l-maʿmūdīttā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He purified the water for baptism.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The water is pure for baptism.]]></text><feedback format="html"><text><![CDATA[<i>dakkī</i> is the Paael, 'purify'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was baptized in the water.]]></text><feedback format="html"><text><![CDATA[Not here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He drank the water of baptism.]]></text><feedback format="html"><text><![CDATA[Not here.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The priest sanctified the assembly'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Kāhnā qaddaš l-knūštā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Kāhnā qadaš l-knūštā</i>]]></text><feedback format="html"><text><![CDATA[<i>qadaš</i> is Peal, 'be holy'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Knūštā qaddšat l-kāhnā</i>]]></text><feedback format="html"><text><![CDATA[That says the assembly sanctified the priest.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Kāhnā metqaddeš b-knūštā</i>]]></text><feedback format="html"><text><![CDATA[That says the priest is sanctified in the assembly.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'We ministered to the Lord together'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Šammešnān l-Māryā ḥdāyīt</i>]]></text><feedback format="html"><text><![CDATA[Correct: Paael perfect 1 c.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Šammeš l-Māryā ḥdāyīt</i>]]></text><feedback format="html"><text><![CDATA[That is 3 m.sg., 'he ministered'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Šammšū l-Māryā ḥdāyīt</i>]]></text><feedback format="html"><text><![CDATA[That is 3 m.pl., 'they ministered'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Mšammšīn l-Māryā</i>]]></text><feedback format="html"><text><![CDATA[That is a participle, 'ministering'.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. How do the Peal and Paael of d-k-y differ?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal <i>dakī</i> 'be pure'; Paael <i>dakkī</i> 'purify, cleanse']]></text><feedback format="html"><text><![CDATA[Correct: the Paael makes the state happen.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'purify'; Paael 'be pure']]></text><feedback format="html"><text><![CDATA[Reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'be pure'; Paael 'be very pure']]></text><feedback format="html"><text><![CDATA[The Paael here is factitive, not merely intensive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They mean the same thing.]]></text><feedback format="html"><text><![CDATA[The Paael shifts the meaning.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 25</text></name><questiontext format="html"><text><![CDATA[Exercise 5. How do the Peal and Paael of y-l-p differ?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal <i>yalep</i> 'learn'; Paael <i>yallep</i> 'teach']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'teach'; Paael 'learn']]></text><feedback format="html"><text><![CDATA[Reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'learn'; Paael 'be taught']]></text><feedback format="html"><text><![CDATA[The Paael is active.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'write'; Paael 'read']]></text><feedback format="html"><text><![CDATA[Not this root.]]></text></feedback></answer></question>
-<question type="description"><name><text>Module 2 · Lesson 6 · Section 9: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 9: Grammatical Summary</h3>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܗܝ ܩܕܫܬ ܠܒܢܝ̈ܗ (<i>Hī qaddšat l-bnēh</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[She sanctified her children.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She was sanctified by her children.]]></text><feedback format="html"><text><![CDATA[<i>qaddšat</i> is active.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Her children sanctified her.]]></text><feedback format="html"><text><![CDATA[<i>hī</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She is holy with her children.]]></text><feedback format="html"><text><![CDATA[The Paael is factitive: 'made holy'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܒܪܟ ܐܢܐ ܠܐܠܗܐ (<i>Mbarrek-nā l-ʾAlāhā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[I am blessing God.]]></text><feedback format="html"><text><![CDATA[Correct: participle + pronoun = present.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I blessed God.]]></text><feedback format="html"><text><![CDATA[The past would be the perfect <i>barrket</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is blessing me.]]></text><feedback format="html"><text><![CDATA[<i>ʾenā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Blessed am I by God.]]></text><feedback format="html"><text><![CDATA[The participle is active.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܐܢܬ ܐܠܦܬ ܠܢ ܢܡܘܣܐ (<i>ʾAnt ʾallept lān nāmūsā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[You (m.sg.) taught us the law.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You learned the law from us.]]></text><feedback format="html"><text><![CDATA[The Paael <i>ʾallep</i> is 'teach'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We taught you the law.]]></text><feedback format="html"><text><![CDATA[<i>ʾant</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[You wrote us the law.]]></text><feedback format="html"><text><![CDATA['Wrote' would be <i>ktabt</i>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܕܟܝ ܡܝ̈ܐ ܠܡܥܡܘܕܝܬܐ (<i>Dakkī mayyā l-maʿmūdītā</i>)]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He purified the water for baptism.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The water is pure for baptism.]]></text><feedback format="html"><text><![CDATA[<i>dakkī</i> is the Paael, 'purify'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was baptized in the water.]]></text><feedback format="html"><text><![CDATA[Not here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He drank the water of baptism.]]></text><feedback format="html"><text><![CDATA[Not here.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'The priest sanctified the assembly'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Kāhnā qaddeš l-knūštā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Kāhnā qdaš l-knūštā</i>]]></text><feedback format="html"><text><![CDATA[<i>qdaš</i> is Peal, 'be holy'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Knūštā qaddšat l-kāhnā</i>]]></text><feedback format="html"><text><![CDATA[That says the assembly sanctified the priest.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Kāhnā metqaddaš b-knūštā</i>]]></text><feedback format="html"><text><![CDATA[That says the priest is sanctified in the assembly.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'We ministered to the Lord together'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Šammešn l-Māryā ʾaḵḥdā</i>]]></text><feedback format="html"><text><![CDATA[Correct: Paael perfect 1 c.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Šammeš l-Māryā ʾaḵḥdā</i>]]></text><feedback format="html"><text><![CDATA[That is 3 m.sg., 'he ministered'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Šammešū l-Māryā ʾaḵḥdā</i>]]></text><feedback format="html"><text><![CDATA[That is 3 m.pl., 'they ministered'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Mšammšīn l-Māryā</i>]]></text><feedback format="html"><text><![CDATA[That is a participle, 'ministering'.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. How do the Peal and Paael of d-k-y differ?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal <i>dkā</i> 'be pure'; Paael <i>dakkī</i> 'purify, cleanse']]></text><feedback format="html"><text><![CDATA[Correct: the Paael makes the state happen.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'purify'; Paael 'be pure']]></text><feedback format="html"><text><![CDATA[Reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'be pure'; Paael 'be very pure']]></text><feedback format="html"><text><![CDATA[The Paael here is factitive, not merely intensive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They mean the same thing.]]></text><feedback format="html"><text><![CDATA[The Paael shifts the meaning.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 6 · Check 25</text></name><questiontext format="html"><text><![CDATA[Exercise 5. How do the Peal and Paael of y-l-p differ?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal <i>īlep</i> 'learn'; Paael <i>ʾallep</i> 'teach']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'teach'; Paael 'learn']]></text><feedback format="html"><text><![CDATA[Reversed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'learn'; Paael 'be taught']]></text><feedback format="html"><text><![CDATA[The Paael is active.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal 'write'; Paael 'read']]></text><feedback format="html"><text><![CDATA[Not this root.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 2 · Lesson 6 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
 <p><strong>THE PAAEL STEM — FORMATION RULES</strong></p>
-<div class="tablewrap"><table style="width:97%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 34%" />
-<col style="width: 37%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Formation feature</strong></th>
+<th style="text-align: left;"><strong>Pattern</strong></th>
+<th style="text-align: left;"><strong>Example
+(<em>b-r-k</em>)</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Formation feature</strong></td>
-<td style="text-align: center;"><strong>Pattern</strong></td>
-<td style="text-align: center;"><strong>Example (b-r-k)</strong></td>
+<tr class="odd">
+<td style="text-align: left;">Root consonant pattern</td>
+<td style="text-align: left;">R1 + R2 DOUBLED + R3</td>
+<td style="text-align: left;"><em>b-rr-k</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">Root consonant pattern</td>
-<td style="text-align: center;">R1 + R2 DOUBLED + R3</td>
-<td style="text-align: center;">b-rr-k</td>
+<tr class="even">
+<td style="text-align: left;">Perfect 3 m.sg.</td>
+<td style="text-align: left;"><em>R₁aR₂R₂eR₃</em></td>
+<td style="text-align: left;"><em>barrek</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">Perfect 3 m.sg.</td>
-<td style="text-align: center;">CaR₁R₂R₂eR₃</td>
-<td style="text-align: center;">barrek</td>
+<tr class="odd">
+<td style="text-align: left;">Participle m.sg.</td>
+<td style="text-align: left;"><em>m</em> + <em>R₁aR₂R₂eR₃</em></td>
+<td style="text-align: left;"><em>mbarrek</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">Participle m.sg.</td>
-<td style="text-align: center;">m + CaR₁R₂R₂eR₃</td>
-<td style="text-align: center;">mbarrek</td>
+<tr class="even">
+<td style="text-align: left;">Participle suffixes</td>
+<td style="text-align: left;"><em>-ā</em>, <em>-īn</em>,
+<em>-ān</em></td>
+<td style="text-align: left;"><em>mbarrkā</em>, <em>mbarrkīn</em>,
+<em>mbarrkān</em></td>
 </tr>
-<tr>
-<td style="text-align: center;">Participle suffixes</td>
-<td style="text-align: center;">-ā, -īn, -ān</td>
-<td style="text-align: center;">mbarrkā, mbarrkīn, mbarrkān</td>
-</tr>
-<tr>
-<td style="text-align: center;">Core meaning</td>
-<td style="text-align: center;">Intensive or Factitive</td>
-<td style="text-align: center;">‘bless solemnly’; ‘sanctify = make
-holy’</td>
+<tr class="odd">
+<td style="text-align: left;">Core meaning</td>
+<td style="text-align: left;">Intensive or Factitive</td>
+<td style="text-align: left;">“bless solemnly”; “sanctify = make
+holy”</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Meaning Pattern</strong></p>
 <blockquote>
 <p><strong>PEAL (basic) + R2 DOUBLED = PAAEL
-(intensive/factitive)</strong> <em>‘to X’ → ‘to X thoroughly’ or ‘to
-make X happen / cause X state’</em> q-d-š: be holy → qaddaš: sanctify |
-b-r-k: bless → barrek: bless solemnly | y-l-p: learn → yallep: teach</p>
+(intensive/factitive)</strong> <em>“to X” → “to X thoroughly” or “to
+make X happen / cause X state”</em> <em>q-d-š</em>: be holy →
+<em>qaddeš</em>: sanctify | <em>b-r-k</em>: kneel → <em>barrek</em>:
+bless solemnly | <em>y-l-p</em>: learn → <em>ʾallep</em>: teach</p>
 </blockquote>
 <p><strong>Three-Stem Comparison Table</strong></p>
-<div class="tablewrap"><table style="width:98%;">
+<div class="tablewrap"><table>
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 25%" />
-<col style="width: 18%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Stem</strong></th>
+<th style="text-align: left;"><strong>Meaning Type</strong></th>
+<th style="text-align: left;"><strong>Perfect 3 m.sg.</strong></th>
+<th style="text-align: left;"><strong>Participle m.sg.</strong></th>
+<th style="text-align: left;"><strong>Translation</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Stem</strong></td>
-<td style="text-align: center;"><strong>Meaning Type</strong></td>
-<td style="text-align: center;"><strong>Perfect 3 m.sg.</strong></td>
-<td style="text-align: center;"><strong>Participle m.sg.</strong></td>
-<td style="text-align: center;"><strong>Translation</strong></td>
+<tr class="odd">
+<td style="text-align: left;">Peal</td>
+<td style="text-align: left;">Basic</td>
+<td style="text-align: left;"><em>ktab</em> (ܟܬܒ)</td>
+<td style="text-align: left;"><em>kāteb</em> (ܟܬܒ)</td>
+<td style="text-align: left;">“he wrote” / “writing”</td>
 </tr>
-<tr>
-<td style="text-align: center;">Peal</td>
-<td style="text-align: center;">Basic</td>
-<td style="text-align: center;">katab</td>
-<td style="text-align: center;">kāteb</td>
-<td style="text-align: center;">‘he wrote’ / ‘writing’</td>
+<tr class="even">
+<td style="text-align: left;">Paael</td>
+<td style="text-align: left;">Intensive / Factitive</td>
+<td style="text-align: left;"><em>barrek</em> (ܒܪܟ)</td>
+<td style="text-align: left;"><em>mbarrek</em> (ܡܒܪܟ)</td>
+<td style="text-align: left;">“he blessed” / “blessing”</td>
 </tr>
-<tr>
-<td style="text-align: center;">Paael</td>
-<td style="text-align: center;">Intensive/Factitive</td>
-<td style="text-align: center;">barrek</td>
-<td style="text-align: center;">mbarrek</td>
-<td style="text-align: center;">‘he blessed’ / ‘blessing’</td>
-</tr>
-<tr>
-<td style="text-align: center;">Aphel</td>
-<td style="text-align: center;">Causative</td>
-<td style="text-align: center;">ʾallep</td>
-<td style="text-align: center;">maʾlep</td>
-<td style="text-align: center;">‘he taught’ / ‘teaching’</td>
+<tr class="odd">
+<td style="text-align: left;">Aphel</td>
+<td style="text-align: left;">Causative</td>
+<td style="text-align: left;"><em>ʾaqreb</em> (ܐܩܪܒ)</td>
+<td style="text-align: left;"><em>maqreb</em> (ܡܩܪܒ)</td>
+<td style="text-align: left;">“he brought near” / “bringing near”</td>
 </tr>
 </tbody>
 </table></div>
 <p><strong>Semitic Language Family Comparison</strong></p>
-<div class="tablewrap"><table style="width:97%;">
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 23%" />
-<col style="width: 28%" />
-<col style="width: 23%" />
-</colgroup>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Syriac</strong></th>
+<th style="text-align: left;"><strong>Peal</strong></th>
+<th style="text-align: left;"><strong>Paael</strong></th>
+<th style="text-align: left;"><strong>Aphel</strong></th>
+</tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;"><strong>Syriac</strong></td>
-<td style="text-align: center;"><strong>Peal</strong></td>
-<td style="text-align: center;"><strong>Paael</strong></td>
-<td style="text-align: center;"><strong>Aphel</strong></td>
+<tr class="odd">
+<td style="text-align: left;">Meaning</td>
+<td style="text-align: left;">Basic</td>
+<td style="text-align: left;">Intensive / Factitive</td>
+<td style="text-align: left;">Causative</td>
 </tr>
-<tr>
-<td style="text-align: center;">Meaning</td>
-<td style="text-align: center;">Basic</td>
-<td style="text-align: center;">Intensive/Factitive</td>
-<td style="text-align: center;">Causative</td>
+<tr class="even">
+<td style="text-align: left;">Hebrew (cognate)</td>
+<td style="text-align: left;">Qal</td>
+<td style="text-align: left;">Piel</td>
+<td style="text-align: left;">Hiphil</td>
 </tr>
-<tr>
-<td style="text-align: center;">Hebrew (cognate)</td>
-<td style="text-align: center;">Qal</td>
-<td style="text-align: center;">Piel</td>
-<td style="text-align: center;">Hiphil</td>
+<tr class="odd">
+<td style="text-align: left;">Arabic (cognate)</td>
+<td style="text-align: left;">Form I</td>
+<td style="text-align: left;">Form II</td>
+<td style="text-align: left;">Form IV</td>
 </tr>
-<tr>
-<td style="text-align: center;">Arabic (cognate)</td>
-<td style="text-align: center;">Form I</td>
-<td style="text-align: center;">Form II</td>
-<td style="text-align: center;">Form IV</td>
-</tr>
-<tr>
-<td style="text-align: center;">Formation key</td>
-<td style="text-align: center;">Basic vowels</td>
-<td style="text-align: center;">R2 DOUBLED</td>
-<td style="text-align: center;">ʾa- prefix</td>
+<tr class="even">
+<td style="text-align: left;">Formation key</td>
+<td style="text-align: left;">Basic vowels</td>
+<td style="text-align: left;">R2 DOUBLED</td>
+<td style="text-align: left;"><em>ʾa-</em> prefix</td>
 </tr>
 </tbody>
 </table></div>
 <blockquote>
-<p><strong>FINAL REMINDER: All three stems — Peal, Paael, and Aphel —
-share the same suffix set for the perfect and the same m- prefix for the
-active participle. The stems are distinguished by: (1) Peal: basic
-vowels only; (2) Paael: R2 gemination; (3) Aphel: ʾa-
-prefix.</strong></p>
-<p><em>LOOKING AHEAD — Lesson 7: The Ethpeel and Ethpaael
-(reflexive/passive stems). You have already seen metqaddeš in this
-lesson’s story — that is the Ethpaael passive of qaddaš. Soon you will
-master the full passive system of Syriac.</em></p>
+<p><strong>FINAL REMINDER: All three active stems — Peal, Paael, and
+Aphel — share the same suffix set for the perfect. In the active
+participle, the Peal has NO prefix (<em>kāteb</em>), whereas the derived
+stems (Paael <em>mbarrek</em>, Aphel <em>maqreb</em>) take the
+characteristic <em>m-</em> prefix.</strong></p>
+<p><em>LOOKING AHEAD — Lesson 10: The Ethpeel and Etpaael
+(reflexive/passive stems). You have already seen metqaddaš in this
+lesson’s story — that is the Etpaael passive participle of qaddeš. Soon
+you will master the full passive system of Syriac.</em></p>
 </blockquote>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 2 · Lesson 6 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
-<p>The following high-frequency words round out this lesson’s vocabulary
-to 10 terms.</p>
-<div class="tablewrap"><table style="width:97%;">
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
+<p>The following 10 high-frequency words expand your religious and
+administrative vocabulary for this lesson.</p>
+<div class="tablewrap"><table>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: left;">Estrangela</th>
 <th style="text-align: left;">Transliteration</th>
 <th style="text-align: left;">Gender/Type</th>
@@ -907,65 +949,65 @@ to 10 terms.</p>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: left;">ܕܝܢܐ</td>
-<td style="text-align: left;">dīnā</td>
+<td style="text-align: left;"><em>dīnā</em></td>
 <td style="text-align: left;">m</td>
 <td style="text-align: left;">judgment</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܩܕܐܫܐ</td>
-<td style="text-align: left;">qaddāšā</td>
+<tr class="even">
+<td style="text-align: left;">ܩܘܕܫܐ</td>
+<td style="text-align: left;"><em>qūdšā</em></td>
 <td style="text-align: left;">m</td>
-<td style="text-align: left;">make holy</td>
+<td style="text-align: left;">holiness, sanctuary</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܩܕܫܘܬܐ</td>
-<td style="text-align: left;">qaddšūtā</td>
-<td style="text-align: left;">f</td>
-<td style="text-align: left;">holiness</td>
+<tr class="odd">
+<td style="text-align: left;">ܦܠܓ</td>
+<td style="text-align: left;"><em>palleg</em></td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">divide, distribute</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܦܠܓܐ</td>
-<td style="text-align: left;">palggā</td>
-<td style="text-align: left;">m</td>
-<td style="text-align: left;">divide</td>
-</tr>
-<tr>
+<tr class="even">
 <td style="text-align: left;">ܦܠܓܘܬܐ</td>
-<td style="text-align: left;">palġūtā</td>
+<td style="text-align: left;"><em>palgūtā</em></td>
 <td style="text-align: left;">f</td>
-<td style="text-align: left;">division</td>
+<td style="text-align: left;">division, half</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܣܓܕܐ</td>
-<td style="text-align: left;">saggad</td>
-<td style="text-align: left;">m</td>
-<td style="text-align: left;">worship</td>
-</tr>
-<tr>
-<td style="text-align: left;">ܣܓܕܘܬܐ</td>
-<td style="text-align: left;">saġdūtā</td>
+<tr class="odd">
+<td style="text-align: left;">ܣܓܕܬܐ</td>
+<td style="text-align: left;"><em>segdtā</em></td>
 <td style="text-align: left;">f</td>
-<td style="text-align: left;">worship</td>
+<td style="text-align: left;">worship, adoration</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܦܪܙܦܐ</td>
-<td style="text-align: left;">parzappā</td>
+<tr class="even">
+<td style="text-align: left;">ܡܦܫܩܢܐ</td>
+<td style="text-align: left;"><em>mpaššqānā</em></td>
 <td style="text-align: left;">m</td>
-<td style="text-align: left;">interpreter</td>
+<td style="text-align: left;">interpreter, commentator</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܡܪܡܐ</td>
-<td style="text-align: left;">marmā</td>
+<tr class="odd">
+<td style="text-align: left;">ܦܪܨܘܦܐ</td>
+<td style="text-align: left;"><em>parṣōpā</em></td>
 <td style="text-align: left;">m</td>
-<td style="text-align: left;">raise, exalt</td>
+<td style="text-align: left;">face, person</td>
 </tr>
-<tr>
-<td style="text-align: left;">ܛܦܦܐ</td>
-<td style="text-align: left;">ṭappā</td>
+<tr class="even">
+<td style="text-align: left;">ܪܡܪܡ</td>
+<td style="text-align: left;"><em>ramrem</em></td>
+<td style="text-align: left;">verb</td>
+<td style="text-align: left;">exalt, magnify</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ܫܘܠܛܢܐ</td>
+<td style="text-align: left;"><em>šulṭānā</em></td>
 <td style="text-align: left;">m</td>
-<td style="text-align: left;">strike, beat</td>
+<td style="text-align: left;">authority, power</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ܬܫܡܫܬܐ</td>
+<td style="text-align: left;"><em>tešmeštā</em></td>
+<td style="text-align: left;">f</td>
+<td style="text-align: left;">ministry, service</td>
 </tr>
 </tbody>
 </table></div>

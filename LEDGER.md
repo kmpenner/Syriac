@@ -7,15 +7,15 @@
 
 ## 1. Source Hierarchy & Authority
 
-1. **Top Authority & Lessons Source:** `Lesson_00_The_Alphabet.md` through `Lesson_12_Fringes_Of_Syntax.md`
-2. **Vocabulary Single Source of Truth:** `syriac_vocabulary.tsv` (419 entries)
+1. **Top Authority & Lessons Source:** `Lesson_00_The_Alphabet.md` through `Lesson_12_Fringes_Of_Syntax.md` (all 13 lessons standardized on GFM pipe tables with chapter art)
+2. **Vocabulary Single Source of Truth:** `syriac_vocabulary.tsv` (407 entries, SEDRA-verified lemmas and stems)
 3. **Interactive Learning Checks:** `interactive/checks/Lesson_NN.json`
 4. **Compiled Production Artifacts:**
-   - PDF Master: `Syriac_Textbook.pdf` (197 pages)
+   - PDF Master: `Syriac_Textbook.pdf` (213 pages)
    - Interactive XML: `interactive/xml/Lesson_NN.xml`
    - Glossary: `Appendix_B_Glossary.md`, `course/moodle/Syriac_Glossary.xml`
    - Flash Pro Deck: `flashpro/syriac_yukhannan.json`
-5. **Build Scripts:** `./build.sh`, `make_glossary.py`, `make_flashpro.py`, `interactive/build_interactive.py`
+5. **Build Scripts:** `./build.sh` (with table cell-count lint check), `make_glossary.py`, `make_flashpro.py`, `interactive/build_interactive.py`, `course/make_assessments.py`, `make_site.py`
 
 ---
 
@@ -26,33 +26,45 @@
 - **[2026-10-06] Attested Classical Syriac Only**: All vocabulary entries must be verified against Beth Mardutho SEDRA API (`sedra.bethmardutho.org`). Synthetic formations ending in `-ūttā` or `-ānā` without textual attestation are strictly barred.
 - **[2026-10-06] TSV Citation Lemmas**: The `Syriac` column in `syriac_vocabulary.tsv` contains only single citation forms. Slashes (e.g. `ܒܪ / ܒܪܐ`) are prohibited; construct and absolute forms are noted in `Notes`.
 - **[2026-10-06] Character Rendering**: Estrangela script set with Noto Sans Syriac. Academic transliteration for grammar/paradigms (`š`, `ṭ`, `ḥ`, `Yūḥannan`); "Yukhannan" in English prose.
+- **[2026-10-21] Table Format**: All tables across all 13 lessons are standardized as GitHub-Flavored Markdown (GFM) pipe tables (`| col | col |`). Fragile space-aligned Pandoc multiline tables are deprecated. Enforced by automated cell-count lint check in `./build.sh`.
+- **[2026-10-21] Classical Morphology & Grammar Realignment**:
+  - Abstract nouns in `-ūtā` (not `-ūttā`).
+  - Model Aphel verb in Lesson 5 changed to `ʾaqreb` / `maqreb` (Peal `qreb` "draw near" -> Aphel "bring near, offer"); `ʾallep` / `mallep` correctly treated as I-Alaph Paael in Lesson 6. Non-existent `*yallep` and `*ʾetyallap` removed.
+  - Aphel "he gave life" vocalized `ʾaḥī` (not `ʾaḥyī`); Aphel "he revealed" spelled `ܐܓܠܝ` (*ʾaglī*).
+  - Masculine singular construct of `malkā` is `melek` (bound stem before suffixes: `malk-`).
+  - Guards in gate scenes designated `nāṭōrē` (not `qašīšē`).
+  - Verbal suffixes aligned with Classical Syriac: unmarked pronominal object on verbs; 3rd person plural objects use enclitic `qṭal ʾennōn` / `qṭal ʾennēn` (not non-classical `*qṭalhūn`). Imperatives with 1st person object suffix use `-aynī` (`ʾassaynī`, `pruqaynī`).
+- **[2026-10-21] Chapter Visuals**: Curated public-domain / CC-licensed manuscript illuminations and historical artwork placed under the title of each chapter (Lessons 00–12) with captions, responsive styling for HTML/interactive view, and page-break optimization for print PDF.
 
 ---
 
 ## 3. Active Constraints & Inviolable Policies
 
-- 🔒 **No Emojis**: Strictly no emojis anywhere (commits, prose, markdown, code, logs).
-- 🔒 **SEDRA Gate**: Every newly introduced or modified Syriac term must pass SEDRA API check (HTTP 200).
-- 🔒 **Derivative Regeneration**: Any modification to `syriac_vocabulary.tsv` requires rebuilding glossary, flashcards, and interactive checks (`make_glossary.py`, `make_flashpro.py`, `interactive/build_interactive.py`).
+- **[LOCKED] No Emojis**: Strictly no emojis anywhere (commits, prose, markdown, code, logs).
+- **[LOCKED] SEDRA Gate**: Every newly introduced or modified Syriac term must pass SEDRA verification for lemma, stem, and vocalization.
+- **[LOCKED] Derivative Regeneration**: Any modification to lessons or `syriac_vocabulary.tsv` requires running the full build pipeline (`make_glossary.py`, `make_flashpro.py`, `interactive/build_interactive.py`, `course/make_assessments.py`, `make_site.py`, `./build.sh`).
+- **[LOCKED] Table Integrity Lint**: Every table must pass the automated column count validator in `./build.sh`.
 
 ---
 
 ## 4. Open Questions & Unresolved Issues
 
-- ⚠️ **[OPEN - PENDING KEN REVIEW]**: Course weights (10/10/15/25/40) and Moodle shell creation for RELS 4XX.
-- ⚠️ **[OPEN - FUTURE PHASE]**: Audio recordings (Ken will record audio; SEDRA has no audio).
-- ⚠️ **[OPEN - FUTURE PHASE]**: Copying `flashpro/syriac_yukhannan.json` to the separate `kmpenner/flash-pro` repo upon publication.
+- **[OPEN - PENDING KEN REVIEW]**: Course weights (10/10/15/25/40) and Moodle shell creation for RELS 4XX.
+- **[OPEN - FUTURE PHASE]**: Audio recordings (Ken will record audio; SEDRA has no audio).
+- **[OPEN - FUTURE PHASE]**: Copying `flashpro/syriac_yukhannan.json` to the separate `kmpenner/flash-pro` repo upon publication.
 
 ---
 
 ## 5. Active Milestone & Next Target
 
-- **Current Status**: Complete, audited 197-page textbook PDF, interactive Moodle modules, and derivative assets compiled with 0 errors.
+- **Current Status**: Complete 213-page textbook PDF (`Syriac_Textbook.pdf`), full HTML & DOCX outputs, interactive Moodle XML modules, Moodle assessment quizzes, and Flash Pro vocabulary decks compiled with 0 errors. All Opus review items resolved, table cell lint passed, and chapter artwork integrated across all 13 lessons.
 - **Verification Gate**:
   ```bash
   python3 make_glossary.py
   python3 make_flashpro.py
   python3 interactive/build_interactive.py
+  python3 course/make_assessments.py
+  python3 make_site.py
   ./build.sh
   ```
 - **Next Action**: Review by Ken / Course deployment.

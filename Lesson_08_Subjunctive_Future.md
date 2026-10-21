@@ -2,6 +2,11 @@
 
 ### The Subjunctive Future: The Imperfect Tense
 
+<div class="chapter-image">
+  <img src="images/Lesson_08.jpg" alt="Folio from the Old Syriac Curetonian Gospels (5th century)." />
+  <p class="caption"><em>Folio from the Old Syriac Curetonian Gospels (5th century).</em></p>
+</div>
+
 ---
 
 #### Section 1: Review of Lesson 7
@@ -18,7 +23,7 @@ In Lesson 7, we tackled "weak roots"—verbs that contain an Alaph (ܐ) or Yodh 
 1. What does the Yodh in a III-Yodh verb turn into in the 3rd masc singular perfect (e.g., *ḥ-z-y*)?
 2. Translate: *ʾEmar malkā*.
 3. Identify the root of *īdaʿ* (he knew).
-4. Translate: *ʾAytāw-hy* (bring him!). Why is the suffix *-hy* used instead of *-eh*?
+4. Translate: *ʾAytiwhy* (ܐܝܬܝܘܗܝ, bring him!). Why is the suffix *-hy* used instead of *-eh*?
 5. How would you say "I saw" (1 c.sg. of *ḥ-z-y*)?
 
 ---
@@ -34,9 +39,9 @@ How does Syriac talk about the Future or expressing wishes/commands? It uses the
 
 In all Semitic languages, the Imperfect adds prefixes (*n-, t-, ʾ-, y-*, etc.) to the root to indicate the person, while suffixes are used to indicate plural number.
 
-*   **Hebrew Qal Imperfect**: יִכְתֹּב (*yiktōb* — he will write), אֶכְתֹּב (*ʾektōb* — I will write).
+*   **Hebrew Qal Imperfect**: יִכְתֹּב (*yiḵtōb* — he will write), אֶכְתֹּב (*ʾeḵtōb* — I will write).
 *   **Arabic Form I Imperfect**: يَكْتُبُ (*yaktubu* — he writes/will write), أَكْتُبُ (*ʾaktubu* — I write).
-*   **Syriac Peal Imperfect**: ܢܟܬܘܒ (*nektūb* — he will write), ܐܟܬܘܒ (*ʾektūb* — I will write).
+*   **Syriac Peal Imperfect**: ܢܟܬܘܒ (*nektūb* / *nektob* — he will write), ܐܟܬܘܒ (*ʾektūb* / *ʾektob* — I will write).
 
 *Crucial Note on Syriac vs. Hebrew/Arabic:* In Hebrew and Arabic, the 3rd person masculine prefix is **y-** (*ya-* or *yi-*). In standard Syriac, the 3rd person prefix shifted to **n-** (*ne-*).
 
@@ -47,10 +52,10 @@ In all Semitic languages, the Imperfect adds prefixes (*n-, t-, ʾ-, y-*, etc.) 
 
 **1. Forming the Peal Imperfect**
 
-For a strong root like *k-t-b*, the base vocalization of the imperfect shifts to an *ū* (Waw) theme vowel between the second and third consonant: *-ktūb*.
+For a strong root like *k-t-b*, the base vocalization of the imperfect shifts to an *ū* (or East Syriac *o*) theme vowel written with *waw* between the second and third consonant: *-ktūb* (*-ktob*).
 We then add the person-marking prefixes:
 
-*   *n-* (He / They m) $\rightarrow$ *n-ek-tūb* $\rightarrow$ **nektūb** (He will write).
+*   *n-* (He / They m / We) $\rightarrow$ *n-ek-tūb* $\rightarrow$ **nektūb** (He will write).
 *   *t-* (You / She / They f) $\rightarrow$ **tektūb** (You will write / She will write).
 *   *ʾ-* (I) $\rightarrow$ **ʾektūb** (I will write).
 
@@ -59,13 +64,13 @@ We then add the person-marking prefixes:
 By itself, the Imperfect functions as a simple future tense.
 
 *   *Nektūb Yūḥannan meltā*. (Yukhannan will write a word).
-*   *Teḥze tammān malkā*. (You will see a king there).
+*   *Teḥzē tammān malkā*. (You will see a king there).
 
 **3. Syntax: The Subjunctive / Purpose (`d-` + Imperfect)**
 
-Syriac uses the Imperfect heavily for purpose clauses, wishes, and commands. It accomplishes this by attaching the relative particle `d-` directly to the Imperfect verb. This corresponds to the Greek subjunctive with ἵνα (*hina*).
+Syriac uses the Imperfect heavily for purpose clauses, wishes, and indirect commands. It accomplishes this by attaching the relative particle `d-` directly to the Imperfect verb. This corresponds to the Greek subjunctive with ἵνα (*hina*).
 
-*   *ʾEtā **d-neḥze*** = He came **in order that he might see**.
+*   *ʾEtā **d-neḥzē*** = He came **in order that he might see**.
 *   *ʾĀmer-nā d-tektūb* = I say **that you should write**.
 
 ---
@@ -75,24 +80,26 @@ Syriac uses the Imperfect heavily for purpose clauses, wishes, and commands. It 
 
 **1. The Peal Imperfect Conjugation (Root `q-ṭ-l`)**
 
-In the Peal, the prefix has an *e* vowel in modern pronunciation (or *i* historically), and the theme vowel is usually *ū* (or *a* for gutturals).
+In the Peal, the prefix has an *e* vowel in standard pronunciation, and the theme vowel is *ū* (West Syriac) / *o* (East Syriac), or *a* for guttural/stative verbs (like *nešmaʿ*, *nedḥal*).
 
 | Person | Estrangela | Translit | Translation | Prefix | Suffix |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **3 m.sg.** | ܢܩܛܘܠ | neqṭūl | he will kill | n- | (none) |
-| **3 f.sg.** | ܬܩܛܘܠ | teqṭūl | she will kill | t- | (none) |
-| **2 m.sg.** | ܬܩܛܘܠ | teqṭūl | you (m) will kill| t- | (none) |
-| **2 f.sg.** | ܬܩܛܠܝܢ | teqṭlīn | you (f) will kill| t- | -īn |
-| **1 c.sg.** | ܐܩܛܘܠ | ʾeqṭūl | I will kill | ʾ- | (none) |
-| **3 m.pl.** | ܢܩܛܠܘܢ | neqṭlūn | they (m) will kill| n- | -ūn |
-| **3 f.pl.** | ܢܩܛܠܢ | neqṭlān | they (f) will kill| n- | -ān |
-| **1 c.pl.** | ܢܩܛܘܠ | neqṭūl | we will kill | n- | (none) |
+| **3 m.sg.** | ܢܩܛܘܠ | neqṭūl (neqṭol) | he will kill | n- | (none) |
+| **3 f.sg.** | ܬܩܛܘܠ | teqṭūl (teqṭol) | she will kill | t- | (none) |
+| **2 m.sg.** | ܬܩܛܘܠ | teqṭūl (teqṭol) | you (m.sg.) will kill| t- | (none) |
+| **2 f.sg.** | ܬܩܛܠܝܢ | teqṭlīn | you (f.sg.) will kill| t- | -īn |
+| **1 c.sg.** | ܐܩܛܘܠ | ʾeqṭūl (ʾeqṭol) | I will kill | ʾ- | (none) |
+| **3 m.pl.** | ܢܩܛܠܘܢ | neqṭlūn | they (m.pl.) will kill| n- | -ūn |
+| **3 f.pl.** | ܢܩܛܠܢ | neqṭlān | they (f.pl.) will kill| n- | -ān |
+| **2 m.pl.** | ܬܩܛܠܘܢ | teqṭlūn | you (m.pl.) will kill| t- | -ūn |
+| **2 f.pl.** | ܬܩܛܠܢ | teqṭlān | you (f.pl.) will kill| t- | -ān |
+| **1 c.pl.** | ܢܩܛܘܠ | neqṭūl (neqṭol) | we will kill | n- | (none) |
 
-*Warning: The forms for "He will kill" (*neqṭūl*) and "We will kill" (*neqṭūl*) are identical in spelling and pronunciation! Context almost always makes it obvious.*
+*Warning: The forms for "He will kill" (*neqṭūl*) and "We will kill" (*neqṭūl*) are identical in spelling and pronunciation! Likewise, "She will kill" (*teqṭūl*) and "You (m.sg.) will kill" (*teqṭūl*) are identical. Context almost always makes the subject clear.*
 
 **2. The Paael Imperfect (Root `q-d-š`, to sanctify)**
 
-In the Paael the prefix has only a reduced vowel (*nqaddeš*), and the middle root letter is doubled.
+In the Paael the prefix consonant has no full vowel (*nqaddeš*, 1 c.sg. *ʾqaddeš*), and the middle root letter is doubled.
 
 | Person | Estrangela | Translit | Translation |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +110,7 @@ In the Paael the prefix has only a reduced vowel (*nqaddeš*), and the middle ro
 
 **3. The Aphel Imperfect (Root `n-p-q`, Aphel = `ʾappeq` to bring out)**
 
-In the Aphel, the original *ʾa-* prefix of the perfect drops out, and the imperfect prefix takes its place with an *a* vowel. The theme vowel is *e*.
+In the Aphel, the original *ʾa-* prefix of the perfect drops out, and the imperfect prefix takes its place with an *a* vowel (*naqreb*, *nappeq*). The theme vowel is *e*.
 
 | Person | Estrangela | Translit | Translation |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +127,7 @@ Observe how the purpose clause flows in translation:
 
 | Primary Action (Past/Present) | Subjunctive Clause (d- + Imperfect) | Translation |
 | :--- | :--- | :--- |
-| ʾEtā malkā (The king came) | d-neqṭūl l-eh (that he might kill him) | The king came in order to kill him. |
+| ʾEtā malkā (The king came) | d-neqṭūl leh (that he might kill him) | The king came in order to kill him. |
 | Yūḥannan ʿābed nūhrā (Yukhannan makes light) | d-neḥzūn ʿammā (that the people might see) | Yukhannan makes light so that the people will see. |
 
 ---
@@ -131,16 +138,16 @@ Observe how the purpose clause flows in translation:
 | Root/Noun | Transliteration | Meaning | Related Concept |
 | :--- | :--- | :--- | :--- |
 | ܙܒܢܐ / ܙܒܢ | zban / zabnā | time | Temporal boundary |
-| ܥܕܡܐ | ʿdamā | until | Used with *d-* (until that) |
+| ܥܕܡܐ | ʿdammā | until | Used with *d-* (until that) |
 | ܕܝܢܐ / ܕܝܢ | dīn / dīnā | judgment, law | Eschatological judgment |
 | ܥܠܡܐ / ܥܠܡ | ʿālam / ʿālmā | world, eternity | Often *l-ʿālam* (forever) |
-| ܝܘܡܐ / ܝܘܡ | yūm / yūmā | day | Heb. *yōm* |
-| ܣ.ܗ.ܕ | sehed (Peal) | to testify/witness| Court setting |
-| ܓ.ܙ.ܪ | gzar (Peal) | to decree/cut | Royal authority |
-| ܝ.ܬ.ܒ | īteb (Peal) | to sit/enthrone | enthronement |
-| ܩ.ܛ.ܠ | qṭal (Peal) | to kill | execution context |
-| ܕܚܠܬܐ / ܕܚܠ | dḥal / deḥltā | fear/reverence| Root *d-ḥ-l* (to fear) |
-| ܕ.ܘ.ܢ | dān (Peal, Hollow)| to judge | Active verb of *dīnā* |
+| ܝܘܡܐ / ܝܘܡ | yawm (cstr. *yūm*) / yawmā | day | Heb. *yōm* |
+| ܣܗܕ | sehed (Peal) | to testify/witness | Court setting |
+| ܓܙܪ | gzar (Peal) | to decree/cut | Royal authority |
+| ܝܬܒ | īteb (Peal) | to sit/enthrone | enthronement |
+| ܩܛܠ | qṭal (Peal) | to kill | execution context |
+| ܕܚܠܬܐ / ܕܚܠ | dḥel (Peal) / deḥltā | to fear / fear, reverence| Root *d-ḥ-l* (to fear) |
+| ܕܢ | dān (Peal, Hollow) | to judge | Active verb of *dīnā* |
 
 ---
 
@@ -161,8 +168,8 @@ qām (stood) Yūḥannan (John) qdām (before) malkā (the-king) d-dīnā (of-ju
 **Sentence 2**
 
 ܘܝܬܒ ܡܠܟܐ ܘܐܡܪ ܠܗ
-w-īteb malkā w-ʾemar l-ēh:
-w-īteb (and-sat) malkā (the-king) w-ʾemar (and-said) l-ēh (to-him):
+w-īteb malkā w-ʾemar leh:
+w-īteb (and-sat) malkā (the-king) w-ʾemar (and-said) leh (to-him):
 → And the king sat and said to him:
 
 **Sentence 3**
@@ -177,21 +184,21 @@ w-īteb (and-sat) malkā (the-king) w-ʾemar (and-said) l-ēh (to-him):
 
 ܐܢ ܠܐ ܬܫܒܘܩ ܐܪܥܝ ܢܩܛܠܘܢ ܠܟ ܒܝܘܡ ܕܝܢܐ
 ʾen lā tešbūq ʾarʿ-y, neqṭlūn lāḵ b-yūm dīnā!
-ʾen (if) lā (not) tešbūq (you-will-leave) ʾarʿ-y (land-my), neqṭlūn (they-will-kill) lāḵ (to-you) b-yūm (in-the-day) dīnā (of-judgment)!
+ʾen (if) lā (not) tešbūq (you-will-leave) ʾarʿ-y (land-my), neqṭlūn (they-will-kill) lāḵ (to-you) b-yūm (in-the-day-of) dīnā (judgment)!
 → "If you do not leave my land, they will kill you in the day of judgment!"
 
 **Sentence 5**
 
 ܝܘܚܢܢ ܐܡܪ ܠܗ ܠܐ ܐܕܚܠ
-Yūḥannan ʾemar l-ēh: lā ʾedḥal.
-Yūḥannan (John) ʾemar (said) l-ēh (to-him): lā (not) ʾedḥal (I-will-fear).
+Yūḥannan ʾemar leh: lā ʾedḥal.
+Yūḥannan (John) ʾemar (said) leh (to-him): lā (not) ʾedḥal (I-will-fear).
 → Yukhannan said to him: "I will not fear."
 
 **Sentence 6**
 
 ܐܬܝܬ ܕܐܡܪ ܡܠܬܐ ܕܐܠܗܐ ܠܥܠܡܐ
-ʾetēt d-ʾemar meltā d-Alāhā l-ʿālmā.
-ʾetēt (I-came) d-ʾemar (that-I-might-say) meltā (the-word) d-Alāhā (of-God) l-ʿālmā (to-the-world).
+ʾetēt d-ʾēmar meltā d-ʾAlāhā l-ʿālmā.
+ʾetēt (I-came) d-ʾēmar (that-I-might-say) meltā (the-word) d-ʾAlāhā (of-God) l-ʿālmā (to-the-world).
 → "I came in order to speak the word of God to the world."
 
 ---
@@ -224,16 +231,16 @@ Translate the following future or subjunctive clauses.
 1. Npaq malkā d-neḥzē l-Yūḥannan. (Remember ḥ-z-y acts weak).
 2. Lā neqṭūl malkā l-gabrā ṭābā.
 3. Tešbqūn l-baytkūn l-ʿālam.
-4. Ktabt meltā d-yādʿīn ḥnan šrārā.
+4. Ktabt meltā d-neddaʿ šrārā. (Root *y-d-ʿ*, 1 c.pl. impf. *neddaʿ*).
 
 **Exercise 4: Production Drill (English → Syriac)**
 
 Render the following sentences into Syriac transliteration using the Imperfect.
 
-1. I will write the decree (*gzar*) in the day of judgment.
-2. The king decreed (gzar, perfect) that he might kill the men (*gabrē*).
+1. I will write the commandment (*pūqdānā*) in the day of judgment.
+2. The king decreed (*gzar*, perfect) that he might kill the men (*gabrē*).
 3. If you (m.sg) do not leave heaven, you will see God.
-4. They (m.pl) will come to the kingdom. (Hint: *nēthūn* from ʾ-t-y).
+4. They (m.pl) will come to the kingdom. (Hint: *nētūn* from ʾ-t-y).
 
 **Exercise 5: Reading Comprehension**
 
@@ -250,10 +257,10 @@ Re-read Section 7 and answer:
 
 **Section 1 Warm-Up**
 
-1. It becomes a long ʾAlaph (ā). Example: *ḥzā*.
+1. It becomes a long Alaph (ā). Example: *ḥzā*.
 2. The king said.
 3. *y-d-ʿ* (to know). I-Yodh.
-4. Because the suffix is attaching to a vowel-ending word (the Aphel imperative *ʾaytāw*).
+4. "Bring him!" Because the suffix attaches to a plural verb form ending in *-ū* / *-w* (*ʾaytīw* + *-hy* $\rightarrow$ *ʾaytiwhy*).
 5. *ḥzēt* (I saw).
 
 **Exercise 1: Imperfect Identification**
@@ -279,10 +286,10 @@ Re-read Section 7 and answer:
 
 **Exercise 4: Production Drill**
 
-1. ʾEktūb gzar b-yūm dīnā.
+1. ʾEktūb pūqdānā b-yūm dīnā.
 2. Gzar malkā d-neqṭūl l-gabrē.
-3. ʾEn lā tešbūq šmayyā, teḥzē l-Alāhā.
-4. Nēthūn l-malkūttā. 
+3. ʾEn lā tešbūq šmayyā, teḥzē l-ʾAlāhā.
+4. Nētūn l-malkūtā. 
 
 **Exercise 5: Reading Comprehension**
 
@@ -302,9 +309,13 @@ Re-read Section 7 and answer:
 | :--- | :--- | :--- |
 | **3 m.sg.** | ܢܩܛܘܠ | neqṭūl (he will kill) |
 | **3 f.sg.** | ܬܩܛܘܠ | teqṭūl (she will kill)|
-| **2 m.sg.** | ܬܩܛܘܠ | teqṭūl (you will kill) |
+| **2 m.sg.** | ܬܩܛܘܠ | teqṭūl (you [m.sg.] will kill) |
+| **2 f.sg.** | ܬܩܛܠܝܢ | teqṭlīn (you [f.sg.] will kill) |
 | **1 c.sg.** | ܐܩܛܘܠ | ʾeqṭūl (I will kill) |
-| **3 m.pl.** | ܢܩܛܠܘܢ | neqṭlūn (they will k.)|
+| **3 m.pl.** | ܢܩܛܠܘܢ | neqṭlūn (they [m.] will kill)|
+| **3 f.pl.** | ܢܩܛܠܢ | neqṭlān (they [f.] will kill)|
+| **2 m.pl.** | ܬܩܛܠܘܢ | teqṭlūn (you [m.pl.] will kill)|
+| **2 f.pl.** | ܬܩܛܠܢ | teqṭlān (you [f.pl.] will kill)|
 | **1 c.pl.** | ܢܩܛܘܠ | neqṭūl (we will kill) |
 
 **SYNTAX OF PURPOSE**
@@ -315,27 +326,28 @@ Verb 1 (Any Tense) + `d-` + Verb 2 (Imperfect) = Purpose Clause
 
 #### Section 11: Additional Vocabulary
 
-The following high-frequency words round out this lesson's vocabulary to 20 terms.
+The following 20 high-frequency words supplement this lesson's vocabulary for nature, time, and human emotion.
 
 | Estrangela | Transliteration | Gender/Type | Meaning |
 | :--- | :--- | :--- | :--- |
 | ܦܪܚܬܐ | pāraḥtā | f | bird |
 | ܚܕܘܬܐ | ḥadūtā | f | joy |
 | ܚܟܡܬܐ | ḥekmtā | f | wisdom |
-| ܚܝܘܬܐ | ḥayyūtā | f | animal, beast |
-| ܦܐܪܐ | p̄īrā | m | fruit |
+| ܚܝܘܬܐ | ḥaywtā | f | animal, beast |
+| ܦܐܪܐ | pīrā | m | fruit |
 | ܟܠܒܐ | kalbā | m | dog |
 | ܥܪܒܐ | ʿerbā | m | sheep |
 | ܛܘܪܐ | ṭūrā | m | mountain |
 | ܫܘܩܐ | šūqā | m | street, market |
 | ܥܩܬܐ | ʿāqtā | f | distress, anguish |
 | ܢܘܪܐ | nūrā | f | fire |
-| ܪܚܡܐ | raḥmē | m.pl | mercy |
-| ܡܚܪܬܐ | meḥartā | f | tomorrow |
-| ܙܢܐ | zannā | m | time, era |
-| ܪܫܐ | rešā | m | head (leadership) |
-| ܐܢ | ʾin | conj | if |
-| ܐܘܠܝܐ | ʾōlyā | adv | perhaps |
-| ܦܐܠܘܬܐ | pʾāltā | f | trust, confidence |
+| ܪܚܡܐ | raḥmē | m.pl | mercy, compassion |
+| ܡܚܪ | mḥār | adv | tomorrow |
+| ܙܢܐ | znā | m | kind, manner, way |
+| ܪܫܐ | rēšā | m | head, chief |
+| ܐܢ | ʾen | conj | if |
+| ܟܒܪ | kbar | adv | perhaps, already |
+| ܬܘܟܠܢܐ | tūklānā | m | trust, confidence |
 | ܕܚܠܐ | deḥlā | m | fear |
-| ܝܕܥܐ | yedʿā | m | knowledge |
+| ܝܕܥܐ | yadʿā | m | acquaintance, knowledge |
+
