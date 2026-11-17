@@ -65,10 +65,10 @@ Module 1 Foundations (L0–4), Module 2 The Verbal System (L5–8), Module 3 Adv
   checks on the same items.
 
 ## Accuracy audit 2026-10-06 — fixed
-L4 stray Ol Chiki char; palṭā, qallīlā, ܡܣܟܢܐ. L5 warm-up Q4 + Q5 key (ketbat = 3 f.sg.), root n-p-q, ʾappeq, Aphel ʾalep. L6 key Q2. L10 Ettaphal examples (ʾettaḥyī, ʾettalap); ʾeštadar relabelled Etpaael of šaddar.
+L4 stray Ol Chiki char; palṭā, qallīlā, ܡܣܟܢܐ. L5 warm-up Q4 + Q5 key (ketbat = 3 f.sg.), root n-p-q, ʾappeq, Aphel ʾalep. L6 key Q2. L10 Ettaphal examples (ʾettaḥyī, ʾettalap); ʾeštadar relabelled Ethpaal of šaddar.
 
 ## Audit round 2 (2026-10-06) — fixed
-L3 unattested ܥܪܩܘܬܐ → ܥܪܘܩܐ ʿārōqā 'fugitive' (SEDRA). L7 ʾemarn. L9/L10 infinitives mCaCCāCū / maCCāCū (mappāqū, Peal mappaq). L10 ʾeštaddar paradigm (Etpaael), ʾetnahhar Etpaael, Ex1 #12 → ʾetpreš. Transliteration lines use Yūḥannan; English glosses keep Yukhannan.
+L3 unattested ܥܪܩܘܬܐ → ܥܪܘܩܐ ʿārōqā 'fugitive' (SEDRA). L7 ʾemarn. L9/L10 infinitives mCaCCāCū / maCCāCū (mappāqū, Peal mappaq). L10 ʾeštaddar paradigm (Ethpaal), ʾetnahhar Ethpaal, Ex1 #12 → ʾetpreš. Transliteration lines use Yūḥannan; English glosses keep Yukhannan.
 
 ## Checking Syriac forms (for agents)
 - Verify a word exists via SEDRA: `curl -s "https://sedra.bethmardutho.org/api/word/<unvocalized Syriac>.json"` — returns vocalized form + English glosses, or 404 if unattested (verified 2026-10).

@@ -53,11 +53,11 @@ For a strong root like *k-t-b* (write), the 3rd person masculine singular is the
 The suffixes are added directly to the root:
 
 *   Root + *-et* (1st person) $\rightarrow$ *ketb-et* (I wrote).
-*   Root + *-ū* (3rd m.pl) $\rightarrow$ *ktab-ū* (They wrote).
+*   Root + silent *-w* (3rd m.pl.) $\rightarrow$ *ktab(w)* (They wrote): written ܟܬܒܘ, but pronounced exactly like the singular *ktab*.
 
 **Narrative Syntax: V-S-O Word Order**
 
-Syriac is a heavily VSO (Verb-Subject-Object) language in past narrative. When reading historical or biblical texts, the verb will almost always come first.
+In past narrative Syriac favours VSO (Verb-Subject-Object) order. Word order is flexible, and a subject or object is often moved to the front for emphasis or contrast, but when reading historical or biblical texts you will find the verb first more often than not.
 
 *   *Ktab Yūḥannan meltā.* (Wrote Yukhannan a word $\rightarrow$ Yukhannan wrote a word).
 
@@ -82,13 +82,13 @@ Syriac narratives chain countless actions together using the attached conjunctio
 | **2 m.sg.** | ܟܬܒܬ | ktabt | you (m) wrote | katabta (ـتَ) | kātabtā (ـתָּ) |
 | **2 f.sg.** | ܟܬܒܬܝ | ktabt(y) | you (f) wrote | katabti (ـتِ) | kātabt (ـתְּ) |
 | **1 c.sg.** | ܟܬܒܬ | ketbet | I wrote | katabtu (ـتُ) | kātabtī (ـתִּי) |
-| **3 m.pl.** | ܟܬܒܘ | ktabū (ktab(w)) | they (m) wrote | katabū (ـوا) | kātbū (ـוּ) |
-| **3 f.pl.** | ܟܬܒ / ܟܬܒܝ | ktab (ktab(y)) | they (f) wrote | katabna (ـنَ) | - |
-| **2 m.pl.** | ܟܬܒܬܘܢ | ktabtūn | you (m.pl) wrote | katabtum (ـتم)| ktabtem (ـתֶּם) |
-| **2 f.pl.** | ܟܬܒܬܝܢ | ktabtēn | you (f.pl) wrote | - | - |
+| **3 m.pl.** | ܟܬܒܘ | ktab(w) | they (m) wrote | katabū (ـوا) | kātbū (ـוּ) |
+| **3 f.pl.** | ܟܬܒ / ܟܬܒܝ | ktab / ktab(y) | they (f) wrote | katabna (ـنَ) | kātbū (ـוּ) |
+| **2 m.pl.** | ܟܬܒܬܘܢ | ktabtūn | you (m.pl) wrote | katabtum (ـتم)| kətabtem (ـתֶּם) |
+| **2 f.pl.** | ܟܬܒܬܝܢ | ktabtēn | you (f.pl) wrote | katabtunna (ـتنّ) | kətabten (ـתֶּן) |
 | **1 c.pl.** | ܟܬܒܢ | ktabn | we wrote | katabnā (ـنَا) | kātabnū (ـנוּ) |
 
-*Orthography Note: Notice how the single letter Taw (ܬ) represents 3 f.sg. (-at), 2 m.sg. (-t), and 1 c.sg. (-et). In 3 f.pl. (ܟܬܒ / ܟܬܒܝ) and 2 f.sg. (ܟܬܒܬܝ), the final Yodh is written as an historical orthographic marker but is silent in standard pronunciation (ktab, ktabt; fuller forms ktabēn for 3 f.pl. and ktabtōn for 3 m.pl. also occur).*
+*Orthography Note: Notice how the single letter Taw (ܬ) represents 3 f.sg. (-at), 2 m.sg. (-t), and 1 c.sg. (-et). Several endings are written but silent: the final Waw of 3 m.pl. (ܟܬܒܘ *ktab(w)*), and the final Yodh of 3 f.pl. (ܟܬܒܝ *ktab(y)*) and 2 f.sg. (ܟܬܒܬܝ *ktabt(y)*). All three third-person forms *he wrote*, *they (m.) wrote* and *they (f.) wrote* therefore sound alike (*ktab*), and only the spelling or the context tells them apart. Fuller, audible plural forms also occur: ܟܬܒܘܢ *ktabūn* (3 m.pl.) and ܟܬܒܝܢ *ktabēn* (3 f.pl.). The Waw is heard in III-Yodh verbs (*ḥzaw* "they saw", Lesson 7) and before object suffixes (Lesson 11). Feminine plural verb forms are usually written with syāmē.*
 
 ---
 
@@ -99,8 +99,8 @@ Syriac narratives chain countless actions together using the attached conjunctio
 | :--- | :--- | :--- | :--- |
 | ܟܬܒ | ܝܘܚܢܢ | ܡܠܬܐ | Yukhannan wrote a word. |
 | ktab | Yūḥannan | meltā | |
-| ܫܡܥܘ | ܬܠܡܝܕܐ | ܩܠܐ | The disciples heard a voice. |
-| šmaʿū | talmīdē | qālā | |
+| ܫܡܥܘ | ܬܠܡܝ̈ܕܐ | ܩܠܐ | The disciples heard a voice. |
+| šmaʿ(w) | talmīdē | qālā | |
 
 ---
 
@@ -119,7 +119,7 @@ Syriac narratives chain countless actions together using the attached conjunctio
 | ܩ.ܛ.ܠ | qṭal (ܩܛܠ) | to kill | ܗܠܝܢ (hālēn) | these (c.pl.) |
 | ܦ.ܪ.ܩ | praq (ܦܪܩ) | to save, rescue | | |
 | ܥ.ܪ.ܩ | ʿraq (ܥܪܩ) | to flee | | |
-| ܝ.ܠ.ܕ | īled (ܝܠܕ) | to give birth | | |
+| ܝ.ܠ.ܕ | ʾīled (ܝܠܕ) | to give birth | | |
 | ܥ.ܩ.ܪ | ʿqar (ܥܩܪ) | to root out, dig | | |
 | ܣ.ܠ.ܩ | sleq (ܣܠܩ) | to ascend, climb | | |
 | ܩ.ܘ.ܡ | qām (ܩܡ) | to rise, stand (hollow verb, preview of L7) | | |
@@ -142,17 +142,18 @@ w-kad (and-when) ʾemar (he-said) hālēn (these-[things]), npaq (went-out) Yū�
 
 **Sentence 2**
 
-ܘܐܙܠ ܝܘܚܢܢ ܒܐܪܥܐ ܘܫܒܩ ܬܠܡܝܕܘܗܝ
-w-ʾezal Yūḥannan b-ʾarʿā, w-šbaq talmīdāw-hy.
-w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-earth), w- (and-) šbaq (he-left) talmīdāw-hy (his-disciples).
-→ And Yukhannan went in the earth, and he left his disciples.
+ܘܐܙܠ ܝܘܚܢܢ ܒܐܪܥܐ ܘܫܒܩ ܬܠܡܝ̈ܕܘܗܝ
+w-ʾezal Yūḥannan b-ʾarʿā, w-šbaq talmīdaw(hy).
+w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā (the-land), w- (and-) šbaq (he-left) talmīdaw(hy) (his-disciples).
+→ And Yukhannan went through the land, and he left his disciples.
+*(Note: talmīdaw(hy) is "his disciples": the plural noun with the 3 m.sg. suffix. Suffixes are the subject of Lesson 4.)*
 
 **Sentence 3**
 
-ܐܚܕ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܘܪܚܐ
-ʾeḥad Yūḥannan nūhrā b-ʾūrḥā.
-ʾeḥad (he-held/carried) Yūḥannan (John) nūhrā (light) b- (in) ʾūrḥā (the-way/road).
-→ Yukhannan held light on the way.
+ܐܚܕ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܝܕܗ
+ʾeḥad Yūḥannan nūhrā b-ʾīdeh.
+ʾeḥad (he-held) Yūḥannan (John) nūhrā (a-light) b- (in) ʾīdeh (his-hand).
+→ Yukhannan held a light in his hand.
 
 **Sentence 4**
 
@@ -166,7 +167,7 @@ w- (and-) qreb (drew-near) Yūḥannan (John) l- (to) malkūtā (the-kingdom) d-
 ܘܪܒܐ ܕܡܠܟܐ ܪܕܦ ܠܝܘܚܢܢ
 w-rabbā d-malkā rdap l-Yūḥannan.
 w- (and-) rabbā (the-great-one) d- (of) malkā (the-king) rdap (pursued) l- (to) Yūḥannan (John).
-→ And the great one of the king pursued Yukhannan.
+→ And the king's chief officer (lit. "the great one of the king") pursued Yukhannan.
 
 **Sentence 6**
 
@@ -184,7 +185,7 @@ w- (and-) ʿraq (fled) Yūḥannan (John) w- (and-) qām (stood) qdām (before) 
 
 Identify the person, gender, and number of the following verbs in the Perfect tense.
 
-1. ܟܬܒܘ (ktabū)
+1. ܟܬܒܘ (ktab(w))
 2. ܫܒܩܬ (šbaqt - assuming 2nd m.sg)
 3. ܢܛܪܬ (neṭrat - assuming 3rd f.sg)
 4. ܥܪܩܢ (ʿraqn)
@@ -203,7 +204,7 @@ Conjugate the root *p-l-ḥ* (to serve) in the following forms of the Peal Perfe
 Translate the following past narrative clauses. 
 
 1. W-šbaq Yūḥannan l-malkā.
-2. Rdapū talmīdē l-bīšā.
+2. Rdap(w) talmīdē l-bīšā.
 3. Npaq malkā dēn men tarʿā.
 4. Ktabn meltā d-ʾAlāhā.
 
@@ -213,7 +214,7 @@ Render the following past narrative sentences into Syriac transliteration. Use V
 
 1. The evil man fled from the light. (Use `men` for "from").
 2. And Yukhannan kept the word of God.
-3. When the disciples drew near, they worshipped (*sgadū*).
+3. When the disciples drew near, they worshipped (*sgad(w)*).
 4. The great king saved the earth.
 
 **Exercise 5: Reading Comprehension**
@@ -247,7 +248,7 @@ Re-read Section 7 and answer:
 **Exercise 2: Conjugation Drill**
 
 1. plaḥ
-2. plaḥū
+2. plaḥ(w)
 3. pelḥet
 4. plaḥtūn
 
@@ -262,12 +263,12 @@ Re-read Section 7 and answer:
 
 1. ʿraq barnāšā bīšā men nūhrā.
 2. W-nṭar Yūḥannan meltā d-ʾAlāhā.
-3. Kad qrebū talmīdē, sgadū.
+3. Kad qreb(w) talmīdē, sgad(w).
 4. Praq malkā rabbā l-ʾarʿā.
 
 **Exercise 5: Reading Comprehension**
 
-1. His disciples (*talmīdāw-hy*).
+1. His disciples (*talmīdaw(hy)*).
 2. He pursued (*rdap*) Yukhannan.
 3. Before the gate of the kingdom (*qdām tarʿā d-malkūtā*).
 
@@ -285,7 +286,7 @@ Re-read Section 7 and answer:
 | **3 f.sg.** | ܫܒܩܬ | šebqat (she left)|
 | **2 m.sg.** | ܫܒܩܬ | šbaqt (you left) |
 | **1 c.sg.** | ܫܒܩܬ | šebqet (I left) |
-| **3 m.pl.** | ܫܒܩܘ | šbaqū (they left)|
+| **3 m.pl.** | ܫܒܩܘ | šbaq(w) (they left)|
 | **1 c.pl.** | ܫܒܩܢ | šbaqn (we left) |
 
 **VSO RULE**
@@ -297,7 +298,7 @@ Re-read Section 7 and answer:
 
 #### Section 11: Additional Vocabulary
 
-The following 28 high-frequency words supplement this lesson's vocabulary, focusing on nouns related to narrative past action and contexts.
+The following 28 words supplement this lesson's vocabulary. Most are nouns built on the roots of this lesson's verbs.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -305,7 +306,7 @@ The following 28 high-frequency words supplement this lesson's vocabulary, focus
 | ܫܒܝܬܐ | šbītā | f. noun | captivity, captives | from root š-b-y (to capture) |
 | ܩܛܠܐ | qeṭlā | m. noun | slaughter, killing | from root q-ṭ-l (to kill) |
 | ܓܢܒܘܬܐ | gannābūtā | f. noun | theft, stealing | from root g-n-b (to steal) |
-| ܫܘܒܩܢܐ | šubqānā | m. noun | forgiveness, remission | from root š-b-q (to leave) |
+| ܫܘܒܩܢܐ | šūbqānā | m. noun | forgiveness, remission | from root š-b-q (to leave) |
 | ܡܦܩܢܐ | mappqānā | m. noun | going out, exit | from root n-p-q (to go out) |
 | ܕܡܥܬܐ | demʿtā | f. noun | tear, weeping | from root d-m-ʿ (to weep) |
 | ܚܡܝܡܘܬܐ | ḥammīmūtā | f. noun | heat, warmth | from root ḥ-m-m (to be hot) |
@@ -313,7 +314,7 @@ The following 28 high-frequency words supplement this lesson's vocabulary, focus
 | ܥܪܘܩܐ | ʿārōqā | m. noun | fugitive | from root ʿ-r-q (to flee) |
 | ܩܘܪܒܐ | qūrbā | m. noun | drawing near, approach | from root q-r-b (to draw near) |
 | ܪܕܘܦܝܐ | rdūpyā | m. noun | pursuit, persecution | from root r-d-p (to pursue) |
-| ܡܣܩܢܐ | masqqānā | m. noun | stairs, ladder, ascent | from root s-l-q (to ascend) |
+| ܡܣܩܢܐ | masqānā | m. noun | stairs, ladder, ascent | from root s-l-q (to ascend) |
 | ܦܠܚܘܬܐ | plḥūtā | f. noun | service, labor | from root p-l-ḥ (to serve) |
 | ܕܘܪܟܐ | dūrkā | m. noun | treading | from root d-r-k (to tread) |
 | ܥܡܘܕܐ | ʿammūdā | m. noun | pillar, column | from root ʿ-m-d |
@@ -325,7 +326,7 @@ The following 28 high-frequency words supplement this lesson's vocabulary, focus
 | ܣܒܥܘܬܐ | sbʿūtā | f. noun | satisfaction, plenty | from root s-b-ʿ (to be satisfied) |
 | ܓܪܒܐ | garbā | m. noun | scab, leprosy | from root g-r-b |
 | ܫܒܝܐ | šabyā | m. noun | captive, prisoner | from root š-b-y (to capture) |
-| ܡܡܠܠܐ | mamlā | m. noun | speech, discourse | from root m-l-l (to speak) |
+| ܡܡܠܠܐ | mamllā | m. noun | speech, discourse | from root m-l-l (to speak) |
 | ܓܠܝܘܬܐ | gelyūtā | f. noun | revelation, manifestation | from root g-l-y (to reveal) |
 | ܥܕܡܐ | ʿdammā | preposition | until, as far as | used in past narrative |
 | ܡܕܒܪܢܐ | mdabbrānā | m. noun | leader, guide | from root d-b-r (to lead) |

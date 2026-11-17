@@ -16,17 +16,15 @@ Lesson 9 introduced the **imperative** (direct commands), the **infinitive** (ve
 - **Infinitive:** Peal = *meCCaC*; Paael = *mCaCCāCū*; Aphel = *maCCāCū*
 - **Semi-modals:** *šarrī*, *mṣē*, *bāʿē*, *ṣābē*, *pqad*, *šaddar* — all govern *l-* + infinitive
 
-**Warm-Up Drill: Five Quick Questions**
+**5-Question Warm-Up Drill**
 
-Answer in Syriac (Estrangela + transliteration).
+*(Answers in Section 9)*
 
-| # | Question | Expected answer | Syriac |
-|---:|:---|:---|:---|
-| 1 | Give the Peal imperative m.sg. of *ʾ-z-l* (go). | *ʾezal* — go! | ܐܙܠ |
-| 2 | How do you say "Do not kill!" (m.pl.)? | *lā teqṭlūn* | ܠܐ ܬܩܛܠܘܢ |
-| 3 | What is the Peal infinitive of *q-ṭ-l* (kill)? | *meqṭal* | ܡܩܛܠ |
-| 4 | Translate: *šarrī l-mešmaʿ*. | He began to hear. | ܫܪܝ ܠܡܫܡܥ |
-| 5 | What does *pūqdānā* mean? | commandment, command (noun from *p-q-d*) | ܦܘܩܕܢܐ |
+1. Give the Peal imperative m.sg. of *ʾ-z-l* (go).
+2. How do you say "Do not kill!" (m.pl.)?
+3. What is the Peal infinitive of *q-ṭ-l* (kill)?
+4. Translate: *šarrī l-mešmaʿ*.
+5. What does *pūqdānā* mean?
 
 #### Section 2: The Passive/Reflexive Stems — Overview
 
@@ -41,13 +39,13 @@ Students of Hebrew will recognise an analogy with the **Niphal** (נִפְעַל
 | **Et-Stem Name** | **Active Counterpart** | **Prefix** | **Meaning / Function** |
 |:---|:---|:---|:---|
 | Ethpeel ܐܬܦܥܠ | Peal | *ʾet-* | Passive or reflexive of Peal: "to be killed", "to be written" |
-| Etpaael ܐܬܦܥܠ | Paael | *ʾet-* + R2 doubled | Passive or reflexive of Paael: "to be blessed", "to be sanctified" |
+| Ethpaal ܐܬܦܥܠ | Paael | *ʾet-* + R2 doubled | Passive or reflexive of Paael: "to be blessed", "to be sanctified" |
 | Ettaphal ܐܬܬܦܥܠ | Aphel | *ʾetta-* | Passive of Aphel (causative): "to be offered", "to be added" |
 
 > **Cross-Linguistic Summary: Passive Formation**
 >
 > Syriac Ethpeel: *ʾet-* + Peal root → functions like Hebrew Niphal / Arabic Form VII (*infaʿala*) & Form VIII (*iftaʿala*)
-> Syriac Etpaael: *ʾet-* + Paael (doubled R2) → cognate with Hebrew Hitpael / Arabic Form V (تَفَعَّلَ) and functionally replaces Hebrew Pual
+> Syriac Ethpaal: *ʾet-* + Paael (doubled R2) → cognate with Hebrew Hitpael / Arabic Form V (تَفَعَّلَ) and functionally replaces Hebrew Pual
 > Syriac Ettaphal: *ʾetta-* + Aphel → functionally replaces Hebrew Hophal (passive of causative)
 > Greek: middle/passive endings (*-ομαι*, *-θην*)
 > Latin: passive endings (*-or*, *-ris*, *-tur*) + perfect passive participle
@@ -59,6 +57,8 @@ Students of Hebrew will recognise an analogy with the **Niphal** (נִפְעַל
 The Ethpeel is formed by prefixing **ʾet-** to the Peal root. The perfect stem is **ʾetCCeC**. The participial form, which is very common, is **metCCeC**.
 
 **Example:** Root *q-ṭ-l* (kill) → Ethpeel perfect: **ʾetqṭel** ܐܬܩܛܠ "he was killed"; Participle: **metqṭel** ܡܬܩܛܠ "being killed".
+
+**Vowel shift before endings.** When an ending that begins with a vowel is added (*-at*, *-et*, *-ā*, *-īn*, *-ān*), the *e* before the last radical drops and an *a* appears after the first radical instead: *ʾetqṭel* but **ʾetqaṭlat** "she was killed", **ʾetqaṭlet** "I was killed"; *metqṭel* but **metqaṭlā**, **metqaṭlīn**. Roots ending in a guttural or *r* have *a* instead of *e* in the last syllable: *ʾeštmaʿ* "it was heard", *ʾetqbar* "he was buried".
 
 **3.2 Phonological Rules — Assimilation and Metathesis**
 
@@ -75,11 +75,11 @@ When the root begins with certain consonants, the **t** of the **ʾet-** prefix 
 | **Person / Number / Gender** | **Estrangela** | **Transliteration** | **Translation** |
 |:---|:---|:---|:---|
 | 3 m.sg. | ܐܬܩܛܠ | *ʾetqṭel* | he was killed |
-| 3 f.sg. | ܐܬܩܛܠܬ | *ʾetqṭlat* | she was killed |
+| 3 f.sg. | ܐܬܩܛܠܬ | *ʾetqaṭlat* | she was killed |
 | 2 m.sg. | ܐܬܩܛܠܬ | *ʾetqṭelt* | you (m.sg.) were killed |
 | 2 f.sg. | ܐܬܩܛܠܬܝ | *ʾetqṭelt(y)* | you (f.sg.) were killed |
-| 1 c.sg. | ܐܬܩܛܠܬ | *ʾetqṭlet* | I was killed |
-| 3 m.pl. | ܐܬܩܛܠܘ | *ʾetqṭelū* | they (m.) were killed |
+| 1 c.sg. | ܐܬܩܛܠܬ | *ʾetqaṭlet* | I was killed |
+| 3 m.pl. | ܐܬܩܛܠܘ | *ʾetqṭel(w)* | they (m.) were killed |
 | 3 f.pl. | ܐܬܩܛܠ / ܐܬܩܛܠܝ | *ʾetqṭel* | they (f.) were killed |
 | 2 m.pl. | ܐܬܩܛܠܬܘܢ | *ʾetqṭeltūn* | you (m.pl.) were killed |
 | 2 f.pl. | ܐܬܩܛܠܬܝܢ | *ʾetqṭeltēn* | you (f.pl.) were killed |
@@ -90,15 +90,15 @@ When the root begins with certain consonants, the **t** of the **ʾet-** prefix 
 | **Form** | **Estrangela** | **Transliteration** | **Translation** |
 |:---|:---|:---|:---|
 | Participle m.sg. | ܡܬܩܛܠ | *metqṭel* | being killed (m.sg.) |
-| Participle f.sg. | ܡܬܩܛܠܐ | *metqṭlā* | being killed (f.sg.) |
-| Participle m.pl. | ܡܬܩܛܠܝܢ | *metqṭlīn* | being killed (m.pl.) |
-| Participle f.pl. | ܡܬܩܛܠܢ | *metqṭlān* | being killed (f.pl.) |
+| Participle f.sg. | ܡܬܩܛܠܐ | *metqaṭlā* | being killed (f.sg.) |
+| Participle m.pl. | ܡܬܩܛܠܝܢ | *metqaṭlīn* | being killed (m.pl.) |
+| Participle f.pl. | ܡܬܩܛ̈ܠܢ | *metqaṭlān* | being killed (f.pl.) |
 
-#### Section 4: The Ettaphal and Etpaael Stems
+#### Section 4: The Ettaphal and Ethpaal Stems
 
 **4.1 The Ettaphal — Passive of the Aphel**
 
-The **Ettaphal** is the passive counterpart of the Aphel (causative) stem. Its formation prefixes **ʾetta-** (spelled ܐܬܬ- with two *taws*) before the root: **ʾettaCCaC**. Since the Aphel adds causative meaning ("to cause to X"), the Ettaphal means **"to be caused to X"**. It is the rarest of the six stems in Syriac; for many roots (especially hollow verbs like *q-w-m* and *r-w-m*), the Ethpeel (**ʾetqīm** ܐܬܩܝܡ "he was raised/established", **ʾetrīm** ܐܬܪܝܡ "he was exalted") regularly serves as the passive of the Aphel as well.
+The **Ettaphal** is the passive counterpart of the Aphel (causative) stem. Its formation prefixes **ʾetta-** (spelled ܐܬܬ- with two *taws*) before the root: **ʾettaCCaC**. Since the Aphel adds causative meaning ("to cause to X"), the Ettaphal means **"to be caused to X"**. It is the rarest of the six stems in Syriac. Hollow verbs are the exception: they have no separate Ethpeel, and their Ettaphal serves as the passive of both the Peal and the Aphel: **ʾettqīm** ܐܬܬܩܝܡ "he was raised, established" (from *q-w-m*), **ʾettrīm** ܐܬܬܪܝܡ "he was exalted" (from *r-w-m*). Scribes often write only one of the two Taws (ܐܬܪܝܡ).
 
 - **Example 1:** Root *q-r-b* / Aphel *ʾaqreb* (bring near, offer) → Ettaphal: **ʾettaqrab** ܐܬܬܩܪܒ "it was offered / brought near".
 - **Example 2:** Root *y-s-p* / Aphel *ʾawsep* (add) → Ettaphal: **ʾettawsap** ܐܬܬܘܣܦ "it was added".
@@ -112,19 +112,19 @@ The **Ettaphal** is the passive counterpart of the Aphel (causative) stem. Its f
 | 3 f.sg. | ܐܬܬܩܪܒܬ | *ʾettaqrbat* | she/it was offered / brought near |
 | 2 m.sg. | ܐܬܬܩܪܒܬ | *ʾettaqrabt* | you (m.sg.) were brought near |
 | 1 c.sg. | ܐܬܬܩܪܒܬ | *ʾettaqrbet* | I was brought near |
-| 3 m.pl. | ܐܬܬܩܪܒܘ | *ʾettaqrabū* | they (m.) were brought near |
+| 3 m.pl. | ܐܬܬܩܪܒܘ | *ʾettaqrab(w)* | they (m.) were brought near |
 | 1 c.pl. | ܐܬܬܩܪܒܢ | *ʾettaqrabn* | we were brought near |
 
-**4.2 The Etpaael — Passive/Reflexive of the Paael**
+**4.2 The Ethpaal — Passive/Reflexive of the Paael**
 
-The **Etpaael** is the passive or reflexive of the Paael (intensive/factitive) stem. Its prefix is **ʾet-** attached to the Paael stem (with doubled R2 and *a* vowel after R2: **ʾetCaCCaC**; participle **metCaCCaC**). Since the Paael carries intensive or factitive meaning ("to bless", "to teach", "to send", "to sanctify"), the Etpaael means **"to be blessed", "to be taught", "to be sent", "to be sanctified"** (or reflexively, "to sanctify oneself").
+The **Ethpaal** is the passive or reflexive of the Paael (intensive/factitive) stem. Its prefix is **ʾet-** attached to the Paael stem (with doubled R2 and *a* vowel after R2: **ʾetCaCCaC**; participle **metCaCCaC**). Since the Paael carries intensive or factitive meaning ("to bless", "to teach", "to send", "to sanctify"), the Ethpaal means **"to be blessed", "to be taught", "to be sent", "to be sanctified"** (or reflexively, "to sanctify oneself").
 
-- **Example 1:** Root *b-r-k* / Paael *barrek* (bless) → Etpaael: **ʾetbarrak** ܐܬܒܪܟ "he was blessed".
-- **Example 2:** Root *ʾ-l-p* (*y-l-p*) / Paael *ʾallep* (teach) → Etpaael: **ʾetallap** ܐܬܐܠܦ "he was taught / instructed".
-- **Example 3:** Root *q-d-š* / Paael *qaddeš* (sanctify) → Etpaael: **ʾetqaddaš** ܐܬܩܕܫ "he was sanctified" (participle **metqaddaš** ܡܬܩܕܫ).
-- **Example 4:** Root *š-d-r* / Paael *šaddar* (send) → Etpaael: **ʾeštaddar** ܐܫܬܕܪ "he was sent" (with metathesis of *t* and *š*).
+- **Example 1:** Root *b-r-k* / Paael *barrek* (bless) → Ethpaal: **ʾetbarrak** ܐܬܒܪܟ "he was blessed".
+- **Example 2:** Root *ʾ-l-p* (*y-l-p*) / Paael *ʾallep* (teach) → Ethpaal: **ʾetallap** ܐܬܐܠܦ "he was taught / instructed".
+- **Example 3:** Root *q-d-š* / Paael *qaddeš* (sanctify) → Ethpaal: **ʾetqaddaš** ܐܬܩܕܫ "he was sanctified" (participle **metqaddaš** ܡܬܩܕܫ).
+- **Example 4:** Root *š-d-r* / Paael *šaddar* (send) → Ethpaal: **ʾeštaddar** ܐܫܬܕܪ "he was sent" (with metathesis of *t* and *š*).
 
-**Full Paradigm — Etpaael Perfect of *b-r-k* (be blessed):**
+**Full Paradigm — Ethpaal Perfect of *b-r-k* (be blessed):**
 
 | **Person / N / G** | **Estrangela** | **Transliteration** | **Translation** |
 |:---|:---|:---|:---|
@@ -132,7 +132,7 @@ The **Etpaael** is the passive or reflexive of the Paael (intensive/factitive) s
 | 3 f.sg. | ܐܬܒܪܟܬ | *ʾetbarrkat* | she was blessed |
 | 2 m.sg. | ܐܬܒܪܟܬ | *ʾetbarrakt* | you (m.sg.) were blessed |
 | 1 c.sg. | ܐܬܒܪܟܬ | *ʾetbarrket* | I was blessed |
-| 3 m.pl. | ܐܬܒܪܟܘ | *ʾetbarrakū* | they (m.) were blessed |
+| 3 m.pl. | ܐܬܒܪܟܘ | *ʾetbarrak(w)* | they (m.) were blessed |
 | 1 c.pl. | ܐܬܒܪܟܢ | *ʾetbarrakn* | we were blessed |
 
 #### Section 5: The Passive Participle (Peal)
@@ -141,7 +141,7 @@ The **Etpaael** is the passive or reflexive of the Paael (intensive/factitive) s
 
 Distinct from the Ethpeel, the **Peal passive participle** is a simple adjectival form expressing a **completed passive state**: "written" (*ktīb*), "killed" (*qṭīl*), "bound" (*ʾasīr*). Its pattern is **CCīC**. It agrees in gender and number with its noun, like any adjective. It is often used in **verbless clauses** with a predicative function: *gabrā qṭīl* ܓܒܪܐ ܩܛܝܠ = "the man is killed" (or emphatic *gabrā qṭīlā* ܓܒܪܐ ܩܛܝܠܐ = "the slain man").
 
-Students of Arabic will recognise the **passive participle (*ism al-mafʿūl*)**: مَقْتُول *maqṭūl* "killed", مَكْتُوب *maktūb* "written". The Hebrew equivalent is **qāṭūl**: קָטוּל *qāṭūl*, כָּתוּב *kātūb*.
+Students of Arabic will recognise the **passive participle (*ism al-mafʿūl*)**: مَقْتُول *maqtūl* "killed", مَكْتُوب *maktūb* "written". The Hebrew equivalent is **qāṭūl**: קָטוּל *qāṭūl*, כָּתוּב *kātūb*.
 
 **5.2 Passive Participles — Ten Key Verbs**
 
@@ -167,60 +167,50 @@ Students of Arabic will recognise the **passive participle (*ism al-mafʿūl*)**
 | ܟܬܒܐ ܟܬܝܒ ܒܩܘܫܬܐ | *ktābā ktīb b-qūštā* | the-book written in-truth | The book is written in truth. |
 | ܡܫܝܚܐ ܒܪܝܟ ܠܥܠܡ | *Mšīḥā brīk l-ʿālam* | the-Messiah blessed forever | The Messiah is blessed forever. |
 
-#### Section 6: Vocabulary — 30 Words (Passive Focus)
+#### Section 6: Vocabulary — 32 Words (Passive Focus)
 
 These words are central to Lesson 10 and to Syriac Christian literature generally. Each entry includes the basic (Peal or derived) form, its Et-stem counterpart, and the English meaning.
 
 | **Root** | **Estrangela** | **Transliteration** | **English** |
 |:---|:---|:---|:---|
-| *ʿ-m-d* | ܥܡܕ / ܐܬܥܡܕ | *ʿmad* / *ʾetʿmed* | be baptized, dip / to be baptized |
+| *ʿ-m-d* | ܥܡܕ / ܐܬܥܡܕ | *ʿmad* / *ʾetʿmed* | be baptized (the Peal is already passive in sense; "baptize" is the Aphel *ʾaʿmed*) / to be baptized |
 | *g-l-y* | ܓܠܐ / ܐܬܓܠܝ | *glā* / *ʾetglī* | reveal / to be revealed, appear |
-| *ḥ-y-y* | ܐܚܝ / ܐܬܚܝܝ | *ʾaḥī* / *ʾetḥayyī* | save, give life (Aphel) / to be preserved alive (Etpaael) |
+| *ḥ-y-y* | ܐܚܝ / ܐܬܚܝܝ | *ʾaḥī* / *ʾetḥayyī* | save, give life (Aphel) / to be preserved alive (Ethpaal) |
 | *q-ṭ-l* | ܩܛܠ / ܐܬܩܛܠ | *qṭal* / *ʾetqṭel* | kill / to be killed |
-| *ʾ-s-r* | ܐܣܪ / ܐܬܐܣܪ | *ʾesar* / *ʾetʾsar* | bind / to be bound |
+| *ʾ-s-r* | ܐܣܪ / ܐܬܐܣܪ | *ʾesar* / *ʾetesar* | bind / to be bound |
 | *š-r-y* | ܫܪܐ / ܐܬܫܪܝ | *šrā* / *ʾetšrī* | loosen / to be loosed, released |
-| *š-d-r* | ܫܕܪ / ܐܫܬܕܪ | *šaddar* / *ʾeštaddar* | send (Paael) / to be sent (Etpaael) |
-| *ʾ-s-y* | ܐܣܝ / ܐܬܐܣܝ | *ʾassī* / *ʾetʾassī* | heal (Paael) / to be healed (Etpaael) |
-| *q-w-m* | ܐܩܝܡ / ܐܬܩܝܡ | *ʾaqīm* / *ʾetqīm* | raise up (Aphel) / to be raised, established (Ethpeel) |
+| *š-d-r* | ܫܕܪ / ܐܫܬܕܪ | *šaddar* / *ʾeštaddar* | send (Paael) / to be sent (Ethpaal) |
+| *ʾ-s-y* | ܐܣܝ / ܐܬܐܣܝ | *ʾassī* / *ʾetʾassī* | heal (Paael) / to be healed (Ethpaal) |
+| *q-w-m* | ܐܩܝܡ / ܐܬܬܩܝܡ | *ʾaqīm* / *ʾettqīm* | raise up (Aphel) / to be raised, established (Ettaphal) |
 | *k-n-š* | ܟܢܫ / ܐܬܟܢܫ | *knaš* / *ʾetkneš* | gather / to be gathered |
-| *d-k-y* | ܕܟܝ / ܐܬܕܟܝ | *dakkī* / *ʾetdakkī* | purify (Paael) / to be purified (Etpaael) |
-| *š-b-q* | ܫܒܩ / ܐܫܬܒܩ | *šbaq* / *ʾeštbaq* | forgive, leave / to be forgiven |
-| *b-r-k* | ܒܪܟ / ܐܬܒܪܟ | *barrek* / *ʾetbarrak* | bless (Paael) / to be blessed (Etpaael) |
-| *ʾ-l-p* (*y-l-p*) | ܐܠܦ / ܐܬܐܠܦ | *ʾallep* / *ʾetallap* | teach (Paael) / to be taught (Etpaael) |
+| *d-k-y* | ܕܟܝ / ܐܬܕܟܝ | *dakkī* / *ʾetdakkī* | purify (Paael) / to be purified (Ethpaal) |
+| *š-b-q* | ܫܒܩ / ܐܫܬܒܩ | *šbaq* / *ʾeštbeq* | forgive, leave / to be forgiven |
+| *b-r-k* | ܒܪܟ / ܐܬܒܪܟ | *barrek* / *ʾetbarrak* | bless (Paael) / to be blessed (Ethpaal) |
+| *ʾ-l-p* (*y-l-p*) | ܐܠܦ / ܐܬܐܠܦ | *ʾallep* / *ʾetallap* | teach (Paael) / to be taught (Ethpaal) |
 | *m-š-ḥ* | ܡܫܚ / ܐܬܡܫܚ | *mšaḥ* / *ʾetmšaḥ* | anoint / to be anointed |
 | *ṣ-l-b* | ܨܠܒ / ܐܨܛܠܒ | *ṣlab* / *ʾeṣṭleb* | crucify / to be crucified |
 | *q-b-r* | ܩܒܪ / ܐܬܩܒܪ | *qbar* / *ʾetqbar* | bury / to be buried |
-| *d-w-n* | ܕܢ / ܐܬܕܝܢ | *dān* / *ʾetdīn* | judge (Peal) / to be judged (Ethpeel) |
+| *d-w-n* | ܕܢ / ܐܬܬܕܝܢ | *dān* / *ʾettdīn* | judge (Peal) / to be judged (Ettaphal; also written ܐܬܕܝܢ) |
 | *ḥ-y-b* | ܚܝܒ / ܐܬܚܝܒ | *ḥayyeb* / *ʾetḥayyab* | condemn, make guilty / to be condemned |
 | *p-r-q* | ܦܪܩ / ܐܬܦܪܩ | *praq* / *ʾetpreq* | redeem, save / to be redeemed |
-| *k-l-l* | ܟܠܠ / ܐܬܟܠܠ | *kallel* / *ʾetkallal* | crown (Paael) / to be crowned (Etpaael) |
-| *r-w-m* | ܐܪܝܡ / ܐܬܪܝܡ | *ʾarīm* / *ʾetrīm* | exalt (Aphel) / to be exalted (Ethpeel) |
-| *m-k-k* | ܡܟܟ / ܐܬܡܟܟ | *makkek* / *ʾetmakkak* | humble (Paael) / to be humbled (Etpaael) |
+| *k-l-l* | ܟܠܠ / ܐܬܟܠܠ | *kallel* / *ʾetkallal* | crown (Paael) / to be crowned (Ethpaal) |
+| *r-w-m* | ܐܪܝܡ / ܐܬܬܪܝܡ | *ʾarīm* / *ʾettrīm* | exalt (Aphel) / to be exalted (Ettaphal) |
+| *m-k-k* | ܡܟܟ / ܐܬܡܟܟ | *makkek* / *ʾetmakkak* | humble (Paael) / to be humbled (Ethpaal) |
 | *ṭ-r-d* | ܛܪܕ / ܐܬܛܪܕ | *ṭrad* / *ʾeṭṭred* | cast out, expel / to be cast out |
 | *y-d-y* | ܐܘܕܝ / ܐܬܬܘܕܝ | *ʾawdī* / *ʾettawdī* | confess, give thanks (Aphel) / to be confessed (Ettaphal) |
 | *t-w-b* | ܬܒ / ܬܐܒ | *tāb* / *tāyeb* | return, repent (Peal perf. / ptcp.) |
-| *y-l-d* | ܝܠܕ / ܐܬܝܠܕ | *īled* / *ʾetyled* | give birth / to be born (Ethpeel) |
-| *n-h-r* | ܐܢܗܪ / ܐܬܢܗܪ | *ʾanhar* / *ʾetnahhar* | illuminate (Aphel/Paael) / to be illumined (Etpaael) |
+| *y-l-d* | ܝܠܕ / ܐܬܝܠܕ | *ʾīled* / *ʾetīled* | give birth / to be born (Ethpeel) |
+| *n-h-r* | ܢܗܪ / ܐܬܢܗܪ | *nahhar* / *ʾetnahhar* | illuminate (Paael) / to be illumined (Ethpaal) |
 | *m-l-y* | ܡܠܐ / ܐܬܡܠܝ | *mlā* / *ʾetmlī* | fill / to be filled |
 | *p-r-š* | ܦܪܫ / ܐܬܦܪܫ | *praš* / *ʾetpreš* | separate, distinguish / to be separated |
-| *ʾ-ḥ-d* | ܐܚܕ / ܐܬܐܚܕ | *ʾeḥad* / *ʾetʾḥed* | seize, hold, shut / to be seized, shut |
-| *ḥ-l-m* | ܚܠܡ / ܐܬܚܠܡ | *ḥlam* / *ʾetḥlam* | heal, be sound / to be healed, recover |
-
-**Additional words**
-
-| Syriac (Estrangela) | Transliteration | Part of Speech | Meaning |
-|:---|:---|:---|:---|
-| ܡܕܥܐ | *maddʿā* | m. noun | knowledge, mind (root *y-d-ʿ*) |
-| ܐܪܡܠܘܬܐ | *ʾarmlūtā* | f. noun | widowhood |
-| ܥܣܒܐ | *ʿesbā* | m. noun | grass, herb |
-| ܐܫܦܠ | *ʾašpel* | verb (Aphel) | to humble, bring low (root *š-p-l*) |
-| ܚܛܝܬܐ | *ḥṭītā* | f. noun | sin (root *ḥ-ṭ-y*) |
+| *ʾ-ḥ-d* | ܐܚܕ / ܐܬܐܚܕ | *ʾeḥad* / *ʾeteḥed* | seize, hold, shut / to be seized, shut |
+| *ḥ-l-m* | ܚܠܡ / ܐܬܚܠܡ | *ḥlam* / *ʾetḥlem* | be sound (the same root also gives *ḥelmā*, "dream") / to be healed, recover |
 
 #### Section 7: The Story — Part 10
 
 **Yukhannan Is Thrown into the Fire — and Saved**
 
-The narrative continues from Lesson 9. Yukhannan has been bound and dragged to the furnace. Now the passive voice dominates the story: things happen *to* Yukhannan — he is thrown, he is saved, the miracle is revealed to the city. The story showcases Ethpeel, Etpaael, and passive participle forms throughout.
+The narrative continues from Lesson 9. Yukhannan has been bound and dragged to the furnace. Now the passive voice dominates the story: things happen *to* Yukhannan — he is thrown, he is saved, the miracle is revealed to the city. The story showcases Ethpeel, Ethpaal, and passive participle forms throughout.
 
 **Sentence 1**
 
@@ -244,11 +234,11 @@ w-nūrā (and-the-fire) lā (not) qerbat (approached) leh (to-him)
 
 **Sentence 3**
 
-ܐܝܟ ܕܐܬܥܒܕ ܥܡ ܚܢܢܝܐ ܘܚܒܪܘܗܝ
+ܐܝܟ ܕܐܬܥܒܕ ܥܡ ܚܢܢܝܐ ܘܚܒܪ̈ܘܗܝ
 
-*ʾayk d-ʾetʿbed ʿam Ḥananyā w-ḥabrāw-hy*
+*ʾayk d-ʾetʿbed ʿam Ḥananyā w-ḥabraw(hy)*
 
-ʾayk (just-as) d-ʾetʿbed (that-was-done) ʿam (with) Ḥananyā (Hananiah) w-ḥabrāw-hy (and-his-companions)
+ʾayk (just-as) d-ʾetʿbed (that-was-done) ʿam (with) Ḥananyā (Hananiah) w-ḥabraw(hy) (and-his-companions)
 
 *→ just as it was done with Hananiah and his companions.*
 
@@ -304,11 +294,11 @@ w-ʾātā (and-a-sign) rabbtā (great) ʾetīdʿat (was-made-known) b-kullāh (i
 
 **Sentence 9**
 
-ܣܓܝܐܐ ܕܚܠܘ ܘܐܬܦܢܝܘ
+ܣܓܝ̈ܐܐ ܕܚܠܘ ܘܐܬܦܢܝܘ
 
-*saggīʾē dḥelw w-ʾetpnīw*
+*saggīʾē dḥel(w) w-ʾetpnī(w)*
 
-saggīʾē (many) dḥelw (feared) w-ʾetpnīw (and-turned-back/repented)
+saggīʾē (many) dḥel(w) (feared) w-ʾetpnī(w) (and-turned-back/repented)
 
 *→ Many feared and repented.*
 
@@ -324,11 +314,11 @@ w-ʾāmrīn (and-they-say) brīk (blessed) hū (is) ʾAlāhā (the-God) d-Yūḥ
 
 **Sentence 11**
 
-ܘܝܘܚܢܢ ܐܬܦܪܩ ܡܢ ܐܝܕܝ ܒܥܠܕܒܒܘܗܝ
+ܘܝܘܚܢܢ ܐܬܦܪܩ ܡܢ ܐܝ̈ܕܝ ܒܥܠܕܒ̈ܒܘܗܝ
 
-*w-Yūḥannan ʾetpreq men ʾīday bʿeldbābāw-hy*
+*w-Yūḥannan ʾetpreq men ʾīday bʿeldbābaw(hy)*
 
-w-Yūḥannan (and-Yukhannan) ʾetpreq (was-saved/redeemed) men (from) ʾīday (the-hands-of) bʿeldbābāw-hy (his-enemies)
+w-Yūḥannan (and-Yukhannan) ʾetpreq (was-saved/redeemed) men (from) ʾīday (the-hands-of) bʿeldbābaw(hy) (his-enemies)
 
 *→ And Yukhannan was saved from the hands of his enemies,*
 
@@ -348,7 +338,7 @@ w-šūbḥā (and-glory) ʾetīheb (was-given) l-ʾAlāhā (to-God)
 
 **Exercise 1: Stem Identification**
 
-Identify the stem of each verb form (Peal, Paael, Aphel, Ethpeel, Etpaael, or Ettaphal) and give its basic meaning.
+Identify the stem of each verb form (Peal, Paael, Aphel, Ethpeel, Ethpaal, or Ettaphal) and give its basic meaning.
 
 1. *ʾetqṭel* ܐܬܩܛܠ
 2. *ʾetbarrak* ܐܬܒܪܟ
@@ -370,7 +360,7 @@ Rewrite each active sentence in the passive voice using the appropriate Et-stem.
 1. *malkā qṭal l-gabrā* — the king killed the man.
 2. *kāhnā barrek l-ʿammā* — the priest blessed the people.
 3. *šaddar malkā ʾesṭraṭyōṭē* — the king sent the soldiers.
-4. *ʾāsyā ʾaḥī l-ḥalīšā* — the physician saved the weak man.
+4. *ʾāsyā ʾaḥī l-ḥallāšā* — the physician saved the weak man.
 5. *ʾallep rabbā talmīdē* — the teacher taught the disciples.
 6. *ʾaqīm l-mītā* — he raised the dead man.
 
@@ -379,12 +369,12 @@ Rewrite each active sentence in the passive voice using the appropriate Et-stem.
 Translate each sentence into smooth English.
 
 1. ܐܬܪܡܝ ܒܢܘܪܐ
-2. ܐܬܦܪܩ ܡܢ ܒܥܠܕܒܒܐ
+2. ܐܬܦܪܩ ܡܢ ܒܥܠܕܒ̈ܒܐ
 3. ܐܬܓܠܝ ܢܘܗܪܐ ܒܚܫܘܟܐ
 4. ܟܢܫܐ ܐܬܟܢܫ ܒܡܕܝܢܬܐ
 5. ܡܫܝܚܐ ܐܨܛܠܒ ܘܐܬܩܒܪ
 6. ܐܬܝܠܕ ܒܪܐ ܕܐܠܗܐ
-7. ܗܘ ܩܛܝܠ ܡܛܠ ܚܛܗܝܢ
+7. ܗܘ ܩܛܝܠ ܡܛܠ ܚܛܗ̈ܝܢ
 8. ܐܫܬܡܥ ܩܠܗ ܒܟܠ ܐܬܪ
 
 **Exercise 4: Production — English to Syriac**
@@ -410,29 +400,38 @@ Re-read the story in Section 7 and answer the following questions in English.
 
 #### Section 9: Answer Key
 
+
+**Section 1 Warm-Up**
+
+1. *zel* — go! (irregular) (ܙܠ)
+2. *lā teqṭlūn* (ܠܐ ܬܩܛܠܘܢ)
+3. *meqṭal* (ܡܩܛܠ)
+4. He began to hear. (ܫܪܝ ܠܡܫܡܥ)
+5. commandment, command (noun from *p-q-d*) (ܦܘܩܕܢܐ)
+
 **Exercise 1: Stem Identification**
 
 1. *ʾetqṭel* — Ethpeel (passive of Peal) — "he was killed"
-2. *ʾetbarrak* — Etpaael (passive/reflexive of Paael) — "he was blessed"
-3. *ʾeštaddar* — Etpaael (passive of Paael *šaddar*) — "he was sent"; note metathesis of *t* after *š*
+2. *ʾetbarrak* — Ethpaal (passive/reflexive of Paael) — "he was blessed"
+3. *ʾeštaddar* — Ethpaal (passive of Paael *šaddar*) — "he was sent"; note metathesis of *t* after *š*
 4. *metqṭel* — Ethpeel participle — "being killed"
 5. *ʾetpreq* — Ethpeel — "he was redeemed/saved"
 6. *ʾetʿmed* — Ethpeel — "he was baptized"
 7. *ʾettaqrab* — Ettaphal (passive of Aphel *ʾaqreb*) — "he/it was offered / brought near"
 8. *brīk* — Peal passive participle — "blessed" (adjective)
-9. *ʾetnahhar* — Etpaael (passive of Paael *nahhar* "illumine") — "he was illumined"
+9. *ʾetnahhar* — Ethpaal (passive of Paael *nahhar* "illumine") — "he was illumined"
 10. *ʾetmšaḥ* — Ethpeel — "he was anointed"
-11. *ʾetallap* — Etpaael (passive of Paael *ʾallep*) — "he was taught / instructed"
+11. *ʾetallap* — Ethpaal (passive of Paael *ʾallep*) — "he was taught / instructed"
 12. *ʾetpreš* — Ethpeel — "he was separated"
 
 **Exercise 2: Active to Passive**
 
 1. *ʾetqṭel gabrā (men malkā)* — The man was killed (by the king).
 2. *ʾetbarrak ʿammā (men kāhnā)* — The people were blessed (by the priest).
-3. *ʾeštaddarū ʾesṭraṭyōṭē* — The soldiers were sent.
-4. *ʾetḥayyī ḥalīšā* — The weak man was saved / preserved alive.
-5. *ʾetallapū talmīdē* — The disciples were taught.
-6. *ʾetqīm mītā* — The dead man was raised.
+3. *ʾeštaddar(w) ʾesṭraṭyōṭē* — The soldiers were sent.
+4. *ʾetḥayyī ḥallāšā* — The weak man was saved / preserved alive.
+5. *ʾetallap(w) talmīdē* — The disciples were taught.
+6. *ʾettqīm mītā* — The dead man was raised. (Hollow root: the Ettaphal.)
 
 **Exercise 3: Translation**
 
@@ -447,10 +446,10 @@ Re-read the story in Section 7 and answer the following questions in English.
 
 **Exercise 4: Production (sample answers)**
 
-1. ܐܬܥܡܕ ܒܢܗܪܐ *ʾetʿmed b-nahrā*
-2. ܐܫܬܕܪܘ ܐܣܛܪܛܝܘܛܐ ܠܡܕܝܢܬܐ *ʾeštaddarū ʾesṭraṭyōṭē l-mdīttā*
-3. ܐܬܩܝܡ ܡܝܬܐ *ʾetqīm mītā*
-4. ܐܬܐܣܝܬ ܡܢ ܩܕܝܫܐ *ʾetʾassīyat men qaddīšā* (3 f.sg.)
+1. ܥܡܕ ܒܢܗܪܐ *ʿmad b-nahrā* (the Peal already means "was baptized"; ܐܬܥܡܕ *ʾetʿmed* is also found)
+2. ܐܫܬܕܪܘ ܐܣܛܪ̈ܛܝܘܛܐ ܠܡܕܝܢܬܐ *ʾeštaddar(w) ʾesṭraṭyōṭē l-mdīttā*
+3. ܐܬܬܩܝܡ ܡܝܬܐ *ʾettqīm mītā*
+4. ܐܬܐܣܝܬ ܡܢ ܩܕܝܫܐ *ʾetʾassyat men qaddīšā* (3 f.sg.)
 5. ܐܫܬܡܥܬ ܡܠܬܐ ܕܐܠܗܐ ܒܟܠܗ ܐܪܥܐ *ʾeštamʿat meltā d-ʾAlāhā b-kullāh ʾarʿā*
 6. ܐܬܟܠܠ ܡܢ ܡܠܟܐ *ʾetkallal men malkā*
 
@@ -474,7 +473,7 @@ This is the master reference table for all six Syriac stems. Memorise the patter
 | Paael ܦܥܠ | *qaddeš* ܩܕܫ | *mqaddeš* ܡܩܕܫ | doubling of R2 | Intensive / factitive: "he sanctified" |
 | Aphel ܐܦܥܠ | *ʾaqreb* ܐܩܪܒ | *maqreb* ܡܩܪܒ | *ʾa-* | Causative: "he brought near / offered" |
 | Ethpeel ܐܬܦܥܠ | *ʾetqṭel* ܐܬܩܛܠ | *metqṭel* ܡܬܩܛܠ | *ʾet-* | Passive/reflexive of Peal: "he was killed" |
-| Etpaael ܐܬܦܥܠ | *ʾetqaddaš* ܐܬܩܕܫ | *metqaddaš* ܡܬܩܕܫ | *ʾet-* (R2 doubled) | Passive/reflexive of Paael: "he was sanctified" |
+| Ethpaal ܐܬܦܥܠ | *ʾetqaddaš* ܐܬܩܕܫ | *metqaddaš* ܡܬܩܕܫ | *ʾet-* (R2 doubled) | Passive/reflexive of Paael: "he was sanctified" |
 | Ettaphal ܐܬܬܦܥܠ | *ʾettaqrab* ܐܬܬܩܪܒ | *mettaqrab* ܡܬܬܩܪܒ | *ʾetta-* | Passive of Aphel: "he/it was offered" |
 
 **Passive Participle Pattern**
@@ -496,3 +495,13 @@ This is the master reference table for all six Syriac stems. Memorise the patter
 > Before dentals (*d*, *ṭ*, *t*): ASSIMILATION — *t* assimilates to the following letter
 > *ʾet-* + *d-k-y* → *ʾeddkī*; *ʾet-* + *ṭ-r-d* → *ʾeṭṭred*
 > Before all other consonants: no change — *ʾet-* + *q-ṭ-l* → *ʾetqṭel*
+
+#### Section 11: Additional Vocabulary
+
+Three further words to round out this lesson.
+
+| Syriac (Estrangela) | Transliteration | Part of Speech | Meaning |
+|:---|:---|:---|:---|
+| ܡܕܥܐ | *maddʿā* | m. noun | knowledge, mind (root *y-d-ʿ*) |
+| ܐܪܡܠܘܬܐ | *ʾarmlūtā* | f. noun | widowhood |
+| ܥܣܒܐ | *ʿesbā* | m. noun | grass, herb |

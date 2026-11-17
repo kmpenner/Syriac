@@ -20,10 +20,10 @@ In Lesson 3, we examined the Peal Perfect tense (the suffix conjugation), learni
 
 *(Answers in Section 9)*
 
-1. What does the suffix `-ū` indicate on a Perfect verb (e.g., *ktabū*)?
+1. What does the final Waw of ܟܬܒܘ (*ktab(w)*) indicate, and how is it pronounced?
 2. Translate the basic VSO sentence: *Šbaq malkā l-ʾarʿā*.
 3. What happens to the pronunciation of *k-t-b* (ka-tab) in the Syriac 3rd m.sg Perfect?
-4. How do you distinguish between "I went" and "You (m) went" if both are written ܟܬܒܬ (*ktabt/ketbet*) without vowels?
+4. How do you distinguish between "I wrote" and "You (m) wrote" if both are written ܟܬܒܬ (*ktabt/ketbet*) without vowels?
 5. Translate: *w-qreb Yūḥannan*.
 
 ---
@@ -39,7 +39,7 @@ However, in Semitic languages, possession is expressed by attaching a **pronomin
 
 *   **Hebrew**: סוּס (*sūs*, horse) $\rightarrow$ סוּסִי (*sūsī*, my horse). אָב (*ʾāb*, father) $\rightarrow$ אָבִינוּ (*ʾābīnū*, our father).
 *   **Arabic**: كتاب (*kitāb*, book) $\rightarrow$ كتابي (*kitābī*, my book). 
-*   **Syriac**: ܟܬܒ (*ktāb*, book) $\rightarrow$ ܟܬܒܝ (*ktāby*, my book). ܐܒ (*ʾab*, father) $\rightarrow$ ܐܒܘܢ (*ʾabūn*, our father).
+*   **Syriac**: ܟܬܒ (*ktāb*, book) $\rightarrow$ ܟܬܒܝ (*ktāb(y)*, my book). ܐܒ (*ʾab*, father) $\rightarrow$ ܐܒܘܢ (*ʾabūn*, our father).
 
 These suffixes are derived from the same ancient roots as the independent pronouns (*ʾenā*, *ʾant*, *hū*) but are highly compressed.
 
@@ -50,17 +50,19 @@ These suffixes are derived from the same ancient roots as the independent pronou
 
 **1. Suffixes on Singular Nouns**
 
-To add a suffix, Syriac drops the Emphatic state ending (*-ā*) and attaches the suffix to the bound/construct stem of the noun. (You don't say "the my-king" `*malkā-y`; you say "king-my", `malk-y`).
+To add a suffix, Syriac drops the Emphatic state ending (*-ā*) and attaches the suffix to the bound/construct stem of the noun. (You don't say "the my-king" `*malkā-y`; you say "king-my", `malk(y)`).
 
 *   *Malk-* (king) + *-eh* (his) = *malkeh* (his king).
-*   *ʾAb-* (father) + *-y* (my) = *ʾaby* (my father).
+*   *ʾAb-* (father) + *-y* (my) = *ʾab(y)* (my father).
+
+The 1 c.sg. suffix on a singular noun is a Yodh that is **written but silent**: ܡܠܟܝ "my king" is pronounced *malk*, and ܐܒܝ "my father" *ʾāb*. The transliteration shows it in parentheses: *malk(y)*.
 
 **2. Suffixes on Prepositions**
 
 The exact same suffixes attach to the inseparable prepositions `b-` (in) and `l-` (to/for).
 
 *   *b-* + *-eh* = *beh* (in him / in it).
-*   *l-* + *-k* = *lāḵ* (to you, m.sg).
+*   *l-* + *-k* = *lāk* (to you, m.sg).
 
 **3. The Idiom for "To Have"**
 
@@ -79,9 +81,9 @@ This paradigm uses the masculine noun *malk-* (king, root m-l-k) and the feminin
 
 | Person | Suffix | Masculine Noun (*malk-*) | Translit | Fem Noun (*malkūt-*) | Translit |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1 c.sg. (my)** | ـܝ (-y) | ܡܠܟܝ | malk-y | ܡܠܟܘܬܝ | malkūt-y |
-| **2 m.sg. (your)** | ـܟ (-k) | ܡܠܟܟ | malk-āḵ | ܡܠܟܘܬܟ | malkūt-āḵ |
-| **2 f.sg. (your)** | ـܟܝ (-ky) | ܡܠܟܟܝ | malk-ēky| ܡܠܟܘܬܟܝ | malkūt-ēky |
+| **1 c.sg. (my)** | ـܝ (silent -y) | ܡܠܟܝ | malk(y) | ܡܠܟܘܬܝ | malkūt(y) |
+| **2 m.sg. (your)** | ـܟ (-k) | ܡܠܟܟ | malk-āk | ܡܠܟܘܬܟ | malkūt-āk |
+| **2 f.sg. (your)** | ـܟܝ (-ky) | ܡܠܟܟܝ | malk-ēk(y)| ܡܠܟܘܬܟܝ | malkūt-ēk(y) |
 | **3 m.sg. (his)** | ـܗ (-eh) | ܡܠܟܗ | malk-eh | ܡܠܟܘܬܗ | malkūt-eh |
 | **3 f.sg. (her)** | ـܗ (-āh) | ܡܠܟܗ | malk-āh | ܡܠܟܘܬܗ | malkūt-āh |
 | **1 c.pl. (our)** | ـܢ (-n) | ܡܠܟܢ | malk-an | ܡܠܟܘܬܢ | malkūt-an |
@@ -91,6 +93,23 @@ This paradigm uses the masculine noun *malk-* (king, root m-l-k) and the feminin
 | **3 f.pl. (their)** | ـܗܝܢ (-hēn) | ܡܠܟܗܝܢ | malk-hēn | ܡܠܟܘܬܗܝܢ | malkūt-hēn |
 
 *Orthography Note: The 3rd masculine singular (-eh) and 3rd feminine singular (-āh) are both spelled with a final He (ܗ). Only vowel pointing or context distinguishes "his" from "her".*
+
+**Suffixes on Plural Nouns**
+
+A plural noun takes a slightly different set of suffixes, with a linking *-ay-*. You have already met *talmīdaw(hy)* "his disciples". The forms, on ܡ̈ܠܟܐ *malkē* "kings":
+
+| Person | Estrangela | Transliteration | Meaning |
+| :--- | :--- | :--- | :--- |
+| **1 c.sg.** | ܡ̈ܠܟܝ | malkay | my kings |
+| **2 m.sg.** | ܡ̈ܠܟܝܟ | malkayk | your (m.sg.) kings |
+| **2 f.sg.** | ܡ̈ܠܟܝܟܝ | malkayk(y) | your (f.sg.) kings |
+| **3 m.sg.** | ܡ̈ܠܟܘܗܝ | malkaw(hy) | his kings |
+| **3 f.sg.** | ܡ̈ܠܟܝܗ | malkēh | her kings |
+| **1 c.pl.** | ܡ̈ܠܟܝܢ | malkayn | our kings |
+| **2 m.pl.** | ܡ̈ܠܟܝܟܘܢ | malkaykūn | your (m.pl.) kings |
+| **3 m.pl.** | ܡ̈ܠܟܝܗܘܢ | malkayhūn | their (m.) kings |
+
+Several prepositions take this plural set even though they are not plural: *ʿal* "upon" (*ʿlaw(hy)* "upon him"), *qdām* "before" (*qdāmaw(hy)* "before him"). The particle *ʾīt* does the same: *ʾītaw(hy)* "he is, it is".
 
 ---
 
@@ -102,13 +121,13 @@ How to say "I have", "You have", "He has", etc., by attaching suffixes to the `l
 | Person | Estrangela (l- + suffix)| Transliteration | Meaning |
 | :--- | :--- | :--- | :--- |
 | **1 c.sg.** | ܠܝ | lī | to me (I have) |
-| **2 m.sg.** | ܠܟ | lāḵ | to you (You [m.sg.] have) |
-| **2 f.sg.** | ܠܟܝ | lēky | to you (You [f.sg.] have) |
+| **2 m.sg.** | ܠܟ | lāk | to you (You [m.sg.] have) |
+| **2 f.sg.** | ܠܟܝ | lēk(y) | to you (You [f.sg.] have) |
 | **3 m.sg.** | ܠܗ | leh | to him (He has) |
 | **3 f.sg.** | ܠܗ | lāh | to her (She has) |
-| **1 c.pl.** | ܠܢ | lān | to us (We have) |
-| **2 m.pl.** | ܠܟܘܢ | lḵūn | to you (You [m.pl.] have)|
-| **2 f.pl.** | ܠܟܝܢ | lḵēn | to you (You [f.pl.] have)|
+| **1 c.pl.** | ܠܢ | lan | to us (We have) |
+| **2 m.pl.** | ܠܟܘܢ | lkūn | to you (You [m.pl.] have)|
+| **2 f.pl.** | ܠܟܝܢ | lkēn | to you (You [f.pl.] have)|
 | **3 m.pl.** | ܠܗܘܢ | lhūn | to them (They [m.pl.] have) |
 | **3 f.pl.** | ܠܗܝܢ | lhēn | to them (They [f.pl.] have) |
 
@@ -117,22 +136,22 @@ How to say "I have", "You have", "He has", etc., by attaching suffixes to the `l
 #### Section 6: Vocabulary (Family, Body Parts & Belongings)
 
 
-Family and body parts are the most common nouns to receive pronominal suffixes. *(Note: ʾabā 'father' and ʾaḥā 'brother' insert -ū- before suffixes other than 1 c.sg., e.g. ʾabūḵ 'your father', ʾabūhy 'his father').*
+Family and body parts are the most common nouns to receive pronominal suffixes. *(Note: ʾabā 'father' and ʾaḥā 'brother' insert -ū- before suffixes other than 1 c.sg., e.g. ʾabūk 'your father', ʾabū(hy) 'his father').*
 
 | Construct / Emphatic | Transliteration | Meaning | Example with Suffix (1 c.sg.) |
 | :--- | :--- | :--- | :--- |
-| ܐܒ / ܐܒܐ | ʾab / ʾabā | Father | ʾab-y (my father) |
-| ܐܡ / ܐܡܐ | ʾem / ʾemmā | Mother | ʾem-y (my mother) |
-| ܒܪ / ܒܪܐ | bar / brā | Son | bar-y (my son) |
-| ܒܪܬ / ܒܪܬܐ | bart / bartā | Daughter | brat-y (my daughter) |
-| ܐܚ / ܐܚܐ | ʾaḥ / ʾaḥā | Brother | ʾaḥ-y (my brother) |
-| ܐܝܕ / ܐܝܕܐ | ʾīd / ʾīdā | Hand (f) | ʾīd-y (my hand) |
-| ܪܝܫ / ܪܝܫܐ | rēš / rēšā | Head (m) | rēš-y (my head) |
-| ܩܠ / ܩܠܐ | qāl / qālā | Voice (m) | qāl-y (my voice) |
-| ܠܒܘܫ / ܠܒܘܫܐ| lbūš / lbūšā | Garment | lbūš-y (my garment) |
-| ܒܝܬ / ܒܝܬܐ | bēt / baytā | House | bayt-y (my house) |
-| ܢܛܘܪ / ܢܛܘܪܐ | nāṭōr / nāṭōrā | Guard, watchman (pl. *nāṭōrē*) | nāṭōr-y (my guard) |
-| ܡܐ / ܡܢܐ | mā / mānā | What? | (Interrogative pronoun) |
+| ܐܒ / ܐܒܐ | ʾab / ʾabā | Father | ʾab(y) (my father) |
+| ܐܡ / ܐܡܐ | ʾem / ʾemmā | Mother | ʾem(y) (my mother) |
+| ܒܪ / ܒܪܐ | bar / brā | Son | ber(y) (my son; note the vowel: *breh* his son, *brāk* your son) |
+| ܒܪܬ / ܒܪܬܐ | bart / bartā | Daughter | brat(y) (my daughter) |
+| ܐܚ / ܐܚܐ | ʾaḥ / ʾaḥā | Brother | ʾaḥ(y) (my brother) |
+| ܐܝܕ / ܐܝܕܐ | ʾīd / ʾīdā | Hand (f) | ʾīd(y) (my hand) |
+| ܪܝܫ / ܪܝܫܐ | rēš / rēšā | Head (m) | rēš(y) (my head) |
+| ܩܠ / ܩܠܐ | qāl / qālā | Voice (m) | qāl(y) (my voice) |
+| ܠܒܘܫ / ܠܒܘܫܐ| lbūš / lbūšā | Garment | lbūš(y) (my garment) |
+| ܒܝܬ / ܒܝܬܐ | bēt / baytā | House | bayt(y) (my house) |
+| ܢܛܘܪ / ܢܛܘܪܐ | nāṭōr / nāṭōrā | Guard, watchman (pl. *nāṭōrē*) | nāṭōr(y) (my guard) |
+| ܡܐ / ܡܢܐ | mā / mānā | What? | (Interrogative pronoun; two forms, not a construct and emphatic) |
 | ܐܝܟܐ | ʾaykā | Where? | (Interrogative adverb; with 3 m.sg. enclitic: ܐܝܟܘ *ʾaykaw* "where is he?") |
 
 ---
@@ -142,7 +161,7 @@ Family and body parts are the most common nouns to receive pronominal suffixes. 
 
 **A Dialogue at the Gate**
 
-*Narrative note: Watch how the guards use suffixes with prepositions (`leh`, `lāḵ`) and nouns (`ʾabūḵ`, `ʾemmāḵ`) to interrogate Yukhannan about his origins and possessions.*
+*Narrative note: Watch how the guards use suffixes with prepositions (`leh`, `lāk`) and nouns (`ʾabūk`, `ʾemmāk`) to interrogate Yukhannan about his origins and possessions.*
 
 **Sentence 1**
 
@@ -153,7 +172,7 @@ qām (stood) Yūḥannan (John) b-tarʿā (in-the-gate) d-malkūtā (of-the-king
 
 **Sentence 2**
 
-ܘܐܡܪܝܢ ܢܛܘܪܐ ܕܬܪܥܐ ܠܗ
+ܘܐܡܪܝܢ ܢܛܘܪ̈ܐ ܕܬܪܥܐ ܠܗ
 w-ʾāmrīn nāṭōrē d-tarʿā leh:
 w-ʾāmrīn (and-are-saying) nāṭōrē (the-guards) d-tarʿā (of-the-gate) leh (to-him):
 → And the guards of the gate say to him:
@@ -168,15 +187,15 @@ men (from) ʾaynā (what) ʾatrā (country/place) ʾant (you-[are])?
 **Sentence 4**
 
 ܘܐܝܟܐ ܐܒܘܟ ܘܐܡܟ
-w-ʾaykā ʾab-ūḵ w-ʾemm-āḵ?
-w-ʾaykā (and-where) ʾab-ūḵ (father-your) w-ʾemm-āḵ (and-mother-your)?
+w-ʾaykā ʾab-ūk w-ʾemm-āk?
+w-ʾaykā (and-where) ʾab-ūk (father-your) w-ʾemm-āk (and-mother-your)?
 → "And where are your father and your mother?"
 
 **Sentence 5**
 
 ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ
-w-mā ʾīt lāḵ b-ʾīd-āḵ?
-w-mā (and-what) ʾīt (there-is) lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)?
+w-mā ʾīt lāk b-ʾīd-āk?
+w-mā (and-what) ʾīt (there-is) lāk (to-you) b-ʾīd-āk (in-hand-your)?
 → "And what do you have in your hand?"
 
 **Sentence 6**
@@ -189,23 +208,32 @@ w-mā (and-what) ʾīt (there-is) lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)?
 **Sentence 7**
 
 ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ
-ʾAlāhā hū ʾab-y, w-ʾarʿā hī ʾem-y.
-ʾAlāhā (God) hū (he-[is]) ʾab-y (father-my), w-ʾarʿā (and-the-earth) hī (she-[is]) ʾem-y (mother-my).
+ʾAlāhā hū ʾab(y), w-ʾarʿā hī ʾem(y).
+ʾAlāhā (God) hū (he-[is]) ʾab(y) (father-my), w-ʾarʿā (and-the-earth) hī (she-[is]) ʾem(y) (mother-my).
 → "God is my father, and the earth is my mother."
 
 **Sentence 8**
 
-ܘܠܝܬ ܠܝ ܠܒܘܫܐ ܒܝܫܐ
-w-layt lī lbūšā bīšā.
-w-layt (and-there-is-not) lī (to-me) lbūšā (a-garment) bīšā (evil).
-→ "And I do not have an evil garment."
+ܘܠܝܬ ܠܝ ܒܝܬܐ ܒܐܪܥܐ
+w-layt lī baytā b-ʾarʿā.
+w-layt (and-there-is-not) lī (to-me) baytā (a-house) b-ʾarʿā (in-the-land).
+→ "And I have no house in the land."
 
 **Sentence 9**
 
 ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ
-nūhrā d-ʾAlāhā ʾītawhy b-ʾīd-y.
-nūhrā (the-light) d-ʾAlāhā (of-God) ʾītawhy (it-is) b-ʾīd-y (in-hand-my).
+nūhrā d-ʾAlāhā ʾītaw(hy) b-ʾīd(y).
+nūhrā (the-light) d-ʾAlāhā (of-God) ʾītaw(hy) (it-is) b-ʾīd(y) (in-hand-my).
 → "The light of God is in my hand."
+
+**Sentence 10**
+
+ܘܥܠ ܝܘܚܢܢ ܠܡܕܝܢܬܐ
+w-ʿal Yūḥannan l-mdīttā.
+w-ʿal (and-entered) Yūḥannan (John) l-mdīttā (into-the-city).
+→ And Yukhannan entered the city.
+
+*Story note: ʿal "he entered" behaves like qām in Sentence 1; both are hollow verbs, explained in Lesson 7. In Lesson 5 Yukhannan begins to preach to the crowds inside the city.*
 
 ---
 
@@ -218,7 +246,7 @@ Identify the person, gender, and number of the possessor for the following suffi
 
 1. ܡܠܟܢ (malk-an)
 2. ܒܝܬܗ (bayt-eh)
-3. ܐܝܕܟܝ (ʾīd-ēky)
+3. ܐܝܕܟܝ (ʾīd-ēk(y))
 4. ܡܠܟܘܬܗܘܢ (malkūt-hūn)
 
 **Exercise 2: Conjugation Drill (Possession)**
@@ -234,9 +262,9 @@ Translate the following phrases using `l-` + suffix (using *ʾīt* where appropr
 
 Translate the following sentences containing suffixed nouns.
 
-1. ʾAb-y ṭābā hū, w-ʾem-y ṭābtā hī.
-2. Šbaqū talmīdē l-baythūn.
-3. ʾĪt lān nūhrā rabbā.
+1. ʾAb(y) ṭāb hū, w-ʾem(y) ṭābā hī.
+2. Šbaq(w) talmīdē l-baythūn.
+3. ʾĪt lan nūhrā rabbā.
 4. Qālā d-malkā b-ʾarʿan (ʾarʿ-an).
 
 **Exercise 4: Production Drill (English → Syriac)**
@@ -246,7 +274,7 @@ Render the following sentences into Syriac transliteration.
 1. My brother is writing a word.
 2. The king and his son are going to his kingdom.
 3. What is in your (m.sg) hand?
-4. We do not have (*layt lān*) an evil king.
+4. We do not have (*layt lan*) an evil king.
 
 **Exercise 5: Reading Comprehension**
 
@@ -263,7 +291,7 @@ Re-read Section 7 and answer:
 
 **Section 1 Warm-Up**
 
-1. 3rd person masculine plural ("they").
+1. 3rd person masculine plural ("they"). It is written but silent: *ktab(w)* sounds like *ktab*.
 2. The king left the earth.
 3. The *a* vowel in the middle of the root disappears (vowel reduction), making it *ktab* (k-t-a-b).
 4. Only context or vowel pointing.
@@ -278,8 +306,8 @@ Re-read Section 7 and answer:
 
 **Exercise 2: Conjugation Drill**
 
-1. lēky
-2. ʾīt lān
+1. lēk(y)
+2. ʾīt lan
 3. layt leh
 4. lhūn
 
@@ -292,16 +320,16 @@ Re-read Section 7 and answer:
 
 **Exercise 4: Production Drill**
 
-1. ʾAḥ-y kāteb meltā.
-2. Malkā w-bar-eh ʾāzlīn l-malkūt-eh.
-3. Mā ʾīt b-ʾīd-āḵ?
-4. Layt lān malkā bīšā.
+1. ʾAḥ(y) kāteb meltā.
+2. Malkā w-br-eh ʾāzlīn l-malkūt-eh.
+3. Mā ʾīt b-ʾīd-āk?
+4. Layt lan malkā bīšā.
 
 **Exercise 5: Reading Comprehension**
 
 1. Origin (what country), Family (where are father/mother), and Possessions (what is in hand).
 2. God (father) and the earth (mother).
-3. An evil garment (*lbūšā bīšā*).
+3. A house in the land (*baytā b-ʾarʿā*).
 
 ---
 
@@ -313,14 +341,14 @@ Re-read Section 7 and answer:
 
 | Suffix | Meaning | Example (*bayt-* house)| Example (*l-* to) |
 | :--- | :--- | :--- | :--- |
-| **-y** | my | bayt-y (my house) | lī (to me) |
-| **-k** | your (m.sg.)| baytāḵ (your house) | lāḵ (to you) |
-| **-ky** | your (f.sg.)| baytēky (your house) | lēky (to you) |
+| **-y** | my | bayt(y) (my house) | lī (to me) |
+| **-k** | your (m.sg.)| baytāk (your house) | lāk (to you) |
+| **-ky** | your (f.sg.)| baytēk(y) (your house) | lēk(y) (to you) |
 | **-eh** | his | bayteh (his house) | leh (to him) |
 | **-āh** | her | baytāh (her house) | lāh (to her) |
-| **-an** | our | baytan (our house) | lān (to us) |
-| **-kūn** | your (m.pl.) | baytkūn (your house) | lḵūn (to you all) |
-| **-kēn** | your (f.pl.) | baytkēn (your house) | lḵēn (to you all) |
+| **-an** | our | baytan (our house) | lan (to us) |
+| **-kūn** | your (m.pl.) | baytkūn (your house) | lkūn (to you all) |
+| **-kēn** | your (f.pl.) | baytkēn (your house) | lkēn (to you all) |
 | **-hūn** | their (m.pl.)| baythūn (their house) | lhūn (to them) |
 | **-hēn** | their (f.pl.)| baythēn (their house) | lhēn (to them) |
 
@@ -335,7 +363,7 @@ Re-read Section 7 and answer:
 
 #### Section 11: Additional Vocabulary
 
-The following 18 high-frequency words supplement this lesson's vocabulary for family, the body, and personal qualities.
+The following 17 words supplement this lesson's vocabulary for family, the body, and personal qualities.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -350,10 +378,9 @@ The following 18 high-frequency words supplement this lesson's vocabulary for fa
 | ܕܕܐ | dādā | m. noun | uncle (paternal) | |
 | ܥܡܬܐ | ʿammtā | f. noun | aunt (paternal) | |
 | ܥܡܝܩܐ | ʿammīqā | m. adj | deep | |
-| ܦܠܛܐ | palṭā | m. noun | escape, safety | |
 | ܥܬܝܪܐ | ʿattīrā | m. adj | rich, wealthy | |
 | ܡܣܟܢܐ | meskēnā | m. adj | poor, humble | |
 | ܓܢܒܪܐ | gabbārā | m. adj | mighty, strong | |
 | ܩܠܝܠܐ | qallīlā | m. adj | light, swift, few | |
-| ܝܚܝܕܝܐ | īḥīdāyā | m. adj | only-begotten, solitary | |
+| ܝܚܝܕܝܐ | ʾīḥīdāyā | m. adj | only-begotten, solitary | |
 | ܟܐܢܐ | kēnā | m. adj | just, righteous | |

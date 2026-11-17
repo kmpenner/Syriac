@@ -16,6 +16,8 @@
 
 Throughout the course, we have used the preposition `l-` (ܠ) to mark the direct object of a verb. For example, *qṭal l-malkā* (he killed the king) or *qṭal l-eh* (he killed him). We also learned how to attach pronominal suffixes to nouns and prepositions to indicate possession or indirect objects (*bayt-eh* = his house; *l-eh* = to him).
 
+For a *pronoun* object, the construction with `l-` that the stories have used so far (*šaddar lī*, "he sent me") was a simplification. It is good Syriac, but it is not the usual way. This lesson teaches the usual way.
+
 **5-Question Warm-Up Drill**
 
 *(Answers in Section 9)*
@@ -40,7 +42,7 @@ This creates a single, highly compressed word that contains the Action, the Subj
 *   **Hebrew**: קְטָלוֹ (*qṭāl-ō* — he killed him). The suffix *-ō* is attached directly to the perfect verb.
 *   **Arabic**: قَتَلَهُ (*qatala-hu* — he killed him). The suffix *-hu* is attached directly to the verb.
 *   **Syriac**: ܩܛܠܗ (*qaṭl-eh* — he killed him). The suffix *-eh* attaches directly, altering the internal vowels of the verb.
-*   **Greek/Latin**: Indo-European languages generally keep the object pronoun separate (e.g., *auton apekteinan*, *eum interfecit*), though spoken Romance languages often compress them into clitics (Spanish: *matarlo*).
+*   **Greek/Latin**: Indo-European languages generally keep the object pronoun separate (e.g., *auton apekteinen*, *eum interfecit*), though spoken Romance languages often compress them into clitics (Spanish: *matarlo*).
 
 **Core Principle**: A suffix attached to a noun is possessive ("his house"). A suffix attached to a verb is the direct object ("he killed him"). The suffix *never* represents the subject of the verb.
 
@@ -51,12 +53,14 @@ This creates a single, highly compressed word that contains the Action, the Subj
 
 When you attach a pronoun suffix to a verb, the vowels inside the verb often shift to accommodate the new rhythm. We will focus on attaching suffixes to the 3rd person masculine singular Peal perfect (*qṭal*, "he killed").
 
-**1. Connecting Vowels (The "Nun" buffer)**
+**1. The Object Suffixes**
 
-Sometimes, attaching a suffix directly to a verb ending sounds clunky or ambiguous. Syriac uses a *Nun* (n) in the 1st person singular object suffix *-anī* / *-an(y)* (and after imperfect/imperative plural forms, *-ūnānī*, *-ūnāḵ*, etc.).
+The object suffixes are the possessive suffixes you learned in Lesson 4, with one difference: "me" is not *-(y)* but **-an(y)**, written ܢܝ. Its Yodh is silent, like the Yodh of *malk(y)*.
 
-*   "He killed me": Not `qṭal-y`, but **qaṭl-anī**. 
-*   "He killed us": **qaṭl-an**.
+*   "He killed me": Not `qṭal-y`, but **qaṭl-an(y)** ܩܛܠܢܝ.
+*   "He killed us": **qaṭl-an** ܩܛܠܢ.
+
+These two are pronounced alike (*qaṭlan*); the written Yodh tells them apart. After the plural endings of the imperfect and imperative an extra syllable *-ān-* links verb and suffix (*neqṭlūnān(y)* "they will kill me", *neqṭlūnāk* "they will kill you").
 
 **2. Vocalization Shifts & 3rd Plural Enclitics**
 
@@ -81,9 +85,9 @@ Here is how the 3rd person masculine singular Perfect (*qṭal*, "he killed") ta
 
 | Object (English) | Suffix / Enclitic Form | Attached to *qṭal* (Estrangela) | Transliteration | Translation |
 | :--- | :--- | :--- | :--- | :--- |
-| **me (1 c.sg.)** | ـܢܝ (-anī / -an(y)) | ܩܛܠܢܝ | qaṭlanī | he killed me |
-| **you (2 m.sg.)** | ـܟ (-āḵ) | ܩܛܠܟ | qaṭlāḵ | he killed you (m) |
-| **you (2 f.sg.)** | ـܟܝ (-ēḵ(y)) | ܩܛܠܟܝ | qaṭlēḵ(y) | he killed you (f) |
+| **me (1 c.sg.)** | ـܢܝ (-an(y)) | ܩܛܠܢܝ | qaṭlan(y) | he killed me |
+| **you (2 m.sg.)** | ـܟ (-āk) | ܩܛܠܟ | qaṭlāk | he killed you (m) |
+| **you (2 f.sg.)** | ـܟܝ (-ēk(y)) | ܩܛܠܟܝ | qaṭlēk(y) | he killed you (f) |
 | **him (3 m.sg.)** | ـܗ (-eh) | ܩܛܠܗ | qaṭleh | he killed him |
 | **her (3 f.sg.)** | ـܗ (-āh) | ܩܛܠܗ | qaṭlāh | he killed her |
 | **us (1 c.pl.)** | ـܢ (-an) | ܩܛܠܢ | qaṭlan | he killed us |
@@ -92,7 +96,7 @@ Here is how the 3rd person masculine singular Perfect (*qṭal*, "he killed") ta
 | **them (3 m.pl.)** | ܐܢܘܢ (ʾennōn) | ܩܛܠ ܐܢܘܢ | qṭal ʾennōn | he killed them (m) |
 | **them (3 f.pl.)** | ܐܢܝܢ (ʾennēn) | ܩܛܠ ܐܢܝܢ | qṭal ʾennēn | he killed them (f) |
 
-*Note: Suffixes are also attached to Imperfect and Imperative forms. On the 2 m.sg. Imperative, the 1 c.sg. suffix "-me" takes the diphthongs `-aynī`: Peal ܦܪܘܩܝܢܝ (*pruqaynī*, "save me!"), Paael of III-Yodh ܐܣܐܝܢܝ (*ʾassaynī*, "heal me!"). Compare these with the 3 m.sg. Perfects ܦܪܩܢܝ (*parqanī*, "he saved me") and ܐܣܝܢܝ (*ʾassyanī*, "he healed me").*
+*Note: Suffixes are also attached to Imperfect and Imperative forms. On the 2 m.sg. imperative of a strong verb, the 1 c.sg. suffix takes the form `-ayn(y)`: Peal ܦܪܘܩܝܢܝ (*pruqayn(y)*, "save me!"). A III-Yodh imperative ends in a vowel, and the suffix attaches to it directly: Paael ܐܣܐ (*ʾassā*, "heal!") gives ܐܣܢܝ (*ʾassān(y)*, "heal me!"), just as ܚܘܐ (*ḥawwā*, "show!") gives ܚܘܢܝ (*ḥawwān(y)*, "show me!"). Compare these with the 3 m.sg. perfects ܦܪܩܢܝ (*parqan(y)*, "he saved me") and ܐܣܝܢܝ (*ʾassyan(y)*, "he healed me").*
 
 ---
 
@@ -114,19 +118,20 @@ How to say "He killed him" three ways in Syriac:
 
 Many verbs related to interpersonal action (healing, forgiving, striking) frequently take verbal suffixes.
 
-| Root (Peal/Paael) | Verb Example (3 m.s) | Meaning | With 1st person suffix (-anī) |
+| Root (Peal/Paael) | Verb Example (3 m.s) | Meaning | With 1st person suffix (-an(y)) |
 | :--- | :--- | :--- | :--- |
-| ܦ.ܪ.ܩ (p-r-q) | praq (Peal) | to save, deliver | parqanī (he saved me) |
-| ܐ.ܣ.ܝ (ʾ-s-y) | ʾassī (Paael) | to heal | ʾassyanī (he healed me) |
-| ܫ.ܒ.ܩ (š-b-q) | šbaq (Peal) | to leave, forgive | šabqanī (he left me)* |
-| ܡ.ܚ.ܝ (m-ḥ-y) | mḥā (Peal) | to strike, hit | mḥānī (he struck me) |
-| ܩ.ܪ.ܝ (q-r-y) | qrā (Peal) | to call | qrānī (he called me) |
-| ܢ.ܚ.ܡ (n-ḥ-m) | naḥḥem (Paael) | to raise (the dead), revive | naḥḥmanī (he revived me) |
+| ܦ.ܪ.ܩ (p-r-q) | praq (Peal) | to save, deliver | parqan(y) (he saved me) |
+| ܐ.ܣ.ܝ (ʾ-s-y) | ʾassī (Paael) | to heal | ʾassyan(y) (he healed me) |
+| ܫ.ܒ.ܩ (š-b-q) | šbaq (Peal) | to leave, forgive | šabqan(y) (he left me)* |
+| ܡ.ܚ.ܝ (m-ḥ-y) | mḥā (Peal) | to strike, hit | mḥān(y) (he struck me) |
+| ܩ.ܪ.ܝ (q-r-y) | qrā (Peal) | to call | qrān(y) (he called me) |
+| ܢ.ܚ.ܡ (n-ḥ-m) | naḥḥem (Paael) | to raise (the dead), revive | naḥḥman(y) (he revived me) |
 | ܚ.ܛ.ܝ (ḥ-ṭ-y) | ḥṭā (Peal) | to sin | (intransitive usually) |
-| ܟ.ܪ.ܗ (k-r-h) | kurhānā (Noun) | illness, sickness | |
+| ܟ.ܪ.ܗ (k-r-h) | kūrhānā (Noun) | illness, sickness | |
 | ܚ.ܛ.ܝ (ḥ-ṭ-y) | ḥṭītā (Noun) | sin | |
-| ܢ.ܦ.ܠ (n-p-l) | npal (Peal) | to fall | npal b-kurhānā (fell ill) |
-| ܬ.ܒ.ܪ (t-b-r) | tbar (Peal) | to break | tabranī (he broke me) |
+| ܡ.ܘ.ܬ (m-w-t) | mawtā (Noun) | death | |
+| ܢ.ܦ.ܠ (n-p-l) | npal (Peal) | to fall | npal b-kūrhānā (fell ill) |
+| ܬ.ܒ.ܪ (t-b-r) | tbar (Peal) | to break | tabran(y) (he broke me) |
 
 *\*Note: Forgiving is usually expressed with `l-`: šbaq lī (he forgave to me).*
 
@@ -141,30 +146,30 @@ Many verbs related to interpersonal action (healing, forgiving, striking) freque
 
 **Sentence 1**
 
-ܘܒܝܘܡܐ ܗ̣ܘ ܢܦܠ ܡܠܟܐ ܒܟܘܪܗܢܐ ܒܝܫܐ
-w-b-yawmā haw npal malkā b-kurhānā bīšā.
-w-b-yawmā (and-in-day) haw (that) npal (fell) malkā (the-king) b-kurhānā (in-illness) bīšā (evil/bad).
+ܘܒܝܘܡܐ ܗ̇ܘ ܢܦܠ ܡܠܟܐ ܒܟܘܪܗܢܐ ܒܝܫܐ
+w-b-yawmā haw npal malkā b-kūrhānā bīšā.
+w-b-yawmā (and-in-day) haw (that) npal (fell) malkā (the-king) b-kūrhānā (in-illness) bīšā (evil/bad).
 → And in that day, the king fell into a severe illness.
 
 **Sentence 2**
 
 ܘܐܬܐ ܠܘܬ ܝܘܚܢܢ ܘܢܦܠ ܩܕܡܘܗܝ ܘܐܡܪ ܠܗ
-w-ʾetā l-wāt Yūḥannan, w-npal qdāmāw-hy, w-ʾemar l-eh:
-w-ʾetā (and-came) l-wāt (to-the-presence-of) Yūḥannan (John), w-npal (and-fell) qdāmāw-hy (before-him), w-ʾemar (and-said) l-eh (to-him):
+w-ʾetā l-wāt Yūḥannan, w-npal qdāmaw(hy), w-ʾemar l-eh:
+w-ʾetā (and-came) l-wāt (to-the-presence-of) Yūḥannan (John), w-npal (and-fell) qdāmaw(hy) (before-him), w-ʾemar (and-said) l-eh (to-him):
 → And he came to Yukhannan, and fell before him, and said to him:
 
 **Sentence 3**
 
-ܐܣܐܝܢܝ ܡܢ ܟܘܪܗܢܝ ܘܦܪܘܩܝܢܝ ܡܢ ܡܘܬܐ
-ʾassaynī men kurhān-y, w-pruqaynī men mawtā!
-ʾassaynī (heal-me [Paael Impv + 1csg]) men (from) kurhān-y (illness-my), w-pruqaynī (and-save-me [Peal Impv + 1csg]) men (from) mawtā (death)!
+ܐܣܢܝ ܡܢ ܟܘܪܗܢܝ ܘܦܪܘܩܝܢܝ ܡܢ ܡܘܬܐ
+ʾassān(y) men kūrhān(y), w-pruqayn(y) men mawtā!
+ʾassān(y) (heal-me [Paael Impv + 1csg]) men (from) kūrhān(y) (illness-my), w-pruqayn(y) (and-save-me [Peal Impv + 1csg]) men (from) mawtā (death)!
 → "Heal me from my illness, and save me from death!"
 
 **Sentence 4**
 
 ܘܫܒܘܩ ܠܝ ܚܛܝܬܝ ܕܣܓܝܐܐ ܗܝ
-w-šbūq lī ḥṭīt-y d-saggīʾā hī!
-w-šbūq (and-forgive [Peal Impv]) lī (to-me) ḥṭīt-y (sin-my) d-saggīʾā (which-is-great/much) hī (she-[is])!
+w-šbūq lī ḥṭīt(y) d-saggīʾā hī!
+w-šbūq (and-forgive [Peal Impv]) lī (to-me) ḥṭīt(y) (sin-my) d-saggīʾā (which-is-great/much) hī (she-[is])!
 → "And forgive me my sin, which is great!"
 
 **Sentence 5**
@@ -173,20 +178,20 @@ w-šbūq (and-forgive [Peal Impv]) lī (to-me) ḥṭīt-y (sin-my) d-saggīʾā
 qrā Yūḥannan l-ʾAlāhā w-ʾemar:
 qrā (called [3msg Peal Perf. of q-r-y]) Yūḥannan (John) l-ʾAlāhā (upon-God) w-ʾemar (and-said):
 → Yukhannan called upon God and said:
-*Note: When a III-Yodh 3 m.sg. perfect verb takes a 3 m.sg. object suffix ("he called him"), it attaches `-yhy` after the final `-ā` vowel: qrā + -yhy → ܩܪܝܗܝ (qrāyhy), whereas 3 m.pl. qrāw + -hy → qrāwhy ("they called him").*
+*Note: Here qrā takes its object with l- ("called upon God"). With an object suffix, a III-Yodh perfect keeps its final vowel and the 3 m.sg. suffix takes the form -y(hy): ܩܪܝܗܝ qrāy(hy) "he called him"; in the plural, ܩܪܐܘܗܝ qraʾū(hy) "they called him".*
 
 **Sentence 6**
 
 ܐܠܗܐ ܢܢܝܚܟ ܘܢܚܝܟ ܗܫܐ
-ʾAlāhā nnīḥ-āḵ, w-naḥē-ḵ hāšā.
-ʾAlāhā (God) nnīḥ-āḵ (he-will-give-rest-to-you [Aphel Imperfect of n-w-ḥ]), w-naḥē-ḵ (and-he-will-give-life/save-you [Aphel Imperfect of ḥ-y-y]) hāšā (now).
+ʾAlāhā nnīḥ-āk, w-naḥḥēk hāšā.
+ʾAlāhā (God) nnīḥ-āk (he-will-give-rest-to-you [Aphel Imperfect of n-w-ḥ]), w-naḥḥēk (and-he-will-give-life/save-you [Aphel Imperfect of ḥ-y-y]) hāšā (now).
 → "God will give you rest, and will save you now."
 
 **Sentence 7**
 
 ܘܫܡܥܗ ܐܠܗܐ ܒܛܝܒܘܬܗ ܘܫܪܝ ܠܡܐܣܝܘܬܗ
-w-šamʿ-eh ʾAlāhā b-ṭaybūt-eh, w-šarrī l-mʾassyūt-eh.
-w-šamʿ-eh (and-heard-him) ʾAlāhā (God) b-ṭaybūt-eh (by-grace-his), w-šarrī (and-began) l-mʾassyūt-eh (to-heal-him).
+w-šamʿ-eh ʾAlāhā b-ṭaybūt-eh, w-šarrī l-mʾassāyūt-eh.
+w-šamʿ-eh (and-heard-him) ʾAlāhā (God) b-ṭaybūt-eh (by-grace-his), w-šarrī (and-began) l-mʾassāyūt-eh (to-heal-him).
 → And God heard him by his grace, and began to heal him.
 
 ---
@@ -199,9 +204,9 @@ w-šamʿ-eh (and-heard-him) ʾAlāhā (God) b-ṭaybūt-eh (by-grace-his), w-ša
 Identify the verb root, the tense/form (if you can), and the person/gender of the suffix or enclitic object.
 
 1. ܩܛܠ ܐܢܘܢ (qṭal ʾennōn)
-2. ܦܪܩܢܝ (parqanī)
-3. ܐܣܝܟ (ʾassyāḵ)
-4. ܩܪܝܗܝ (qrāyhy — III-Yodh verb q-r-y with 3msg direct object suffix)
+2. ܦܪܩܢܝ (parqan(y))
+3. ܐܣܝܟ (ʾassyāk)
+4. ܩܪܝܗܝ (qrāy(hy) — III-Yodh verb q-r-y with 3msg direct object suffix)
 
 **Exercise 2: Conjugation Drill**
 
@@ -216,9 +221,9 @@ Take the Peal perfect 3 m.sg verb *šbaq* (he left/abandoned) and attach suffixe
 
 Translate the following clauses featuring verbal suffixes.
 
-1. Mḥānī barnāšā bīšā b-tarʿā.
-2. ʾAlāhā qaṭleh l-malkā tammān. (Note: Syriac sometimes uses both the suffix *and* the preposition `l-` for extreme emphasis).
-3. ʾEmar malkā: "Pruqaynī!"
+1. Mḥān(y) barnāšā bīšā b-tarʿā.
+2. ʾAlāhā qaṭleh l-malkā tammān. (Note: Syriac very often uses both the suffix *and* the preposition `l-` with a noun object; see the Double Determination Rule in Section 10).
+3. ʾEmar malkā: "Pruqayn(y)!"
 4. ʾAlāhā ʾassyan b-melt-eh.
 
 **Exercise 4: Production Drill (English → Syriac)**
@@ -246,7 +251,7 @@ Re-read Section 7 and answer:
 **Section 1 Warm-Up**
 
 1. They will come.
-2. It drops the Emphatic Alaph and takes the suffix `-y`: *malk-y*.
+2. It drops the Emphatic Alaph and takes the suffix `-y`: *malk(y)*.
 3. I will kill.
 4. *lan*.
 5. By placing the preposition `l-` before the object.
@@ -254,13 +259,13 @@ Re-read Section 7 and answer:
 **Exercise 1: Suffix Identification**
 
 1. Root: *q-ṭ-l*. Enclitic object: 3rd m.pl (*ʾennōn*, them). He killed them.
-2. Root: *p-r-q*. Suffix: 1st c.sg (*-anī*, me). He delivered me.
-3. Root: *ʾ-s-y*. Suffix: 2nd m.sg (*-āḵ*, you). He healed you.
+2. Root: *p-r-q*. Suffix: 1st c.sg (*-an(y)*, me). He delivered me.
+3. Root: *ʾ-s-y*. Suffix: 2nd m.sg (*-āk*, you). He healed you.
 4. Root: *q-r-y*. Suffix: 3rd m.sg (*-yhy*, him). He called him.
 
 **Exercise 2: Conjugation Drill**
 
-1. šabqanī
+1. šabqan(y)
 2. šabqan
 3. šabqāh
 4. šbaq ʾennōn
@@ -276,12 +281,12 @@ Re-read Section 7 and answer:
 
 1. qaṭlan
 2. parqeh
-3. šabqāḵ
+3. šabqāk
 4. mḥā ʾennōn
 
 **Exercise 5: Reading Comprehension**
 
-1. Heal me (*ʾassaynī*), save me (*pruqaynī*), forgive me (*šbūq lī*).
+1. Heal me (*ʾassān(y)*), save me (*pruqayn(y)*), forgive me (*šbūq lī*).
 2. Because it is great (*saggīʾā hī*).
 3. God (*ʾAlāhā*).
 
@@ -295,9 +300,9 @@ Re-read Section 7 and answer:
 
 | English | Suffix / Enclitic on verb | Example |
 | :--- | :--- | :--- |
-| ...me | -anī | qaṭlanī (he killed me) |
-| ...you (m) | -āḵ | qaṭlāḵ (he killed you) |
-| ...you (f) | -ēḵ(y) | qaṭlēḵ(y) (he killed you) |
+| ...me | -an(y) | qaṭlan(y) (he killed me) |
+| ...you (m) | -āk | qaṭlāk (he killed you) |
+| ...you (f) | -ēk(y) | qaṭlēk(y) (he killed you) |
 | ...him | -eh | qaṭleh (he killed him) |
 | ...her | -āh | qaṭlāh (he killed her) |
 | ...us | -an | qaṭlan (he killed us) |
@@ -308,21 +313,20 @@ Re-read Section 7 and answer:
 
 **DOUBLE DETERMINATION RULE**
 
-Sometimes Syriac uses the verb suffix AND the preposition `l-` in the same sentence. This is called *prolepsis* or double determination, used for clarity or emphasis.
+Syriac very often uses the verb suffix AND the preposition `l-` in the same sentence, the suffix anticipating a definite noun object. This is called *prolepsis* or double determination. It is ordinary Syriac style and usually carries no special emphasis.
 *Qaṭl-eh l-malkā* = He killed him, [namely] the king.
 
 #### Section 11: Additional Vocabulary
 
-The following 28 genuinely new high-frequency words supplement this lesson's vocabulary, focusing on verbs and nouns related to interpersonal action (commonly taking object suffixes) and related abstract/derived nouns.
+The following 26 new words supplement this lesson's vocabulary, focusing on verbs and nouns related to interpersonal action (commonly taking object suffixes) and related abstract/derived nouns.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | ܢܣܟ | nsak | verb | to pour, cast | common with suffixes |
 | ܕܒܩ | dbaq | verb | to cling, adhere | governs *b-* |
 | ܓܕܪ | gdar | verb | to fence, hedge in | takes object suffix |
-| ܣܗܕ | sehed | verb | to witness, testify | Peal stative; court and martyr usage |
 | ܫܢܐ | šnā | verb | to change, depart | Paael *šannī* = transfer, depart |
-| ܫܬܐ | štā | verb | to drink | Peal *štī* / *štā* |
+| ܐܫܬܝ | ʾeštī | verb | to drink | root š-t-y; the perfect has a prefixed Alaph |
 | ܦܣܩ | psaq | verb | to cut, decide, decree | object suffix frequent |
 | ܟܣܝ | kassī | verb | to cover, conceal | Paael, takes object suffix |
 | ܥܫܢ | ʿšan | verb | to grow strong, prevail | intransitive/stative |
@@ -339,11 +343,10 @@ The following 28 genuinely new high-frequency words supplement this lesson's voc
 | ܥܡܪ | ʿmar | verb | to dwell, inhabit | Peal |
 | ܚܣܪ | ḥsar | verb | to lack, suffer loss | Peal |
 | ܡܪܚܡܢܘܬܐ | mraḥmānūtā | f. noun | mercy, compassion | related to r-ḥ-m |
-| ܢܘܩܝܐ | nūqqāyā | m. noun | libation, offering | from n-q-y |
-| ܢܛܘܪܐ | nāṭōrā | m. noun | watchman, guard | from n-ṭ-r |
-| ܦܘܢܝܐ | pūnnāyā | m. noun | answer, return, restoration | from p-n-y |
-| ܩܘܒܠܐ | qūbbālā | m. noun | reception, thanksgiving | from q-b-l |
+| ܢܘܩܝܐ | nuqqāyā | m. noun | libation, offering | from n-q-y |
+| ܦܘܢܝܐ | punnāyā | m. noun | answer, return, restoration | from p-n-y |
+| ܩܘܒܠܐ | qubbālā | m. noun | reception, thanksgiving | from q-b-l |
 | ܫܬܝܐ | šetyā | m. noun | drink, drinking | from š-t-y |
-| ܡܘܟܟܐ | mūkkāḵā | m. noun | humility, lowliness | from m-k-k |
+| ܡܘܟܟܐ | mukkākā | m. noun | humility, lowliness | from m-k-k |
 
 

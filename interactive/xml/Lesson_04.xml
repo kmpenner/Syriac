@@ -19,23 +19,23 @@ chains using the conjunction <code>w-</code> (and).</p>
 <p><strong>5-Question Warm-Up Drill</strong></p>
 <p><em>(Answers in Section 9)</em></p>
 <ol type="1">
-<li>What does the suffix <code>-ū</code> indicate on a Perfect verb
-(e.g., <em>ktabū</em>)?</li>
+<li>What does the final Waw of ܟܬܒܘ (<em>ktab(w)</em>) indicate, and how
+is it pronounced?</li>
 <li>Translate the basic VSO sentence: <em>Šbaq malkā l-ʾarʿā</em>.</li>
 <li>What happens to the pronunciation of <em>k-t-b</em> (ka-tab) in the
 Syriac 3rd m.sg Perfect?</li>
-<li>How do you distinguish between “I went” and “You (m) went” if both
+<li>How do you distinguish between “I wrote” and “You (m) wrote” if both
 are written ܟܬܒܬ (<em>ktabt/ketbet</em>) without vowels?</li>
 <li>Translate: <em>w-qreb Yūḥannan</em>.</li>
 </ol>
 <hr />
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. What does the suffix <em>-ū</em> indicate on a Perfect verb (e.g., <em>ktabū</em>)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[The Perfect is the suffix conjugation: person is marked at the end of the verb, and <em>-ū</em> is 3 m.pl.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3rd person masculine plural (“they”)]]></text><feedback format="html"><text><![CDATA[Right: <em>ktabū</em> = “they wrote.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd person feminine singular (“she”)]]></text><feedback format="html"><text><![CDATA[The 3 f.sg. Perfect ends in <em>-at</em> (<em>ketbat</em>), not <em>-ū</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st person common plural (“we”)]]></text><feedback format="html"><text><![CDATA[“We” is marked by <em>-n</em> (<em>ktabn</em>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd person masculine singular (“you”)]]></text><feedback format="html"><text><![CDATA[“You (m.sg)” ends in <em>-t</em> (<em>ktabt</em>).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. What does the final Waw of ܟܬܒܘ (<em>ktab(w)</em>) indicate?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[The Perfect is the suffix conjugation: person is marked at the end of the verb, and the silent Waw marks 3 m.pl.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3rd person masculine plural (“they”)]]></text><feedback format="html"><text><![CDATA[Right: <em>ktab(w)</em> = “they wrote.” The Waw is written but silent.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd person feminine singular (“she”)]]></text><feedback format="html"><text><![CDATA[The 3 f.sg. Perfect ends in <em>-at</em> (<em>ketbat</em>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st person common plural (“we”)]]></text><feedback format="html"><text><![CDATA[“We” is marked by <em>-n</em> (<em>ktabn</em>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd person masculine singular (“you”)]]></text><feedback format="html"><text><![CDATA[“You (m.sg)” ends in <em>-t</em> (<em>ktabt</em>).]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. Translate: <em>Šbaq malkā l-ʾarʿā</em>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[Narrative Syriac is typically Verb–Subject–Object.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king left the earth.]]></text><feedback format="html"><text><![CDATA[Right: verb (<em>šbaq</em>) – subject (<em>malkā</em>) – object (<em>l-ʾarʿā</em>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The earth left the king.]]></text><feedback format="html"><text><![CDATA[In VSO order the noun right after the verb is the subject; <em>l-</em> marks the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king leaves the earth.]]></text><feedback format="html"><text><![CDATA[<em>Šbaq</em> is Perfect (completed action), so English needs a past tense.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king will leave the earth.]]></text><feedback format="html"><text><![CDATA[The future/Imperfect is not introduced until Lesson 8; <em>šbaq</em> is Perfect.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. What happens to the vowels of <em>k-t-b</em> in the 3rd m.sg. Perfect?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[Vowel reduction is a hallmark of Syriac compared with Hebrew and Arabic.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The vowel after the first radical drops (vowel reduction), giving <em>ktab</em>.]]></text><feedback format="html"><text><![CDATA[Right: Syriac reduces the short vowel in the open first syllable, so not *katab but <em>ktab</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Nothing changes; it is pronounced <em>katab</em>.]]></text><feedback format="html"><text><![CDATA[<em>Katab</em> is the Hebrew/Arabic shape; Syriac reduces the first vowel.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A prefix <em>ne-</em> is added.]]></text><feedback format="html"><text><![CDATA[Prefixes belong to the Imperfect, not the Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The middle radical is doubled, giving <em>kattab</em>.]]></text><feedback format="html"><text><![CDATA[Doubling marks the Pael stem (Lesson 6), not the Peal Perfect.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. Unvocalized ܟܬܒܬ can mean “I wrote” or “you (m) wrote.” How do you tell them apart?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[Ambiguous consonantal forms are resolved by context or by vowel points.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Only by context or vowel pointing.]]></text><feedback format="html"><text><![CDATA[Right: the consonants are identical (<em>ketbet</em> vs <em>ktabt</em>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[“I” always adds a final Alaph.]]></text><feedback format="html"><text><![CDATA[No extra letter is written; the spelling is the same.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[“You” is always preceded by <em>w-</em>.]]></text><feedback format="html"><text><![CDATA[<em>w-</em> means “and” and has nothing to do with person.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They cannot be told apart at all.]]></text><feedback format="html"><text><![CDATA[Readers rely on context, and vocalized texts mark the difference with points.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. Translate: <em>w-qreb Yūḥannan</em>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[And Yukhannan drew near.]]></text><feedback format="html"><text><![CDATA[Right: <em>w-</em> “and,” <em>qreb</em> “drew near” (Perfect), subject <em>Yūḥannan</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And Yukhannan wrote.]]></text><feedback format="html"><text><![CDATA[“Wrote” is <em>ktab</em>; <em>qreb</em> means “drew near.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan is near.]]></text><feedback format="html"><text><![CDATA[<em>Qreb</em> is a Perfect verb, not an adjective.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And they drew near to Yukhannan.]]></text><feedback format="html"><text><![CDATA[“They” would require the plural <em>-ū</em> (<em>qrebū</em>).]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. Translate: <em>w-qreb Yūḥannan</em>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[And Yukhannan drew near.]]></text><feedback format="html"><text><![CDATA[Right: <em>w-</em> “and,” <em>qreb</em> “drew near” (Perfect), subject <em>Yūḥannan</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And Yukhannan wrote.]]></text><feedback format="html"><text><![CDATA[“Wrote” is <em>ktab</em>; <em>qreb</em> means “drew near.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan is near.]]></text><feedback format="html"><text><![CDATA[<em>Qreb</em> is a Perfect verb, not an adjective.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And they drew near to Yukhannan.]]></text><feedback format="html"><text><![CDATA[“They” would require the plural (<em>qreb(w)</em>, written with a final Waw).]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 1 · Lesson 4 · Section 2: Possession and Pronominal Suffixes — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: Possession and Pronominal Suffixes — Overview</h3>
 <p>In English, we indicate possession using separate pronouns placed
 before a noun: “my house”, “your king”. In Greek, it’s often an
@@ -52,7 +52,7 @@ class="math inline">→</span> סוּסִי (<em>sūsī</em>, my horse). אָב
 <li><strong>Arabic</strong>: كتاب (<em>kitāb</em>, book) <span
 class="math inline">→</span> كتابي (<em>kitābī</em>, my book).</li>
 <li><strong>Syriac</strong>: ܟܬܒ (<em>ktāb</em>, book) <span
-class="math inline">→</span> ܟܬܒܝ (<em>ktāby</em>, my book). ܐܒ
+class="math inline">→</span> ܟܬܒܝ (<em>ktāb(y)</em>, my book). ܐܒ
 (<em>ʾab</em>, father) <span class="math inline">→</span> ܐܒܘܢ
 (<em>ʾabūn</em>, our father).</li>
 </ul>
@@ -67,19 +67,23 @@ highly compressed.</p>
 <p>To add a suffix, Syriac drops the Emphatic state ending (<em>-ā</em>)
 and attaches the suffix to the bound/construct stem of the noun. (You
 don’t say “the my-king” <code>*malkā-y</code>; you say “king-my”,
-<code>malk-y</code>).</p>
+<code>malk(y)</code>).</p>
 <ul>
 <li><em>Malk-</em> (king) + <em>-eh</em> (his) = <em>malkeh</em> (his
 king).</li>
-<li><em>ʾAb-</em> (father) + <em>-y</em> (my) = <em>ʾaby</em> (my
+<li><em>ʾAb-</em> (father) + <em>-y</em> (my) = <em>ʾab(y)</em> (my
 father).</li>
 </ul>
+<p>The 1 c.sg. suffix on a singular noun is a Yodh that is
+<strong>written but silent</strong>: ܡܠܟܝ “my king” is pronounced
+<em>malk</em>, and ܐܒܝ “my father” <em>ʾāb</em>. The transliteration
+shows it in parentheses: <em>malk(y)</em>.</p>
 <p><strong>2. Suffixes on Prepositions</strong></p>
 <p>The exact same suffixes attach to the inseparable prepositions
 <code>b-</code> (in) and <code>l-</code> (to/for).</p>
 <ul>
 <li><em>b-</em> + <em>-eh</em> = <em>beh</em> (in him / in it).</li>
-<li><em>l-</em> + <em>-k</em> = <em>lāḵ</em> (to you, m.sg).</li>
+<li><em>l-</em> + <em>-k</em> = <em>lāk</em> (to you, m.sg).</li>
 </ul>
 <p><strong>3. The Idiom for “To Have”</strong></p>
 <p>Syriac (like Hebrew and Arabic) lacks a dedicated verb meaning “to
@@ -122,27 +126,27 @@ suffix column; you must memorize these endings.</p>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><strong>1 c.sg. (my)</strong></td>
-<td style="text-align: left;">ـܝ (-y)</td>
+<td style="text-align: left;">ـܝ (silent -y)</td>
 <td style="text-align: left;">ܡܠܟܝ</td>
-<td style="text-align: left;">malk-y</td>
+<td style="text-align: left;">malk(y)</td>
 <td style="text-align: left;">ܡܠܟܘܬܝ</td>
-<td style="text-align: left;">malkūt-y</td>
+<td style="text-align: left;">malkūt(y)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>2 m.sg. (your)</strong></td>
 <td style="text-align: left;">ـܟ (-k)</td>
 <td style="text-align: left;">ܡܠܟܟ</td>
-<td style="text-align: left;">malk-āḵ</td>
+<td style="text-align: left;">malk-āk</td>
 <td style="text-align: left;">ܡܠܟܘܬܟ</td>
-<td style="text-align: left;">malkūt-āḵ</td>
+<td style="text-align: left;">malkūt-āk</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>2 f.sg. (your)</strong></td>
 <td style="text-align: left;">ـܟܝ (-ky)</td>
 <td style="text-align: left;">ܡܠܟܟܝ</td>
-<td style="text-align: left;">malk-ēky</td>
+<td style="text-align: left;">malk-ēk(y)</td>
 <td style="text-align: left;">ܡܠܟܘܬܟܝ</td>
-<td style="text-align: left;">malkūt-ēky</td>
+<td style="text-align: left;">malkūt-ēk(y)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>3 m.sg. (his)</strong></td>
@@ -205,6 +209,76 @@ suffix column; you must memorize these endings.</p>
 <p><em>Orthography Note: The 3rd masculine singular (-eh) and 3rd
 feminine singular (-āh) are both spelled with a final He (ܗ). Only vowel
 pointing or context distinguishes “his” from “her”.</em></p>
+<p><strong>Suffixes on Plural Nouns</strong></p>
+<p>A plural noun takes a slightly different set of suffixes, with a
+linking <em>-ay-</em>. You have already met <em>talmīdaw(hy)</em> “his
+disciples”. The forms, on ܡ̈ܠܟܐ <em>malkē</em> “kings”:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Person</th>
+<th style="text-align: left;">Estrangela</th>
+<th style="text-align: left;">Transliteration</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>1 c.sg.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝ</td>
+<td style="text-align: left;">malkay</td>
+<td style="text-align: left;">my kings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>2 m.sg.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܟ</td>
+<td style="text-align: left;">malkayk</td>
+<td style="text-align: left;">your (m.sg.) kings</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 f.sg.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܟܝ</td>
+<td style="text-align: left;">malkayk(y)</td>
+<td style="text-align: left;">your (f.sg.) kings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 m.sg.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܘܗܝ</td>
+<td style="text-align: left;">malkaw(hy)</td>
+<td style="text-align: left;">his kings</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>3 f.sg.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܗ</td>
+<td style="text-align: left;">malkēh</td>
+<td style="text-align: left;">her kings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>1 c.pl.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܢ</td>
+<td style="text-align: left;">malkayn</td>
+<td style="text-align: left;">our kings</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>2 m.pl.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܟܘܢ</td>
+<td style="text-align: left;">malkaykūn</td>
+<td style="text-align: left;">your (m.pl.) kings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3 m.pl.</strong></td>
+<td style="text-align: left;">ܡ̈ܠܟܝܗܘܢ</td>
+<td style="text-align: left;">malkayhūn</td>
+<td style="text-align: left;">their (m.) kings</td>
+</tr>
+</tbody>
+</table></div>
+<p>Several prepositions take this plural set even though they are not
+plural: <em>ʿal</em> “upon” (<em>ʿlaw(hy)</em> “upon him”),
+<em>qdām</em> “before” (<em>qdāmaw(hy)</em> “before him”). The particle
+<em>ʾīt</em> does the same: <em>ʾītaw(hy)</em> “he is, it is”.</p>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 4 · Section 4: The Suffix Paradigm for Singular Nouns (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: The Suffix Paradigm for Singular Nouns (continued)</h3>
 <hr />
 
 ]]></text></questiontext></question>
@@ -231,13 +305,13 @@ suffixes to the <code>l-</code> preposition, often preceded by
 <tr class="even">
 <td style="text-align: left;"><strong>2 m.sg.</strong></td>
 <td style="text-align: left;">ܠܟ</td>
-<td style="text-align: left;">lāḵ</td>
+<td style="text-align: left;">lāk</td>
 <td style="text-align: left;">to you (You [m.sg.] have)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>2 f.sg.</strong></td>
 <td style="text-align: left;">ܠܟܝ</td>
-<td style="text-align: left;">lēky</td>
+<td style="text-align: left;">lēk(y)</td>
 <td style="text-align: left;">to you (You [f.sg.] have)</td>
 </tr>
 <tr class="even">
@@ -255,19 +329,19 @@ suffixes to the <code>l-</code> preposition, often preceded by
 <tr class="even">
 <td style="text-align: left;"><strong>1 c.pl.</strong></td>
 <td style="text-align: left;">ܠܢ</td>
-<td style="text-align: left;">lān</td>
+<td style="text-align: left;">lan</td>
 <td style="text-align: left;">to us (We have)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>2 m.pl.</strong></td>
 <td style="text-align: left;">ܠܟܘܢ</td>
-<td style="text-align: left;">lḵūn</td>
+<td style="text-align: left;">lkūn</td>
 <td style="text-align: left;">to you (You [m.pl.] have)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>2 f.pl.</strong></td>
 <td style="text-align: left;">ܠܟܝܢ</td>
-<td style="text-align: left;">lḵēn</td>
+<td style="text-align: left;">lkēn</td>
 <td style="text-align: left;">to you (You [f.pl.] have)</td>
 </tr>
 <tr class="odd">
@@ -290,7 +364,7 @@ suffixes to the <code>l-</code> preposition, often preceded by
 <question type="description"><name><text>Module 1 · Lesson 4 · Section 6: Vocabulary (Family, Body Parts &amp; Belongings)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Vocabulary (Family, Body Parts &amp; Belongings)</h3>
 <p>Family and body parts are the most common nouns to receive pronominal
 suffixes. <em>(Note: ʾabā ‘father’ and ʾaḥā ‘brother’ insert -ū- before
-suffixes other than 1 c.sg., e.g. ʾabūḵ ‘your father’, ʾabūhy ‘his
+suffixes other than 1 c.sg., e.g. ʾabūk ‘your father’, ʾabū(hy) ‘his
 father’).</em></p>
 <div class="tablewrap"><table>
 <colgroup>
@@ -312,73 +386,75 @@ father’).</em></p>
 <td style="text-align: left;">ܐܒ / ܐܒܐ</td>
 <td style="text-align: left;">ʾab / ʾabā</td>
 <td style="text-align: left;">Father</td>
-<td style="text-align: left;">ʾab-y (my father)</td>
+<td style="text-align: left;">ʾab(y) (my father)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܐܡ / ܐܡܐ</td>
 <td style="text-align: left;">ʾem / ʾemmā</td>
 <td style="text-align: left;">Mother</td>
-<td style="text-align: left;">ʾem-y (my mother)</td>
+<td style="text-align: left;">ʾem(y) (my mother)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܒܪ / ܒܪܐ</td>
 <td style="text-align: left;">bar / brā</td>
 <td style="text-align: left;">Son</td>
-<td style="text-align: left;">bar-y (my son)</td>
+<td style="text-align: left;">ber(y) (my son; note the vowel:
+<em>breh</em> his son, <em>brāk</em> your son)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܒܪܬ / ܒܪܬܐ</td>
 <td style="text-align: left;">bart / bartā</td>
 <td style="text-align: left;">Daughter</td>
-<td style="text-align: left;">brat-y (my daughter)</td>
+<td style="text-align: left;">brat(y) (my daughter)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܐܚ / ܐܚܐ</td>
 <td style="text-align: left;">ʾaḥ / ʾaḥā</td>
 <td style="text-align: left;">Brother</td>
-<td style="text-align: left;">ʾaḥ-y (my brother)</td>
+<td style="text-align: left;">ʾaḥ(y) (my brother)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܐܝܕ / ܐܝܕܐ</td>
 <td style="text-align: left;">ʾīd / ʾīdā</td>
 <td style="text-align: left;">Hand (f)</td>
-<td style="text-align: left;">ʾīd-y (my hand)</td>
+<td style="text-align: left;">ʾīd(y) (my hand)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܪܝܫ / ܪܝܫܐ</td>
 <td style="text-align: left;">rēš / rēšā</td>
 <td style="text-align: left;">Head (m)</td>
-<td style="text-align: left;">rēš-y (my head)</td>
+<td style="text-align: left;">rēš(y) (my head)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܩܠ / ܩܠܐ</td>
 <td style="text-align: left;">qāl / qālā</td>
 <td style="text-align: left;">Voice (m)</td>
-<td style="text-align: left;">qāl-y (my voice)</td>
+<td style="text-align: left;">qāl(y) (my voice)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܠܒܘܫ / ܠܒܘܫܐ</td>
 <td style="text-align: left;">lbūš / lbūšā</td>
 <td style="text-align: left;">Garment</td>
-<td style="text-align: left;">lbūš-y (my garment)</td>
+<td style="text-align: left;">lbūš(y) (my garment)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܒܝܬ / ܒܝܬܐ</td>
 <td style="text-align: left;">bēt / baytā</td>
 <td style="text-align: left;">House</td>
-<td style="text-align: left;">bayt-y (my house)</td>
+<td style="text-align: left;">bayt(y) (my house)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܢܛܘܪ / ܢܛܘܪܐ</td>
 <td style="text-align: left;">nāṭōr / nāṭōrā</td>
 <td style="text-align: left;">Guard, watchman (pl. <em>nāṭōrē</em>)</td>
-<td style="text-align: left;">nāṭōr-y (my guard)</td>
+<td style="text-align: left;">nāṭōr(y) (my guard)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܡܐ / ܡܢܐ</td>
 <td style="text-align: left;">mā / mānā</td>
 <td style="text-align: left;">What?</td>
-<td style="text-align: left;">(Interrogative pronoun)</td>
+<td style="text-align: left;">(Interrogative pronoun; two forms, not a
+construct and emphatic)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܐܝܟܐ</td>
@@ -395,66 +471,73 @@ enclitic: ܐܝܟܘ <em>ʾaykaw</em> “where is he?”)</td>
 <question type="description"><name><text>Module 1 · Lesson 4 · Section 7: The Story — Part 4</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 4</h3>
 <p><strong>A Dialogue at the Gate</strong></p>
 <p><em>Narrative note: Watch how the guards use suffixes with
-prepositions (<code>leh</code>, <code>lāḵ</code>) and nouns
-(<code>ʾabūḵ</code>, <code>ʾemmāḵ</code>) to interrogate Yukhannan about
+prepositions (<code>leh</code>, <code>lāk</code>) and nouns
+(<code>ʾabūk</code>, <code>ʾemmāk</code>) to interrogate Yukhannan about
 his origins and possessions.</em></p>
 <p><strong>Sentence 1</strong></p>
 <p>ܩܡ ܝܘܚܢܢ ܒܬܪܥܐ ܕܡܠܟܘܬܐ qām Yūḥannan b-tarʿā d-malkūtā. qām (stood)
 Yūḥannan (John) b-tarʿā (in-the-gate) d-malkūtā (of-the-kingdom). →
 Yukhannan stood at the gate of the kingdom.</p>
 <p><strong>Sentence 2</strong></p>
-<p>ܘܐܡܪܝܢ ܢܛܘܪܐ ܕܬܪܥܐ ܠܗ w-ʾāmrīn nāṭōrē d-tarʿā leh: w-ʾāmrīn
+<p>ܘܐܡܪܝܢ ܢܛܘܪ̈ܐ ܕܬܪܥܐ ܠܗ w-ʾāmrīn nāṭōrē d-tarʿā leh: w-ʾāmrīn
 (and-are-saying) nāṭōrē (the-guards) d-tarʿā (of-the-gate) leh (to-him):
 → And the guards of the gate say to him:</p>
 <p><strong>Sentence 3</strong></p>
 <p>ܡܢ ܐܝܢܐ ܐܬܪܐ ܐܢܬ men ʾaynā ʾatrā ʾant? men (from) ʾaynā (what) ʾatrā
 (country/place) ʾant (you-[are])? → “From what country are you?”</p>
 <p><strong>Sentence 4</strong></p>
-<p>ܘܐܝܟܐ ܐܒܘܟ ܘܐܡܟ w-ʾaykā ʾab-ūḵ w-ʾemm-āḵ? w-ʾaykā (and-where) ʾab-ūḵ
-(father-your) w-ʾemm-āḵ (and-mother-your)? → “And where are your father
+<p>ܘܐܝܟܐ ܐܒܘܟ ܘܐܡܟ w-ʾaykā ʾab-ūk w-ʾemm-āk? w-ʾaykā (and-where) ʾab-ūk
+(father-your) w-ʾemm-āk (and-mother-your)? → “And where are your father
 and your mother?”</p>
 <p><strong>Sentence 5</strong></p>
-<p>ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ w-mā ʾīt lāḵ b-ʾīd-āḵ? w-mā (and-what) ʾīt
-(there-is) lāḵ (to-you) b-ʾīd-āḵ (in-hand-your)? → “And what do you have
+<p>ܘܡܐ ܐܝܬ ܠܟ ܒܐܝܕܟ w-mā ʾīt lāk b-ʾīd-āk? w-mā (and-what) ʾīt
+(there-is) lāk (to-you) b-ʾīd-āk (in-hand-your)? → “And what do you have
 in your hand?”</p>
 <p><strong>Sentence 6</strong></p>
 <p>ܐܡܪ ܠܗܘܢ ܝܘܚܢܢ ʾemar lhūn Yūḥannan: ʾemar (said) lhūn (to-them)
 Yūḥannan (John): → Yukhannan said to them:</p>
 <p><strong>Sentence 7</strong></p>
-<p>ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ ʾAlāhā hū ʾab-y, w-ʾarʿā hī ʾem-y. ʾAlāhā
-(God) hū (he-[is]) ʾab-y (father-my), w-ʾarʿā (and-the-earth) hī
-(she-[is]) ʾem-y (mother-my). → “God is my father, and the earth is my
+<p>ܐܠܗܐ ܗܘ ܐܒܝ ܘܐܪܥܐ ܗܝ ܐܡܝ ʾAlāhā hū ʾab(y), w-ʾarʿā hī ʾem(y). ʾAlāhā
+(God) hū (he-[is]) ʾab(y) (father-my), w-ʾarʿā (and-the-earth) hī
+(she-[is]) ʾem(y) (mother-my). → “God is my father, and the earth is my
 mother.”</p>
 <p><strong>Sentence 8</strong></p>
-<p>ܘܠܝܬ ܠܝ ܠܒܘܫܐ ܒܝܫܐ w-layt lī lbūšā bīšā. w-layt (and-there-is-not) lī
-(to-me) lbūšā (a-garment) bīšā (evil). → “And I do not have an evil
-garment.”</p>
+<p>ܘܠܝܬ ܠܝ ܒܝܬܐ ܒܐܪܥܐ w-layt lī baytā b-ʾarʿā. w-layt (and-there-is-not)
+lī (to-me) baytā (a-house) b-ʾarʿā (in-the-land). → “And I have no house
+in the land.”</p>
 <p><strong>Sentence 9</strong></p>
-<p>ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ nūhrā d-ʾAlāhā ʾītawhy b-ʾīd-y. nūhrā
-(the-light) d-ʾAlāhā (of-God) ʾītawhy (it-is) b-ʾīd-y (in-hand-my). →
+<p>ܢܘܗܪܐ ܕܐܠܗܐ ܐܝܬܘܗܝ ܒܐܝܕܝ nūhrā d-ʾAlāhā ʾītaw(hy) b-ʾīd(y). nūhrā
+(the-light) d-ʾAlāhā (of-God) ʾītaw(hy) (it-is) b-ʾīd(y) (in-hand-my). →
 “The light of God is in my hand.”</p>
+<p><strong>Sentence 10</strong></p>
+<p>ܘܥܠ ܝܘܚܢܢ ܠܡܕܝܢܬܐ w-ʿal Yūḥannan l-mdīttā. w-ʿal (and-entered)
+Yūḥannan (John) l-mdīttā (into-the-city). → And Yukhannan entered the
+city.</p>
+<p><em>Story note: ʿal “he entered” behaves like qām in Sentence 1; both
+are hollow verbs, explained in Lesson 7. In Lesson 5 Yukhannan begins to
+preach to the crowds inside the city.</em></p>
 <hr />
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify the possessor in ܡܠܟܢ (<em>malk-an</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[1st common plural: “our king”]]></text><feedback format="html"><text><![CDATA[Right: <em>-n</em> (<em>-an</em>) is the 1 c.pl. suffix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd masculine singular: “his king”]]></text><feedback format="html"><text><![CDATA[“His” is <em>-eh</em> (ܗ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd masculine plural: “your king”]]></text><feedback format="html"><text><![CDATA[“Your (m.pl)” is <em>-kūn</em> (ܟܘܢ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st common singular: “my king”]]></text><feedback format="html"><text><![CDATA[“My” is <em>-y</em> (ܝ).]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify the possessor in ܒܝܬܗ (<em>bayt-eh</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[ܗ alone can also be 3 f.sg. <em>-āh</em> “her”; the vocalization <em>-eh</em> makes it “his.”]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3rd masculine singular: “his house”]]></text><feedback format="html"><text><![CDATA[Right: <em>-eh</em> is 3 m.sg. (written ܗ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd masculine plural: “their house”]]></text><feedback format="html"><text><![CDATA[“Their (m)” is <em>-hūn</em> (ܗܘܢ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st common singular: “my house”]]></text><feedback format="html"><text><![CDATA[“My” is <em>-y</em> (ܝ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd feminine singular: “your house”]]></text><feedback format="html"><text><![CDATA[“Your (f.sg)” is <em>-ky</em> (ܟܝ).]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify the possessor in ܐܝܕܟܝ (<em>ʾīd-ēky</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[2nd feminine singular: “your (f.sg) hand”]]></text><feedback format="html"><text><![CDATA[Right: <em>-ky</em> (ܟܝ) is 2 f.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd masculine singular: “your (m.sg) hand”]]></text><feedback format="html"><text><![CDATA[2 m.sg. is ܟ alone (<em>-āḵ</em>), with no final Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd feminine plural: “your (f.pl) hand”]]></text><feedback format="html"><text><![CDATA[2 f.pl. is <em>-kēn</em> (ܟܝܢ), with final Nun.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st common singular: “my hand”]]></text><feedback format="html"><text><![CDATA[“My” is ܝ alone, without ܟ.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify the possessor in ܐܝܕܟܝ (<em>ʾīd-ēk(y)</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[2nd feminine singular: “your (f.sg) hand”]]></text><feedback format="html"><text><![CDATA[Right: <em>-ky</em> (ܟܝ) is 2 f.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd masculine singular: “your (m.sg) hand”]]></text><feedback format="html"><text><![CDATA[2 m.sg. is ܟ alone (<em>-āk</em>), with no final Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd feminine plural: “your (f.pl) hand”]]></text><feedback format="html"><text><![CDATA[2 f.pl. is <em>-kēn</em> (ܟܝܢ), with final Nun.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1st common singular: “my hand”]]></text><feedback format="html"><text><![CDATA[“My” is ܝ alone, without ܟ.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 9</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify the possessor in ܡܠܟܘܬܗܘܢ (<em>malkūt-hūn</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3rd masculine plural: “their kingdom”]]></text><feedback format="html"><text><![CDATA[Right: <em>-hūn</em> (ܗܘܢ) is 3 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2nd masculine plural: “your kingdom”]]></text><feedback format="html"><text><![CDATA[That would be <em>-kūn</em> (ܟܘܢ), with Kaph.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd feminine plural: “their (f) kingdom”]]></text><feedback format="html"><text><![CDATA[That would be <em>-hēn</em> (ܗܝܢ).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3rd masculine singular: “his kingdom”]]></text><feedback format="html"><text><![CDATA[“His” is ܗ alone, without ܘܢ.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Using <em>l-</em> + suffix: “To you (f.sg).”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>lēky</em> ܠܟܝ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lāḵ</em> ܠܟ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.sg).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>leh</em> ܠܗ]]></text><feedback format="html"><text><![CDATA[That is “to him.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lḵūn</em> ܠܟܘܢ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.pl).”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Using <em>l-</em> + suffix: “To you (f.sg).”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>lēk(y)</em> ܠܟܝ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lāk</em> ܠܟ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.sg).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>leh</em> ܠܗ]]></text><feedback format="html"><text><![CDATA[That is “to him.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lkūn</em> ܠܟܘܢ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.pl).”]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 11</text></name><questiontext format="html"><text><![CDATA[Exercise 2. “We have” (“there is to us”).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾīt lan</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>ʾīt</em> “there is” + <em>lan</em> “to us.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>layt lan</em>]]></text><feedback format="html"><text><![CDATA[<em>Layt</em> is the negative: “we do not have.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾīt lī</em>]]></text><feedback format="html"><text><![CDATA[<em>Lī</em> is “to me”: “I have.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾīt lhūn</em>]]></text><feedback format="html"><text><![CDATA[<em>Lhūn</em> is “to them”: “they have.”]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 2. “He does not have” (“there is not to him”).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>layt leh</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>layt</em> “there is not” + <em>leh</em> “to him.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾīt leh</em>]]></text><feedback format="html"><text><![CDATA[That is positive: “he has.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>layt lāh</em>]]></text><feedback format="html"><text><![CDATA[<em>Lāh</em> is “to her”: “she does not have.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lā lēh</em>]]></text><feedback format="html"><text><![CDATA[Possession is negated with <em>layt</em>, not with bare <em>lā</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. “To them (m.pl).”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>lhūn</em> ܠܗܘܢ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lḵūn</em> ܠܟܘܢ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.pl).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lan</em> ܠܢ]]></text><feedback format="html"><text><![CDATA[That is “to us.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>leh</em> ܠܗ]]></text><feedback format="html"><text><![CDATA[That is “to him.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾAbī ṭābā hū, w-ʾemī ṭābtā hī.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[My father is good, and my mother is good.]]></text><feedback format="html"><text><![CDATA[Right: verbless clauses with <em>hū</em>/<em>hī</em> as copula.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His father is good, and his mother is good.]]></text><feedback format="html"><text><![CDATA[<em>-ī</em> is “my”; “his” would be <em>-ūhy</em>/<em>-eh</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My father is a king, and my mother is a queen.]]></text><feedback format="html"><text><![CDATA[<em>Ṭābā/ṭābtā</em> mean “good” (m/f).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My father was good, and my mother was good.]]></text><feedback format="html"><text><![CDATA[The pronoun copula gives a present “is.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Šbaqū talmīdē l-baythūn.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The disciples left their house.]]></text><feedback format="html"><text><![CDATA[Right: <em>šbaqū</em> “they left,” <em>bayt-hūn</em> “their house.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples left his house.]]></text><feedback format="html"><text><![CDATA[<em>-hūn</em> is “their,” not “his.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciple left their house.]]></text><feedback format="html"><text><![CDATA[<em>Talmīdē</em> is plural, matching plural <em>šbaqū</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples entered their house.]]></text><feedback format="html"><text><![CDATA[<em>Šbaq</em> means “leave.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. “To them (m.pl).”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>lhūn</em> ܠܗܘܢ]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lkūn</em> ܠܟܘܢ]]></text><feedback format="html"><text><![CDATA[That is “to you (m.pl).”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>lan</em> ܠܢ]]></text><feedback format="html"><text><![CDATA[That is “to us.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>leh</em> ܠܗ]]></text><feedback format="html"><text><![CDATA[That is “to him.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾAb(y) ṭāb hū, w-ʾem(y) ṭābā hī.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[My father is good, and my mother is good.]]></text><feedback format="html"><text><![CDATA[Right: verbless clauses with <em>hū</em>/<em>hī</em> as copula.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His father is good, and his mother is good.]]></text><feedback format="html"><text><![CDATA[The silent <em>-(y)</em> is “my”; “his” would be <em>-ū(hy)</em>/<em>-eh</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My father is a king, and my mother is a queen.]]></text><feedback format="html"><text><![CDATA[<em>Ṭāb/ṭābā</em> mean “good” (m/f predicate forms).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My father was good, and my mother was good.]]></text><feedback format="html"><text><![CDATA[The pronoun copula gives a present “is.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Šbaq(w) talmīdē l-baythūn.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The disciples left their house.]]></text><feedback format="html"><text><![CDATA[Right: <em>šbaq(w)</em> “they left,” <em>bayt-hūn</em> “their house.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples left his house.]]></text><feedback format="html"><text><![CDATA[<em>-hūn</em> is “their,” not “his.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciple left their house.]]></text><feedback format="html"><text><![CDATA[<em>Talmīdē</em> is plural, matching plural <em>šbaq(w)</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples entered their house.]]></text><feedback format="html"><text><![CDATA[<em>Šbaq</em> means “leave.”]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾĪt lan nūhrā rabbā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[We have a great light.]]></text><feedback format="html"><text><![CDATA[Right: literally “there is to us a great light.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We do not have a great light.]]></text><feedback format="html"><text><![CDATA[Negation would need <em>layt</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They have a great light.]]></text><feedback format="html"><text><![CDATA[<em>Lan</em> is “to us”; “to them” is <em>lhūn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We have a great king.]]></text><feedback format="html"><text><![CDATA[<em>Nūhrā</em> is “light”; “king” is <em>malkā</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Qālā d-malkā b-ʾarʿan.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The voice of the king is in our land.]]></text><feedback format="html"><text><![CDATA[Right: <em>ʾarʿ-an</em> = <em>ʾarʿā</em> + <em>-an</em> “our.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The voice of the king is in his land.]]></text><feedback format="html"><text><![CDATA[<em>-an</em> is “our”; “his” would be <em>-eh</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king’s word is in our land.]]></text><feedback format="html"><text><![CDATA[<em>Qālā</em> is “voice”; “word” is <em>meltā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Our king’s voice is in the land.]]></text><feedback format="html"><text><![CDATA[The suffix is on <em>ʾarʿā</em>, not on <em>malkā</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render into Syriac: “My brother is writing a word.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾaḥ-y kāteb meltā.</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>ʾaḥ-y</em> “my brother” + participle <em>kāteb</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ-eh kāteb meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>-eh</em> is “his brother.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ-y ktab meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ktab</em> is Perfect “wrote”; “is writing” needs the participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ-y kātbā meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Kātbā</em> is the feminine participle; “brother” is masculine.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. “The king and his son are going to his kingdom.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Malkā w-bar-eh ʾāzlīn l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[Right: plural participle <em>ʾāzlīn</em> for a compound subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-bar-eh ʾāzel l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[Two subjects need the plural <em>ʾāzlīn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-bar-hūn ʾāzlīn l-malkūt-hūn.</em>]]></text><feedback format="html"><text><![CDATA[<em>-hūn</em> means “their,” not “his.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-bar-eh ʾezal l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[<em>ʾEzal</em> is Perfect “went”; “are going” needs the participle.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. “What is in your (m.sg) hand?”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd-āḵ?</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>-āḵ</em> is 2 m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd-ēky?</em>]]></text><feedback format="html"><text><![CDATA[<em>-ēky</em> is feminine “your.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd-y?</em>]]></text><feedback format="html"><text><![CDATA[<em>-y</em> is “my hand.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Man ʾīt b-ʾīd-āḵ?</em>]]></text><feedback format="html"><text><![CDATA[<em>Man</em> is “who”; “what” is <em>mā</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render into Syriac: “My brother is writing a word.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾaḥ(y) kāteb meltā.</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>ʾaḥ(y)</em> “my brother” + participle <em>kāteb</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ-eh kāteb meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>-eh</em> is “his brother.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ(y) ktab meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ktab</em> is Perfect “wrote”; “is writing” needs the participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾaḥ(y) kātbā meltā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Kātbā</em> is the feminine participle; “brother” is masculine.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. “The king and his son are going to his kingdom.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Malkā w-br-eh ʾāzlīn l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[Right: plural participle <em>ʾāzlīn</em> for a compound subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-br-eh ʾāzel l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[Two subjects need the plural <em>ʾāzlīn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-br-hūn ʾāzlīn l-malkūt-hūn.</em>]]></text><feedback format="html"><text><![CDATA[<em>-hūn</em> means “their,” not “his.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā w-br-eh ʾezal l-malkūt-eh.</em>]]></text><feedback format="html"><text><![CDATA[<em>ʾEzal</em> is Perfect “went”; “are going” needs the participle.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. “What is in your (m.sg) hand?”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd-āk?</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>-āk</em> is 2 m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd-ēk(y)?</em>]]></text><feedback format="html"><text><![CDATA[<em>-ēk(y)</em> is feminine “your.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Mā ʾīt b-ʾīd(y)?</em>]]></text><feedback format="html"><text><![CDATA[<em>-y</em> is “my hand.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Man ʾīt b-ʾīd-āk?</em>]]></text><feedback format="html"><text><![CDATA[<em>Man</em> is “who”; “what” is <em>mā</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 4. “We do not have an evil king.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Layt lan malkā bīšā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾĪt lan malkā bīšā.</em>]]></text><feedback format="html"><text><![CDATA[<em>ʾĪt</em> is positive: “we have.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Layt lhūn malkā bīšā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Lhūn</em> is “they.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Layt lan malkā ṭābā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ṭābā</em> is “good”; “evil” is <em>bīšā</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). Under what three topics does the guard interrogate Yukhannan?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Origin (what country), family (where are his father and mother), and possessions (what is in his hand)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His name, his teacher, and his god]]></text><feedback format="html"><text><![CDATA[Re-read Section 7: the questions are country, parents and possessions.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His language, his books, and his journey]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His age, his work, and his house]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 5. Who does Yukhannan claim as his parents?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God (father) and the earth (mother)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king and the queen]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Zebedee and Salome]]></text><feedback format="html"><text><![CDATA[Not in this story; re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Heaven (father) and the sea (mother)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. What does Yukhannan explicitly say he does <em>not</em> have?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[An evil garment (<em>lbūšā bīšā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A house (<em>baytā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A book (<em>ktābā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A brother (<em>ʾaḥā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 4 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. What does Yukhannan explicitly say he does <em>not</em> have?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[A house in the land (<em>baytā b-ʾarʿā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A garment (<em>lbūšā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A book (<em>ktābā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A brother (<em>ʾaḥā</em>)]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 1 · Lesson 4 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
 <p><strong>THE PRONOMINAL SUFFIXES (ATTACH TO NOUNS AND
 PREPOSITIONS)</strong></p>
@@ -471,20 +554,20 @@ PREPOSITIONS)</strong></p>
 <tr class="odd">
 <td style="text-align: left;"><strong>-y</strong></td>
 <td style="text-align: left;">my</td>
-<td style="text-align: left;">bayt-y (my house)</td>
+<td style="text-align: left;">bayt(y) (my house)</td>
 <td style="text-align: left;">lī (to me)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>-k</strong></td>
 <td style="text-align: left;">your (m.sg.)</td>
-<td style="text-align: left;">baytāḵ (your house)</td>
-<td style="text-align: left;">lāḵ (to you)</td>
+<td style="text-align: left;">baytāk (your house)</td>
+<td style="text-align: left;">lāk (to you)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>-ky</strong></td>
 <td style="text-align: left;">your (f.sg.)</td>
-<td style="text-align: left;">baytēky (your house)</td>
-<td style="text-align: left;">lēky (to you)</td>
+<td style="text-align: left;">baytēk(y) (your house)</td>
+<td style="text-align: left;">lēk(y) (to you)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>-eh</strong></td>
@@ -502,19 +585,19 @@ PREPOSITIONS)</strong></p>
 <td style="text-align: left;"><strong>-an</strong></td>
 <td style="text-align: left;">our</td>
 <td style="text-align: left;">baytan (our house)</td>
-<td style="text-align: left;">lān (to us)</td>
+<td style="text-align: left;">lan (to us)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>-kūn</strong></td>
 <td style="text-align: left;">your (m.pl.)</td>
 <td style="text-align: left;">baytkūn (your house)</td>
-<td style="text-align: left;">lḵūn (to you all)</td>
+<td style="text-align: left;">lkūn (to you all)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>-kēn</strong></td>
 <td style="text-align: left;">your (f.pl.)</td>
 <td style="text-align: left;">baytkēn (your house)</td>
-<td style="text-align: left;">lḵēn (to you all)</td>
+<td style="text-align: left;">lkēn (to you all)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>-hūn</strong></td>
@@ -560,8 +643,8 @@ PREPOSITIONS)</strong></p>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 1 · Lesson 4 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
-<p>The following 18 high-frequency words supplement this lesson’s
-vocabulary for family, the body, and personal qualities.</p>
+<p>The following 17 words supplement this lesson’s vocabulary for
+family, the body, and personal qualities.</p>
 <div class="tablewrap"><table>
 <colgroup>
 <col style="width: 20%" />
@@ -658,48 +741,41 @@ vocabulary for family, the body, and personal qualities.</p>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">ܦܠܛܐ</td>
-<td style="text-align: left;">palṭā</td>
-<td style="text-align: left;">m. noun</td>
-<td style="text-align: left;">escape, safety</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">ܥܬܝܪܐ</td>
 <td style="text-align: left;">ʿattīrā</td>
 <td style="text-align: left;">m. adj</td>
 <td style="text-align: left;">rich, wealthy</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܡܣܟܢܐ</td>
 <td style="text-align: left;">meskēnā</td>
 <td style="text-align: left;">m. adj</td>
 <td style="text-align: left;">poor, humble</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ܓܢܒܪܐ</td>
 <td style="text-align: left;">gabbārā</td>
 <td style="text-align: left;">m. adj</td>
 <td style="text-align: left;">mighty, strong</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܩܠܝܠܐ</td>
 <td style="text-align: left;">qallīlā</td>
 <td style="text-align: left;">m. adj</td>
 <td style="text-align: left;">light, swift, few</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ܝܚܝܕܝܐ</td>
-<td style="text-align: left;">īḥīdāyā</td>
+<td style="text-align: left;">ʾīḥīdāyā</td>
 <td style="text-align: left;">m. adj</td>
 <td style="text-align: left;">only-begotten, solitary</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܟܐܢܐ</td>
 <td style="text-align: left;">kēnā</td>
 <td style="text-align: left;">m. adj</td>

@@ -74,13 +74,15 @@ are added directly to the root:</p>
 <ul>
 <li>Root + <em>-et</em> (1st person) <span class="math inline">→</span>
 <em>ketb-et</em> (I wrote).</li>
-<li>Root + <em>-ū</em> (3rd m.pl) <span class="math inline">→</span>
-<em>ktab-ū</em> (They wrote).</li>
+<li>Root + silent <em>-w</em> (3rd m.pl.) <span
+class="math inline">→</span> <em>ktab(w)</em> (They wrote): written
+ܟܬܒܘ, but pronounced exactly like the singular <em>ktab</em>.</li>
 </ul>
 <p><strong>Narrative Syntax: V-S-O Word Order</strong></p>
-<p>Syriac is a heavily VSO (Verb-Subject-Object) language in past
-narrative. When reading historical or biblical texts, the verb will
-almost always come first.</p>
+<p>In past narrative Syriac favours VSO (Verb-Subject-Object) order.
+Word order is flexible, and a subject or object is often moved to the
+front for emphasis or contrast, but when reading historical or biblical
+texts you will find the verb first more often than not.</p>
 <ul>
 <li><em>Ktab Yūḥannan meltā.</em> (Wrote Yukhannan a word <span
 class="math inline">→</span> Yukhannan wrote a word).</li>
@@ -162,7 +164,7 @@ saw the king).</li>
 <tr class="even">
 <td style="text-align: left;"><strong>3 m.pl.</strong></td>
 <td style="text-align: left;">ܟܬܒܘ</td>
-<td style="text-align: left;">ktabū (ktab(w))</td>
+<td style="text-align: left;">ktab(w)</td>
 <td style="text-align: left;">they (m) wrote</td>
 <td style="text-align: left;">katabū (ـوا)</td>
 <td style="text-align: left;">kātbū (ـוּ)</td>
@@ -170,10 +172,10 @@ saw the king).</li>
 <tr class="odd">
 <td style="text-align: left;"><strong>3 f.pl.</strong></td>
 <td style="text-align: left;">ܟܬܒ / ܟܬܒܝ</td>
-<td style="text-align: left;">ktab (ktab(y))</td>
+<td style="text-align: left;">ktab / ktab(y)</td>
 <td style="text-align: left;">they (f) wrote</td>
 <td style="text-align: left;">katabna (ـنَ)</td>
-<td style="text-align: left;">-</td>
+<td style="text-align: left;">kātbū (ـוּ)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>2 m.pl.</strong></td>
@@ -181,15 +183,15 @@ saw the king).</li>
 <td style="text-align: left;">ktabtūn</td>
 <td style="text-align: left;">you (m.pl) wrote</td>
 <td style="text-align: left;">katabtum (ـتم)</td>
-<td style="text-align: left;">ktabtem (ـתֶּם)</td>
+<td style="text-align: left;">kətabtem (ـתֶּם)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>2 f.pl.</strong></td>
 <td style="text-align: left;">ܟܬܒܬܝܢ</td>
 <td style="text-align: left;">ktabtēn</td>
 <td style="text-align: left;">you (f.pl) wrote</td>
-<td style="text-align: left;">-</td>
-<td style="text-align: left;">-</td>
+<td style="text-align: left;">katabtunna (ـتنّ)</td>
+<td style="text-align: left;">kətabten (ـתֶּן)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>1 c.pl.</strong></td>
@@ -202,11 +204,16 @@ saw the king).</li>
 </tbody>
 </table></div>
 <p><em>Orthography Note: Notice how the single letter Taw (ܬ) represents
-3 f.sg. (-at), 2 m.sg. (-t), and 1 c.sg. (-et). In 3 f.pl. (ܟܬܒ / ܟܬܒܝ)
-and 2 f.sg. (ܟܬܒܬܝ), the final Yodh is written as an historical
-orthographic marker but is silent in standard pronunciation (ktab,
-ktabt; fuller forms ktabēn for 3 f.pl. and ktabtōn for 3 m.pl. also
-occur).</em></p>
+3 f.sg. (-at), 2 m.sg. (-t), and 1 c.sg. (-et). Several endings are
+written but silent: the final Waw of 3 m.pl. (ܟܬܒܘ </em>ktab(w)<em>),
+and the final Yodh of 3 f.pl. (ܟܬܒܝ </em>ktab(y)<em>) and 2 f.sg. (ܟܬܒܬܝ
+</em>ktabt(y)<em>). All three third-person forms </em>he wrote<em>,
+</em>they (m.) wrote* and <em>they (f.) wrote</em> therefore sound alike
+(<em>ktab</em>), and only the spelling or the context tells them apart.
+Fuller, audible plural forms also occur: ܟܬܒܘܢ <em>ktabūn</em> (3 m.pl.)
+and ܟܬܒܝܢ <em>ktabēn</em> (3 f.pl.). The Waw is heard in III-Yodh verbs
+(<em>ḥzaw</em> “they saw”, Lesson 7) and before object suffixes (Lesson
+11). Feminine plural verb forms are usually written with syāmē.*</p>
 <hr />
 
 ]]></text></questiontext></question>
@@ -235,12 +242,12 @@ occur).</em></p>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܫܡܥܘ</td>
-<td style="text-align: left;">ܬܠܡܝܕܐ</td>
+<td style="text-align: left;">ܬܠܡܝ̈ܕܐ</td>
 <td style="text-align: left;">ܩܠܐ</td>
 <td style="text-align: left;">The disciples heard a voice.</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">šmaʿū</td>
+<td style="text-align: left;">šmaʿ(w)</td>
 <td style="text-align: left;">talmīdē</td>
 <td style="text-align: left;">qālā</td>
 <td style="text-align: left;"></td>
@@ -343,7 +350,7 @@ class="math inline"><em>δ</em><em>ϵ́</em></span>)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܝ.ܠ.ܕ</td>
-<td style="text-align: left;">īled (ܝܠܕ)</td>
+<td style="text-align: left;">ʾīled (ܝܠܕ)</td>
 <td style="text-align: left;">to give birth</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -386,14 +393,16 @@ present tense of Part 2.</em></p>
 Yūḥannan (John). → And when he said these things, Yukhannan went
 out.</p>
 <p><strong>Sentence 2</strong></p>
-<p>ܘܐܙܠ ܝܘܚܢܢ ܒܐܪܥܐ ܘܫܒܩ ܬܠܡܝܕܘܗܝ w-ʾezal Yūḥannan b-ʾarʿā, w-šbaq
-talmīdāw-hy. w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā
-(the-earth), w- (and-) šbaq (he-left) talmīdāw-hy (his-disciples). → And
-Yukhannan went in the earth, and he left his disciples.</p>
+<p>ܘܐܙܠ ܝܘܚܢܢ ܒܐܪܥܐ ܘܫܒܩ ܬܠܡܝ̈ܕܘܗܝ w-ʾezal Yūḥannan b-ʾarʿā, w-šbaq
+talmīdaw(hy). w- (and-) ʾezal (went) Yūḥannan (John) b- (in) ʾarʿā
+(the-land), w- (and-) šbaq (he-left) talmīdaw(hy) (his-disciples). → And
+Yukhannan went through the land, and he left his disciples. <em>(Note:
+talmīdaw(hy) is “his disciples”: the plural noun with the 3 m.sg.
+suffix. Suffixes are the subject of Lesson 4.)</em></p>
 <p><strong>Sentence 3</strong></p>
-<p>ܐܚܕ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܘܪܚܐ ʾeḥad Yūḥannan nūhrā b-ʾūrḥā. ʾeḥad
-(he-held/carried) Yūḥannan (John) nūhrā (light) b- (in) ʾūrḥā
-(the-way/road). → Yukhannan held light on the way.</p>
+<p>ܐܚܕ ܝܘܚܢܢ ܢܘܗܪܐ ܒܐܝܕܗ ʾeḥad Yūḥannan nūhrā b-ʾīdeh. ʾeḥad (he-held)
+Yūḥannan (John) nūhrā (a-light) b- (in) ʾīdeh (his-hand). → Yukhannan
+held a light in his hand.</p>
 <p><strong>Sentence 4</strong></p>
 <p>ܘܩܪܒ ܝܘܚܢܢ ܠܡܠܟܘܬܐ ܕܡܠܟܐ ܒܝܫܐ w-qreb Yūḥannan l-malkūtā d-malkā bīšā.
 w- (and-) qreb (drew-near) Yūḥannan (John) l- (to) malkūtā (the-kingdom)
@@ -402,7 +411,8 @@ kingdom of the evil king.</p>
 <p><strong>Sentence 5</strong></p>
 <p>ܘܪܒܐ ܕܡܠܟܐ ܪܕܦ ܠܝܘܚܢܢ w-rabbā d-malkā rdap l-Yūḥannan. w- (and-)
 rabbā (the-great-one) d- (of) malkā (the-king) rdap (pursued) l- (to)
-Yūḥannan (John). → And the great one of the king pursued Yukhannan.</p>
+Yūḥannan (John). → And the king’s chief officer (lit. “the great one of
+the king”) pursued Yukhannan.</p>
 <p><strong>Sentence 6</strong></p>
 <p>ܘܥܪܩ ܝܘܚܢܢ ܘܩܡ ܩܕܡ ܬܪܥܐ ܕܡܠܟܘܬܐ w-ʿraq Yūḥannan w-qām qdām tarʿā
 d-malkūtā. w- (and-) ʿraq (fled) Yūḥannan (John) w- (and-) qām (stood)
@@ -411,23 +421,23 @@ Yukhannan fled and stood before the gate of the kingdom.</p>
 <hr />
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܟܬܒܘ (<em>ktabū</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 m.pl. “they wrote”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktab</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.pl. “you wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktabtūn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.pl. “we wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktabn</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܫܒܩܬ (<em>šbaqt</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[Unvocalized ܫܒܩܬ could also be 1 c.sg. <em>šebqet</em> “I left”; the exercise specifies 2 m.sg.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[2 m.sg. “you left”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.sg. “she left”]]></text><feedback format="html"><text><![CDATA[That is <em>šebqat</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.pl. “we left”]]></text><feedback format="html"><text><![CDATA[That is <em>šbaqn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they left”]]></text><feedback format="html"><text><![CDATA[That is <em>šbaqū</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܢܛܪܬ (<em>neṭrat</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 f.sg. “she kept”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.sg. “you kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭart</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭar</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭarū</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܟܬܒܘ (<em>ktab(w)</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 m.pl. “they wrote”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktab</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.pl. “you wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktabtūn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.pl. “we wrote”]]></text><feedback format="html"><text><![CDATA[That is <em>ktabn</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܫܒܩܬ (<em>šbaqt</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[Unvocalized ܫܒܩܬ could also be 1 c.sg. <em>šebqet</em> “I left”; the exercise specifies 2 m.sg.]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[2 m.sg. “you left”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.sg. “she left”]]></text><feedback format="html"><text><![CDATA[That is <em>šebqat</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.pl. “we left”]]></text><feedback format="html"><text><![CDATA[That is <em>šbaqn</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they left”]]></text><feedback format="html"><text><![CDATA[That is <em>šbaq(w)</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܢܛܪܬ (<em>neṭrat</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 f.sg. “she kept”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.sg. “you kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭart</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭar</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they kept”]]></text><feedback format="html"><text><![CDATA[That is <em>nṭar(w)</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 9</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܥܪܩܢ (<em>ʿraqn</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[1 c.pl. “we fled”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.pl. “they fled”]]></text><feedback format="html"><text><![CDATA[Not the Peal Perfect ending here; <em>-n</em> marks “we.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.sg. “I fled”]]></text><feedback format="html"><text><![CDATA[That is <em>ʿerqet</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.pl. “you fled”]]></text><feedback format="html"><text><![CDATA[That is <em>ʿraqtūn</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “He served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥ</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥū</em>]]></text><feedback format="html"><text><![CDATA[That is “they served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pelḥet</em>]]></text><feedback format="html"><text><![CDATA[That is “I served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pāleḥ</em>]]></text><feedback format="html"><text><![CDATA[That is the participle “serving.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 11</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “They (m) served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥū</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥtūn</em>]]></text><feedback format="html"><text><![CDATA[That is “you all served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥ</em>]]></text><feedback format="html"><text><![CDATA[That is “he served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pelḥat</em>]]></text><feedback format="html"><text><![CDATA[That is “she served.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “He served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥ</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥ(w)</em>]]></text><feedback format="html"><text><![CDATA[That is “they served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pelḥet</em>]]></text><feedback format="html"><text><![CDATA[That is “I served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pāleḥ</em>]]></text><feedback format="html"><text><![CDATA[That is the participle “serving.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 11</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “They (m) served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥ(w)</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥtūn</em>]]></text><feedback format="html"><text><![CDATA[That is “you all served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥ</em>]]></text><feedback format="html"><text><![CDATA[That is “he served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pelḥat</em>]]></text><feedback format="html"><text><![CDATA[That is “she served.”]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “I served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>pelḥet</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥt</em>]]></text><feedback format="html"><text><![CDATA[That is “you (m.sg) served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥn</em>]]></text><feedback format="html"><text><![CDATA[That is “we served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>pelḥat</em>]]></text><feedback format="html"><text><![CDATA[That is “she served.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “You all (m) served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥtūn</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥū</em>]]></text><feedback format="html"><text><![CDATA[That is “they served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥtēn</em>]]></text><feedback format="html"><text><![CDATA[That is feminine plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥt</em>]]></text><feedback format="html"><text><![CDATA[That is singular.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. <em>p-l-ḥ</em>: “You all (m) served.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>plaḥtūn</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥ(w)</em>]]></text><feedback format="html"><text><![CDATA[That is “they served.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥtēn</em>]]></text><feedback format="html"><text><![CDATA[That is feminine plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>plaḥt</em>]]></text><feedback format="html"><text><![CDATA[That is singular.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>W-šbaq Yūḥannan l-malkā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[And Yukhannan left the king.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And the king left Yukhannan.]]></text><feedback format="html"><text><![CDATA[<em>l-</em> marks <em>malkā</em> as the object.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And Yukhannan is leaving the king.]]></text><feedback format="html"><text><![CDATA[<em>Šbaq</em> is Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And Yukhannan wrote to the king.]]></text><feedback format="html"><text><![CDATA[<em>Šbaq</em> means “leave.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Rdapū talmīdē l-bīšā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The disciples pursued the evil man.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The evil man pursued the disciples.]]></text><feedback format="html"><text><![CDATA[<em>l-</em> marks the object, <em>bīšā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciple pursued the evil man.]]></text><feedback format="html"><text><![CDATA[<em>Rdapū</em> and <em>talmīdē</em> are plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples fled from the evil man.]]></text><feedback format="html"><text><![CDATA[“Fled” is <em>ʿraq</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Rdap(w) talmīdē l-bīšā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The disciples pursued the evil man.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The evil man pursued the disciples.]]></text><feedback format="html"><text><![CDATA[<em>l-</em> marks the object, <em>bīšā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciple pursued the evil man.]]></text><feedback format="html"><text><![CDATA[<em>Rdap(w)</em> and <em>talmīdē</em> are plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The disciples fled from the evil man.]]></text><feedback format="html"><text><![CDATA[“Fled” is <em>ʿraq</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Npaq malkā dēn men tarʿā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[But the king went out from the gate.]]></text><feedback format="html"><text><![CDATA[Right: <em>dēn</em> “but.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[And the king went in through the gate.]]></text><feedback format="html"><text><![CDATA[<em>Npaq</em> is “went out,” and <em>dēn</em> is “but.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king is going out from the gate.]]></text><feedback format="html"><text><![CDATA[<em>Npaq</em> is Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[But the king went out from the kingdom.]]></text><feedback format="html"><text><![CDATA[<em>Tarʿā</em> is “gate.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Ktabn meltā d-ʾAlāhā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[We wrote the word of God.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They wrote the word of God.]]></text><feedback format="html"><text><![CDATA[That is <em>ktabū</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We are writing the word of God.]]></text><feedback format="html"><text><![CDATA[<em>Ktabn</em> is Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I wrote the word of God.]]></text><feedback format="html"><text><![CDATA[That is <em>ketbet</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render (VSO): “The evil man fled from the light.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿRaq barnāšā bīšā men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Barnāšā bīšā ʿāraq men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[That is a present participle in SV order.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿRaq barnāšā bīšā l-nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[“From” is <em>men</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿRaqū barnāšā bīšā men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “And Yukhannan kept the word of God.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>W-nṭar Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-nṭarū Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-ktab Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ktab</em> is “wrote.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-nāṭar Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[That is the participle.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “When the disciples drew near, they worshipped.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Kad qrebū talmīdē, sgadū.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kad qreb talmīdē, sgad.</em>]]></text><feedback format="html"><text><![CDATA[The disciples are plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-qrebū talmīdē, sgadū.</em>]]></text><feedback format="html"><text><![CDATA[“When” is <em>kad</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kad sgadū talmīdē, qrebū.</em>]]></text><feedback format="html"><text><![CDATA[The clauses are swapped.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “The great king saved the earth.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Praq malkā rabbā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praq malkā ṭābā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ṭābā</em> is “good.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praqū malkā rabbā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praq ʾarʿā l-malkā rabbā.</em>]]></text><feedback format="html"><text><![CDATA[That says the earth saved the king.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). Whom did Yukhannan leave behind when he went out?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[His disciples (<em>talmīdāw-hy</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His brother]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The guards]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Ktabn meltā d-ʾAlāhā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[We wrote the word of God.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[They wrote the word of God.]]></text><feedback format="html"><text><![CDATA[That is <em>ktab(w)</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We are writing the word of God.]]></text><feedback format="html"><text><![CDATA[<em>Ktabn</em> is Perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[I wrote the word of God.]]></text><feedback format="html"><text><![CDATA[That is <em>ketbet</em>.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render (VSO): “The evil man fled from the light.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʿRaq barnāšā bīšā men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Barnāšā bīšā ʿāraq men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[That is a present participle in SV order.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿRaq barnāšā bīšā l-nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[“From” is <em>men</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʿRaq(w) barnāšā bīšā men nūhrā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “And Yukhannan kept the word of God.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>W-nṭar Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-nṭar(w) Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-ktab Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ktab</em> is “wrote.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-nāṭar Yūḥannan meltā d-ʾAlāhā.</em>]]></text><feedback format="html"><text><![CDATA[That is the participle.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “When the disciples drew near, they worshipped.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Kad qreb(w) talmīdē, sgad(w).</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kad qreb talmīdē, sgad.</em>]]></text><feedback format="html"><text><![CDATA[The disciples are plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>W-qreb(w) talmīdē, sgad(w).</em>]]></text><feedback format="html"><text><![CDATA[“When” is <em>kad</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Kad sgad(w) talmīdē, qreb(w).</em>]]></text><feedback format="html"><text><![CDATA[The clauses are swapped.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “The great king saved the earth.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Praq malkā rabbā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praq malkā ṭābā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ṭābā</em> is “good.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praq(w) malkā rabbā l-ʾarʿā.</em>]]></text><feedback format="html"><text><![CDATA[The subject is singular.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Praq ʾarʿā l-malkā rabbā.</em>]]></text><feedback format="html"><text><![CDATA[That says the earth saved the king.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). Whom did Yukhannan leave behind when he went out?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[His disciples (<em>talmīdaw(hy)</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His brother]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The guards]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 5. What did the king’s “great one” do?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He pursued (<em>rdap</em>) Yukhannan.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He worshipped Yukhannan.]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He wrote a word.]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He closed the gate.]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 3 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. Where did Yukhannan stand at the end of the passage?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Before the gate of the kingdom (<em>qdām tarʿā d-malkūtā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In the king’s house]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[On the road]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In the light]]></text><feedback format="html"><text><![CDATA[Re-read Section 7.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 1 · Lesson 3 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
@@ -464,7 +474,7 @@ Yukhannan fled and stood before the gate of the kingdom.</p>
 <tr class="odd">
 <td style="text-align: left;"><strong>3 m.pl.</strong></td>
 <td style="text-align: left;">ܫܒܩܘ</td>
-<td style="text-align: left;">šbaqū (they left)</td>
+<td style="text-align: left;">šbaq(w) (they left)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>1 c.pl.</strong></td>
@@ -493,9 +503,8 @@ Yukhannan fled and stood before the gate of the kingdom.</p>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 1 · Lesson 3 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
-<p>The following 28 high-frequency words supplement this lesson’s
-vocabulary, focusing on nouns related to narrative past action and
-contexts.</p>
+<p>The following 28 words supplement this lesson’s vocabulary. Most are
+nouns built on the roots of this lesson’s verbs.</p>
 <div class="tablewrap"><table>
 <colgroup>
 <col style="width: 20%" />
@@ -544,7 +553,7 @@ contexts.</p>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܫܘܒܩܢܐ</td>
-<td style="text-align: left;">šubqānā</td>
+<td style="text-align: left;">šūbqānā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">forgiveness, remission</td>
 <td style="text-align: left;">from root š-b-q (to leave)</td>
@@ -600,7 +609,7 @@ contexts.</p>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܡܣܩܢܐ</td>
-<td style="text-align: left;">masqqānā</td>
+<td style="text-align: left;">masqānā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">stairs, ladder, ascent</td>
 <td style="text-align: left;">from root s-l-q (to ascend)</td>
@@ -684,7 +693,7 @@ contexts.</p>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܡܡܠܠܐ</td>
-<td style="text-align: left;">mamlā</td>
+<td style="text-align: left;">mamllā</td>
 <td style="text-align: left;">m. noun</td>
 <td style="text-align: left;">speech, discourse</td>
 <td style="text-align: left;">from root m-l-l (to speak)</td>

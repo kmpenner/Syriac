@@ -12,11 +12,11 @@ gathered disciples.</em>
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 1 · Lesson 1 · Section 1: Introduction and Warm-Up</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Introduction and Warm-Up</h3>
 <p><strong>Quick Summary</strong></p>
-<p>Welcome to Syriac, the dialect of Aramaic that became the literary
-language of Middle Eastern Christianity from the 2nd to the 8th
-centuries. Before diving into verbs or complex syntax, we must lay the
-foundation of the language: the alphabet, nouns, and how to string them
-together to make a sentence.</p>
+<p>Welcome to Syriac, the dialect of Aramaic that became a major
+literary language of Middle Eastern Christianity from the 2nd century
+through the Middle Ages. Before diving into verbs or complex syntax, we
+must lay the foundation of the language: nouns, pronouns, and how to
+string them together to make a sentence.</p>
 <ol type="1">
 <li><strong>The Alphabet</strong>: The Syriac alphabet (Estrangela
 script) consists of 22 consonants, written right to left. Like Hebrew
@@ -63,7 +63,7 @@ its predicate. In Syriac, as in Hebrew and Arabic, the “is” functions
 implicitly. You simply place two nouns, or a noun and an adjective, next
 to one another.</p>
 <blockquote>
-<p><strong>ʾAlāhā ṭābā</strong> = God [is] good.</p>
+<p><strong>ʾAlāhā ṭāb</strong> = God [is] good.</p>
 </blockquote>
 <p><strong>Cross-Linguistic Comparison: The Definite
 Article</strong></p>
@@ -88,9 +88,9 @@ form.</li>
 <p><strong>1. Independent Personal Pronouns</strong></p>
 <p>Pronouns stand alone as the subject of a sentence. They distinguish
 gender in the 2nd and 3rd persons (unlike English “you” or “they”).</p>
-<p><strong>2. The Particles <code>d-</code> and
-<code>l-</code></strong></p>
-<p>Syriac relies heavily on tiny prepositions that attach directly to
+<p><strong>2. The Prefixed Particles <code>d-</code>, <code>l-</code>,
+<code>b-</code> and <code>w-</code></strong></p>
+<p>Syriac relies heavily on one-letter particles that attach directly to
 the front of the next word.</p>
 <ul>
 <li><strong>The Relative Particle <code>d-</code> (ܕ)</strong>: This
@@ -98,8 +98,7 @@ acts like the English “of”, “which”, “who”, or “that”. It define
 relationships and possession.
 <ul>
 <li><em>Malkūtā d-ʾAlāhā</em> (The kingdom <strong>of</strong> God)</li>
-<li><em>Nūhrā d-ṭābā</em> (The light <strong>which</strong> is
-good)</li>
+<li><em>Nūhrā d-ṭāb</em> (The light <strong>which</strong> is good)</li>
 </ul></li>
 <li><strong>The Preposition <code>l-</code> (ܠ)</strong>: This means
 “to” or “for”, but it is also used heavily as a Direct Object marker
@@ -108,6 +107,15 @@ prepositionally).
 <ul>
 <li><em>l-malkā</em> (to the king)</li>
 <li><em>l-Yūḥannan</em> (to Yukhannan)</li>
+</ul></li>
+<li><strong>The Preposition <code>b-</code> (ܒ)</strong>: “in”, “on”,
+“at”, “with”, “by”.
+<ul>
+<li><em>b-ʾarʿā</em> (in the land, on the earth)</li>
+</ul></li>
+<li><strong>The Conjunction <code>w-</code> (ܘ)</strong>: “and”.
+<ul>
+<li><em>malkā w-malkūtā</em> (the king and the kingdom)</li>
 </ul></li>
 </ul>
 <hr />
@@ -155,7 +163,7 @@ similarities to other Semitic languages.</p>
 <tr class="odd">
 <td style="text-align: left;"><strong>2 f.sg.</strong></td>
 <td style="text-align: left;">ܐܢܬܝ</td>
-<td style="text-align: left;">ʾanti</td>
+<td style="text-align: left;">ʾant(y)</td>
 <td style="text-align: left;">You (f)</td>
 <td style="text-align: left;">ʾanti (أنتِ)</td>
 <td style="text-align: left;">ʾatt (אַתְּ)</td>
@@ -218,13 +226,16 @@ similarities to other Semitic languages.</p>
 </tr>
 </tbody>
 </table></div>
-<p><em>Note: In ʾant, ʾanti, ʾantūn, and ʾantēn, the ‘n’ is historically
-written but silent in pronunciation (assimilated: “at”, “at(y)”, “atūn”,
-“atēn”).</em></p>
+<p><em>Note: In ʾant, ʾant(y), ʾantūn, and ʾantēn, the ‘n’ is
+historically written but silent in pronunciation (assimilated: “at”,
+“at”, “atūn”, “atēn”). The final Yodh of ܐܢܬܝ is also written but
+silent. Throughout this course a letter that is written but not
+pronounced is put in parentheses in the transliteration: ʾant(y),
+malk(y), ktab(w).</em></p>
 <hr />
 
 ]]></text></questiontext></question>
-<question type="description"><name><text>Module 1 · Lesson 1 · Section 5: The Emphatic Noun State</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: The Emphatic Noun State</h3>
+<question type="description"><name><text>Module 1 · Lesson 1 · Section 5: Noun States, Plurals and Adjectives</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Noun States, Plurals and Adjectives</h3>
 <p>For masculine singular nouns, the <strong>absolute</strong> state (“a
 king”) and the <strong>construct</strong> state (“king of…”) are
 identical in form: ܡܠܟ (<em>melek</em>). In the
@@ -271,6 +282,104 @@ construct state ends in <em>-ūt</em> (<em>malkūt</em>).</p>
 likely to be a masculine or feminine emphatic singular (or a feminine
 singular absolute adjective/noun such as mellā ‘word’, rabbā ‘great
 [f.abs.]’).</em></p>
+<p><strong>Plurals and the Plural Dots (<em>syāmē</em>)</strong></p>
+<p>The emphatic plural of most masculine nouns ends in <em>-ē</em>, and
+that of feminine nouns in <em>-ātā</em>. Because the masculine plural
+ending is written with the same Alaph as the singular, the two would
+look identical; Syriac therefore marks every plural with two dots, the
+<em>syāmē</em>, placed above one of the letters (on a Rish they replace
+its own dot).</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Singular</th>
+<th style="text-align: left;">Plural (emphatic)</th>
+<th style="text-align: left;">Plural (absolute)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Masc.</strong></td>
+<td style="text-align: left;">ܡܠܟܐ <em>malkā</em> (king)</td>
+<td style="text-align: left;">ܡ̈ܠܟܐ <em>malkē</em> (kings)</td>
+<td style="text-align: left;">ܡ̈ܠܟܝܢ <em>malkīn</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Fem.</strong></td>
+<td style="text-align: left;">ܡܠܟܬܐ <em>malktā</em> (queen)</td>
+<td style="text-align: left;">ܡ̈ܠܟܬܐ <em>malkātā</em> (queens)</td>
+<td style="text-align: left;">ܡ̈ܠܟܢ <em>malkān</em></td>
+</tr>
+</tbody>
+</table></div>
+<p>A few common nouns exist only in the plural: ܚ̈ܝܐ <em>ḥayyē</em>
+“life”, ܡ̈ܝܐ <em>mayyā</em> “water”.</p>
+<p><strong>Adjectives: Attributive and Predicate</strong></p>
+<p>An adjective follows its noun and agrees with it in gender and
+number. Its <em>state</em> depends on its job in the sentence:</p>
+<ul>
+<li><strong>Attributive</strong> (“the good king”): the adjective takes
+the same state as the noun, normally the emphatic: <em>malkā ṭābā</em>
+(the good king), <em>meltā ṭābtā</em> (the good word).</li>
+<li><strong>Predicate</strong> (“the king is good”): the adjective
+stands in the <strong>absolute</strong> state: <em>malkā ṭāb hū</em>
+(the king is good), <em>meltā ṭābā hī</em> (the word is good).</li>
+</ul>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Adjective</th>
+<th style="text-align: left;">m.sg. absolute (predicate)</th>
+<th style="text-align: left;">m.sg. emphatic (attributive)</th>
+<th style="text-align: left;">f.sg. absolute (predicate)</th>
+<th style="text-align: left;">f.sg. emphatic (attributive)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">good</td>
+<td style="text-align: left;">ܛܒ <em>ṭāb</em></td>
+<td style="text-align: left;">ܛܒܐ <em>ṭābā</em></td>
+<td style="text-align: left;">ܛܒܐ <em>ṭābā</em></td>
+<td style="text-align: left;">ܛܒܬܐ <em>ṭābtā</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">evil</td>
+<td style="text-align: left;">ܒܝܫ <em>bīš</em></td>
+<td style="text-align: left;">ܒܝܫܐ <em>bīšā</em></td>
+<td style="text-align: left;">ܒܝܫܐ <em>bīšā</em></td>
+<td style="text-align: left;">ܒܝܫܬܐ <em>bīštā</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">great</td>
+<td style="text-align: left;">ܪܒ <em>rab</em></td>
+<td style="text-align: left;">ܪܒܐ <em>rabbā</em></td>
+<td style="text-align: left;">ܪܒܐ <em>rabbā</em></td>
+<td style="text-align: left;">ܪܒܬܐ <em>rabbtā</em></td>
+</tr>
+</tbody>
+</table></div>
+<p>Notice that the feminine absolute and the masculine emphatic are
+spelled and pronounced alike (<em>ṭābā</em>); the noun tells you which
+one you are reading. An emphatic adjective can also stand alone as a
+noun: <em>bīšā</em> “the evil one”, <em>rabbā</em> “the great one,
+chief”.</p>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 1 · Lesson 1 · Section 5: Noun States, Plurals and Adjectives (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Noun States, Plurals and Adjectives (continued)</h3>
 <hr />
 
 ]]></text></questiontext></question>
@@ -352,17 +461,18 @@ literature and the Peshitta (the Syriac Bible).</p>
 <tr class="even">
 <td style="text-align: left;">ܛܒܐ</td>
 <td style="text-align: left;">ṭābā</td>
-<td style="text-align: left;">m.</td>
+<td style="text-align: left;">adj.</td>
 <td style="text-align: left;">Good</td>
-<td style="text-align: left;">Adjective behaving as noun. Heb
-<em>ṭōb</em></td>
+<td style="text-align: left;">Absolute (predicate) form ܛܒ <em>ṭāb</em>.
+Heb <em>ṭōb</em></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">ܒܝܫܐ</td>
 <td style="text-align: left;">bīšā</td>
-<td style="text-align: left;">m.</td>
+<td style="text-align: left;">adj.</td>
 <td style="text-align: left;">Evil, bad</td>
-<td style="text-align: left;">Adjective behaving as noun.</td>
+<td style="text-align: left;">Absolute (predicate) form ܒܝܫ
+<em>bīš</em>. As a noun: “the evil one”.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܝܘܚܢܢ</td>
@@ -374,13 +484,13 @@ literature and the Peshitta (the Syriac Bible).</p>
 <tr class="odd">
 <td style="text-align: left;">ܪܒܐ</td>
 <td style="text-align: left;">rabbā</td>
-<td style="text-align: left;">m.</td>
+<td style="text-align: left;">adj.</td>
 <td style="text-align: left;">Great, large</td>
-<td style="text-align: left;">Root <em>r-b-b</em>. Cf. “Rabbi” (my great
-one).</td>
+<td style="text-align: left;">Absolute (predicate) form ܪܒ <em>rab</em>.
+Root <em>r-b-b</em>. Cf. “Rabbi” (my great one).</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">ܚܝܐ</td>
+<td style="text-align: left;">ܚ̈ܝܐ</td>
 <td style="text-align: left;">ḥayyē</td>
 <td style="text-align: left;">m.pl.</td>
 <td style="text-align: left;">Life</td>
@@ -399,8 +509,7 @@ verbless sentences, establishing the setting and main characters using
 classical equational syntax, pronouns, and the relational
 <code>d-</code> particle.</em></p>
 <p><strong>Sentence 1</strong></p>
-<p>ܡܠܟܐ ܗܘ malkā hū. malkā (a-king) hū (he-[is]). → He is a king. /
-There is a king.</p>
+<p>ܡܠܟܐ ܗܘ malkā hū. malkā (a-king) hū (he-[is]). → He is a king.</p>
 <p><strong>Sentence 2</strong></p>
 <p>ܘܡܠܟܘܬܐ ܕܡܠܟܐ ܪܒܐ ܗܝ w-malkūtā d-malkā rabbā hī. w- (and-) malkūtā
 (the-kingdom) d- (of) malkā (the-king) rabbā (great) hī (she-[is]). →
@@ -408,11 +517,11 @@ And the kingdom of the king is great. <em>(Note: ‘malkūtā’ is feminine,
 so the feminine absolute predicate adjective ‘rabbā’ and the pronoun
 ‘hī’ are used).</em></p>
 <p><strong>Sentence 3</strong></p>
-<p>ܒܪܢܫܐ ܒܝܫܐ ܗܘ barnāšā bīšā hū. barnāšā (the-man) bīšā (evil) hū
+<p>ܒܪܢܫܐ ܒܝܫ ܗܘ barnāšā bīš hū. barnāšā (the-man) bīš (evil) hū
 (he-[is]). → The man is evil.</p>
 <p><strong>Sentence 4</strong></p>
-<p>ܝܘܚܢܢ ܗܘ ܛܒܐ Yūḥannan hū ṭābā. Yūḥannan (John) hū (he-[is]) ṭābā
-(good). → Yukhannan is good.</p>
+<p>ܝܘܚܢܢ ܛܒ ܗܘ Yūḥannan ṭāb hū. Yūḥannan (John) ṭāb (good) hū (he-[is]).
+→ Yukhannan is good.</p>
 <p><strong>Sentence 5</strong></p>
 <p>ܐܠܗܐ ܠܝܘܚܢܢ ܢܘܗܪܐ ܗܘ ʾAlāhā l-Yūḥannan nūhrā hū. ʾAlāhā (God) l-
 (to/for) Yūḥannan (John) nūhrā (light) hū (he-[is]). → God is light to
@@ -420,24 +529,24 @@ Yukhannan.</p>
 <p><strong>Sentence 6</strong></p>
 <p>ܡܠܬܐ ܕܐܠܗܐ ܒܐܪܥܐ ܗܝ meltā d-ʾAlāhā b-ʾarʿā hī. meltā (the-word) d-
 (of) ʾAlāhā (God) b- (in) ʾarʿā (the-earth) hī (she-[is]). → The word of
-God is in the earth.</p>
+God is in the land.</p>
 <p><strong>Sentence 7</strong></p>
 <p>ܡܠܟܐ ܒܐܪܥܐ ܘܝܘܚܢܢ ܠܡܠܟܐ ܢܘܗܪܐ ܗܘ malkā b-ʾarʿā, w-Yūḥannan l-malkā
 nūhrā hū. malkā (the-king) b- (in) ʾarʿā (the-earth), w- (and) Yūḥannan
 (John) l- (to) malkā (the-king) nūhrā (light) hū (he-[is]). → The king
-is in the earth, and Yukhannan is a light to the king.</p>
+is in the land, and Yukhannan is a light to the king.</p>
 <hr />
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 6</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܚܢܢ (<em>ḥnan</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[1 c.pl. “we”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they”]]></text><feedback format="html"><text><![CDATA[“They (m)” is <em>hennōn</em> ܗܢܘܢ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.sg. “I”]]></text><feedback format="html"><text><![CDATA[“I” is <em>ʾenā</em> ܐܢܐ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.pl. “you”]]></text><feedback format="html"><text><![CDATA[That is <em>ʾantūn</em> ܐܢܬܘܢ.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܝ (<em>hī</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 f.sg. “she”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he”]]></text><feedback format="html"><text><![CDATA[“He” is <em>hū</em> ܗܘ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 f.sg. “you”]]></text><feedback format="html"><text><![CDATA[That is <em>ʾanti</em> ܐܢܬܝ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.pl. “they”]]></text><feedback format="html"><text><![CDATA[That is <em>hennēn</em> ܗܢܝܢ.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 7</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܝ (<em>hī</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 f.sg. “she”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he”]]></text><feedback format="html"><text><![CDATA[“He” is <em>hū</em> ܗܘ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 f.sg. “you”]]></text><feedback format="html"><text><![CDATA[That is <em>ʾant(y)</em> ܐܢܬܝ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.pl. “they”]]></text><feedback format="html"><text><![CDATA[That is <em>hennēn</em> ܗܢܝܢ.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 8</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܐܢܬܘܢ (<em>ʾantūn</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[2 m.pl. “you (all)”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 m.sg. “you”]]></text><feedback format="html"><text><![CDATA[Singular is <em>ʾant</em> ܐܢܬ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[2 f.pl. “you”]]></text><feedback format="html"><text><![CDATA[Feminine plural is <em>ʾantēn</em> ܐܢܬܝܢ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they”]]></text><feedback format="html"><text><![CDATA[That is <em>hennōn</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 9</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܢܘܢ (<em>hennōn</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 m.pl. “they (m)”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.pl. “they (f)”]]></text><feedback format="html"><text><![CDATA[That is <em>hennēn</em> ܗܢܝܢ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.pl. “we”]]></text><feedback format="html"><text><![CDATA[That is <em>ḥnan</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.sg. “he”]]></text><feedback format="html"><text><![CDATA[That is <em>hū</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 10</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܗܘ (<em>hū</em>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[3 m.sg. “he”]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 f.sg. “she”]]></text><feedback format="html"><text><![CDATA[That is <em>hī</em> ܗܝ.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[1 c.sg. “I”]]></text><feedback format="html"><text><![CDATA[That is <em>ʾenā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[3 m.pl. “they”]]></text><feedback format="html"><text><![CDATA[That is <em>hennōn</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 11</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Is ܢܘܗܪܐ (<em>nūhrā</em>) in the emphatic state?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yes: it ends in Alaph (<em>-ā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No: it is absolute]]></text><feedback format="html"><text><![CDATA[The final Alaph marks the emphatic.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No: it is a verb]]></text><feedback format="html"><text><![CDATA[<em>Nūhrā</em> is a noun, “light.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It cannot be told]]></text><feedback format="html"><text><![CDATA[The final ܐ shows it.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Is ܡܠܟ (<em>melek</em>) in the emphatic state?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[No: it is absolute or construct (<em>melek</em>), lacking the final Alaph]]></text><feedback format="html"><text><![CDATA[Right: there is no final Alaph.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yes: it ends in Alaph]]></text><feedback format="html"><text><![CDATA[It ends in Kaph.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yes: all nouns are emphatic]]></text><feedback format="html"><text><![CDATA[The absolute and construct states have no <em>-ā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It is feminine]]></text><feedback format="html"><text><![CDATA[State, not gender, is in question; <em>malkā</em> is masculine.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Is ܛܒܐ (<em>ṭābā</em>) in the emphatic state?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yes: it ends in Alaph (<em>-ā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No: it is absolute]]></text><feedback format="html"><text><![CDATA[The final ܐ marks the emphatic.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[No: adjectives have no state]]></text><feedback format="html"><text><![CDATA[Adjectives take states like nouns.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It is construct]]></text><feedback format="html"><text><![CDATA[There is no following noun; the ending is emphatic <em>-ā</em>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾAlāhā hū ṭābā.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is good.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is great.]]></text><feedback format="html"><text><![CDATA[“Great” is <em>rabbā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is light.]]></text><feedback format="html"><text><![CDATA[“Light” is <em>nūhrā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He is a good god.]]></text><feedback format="html"><text><![CDATA[<em>Hū</em> here is the copula “is.”]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>ʾAlāhā ṭāb hū.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is good.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is great.]]></text><feedback format="html"><text><![CDATA[“Great” is <em>rabbā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God is light.]]></text><feedback format="html"><text><![CDATA[“Light” is <em>nūhrā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He is a good god.]]></text><feedback format="html"><text><![CDATA[<em>Hū</em> here is the copula “is.”]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Nūhrā b-malkūtā hū.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The light is in the kingdom.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The light is the kingdom.]]></text><feedback format="html"><text><![CDATA[<em>b-</em> means “in.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king is in the light.]]></text><feedback format="html"><text><![CDATA[<em>Malkūtā</em> is “kingdom.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The light is for the kingdom.]]></text><feedback format="html"><text><![CDATA[“For/to” is <em>l-</em>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Yūḥannan barnāšā hū.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yukhannan is a man.]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan is a king.]]></text><feedback format="html"><text><![CDATA[“King” is <em>malkā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan is evil.]]></text><feedback format="html"><text><![CDATA[“Evil” is <em>bīšā</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The man is Yukhannan’s.]]></text><feedback format="html"><text><![CDATA[The pronoun is the copula; there is no possessive.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <em>Meltā d-malkā bīšā hī.</em>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The word of the king is evil.]]></text><feedback format="html"><text><![CDATA[Right: <em>meltā</em> is feminine, so <em>hī</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king of the word is evil.]]></text><feedback format="html"><text><![CDATA[<em>d-</em> links <em>meltā</em> to the following <em>malkā</em>: “word of the king.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The word of the king is good.]]></text><feedback format="html"><text><![CDATA[<em>Bīšā</em> is “evil.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She is the king’s evil word.]]></text><feedback format="html"><text><![CDATA[<em>Hī</em> functions as “is.”]]></text></feedback></answer></question>
@@ -446,12 +555,18 @@ is in the earth, and Yukhannan is a light to the king.</p>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “The earth is the kingdom of God.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾArʿā malkūtā d-ʾAlāhā hī.</em>]]></text><feedback format="html"><text><![CDATA[Right: <em>ʾarʿā</em> is feminine.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾArʿā malkūtā d-ʾAlāhā hū.</em>]]></text><feedback format="html"><text><![CDATA[<em>ʾArʿā</em> is feminine, so <em>hī</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾArʿā malkūtā l-ʾAlāhā hī.</em>]]></text><feedback format="html"><text><![CDATA[“Of” is <em>d-</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkūtā ʾarʿā d-ʾAlāhā hī.</em>]]></text><feedback format="html"><text><![CDATA[The subject <em>ʾarʿā</em> comes first here.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “The king is an evil man.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>Malkā barnāšā bīšā hū.</em>]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā barnāšā ṭābā hū.</em>]]></text><feedback format="html"><text><![CDATA[<em>Ṭābā</em> is “good.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Malkā barnāšā bīšā hī.</em>]]></text><feedback format="html"><text><![CDATA[<em>Malkā</em> is masculine: <em>hū</em>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Barnāšā malkā bīšā.</em>]]></text><feedback format="html"><text><![CDATA[The king is the subject, and the copula <em>hū</em> is needed.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Render: “I am the king.”]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<em>ʾEnā malkā.</em>]]></text><feedback format="html"><text><![CDATA[Right: with a 1st-person subject no copula pronoun is needed.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾEnā malkā hū.</em>]]></text><feedback format="html"><text><![CDATA[Not needed here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>Hū malkā.</em>]]></text><feedback format="html"><text><![CDATA[That is “He is king.”]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<em>ʾAnt malkā.</em>]]></text><feedback format="html"><text><![CDATA[That is “You are king.”]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). What adjective describes the king’s kingdom?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Great (<em>rabbā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Good (<em>ṭābā</em>)]]></text><feedback format="html"><text><![CDATA[In the story <em>ṭābā</em> describes Yukhannan.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Evil (<em>bīšā</em>)]]></text><feedback format="html"><text><![CDATA[<em>Bīšā</em> describes the man.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Holy]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 5 (Section 7). What adjective describes the king’s kingdom?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Great (<em>rabbā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Good (<em>ṭābā</em>)]]></text><feedback format="html"><text><![CDATA[In the story <em>ṭāb</em> describes Yukhannan.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Evil (<em>bīšā</em>)]]></text><feedback format="html"><text><![CDATA[<em>Bīšā</em> describes the man.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Holy]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 5. To whom is Yukhannan a “light”?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[To the king (<em>l-malkā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To God]]></text><feedback format="html"><text><![CDATA[God is the light <em>to Yukhannan</em> (sentence 5).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To the earth]]></text><feedback format="html"><text><![CDATA[Re-read sentence 7.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To the man]]></text><feedback format="html"><text><![CDATA[Re-read sentence 7.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 1 · Lesson 1 · Check 25</text></name><questiontext format="html"><text><![CDATA[Exercise 5. Where is the word of God?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[In the earth (<em>b-ʾarʿā</em>)]]></text><feedback format="html"><text><![CDATA[Right.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In the kingdom]]></text><feedback format="html"><text><![CDATA[Re-read sentence 6.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[With the king]]></text><feedback format="html"><text><![CDATA[Re-read sentence 6.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[In Yukhannan]]></text><feedback format="html"><text><![CDATA[Re-read sentence 6.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 1 · Lesson 1 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
 <p><strong>THE VERBLESS CLAUSE — FORMATION RULES</strong></p>
 <div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Component 1</th>
@@ -463,13 +578,13 @@ is in the earth, and Yukhannan is a light to the king.</p>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Subject Noun</td>
-<td style="text-align: left;">Predicate Noun/Adj</td>
+<td style="text-align: left;">Predicate Noun / Adjective (absolute)</td>
 <td style="text-align: left;">Pronoun matching Subject</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ʾAlāhā (God)</td>
-<td style="text-align: left;">ṭābā (good)</td>
+<td style="text-align: left;">ṭāb (good)</td>
 <td style="text-align: left;">hū (he)</td>
 <td style="text-align: left;">God is good.</td>
 </tr>
@@ -503,7 +618,7 @@ is in the earth, and Yukhannan is a light to the king.</p>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2nd Fem</td>
-<td style="text-align: left;">ʾanti (You)</td>
+<td style="text-align: left;">ʾant(y) (You)</td>
 <td style="text-align: left;">ʾantēn (You all)</td>
 </tr>
 <tr class="even">
@@ -521,7 +636,7 @@ is in the earth, and Yukhannan is a light to the king.</p>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 1 · Lesson 1 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
-<p>The following 30 high-frequency nouns supplement this lesson’s core
+<p>The following 30 common nouns supplement this lesson’s core
 vocabulary.</p>
 <div class="tablewrap"><table>
 <colgroup>
@@ -570,7 +685,7 @@ vocabulary.</p>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">ܡܝܐ</td>
+<td style="text-align: left;">ܡ̈ܝܐ</td>
 <td style="text-align: left;">mayyā</td>
 <td style="text-align: left;">m. noun (pl.)</td>
 <td style="text-align: left;">water</td>

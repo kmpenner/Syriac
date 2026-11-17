@@ -1,10 +1,10 @@
 [
-{"after":1,"q":"Warm-up 1. What does the suffix <em>-ū</em> indicate on a Perfect verb (e.g., <em>ktabū</em>)?","opts":[
- ["3rd person masculine plural (“they”)","Right: <em>ktabū</em> = “they wrote.”"],
- ["3rd person feminine singular (“she”)","The 3 f.sg. Perfect ends in <em>-at</em> (<em>ketbat</em>), not <em>-ū</em>."],
+{"after":1,"q":"Warm-up 1. What does the final Waw of ܟܬܒܘ (<em>ktab(w)</em>) indicate?","opts":[
+ ["3rd person masculine plural (“they”)","Right: <em>ktab(w)</em> = “they wrote.” The Waw is written but silent."],
+ ["3rd person feminine singular (“she”)","The 3 f.sg. Perfect ends in <em>-at</em> (<em>ketbat</em>)."],
  ["1st person common plural (“we”)","“We” is marked by <em>-n</em> (<em>ktabn</em>)."],
  ["2nd person masculine singular (“you”)","“You (m.sg)” ends in <em>-t</em> (<em>ktabt</em>)."]],
- "explain":"The Perfect is the suffix conjugation: person is marked at the end of the verb, and <em>-ū</em> is 3 m.pl."},
+ "explain":"The Perfect is the suffix conjugation: person is marked at the end of the verb, and the silent Waw marks 3 m.pl."},
 {"after":1,"q":"Warm-up 2. Translate: <em>Šbaq malkā l-ʾarʿā</em>.","opts":[
  ["The king left the earth.","Right: verb (<em>šbaq</em>) – subject (<em>malkā</em>) – object (<em>l-ʾarʿā</em>)."],
  ["The earth left the king.","In VSO order the noun right after the verb is the subject; <em>l-</em> marks the object."],
@@ -27,7 +27,7 @@
  ["And Yukhannan drew near.","Right: <em>w-</em> “and,” <em>qreb</em> “drew near” (Perfect), subject <em>Yūḥannan</em>."],
  ["And Yukhannan wrote.","“Wrote” is <em>ktab</em>; <em>qreb</em> means “drew near.”"],
  ["Yukhannan is near.","<em>Qreb</em> is a Perfect verb, not an adjective."],
- ["And they drew near to Yukhannan.","“They” would require the plural <em>-ū</em> (<em>qrebū</em>)."]]},
+ ["And they drew near to Yukhannan.","“They” would require the plural (<em>qreb(w)</em>, written with a final Waw)."]]},
 
 {"after":8,"q":"Exercise 1. Identify the possessor in ܡܠܟܢ (<em>malk-an</em>).","opts":[
  ["1st common plural: “our king”","Right: <em>-n</em> (<em>-an</em>) is the 1 c.pl. suffix."],
@@ -40,9 +40,9 @@
  ["1st common singular: “my house”","“My” is <em>-y</em> (ܝ)."],
  ["2nd feminine singular: “your house”","“Your (f.sg)” is <em>-ky</em> (ܟܝ)."]],
  "explain":"ܗ alone can also be 3 f.sg. <em>-āh</em> “her”; the vocalization <em>-eh</em> makes it “his.”"},
-{"after":8,"q":"Exercise 1. Identify the possessor in ܐܝܕܟܝ (<em>ʾīd-ēky</em>).","opts":[
+{"after":8,"q":"Exercise 1. Identify the possessor in ܐܝܕܟܝ (<em>ʾīd-ēk(y)</em>).","opts":[
  ["2nd feminine singular: “your (f.sg) hand”","Right: <em>-ky</em> (ܟܝ) is 2 f.sg."],
- ["2nd masculine singular: “your (m.sg) hand”","2 m.sg. is ܟ alone (<em>-āḵ</em>), with no final Yodh."],
+ ["2nd masculine singular: “your (m.sg) hand”","2 m.sg. is ܟ alone (<em>-āk</em>), with no final Yodh."],
  ["2nd feminine plural: “your (f.pl) hand”","2 f.pl. is <em>-kēn</em> (ܟܝܢ), with final Nun."],
  ["1st common singular: “my hand”","“My” is ܝ alone, without ܟ."]]},
 {"after":8,"q":"Exercise 1. Identify the possessor in ܡܠܟܘܬܗܘܢ (<em>malkūt-hūn</em>).","opts":[
@@ -51,10 +51,10 @@
  ["3rd feminine plural: “their (f) kingdom”","That would be <em>-hēn</em> (ܗܝܢ)."],
  ["3rd masculine singular: “his kingdom”","“His” is ܗ alone, without ܘܢ."]]},
 {"after":8,"q":"Exercise 2. Using <em>l-</em> + suffix: “To you (f.sg).”","opts":[
- ["<em>lēky</em> ܠܟܝ","Right."],
- ["<em>lāḵ</em> ܠܟ","That is “to you (m.sg).”"],
+ ["<em>lēk(y)</em> ܠܟܝ","Right."],
+ ["<em>lāk</em> ܠܟ","That is “to you (m.sg).”"],
  ["<em>leh</em> ܠܗ","That is “to him.”"],
- ["<em>lḵūn</em> ܠܟܘܢ","That is “to you (m.pl).”"]]},
+ ["<em>lkūn</em> ܠܟܘܢ","That is “to you (m.pl).”"]]},
 {"after":8,"q":"Exercise 2. “We have” (“there is to us”).","opts":[
  ["<em>ʾīt lan</em>","Right: <em>ʾīt</em> “there is” + <em>lan</em> “to us.”"],
  ["<em>layt lan</em>","<em>Layt</em> is the negative: “we do not have.”"],
@@ -67,18 +67,18 @@
  ["<em>lā lēh</em>","Possession is negated with <em>layt</em>, not with bare <em>lā</em>."]]},
 {"after":8,"q":"Exercise 2. “To them (m.pl).”","opts":[
  ["<em>lhūn</em> ܠܗܘܢ","Right."],
- ["<em>lḵūn</em> ܠܟܘܢ","That is “to you (m.pl).”"],
+ ["<em>lkūn</em> ܠܟܘܢ","That is “to you (m.pl).”"],
  ["<em>lan</em> ܠܢ","That is “to us.”"],
  ["<em>leh</em> ܠܗ","That is “to him.”"]]},
-{"after":8,"q":"Exercise 3. Translate: <em>ʾAbī ṭābā hū, w-ʾemī ṭābtā hī.</em>","opts":[
+{"after":8,"q":"Exercise 3. Translate: <em>ʾAb(y) ṭāb hū, w-ʾem(y) ṭābā hī.</em>","opts":[
  ["My father is good, and my mother is good.","Right: verbless clauses with <em>hū</em>/<em>hī</em> as copula."],
- ["His father is good, and his mother is good.","<em>-ī</em> is “my”; “his” would be <em>-ūhy</em>/<em>-eh</em>."],
- ["My father is a king, and my mother is a queen.","<em>Ṭābā/ṭābtā</em> mean “good” (m/f)."],
+ ["His father is good, and his mother is good.","The silent <em>-(y)</em> is “my”; “his” would be <em>-ū(hy)</em>/<em>-eh</em>."],
+ ["My father is a king, and my mother is a queen.","<em>Ṭāb/ṭābā</em> mean “good” (m/f predicate forms)."],
  ["My father was good, and my mother was good.","The pronoun copula gives a present “is.”"]]},
-{"after":8,"q":"Exercise 3. Translate: <em>Šbaqū talmīdē l-baythūn.</em>","opts":[
- ["The disciples left their house.","Right: <em>šbaqū</em> “they left,” <em>bayt-hūn</em> “their house.”"],
+{"after":8,"q":"Exercise 3. Translate: <em>Šbaq(w) talmīdē l-baythūn.</em>","opts":[
+ ["The disciples left their house.","Right: <em>šbaq(w)</em> “they left,” <em>bayt-hūn</em> “their house.”"],
  ["The disciples left his house.","<em>-hūn</em> is “their,” not “his.”"],
- ["The disciple left their house.","<em>Talmīdē</em> is plural, matching plural <em>šbaqū</em>."],
+ ["The disciple left their house.","<em>Talmīdē</em> is plural, matching plural <em>šbaq(w)</em>."],
  ["The disciples entered their house.","<em>Šbaq</em> means “leave.”"]]},
 {"after":8,"q":"Exercise 3. Translate: <em>ʾĪt lan nūhrā rabbā.</em>","opts":[
  ["We have a great light.","Right: literally “there is to us a great light.”"],
@@ -91,20 +91,20 @@
  ["The king’s word is in our land.","<em>Qālā</em> is “voice”; “word” is <em>meltā</em>."],
  ["Our king’s voice is in the land.","The suffix is on <em>ʾarʿā</em>, not on <em>malkā</em>."]]},
 {"after":8,"q":"Exercise 4. Render into Syriac: “My brother is writing a word.”","opts":[
- ["<em>ʾaḥ-y kāteb meltā.</em>","Right: <em>ʾaḥ-y</em> “my brother” + participle <em>kāteb</em>."],
+ ["<em>ʾaḥ(y) kāteb meltā.</em>","Right: <em>ʾaḥ(y)</em> “my brother” + participle <em>kāteb</em>."],
  ["<em>ʾaḥ-eh kāteb meltā.</em>","<em>-eh</em> is “his brother.”"],
- ["<em>ʾaḥ-y ktab meltā.</em>","<em>Ktab</em> is Perfect “wrote”; “is writing” needs the participle."],
- ["<em>ʾaḥ-y kātbā meltā.</em>","<em>Kātbā</em> is the feminine participle; “brother” is masculine."]]},
+ ["<em>ʾaḥ(y) ktab meltā.</em>","<em>Ktab</em> is Perfect “wrote”; “is writing” needs the participle."],
+ ["<em>ʾaḥ(y) kātbā meltā.</em>","<em>Kātbā</em> is the feminine participle; “brother” is masculine."]]},
 {"after":8,"q":"Exercise 4. “The king and his son are going to his kingdom.”","opts":[
- ["<em>Malkā w-bar-eh ʾāzlīn l-malkūt-eh.</em>","Right: plural participle <em>ʾāzlīn</em> for a compound subject."],
- ["<em>Malkā w-bar-eh ʾāzel l-malkūt-eh.</em>","Two subjects need the plural <em>ʾāzlīn</em>."],
- ["<em>Malkā w-bar-hūn ʾāzlīn l-malkūt-hūn.</em>","<em>-hūn</em> means “their,” not “his.”"],
- ["<em>Malkā w-bar-eh ʾezal l-malkūt-eh.</em>","<em>ʾEzal</em> is Perfect “went”; “are going” needs the participle."]]},
+ ["<em>Malkā w-br-eh ʾāzlīn l-malkūt-eh.</em>","Right: plural participle <em>ʾāzlīn</em> for a compound subject."],
+ ["<em>Malkā w-br-eh ʾāzel l-malkūt-eh.</em>","Two subjects need the plural <em>ʾāzlīn</em>."],
+ ["<em>Malkā w-br-hūn ʾāzlīn l-malkūt-hūn.</em>","<em>-hūn</em> means “their,” not “his.”"],
+ ["<em>Malkā w-br-eh ʾezal l-malkūt-eh.</em>","<em>ʾEzal</em> is Perfect “went”; “are going” needs the participle."]]},
 {"after":8,"q":"Exercise 4. “What is in your (m.sg) hand?”","opts":[
- ["<em>Mā ʾīt b-ʾīd-āḵ?</em>","Right: <em>-āḵ</em> is 2 m.sg."],
- ["<em>Mā ʾīt b-ʾīd-ēky?</em>","<em>-ēky</em> is feminine “your.”"],
- ["<em>Mā ʾīt b-ʾīd-y?</em>","<em>-y</em> is “my hand.”"],
- ["<em>Man ʾīt b-ʾīd-āḵ?</em>","<em>Man</em> is “who”; “what” is <em>mā</em>."]]},
+ ["<em>Mā ʾīt b-ʾīd-āk?</em>","Right: <em>-āk</em> is 2 m.sg."],
+ ["<em>Mā ʾīt b-ʾīd-ēk(y)?</em>","<em>-ēk(y)</em> is feminine “your.”"],
+ ["<em>Mā ʾīt b-ʾīd(y)?</em>","<em>-y</em> is “my hand.”"],
+ ["<em>Man ʾīt b-ʾīd-āk?</em>","<em>Man</em> is “who”; “what” is <em>mā</em>."]]},
 {"after":8,"q":"Exercise 4. “We do not have an evil king.”","opts":[
  ["<em>Layt lan malkā bīšā.</em>","Right."],
  ["<em>ʾĪt lan malkā bīšā.</em>","<em>ʾĪt</em> is positive: “we have.”"],
@@ -121,8 +121,8 @@
  ["Zebedee and Salome","Not in this story; re-read Section 7."],
  ["Heaven (father) and the sea (mother)","Re-read Section 7."]]},
 {"after":8,"q":"Exercise 5. What does Yukhannan explicitly say he does <em>not</em> have?","opts":[
- ["An evil garment (<em>lbūšā bīšā</em>)","Right."],
- ["A house (<em>baytā</em>)","Re-read Section 7."],
+ ["A house in the land (<em>baytā b-ʾarʿā</em>)","Right."],
+ ["A garment (<em>lbūšā</em>)","Re-read Section 7."],
  ["A book (<em>ktābā</em>)","Re-read Section 7."],
  ["A brother (<em>ʾaḥā</em>)","Re-read Section 7."]]}
 ]

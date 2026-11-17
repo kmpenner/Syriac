@@ -10,7 +10,7 @@
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 1: Review of Lessons 1–8</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lessons 1–8</h3>
 <p>Before diving into new material, take a moment to consolidate what
-you have learned so far. Lessons 1–8 have introduced you to the
+you have learned so far. Lessons 0–8 have introduced you to the
 following foundational topics:</p>
 <ul>
 <li><strong>Lesson 0:</strong> The Estrangela alphabet</li>
@@ -32,65 +32,16 @@ verbs</li>
 <em>neqṭol</em>): the future, and <em>d-</em> + imperfect for
 purpose</li>
 </ul>
-<p><strong>Warm-Up Drill: Five Quick Questions</strong></p>
-<p>Answer each question from memory before checking against your notes.
-Write your answer in full Syriac script with transliteration.</p>
-<div class="tablewrap"><table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: right;">#</th>
-<th style="text-align: left;">Question</th>
-<th style="text-align: left;">Expected answer</th>
-<th style="text-align: left;">Syriac</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;">1</td>
-<td style="text-align: left;">What is the Peal perfect 3 m.sg. of
-<em>k-t-b</em> (write)?</td>
-<td style="text-align: left;"><em>ktab</em> — he wrote</td>
-<td style="text-align: left;">ܟܬܒ</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">2</td>
-<td style="text-align: left;">What is the Peal imperfect 3 m.sg. of
-<em>š-m-ʿ</em> (hear)?</td>
-<td style="text-align: left;"><em>nešmaʿ</em> — he will hear</td>
-<td style="text-align: left;">ܢܫܡܥ</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">3</td>
-<td style="text-align: left;">How do you say “the king commanded”
-(<em>p-q-d</em>, 3 m.sg. perfect)?</td>
-<td style="text-align: left;"><em>pqad malkā</em> — the king
-commanded</td>
-<td style="text-align: left;">ܦܩܕ ܡܠܟܐ</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;">4</td>
-<td style="text-align: left;">What does the Paael stem add to the root’s
-meaning?</td>
-<td style="text-align: left;">Intensity, repetition, or
-factitive/denominative meaning</td>
-<td style="text-align: left;">—</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;">5</td>
-<td style="text-align: left;">Give the Aphel perfect 3 m.sg. of
-<em>n-p-q</em> (go out).</td>
-<td style="text-align: left;"><em>ʾappeq</em> — he brought out / caused
-to go out</td>
-<td style="text-align: left;">ܐܦܩ</td>
-</tr>
-</tbody>
-</table></div>
+<p><strong>5-Question Warm-Up Drill</strong></p>
+<p><em>(Answers in Section 9)</em></p>
+<ol type="1">
+<li>What is the Peal perfect 3 m.sg. of <em>k-t-b</em> (write)?</li>
+<li>What is the Peal imperfect 3 m.sg. of <em>š-m-ʿ</em> (hear)?</li>
+<li>How do you say “the king commanded” (<em>p-q-d</em>, 3 m.sg.
+perfect)?</li>
+<li>What does the Paael stem add to the root’s meaning?</li>
+<li>Give the Aphel perfect 3 m.sg. of <em>n-p-q</em> (go out).</li>
+</ol>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. What is the Peal perfect 3 m.sg. of <i>k-t-b</i> (write)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܟܬܒ, 'he wrote']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܟܬܘܒ, 'he will write']]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܟܬܘܒ, 'write!']]></text><feedback format="html"><text><![CDATA[That is the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܟܬܒ, 'to write']]></text><feedback format="html"><text><![CDATA[That is the infinitive.]]></text></feedback></answer></question>
@@ -121,19 +72,90 @@ the Hebrew Qal imperative (כְּתֹב <em>ktōb</em>) and the Arabic imperativ
 <em>CCoC</em>) — the simplest form, the bare root with its
 characteristic stem vowel written with <em>waw</em>. E.g.,
 <strong>ktūb</strong> (<em>ktob</em>) ܟܬܘܒ “Write! (to one man)”.</li>
-<li><strong>Feminine Singular:</strong> <em>CCūC(y)</em> — add silent
-final <em>yodh</em> (<code>-y</code>, historically <code>-ī</code>) in
-spelling. E.g., <strong>ktūb(y)</strong> (<em>ktobī</em>) ܟܬܘܒܝ “Write!
-(to one woman)”.</li>
-<li><strong>Masculine Plural:</strong> <em>CCūC(w)</em> — add the
-masculine plural <em>waw</em> (<code>-w</code> / <code>-ū</code>, or
-fuller <code>-ūn</code>). E.g., <strong>ktūb(w)</strong>
-(<em>ktobw</em>) ܟܬܘܒܘ “Write! (to a group of men)”.</li>
+<li><strong>Feminine Singular:</strong> <em>CCūC(y)</em> — add a final
+<em>yodh</em> that is written but silent. E.g., <strong>ktūb(y)</strong>
+ܟܬܘܒܝ “Write! (to one woman)”.</li>
+<li><strong>Masculine Plural:</strong> <em>CCūC(w)</em> — add the plural
+<em>waw</em>, also written but silent (a fuller, audible form in
+<em>-ūn</em> exists). E.g., <strong>ktūb(w)</strong> ܟܬܘܒܘ “Write! (to a
+group of men)”.</li>
 <li><strong>Feminine Plural:</strong> <em>CCūCēn</em> — add the feminine
 plural ending <code>-ēn</code> (spelled <code>-yn</code>). E.g.,
-<strong>ktūbēn</strong> (<em>ktobēn</em>) ܟܬܘܒܝܢ “Write! (to a group of
-women)”.</li>
+<strong>ktūbēn</strong> ܟܬܘܒܝܢ “Write! (to a group of women)”.</li>
 </ul>
+<p>In speech, then, the first three forms sound the same; the spelling
+shows whom you are addressing.</p>
+<p><strong>Weak and irregular imperatives.</strong> The weak verbs of
+Lesson 7 form their imperatives as you would expect from their
+imperfects, and three very common verbs are irregular. Learn these by
+heart:</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Verb</th>
+<th style="text-align: left;">Imperative m.sg.</th>
+<th style="text-align: left;">m.pl.</th>
+<th style="text-align: left;">Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>ʾezal</em> (go)</td>
+<td style="text-align: left;">ܙܠ <em>zel</em></td>
+<td style="text-align: left;">ܙܠܘ <em>zel(w)</em></td>
+<td style="text-align: left;">irregular: the Alaph is dropped</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>ʾetā</em> (come)</td>
+<td style="text-align: left;">ܬܐ <em>tā</em></td>
+<td style="text-align: left;">ܬܘ <em>taw</em></td>
+<td style="text-align: left;">irregular</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>ya(h)b</em> (give)</td>
+<td style="text-align: left;">ܗܒ <em>hab</em></td>
+<td style="text-align: left;">ܗܒܘ <em>hab(w)</em></td>
+<td style="text-align: left;">irregular: the Yodh is dropped</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>ʾemar</em> (say)</td>
+<td style="text-align: left;">ܐܡܪ <em>ʾemar</em></td>
+<td style="text-align: left;">ܐܡܪܘ <em>ʾemar(w)</em></td>
+<td style="text-align: left;">I-Alaph, <em>a</em>-class</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>ʾeḥad</em> (seize)</td>
+<td style="text-align: left;">ܐܚܘܕ <em>ʾaḥūd</em></td>
+<td style="text-align: left;">ܐܚܘܕܘ <em>ʾaḥūd(w)</em></td>
+<td style="text-align: left;">I-Alaph, <em>ū</em>-class: the Alaph takes
+<em>a</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>npaq</em> (go out)</td>
+<td style="text-align: left;">ܦܘܩ <em>pūq</em></td>
+<td style="text-align: left;">ܦܘܩܘ <em>pūq(w)</em></td>
+<td style="text-align: left;">I-Nun: the Nun is dropped</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>qām</em> (rise)</td>
+<td style="text-align: left;">ܩܘܡ <em>qūm</em></td>
+<td style="text-align: left;">ܩܘܡܘ <em>qūm(w)</em></td>
+<td style="text-align: left;">hollow</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>ḥzā</em> (see)</td>
+<td style="text-align: left;">ܚܙܝ <em>ḥzī</em></td>
+<td style="text-align: left;">ܚܙܘ <em>ḥzaw</em></td>
+<td style="text-align: left;">III-Yodh</td>
+</tr>
+</tbody>
+</table></div>
 <p><strong>2.3 Complete Paradigm Tables</strong></p>
 <p><strong>Root <em>k-t-b</em> ܟܬܒ (write)</strong></p>
 <div class="tablewrap"><table>
@@ -161,23 +183,25 @@ women)”.</li>
 <tr class="even">
 <td style="text-align: left;">2 f.sg.</td>
 <td style="text-align: left;">ܟܬܘܒܝ</td>
-<td style="text-align: left;"><em>ktūb(y)</em> (<em>ktobī</em>)</td>
+<td style="text-align: left;"><em>ktūb(y)</em></td>
 <td style="text-align: left;">Write! (to one woman)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2 m.pl.</td>
 <td style="text-align: left;">ܟܬܘܒܘ</td>
-<td style="text-align: left;"><em>ktūb(w)</em> (<em>ktobw</em>)</td>
+<td style="text-align: left;"><em>ktūb(w)</em></td>
 <td style="text-align: left;">Write! (to a group of men)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2 f.pl.</td>
 <td style="text-align: left;">ܟܬܘܒܝܢ</td>
-<td style="text-align: left;"><em>ktūbēn</em> (<em>ktobēn</em>)</td>
+<td style="text-align: left;"><em>ktūbēn</em></td>
 <td style="text-align: left;">Write! (to a group of women)</td>
 </tr>
 </tbody>
 </table></div>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 2: The Imperative (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Imperative (continued)</h3>
 <p><strong>Root <em>š-m-ʿ</em> ܫܡܥ (hear — <em>a</em>-vowel
 class)</strong></p>
 <div class="tablewrap"><table>
@@ -205,13 +229,13 @@ class)</strong></p>
 <tr class="even">
 <td style="text-align: left;">2 f.sg.</td>
 <td style="text-align: left;">ܫܡܥܝ</td>
-<td style="text-align: left;"><em>šmaʿ(y)</em> (<em>šmaʿī</em>)</td>
+<td style="text-align: left;"><em>šmaʿ(y)</em></td>
 <td style="text-align: left;">Hear! (to one woman)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2 m.pl.</td>
 <td style="text-align: left;">ܫܡܥܘ</td>
-<td style="text-align: left;"><em>šmaʿ(w)</em> (<em>šmaʿw</em>)</td>
+<td style="text-align: left;"><em>šmaʿ(w)</em></td>
 <td style="text-align: left;">Hear! (to a group of men)</td>
 </tr>
 <tr class="even">
@@ -222,20 +246,23 @@ class)</strong></p>
 </tr>
 </tbody>
 </table></div>
-]]></text></questiontext></question>
-<question type="description"><name><text>Module 3 · Lesson 9 · Section 2: The Imperative (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Imperative (continued)</h3>
 <p><strong>2.4 Derived Stems: Paael and Aphel Imperatives</strong></p>
 <ul>
 <li><strong>Paael Imperative:</strong> Its m.sg. imperative is built
 from the Paael stem without a prefix: <strong>CaCCeC</strong> —
 identical in consonants and vowels to the 3 m.sg. perfect, with the
 characteristic doubled middle radical. E.g., <strong>barrek</strong> ܒܪܟ
-“Bless!”; <strong>ʾallep</strong> ܐܠܦ “Teach!”.</li>
+“Bless!”; <strong>ʾallep</strong> ܐܠܦ “Teach!”. A III-Yodh Paael ends in
+<em>-ā</em> in the imperative: <em>ḥawwī</em> (he showed) <span
+class="math inline">→</span> <strong>ḥawwā</strong> ܚܘܐ “Show!”;
+<em>ṣallī</em> (he prayed) <span class="math inline">→</span>
+<strong>ṣallā</strong> ܨܠܐ “Pray!”.</li>
 <li><strong>Aphel Imperative:</strong> Its m.sg. imperative begins with
 <strong>ʾa-</strong> and has the pattern <strong>ʾaCCeC</strong>
 (identical to the 3 m.sg. perfect). E.g., <strong>ʾappeq</strong> ܐܦܩ
-“Bring out!”; <strong>ʾaqreb</strong> ܐܩܪܒ “Bring near!”;
-<strong>ʾaḥwā</strong> ܐܚܘܐ “Show!”.</li>
+“Bring out!”; <strong>ʾaqreb</strong> ܐܩܪܒ “Bring near!”. In the plural:
+ܐܦܩܘ <em>ʾappeq(w)</em>; for a III-Yodh Aphel, ܐܪܡܘ <em>ʾarmaw</em>
+“Throw!” (m.pl.).</li>
 </ul>
 <p><strong>2.5 Negative Commands</strong></p>
 <blockquote>
@@ -304,6 +331,8 @@ imperfect</td>
 </tr>
 </tbody>
 </table></div>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 2: The Imperative (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Imperative (continued)</h3>
 <p><strong>2.7 Example Commands with Interlinear Gloss</strong></p>
 <div class="tablewrap"><table>
 <colgroup>
@@ -329,7 +358,7 @@ imperfect</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܫܡܥ ܩܠܝ</td>
-<td style="text-align: left;"><em>šmaʿ qāl-y</em></td>
+<td style="text-align: left;"><em>šmaʿ qāl(y)</em></td>
 <td style="text-align: left;">hear! voice-my</td>
 <td style="text-align: left;">Hear my voice!</td>
 </tr>
@@ -346,14 +375,14 @@ imperfect</td>
 <td style="text-align: left;">Do not be afraid!</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">ܐܙܠܘ ܘܐܡܪܘ</td>
-<td style="text-align: left;"><em>ʾezalw w-ʾemarw</em></td>
+<td style="text-align: left;">ܙܠܘ ܘܐܡܪܘ</td>
+<td style="text-align: left;"><em>zel(w) w-ʾemar(w)</em></td>
 <td style="text-align: left;">go-pl.! and-say-pl.!</td>
 <td style="text-align: left;">Go and tell! [m.pl.]</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">ܐܚܘܐ ܠܝ ܐܬܐ</td>
-<td style="text-align: left;"><em>ʾaḥwā lī ʾātā</em></td>
+<td style="text-align: left;">ܚܘܐ ܠܝ ܐܬܐ</td>
+<td style="text-align: left;"><em>ḥawwā lī ʾātā</em></td>
 <td style="text-align: left;">show! to-me sign</td>
 <td style="text-align: left;">Show me a sign!</td>
 </tr>
@@ -369,7 +398,7 @@ noun</strong> — a form derived from the verb root that expresses the
 action in abstract form. In Arabic this is called the
 <strong>maṣdar</strong> (مَصْدَر, “source”); in Hebrew it corresponds to
 the <strong>infinitive construct</strong>. In Syriac it is called the
-<strong>infinitive</strong> and is Always preceded by the prefix
+<strong>infinitive</strong> and always begins with the prefix
 <strong>m-</strong>. In narrative, it appears most commonly as a
 <strong>complementary infinitive</strong> after a verb of beginning,
 ability, desire, or command, introduced by the prefixed preposition
@@ -393,6 +422,8 @@ prefix with <em>-ā-</em> vowel before final radical + <em>-ū</em>. E.g.,
 bring out”.</li>
 </ul>
 <p><strong>3.3 Infinitive Forms — Five Key Verbs</strong></p>
+<p>Not every root is used in every stem. A dash means that the root has
+no verb in that stem (or none that you need).</p>
 <div class="tablewrap"><table>
 <colgroup>
 <col style="width: 20%" />
@@ -415,41 +446,47 @@ bring out”.</li>
 <td style="text-align: left;"><em>k-t-b</em></td>
 <td style="text-align: left;">write</td>
 <td style="text-align: left;"><em>mektab</em> ܡܟܬܒ</td>
-<td style="text-align: left;"><em>mkattābū</em> ܡܟܬܒܘ</td>
-<td style="text-align: left;"><em>maktābū</em> ܡܟܬܒܘ</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">—</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>š-m-ʿ</em></td>
 <td style="text-align: left;">hear</td>
 <td style="text-align: left;"><em>mešmaʿ</em> ܡܫܡܥ</td>
-<td style="text-align: left;"><em>mšammāʿū</em> ܡܫܡܥܘ</td>
-<td style="text-align: left;"><em>mašmāʿū</em> ܡܫܡܥܘ</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>mašmāʿū</em> ܡܫܡܥܘ (cause to
+hear)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><em>q-ṭ-l</em></td>
 <td style="text-align: left;">kill</td>
 <td style="text-align: left;"><em>meqṭal</em> ܡܩܛܠ</td>
-<td style="text-align: left;"><em>mqaṭṭālū</em> ܡܩܛܠܘ</td>
-<td style="text-align: left;"><em>maqṭālū</em> ܡܩܛܠܘ</td>
+<td style="text-align: left;"><em>mqaṭṭālū</em> ܡܩܛܠܘ (massacre)</td>
+<td style="text-align: left;">—</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>p-q-d</em></td>
 <td style="text-align: left;">command</td>
 <td style="text-align: left;"><em>mepqad</em> ܡܦܩܕ</td>
-<td style="text-align: left;"><em>mpaqqādū</em> ܡܦܩܕܘ</td>
-<td style="text-align: left;"><em>mapqādū</em> ܡܦܩܕܘ</td>
+<td style="text-align: left;"><em>mpaqqādū</em> ܡܦܩܕܘ (give orders)</td>
+<td style="text-align: left;"><em>mapqādū</em> ܡܦܩܕܘ (entrust)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><em>y-d-ʿ</em></td>
 <td style="text-align: left;">know</td>
 <td style="text-align: left;"><em>meddaʿ</em> ܡܕܥ</td>
-<td style="text-align: left;"><em>myaddāʿū</em> ܡܝܕܥܘ</td>
-<td style="text-align: left;"><em>mawdāʿū</em> ܡܘܕܥܘ</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>mawdāʿū</em> ܡܘܕܥܘ (make known)</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>3.4 The Critical Construction: <em>l-</em> +
-Infinitive</strong></p>
+
+]]></text></questiontext></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 7</text></name><questiontext format="html"><text><![CDATA[What is the Peal infinitive pattern, and how is it used?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>meCCaC</i>, usually after <i>l-</i>: <i>l-meqṭal</i> 'to kill']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>CāCeC</i>: <i>qāṭel</i>]]></text><feedback format="html"><text><![CDATA[That is the active participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>CCīC</i>: <i>qṭīl</i>]]></text><feedback format="html"><text><![CDATA[That is the passive participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>neCCoC</i>: <i>neqṭūl</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer></question>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 4: The *l-* + Infinitive Construction</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: The *l-* + Infinitive Construction</h3>
+<p><strong>4.1 The Construction</strong></p>
+<p>The infinitive is almost always found with the preposition
+<em>l-</em>.</p>
 <blockquote>
 <p><strong>The l- + Infinitive Construction</strong></p>
 <p>PATTERN: MAIN VERB + <em>l-</em> + INFINITIVE This construction
@@ -458,8 +495,8 @@ hear”. The preposition <em>l-</em> is prefixed directly to the
 infinitive with no space. Compare: Hebrew <em>lamed</em> + infinitive
 construct לִכְתֹּב (<em>liḵtōb</em>).</p>
 </blockquote>
-<p><strong>Eight Example Sentences with <em>l-</em> +
-Infinitive:</strong></p>
+<p><strong>4.2 Eight Example Sentences with <em>l-</em> +
+Infinitive</strong></p>
 <div class="tablewrap"><table>
 <colgroup>
 <col style="width: 25%" />
@@ -528,9 +565,8 @@ Infinitive:</strong></p>
 </table></div>
 
 ]]></text></questiontext></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 7</text></name><questiontext format="html"><text><![CDATA[What is the Peal infinitive pattern, and how is it used?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>meCCaC</i>, usually after <i>l-</i>: <i>l-meqṭal</i> 'to kill']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>CāCeC</i>: <i>qāṭel</i>]]></text><feedback format="html"><text><![CDATA[That is the active participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>CCīC</i>: <i>qṭīl</i>]]></text><feedback format="html"><text><![CDATA[That is the passive participle.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>neCCoC</i>: <i>neqṭūl</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer></question>
-<question type="description"><name><text>Module 3 · Lesson 9 · Section 4: Verbs of Beginning, Ability, and Desire</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Verbs of Beginning, Ability, and Desire</h3>
-<p><strong>4.1 Semi-Modal Verbs</strong></p>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 5: Verbs of Beginning, Ability, and Desire</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Verbs of Beginning, Ability, and Desire</h3>
+<p><strong>5.1 Semi-Modal Verbs</strong></p>
 <p>These verbs function like <strong>modal auxiliaries</strong> in
 English and govern an infinitive complement introduced by
 <strong>l-</strong>. They are extremely common in Syriac narrative.</p>
@@ -556,13 +592,13 @@ wishes to kill.” Related noun: <em>ṣebyānā</em> (will/wish).</li>
 Perfect 3 m.sg. <em>pqad</em> ܦܩܕ. Example: ܦܩܕ ܠܡܐܣܪ <em>pqad
 l-mēsar</em> — “He commanded to bind.”</li>
 <li><strong><em>š-d-r</em> ܫܕܪ — send (Paael):</strong> Perfect 3 m.sg.
-<em>šaddar</em> ܫܕܪ. Example: ܫܕܪ ܐܢܫܐ ܠܡܩܛܠ <em>šaddar ʾnāšē
+<em>šaddar</em> ܫܕܪ. Example: ܫܕܪ ܐܢܫ̈ܐ ܠܡܩܛܠ <em>šaddar ʾnāšē
 l-meqṭal</em> — “He sent men to kill.”</li>
 </ul>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 8</text></name><questiontext format="html"><text><![CDATA[Which verbs take <i>l-</i> + infinitive as their complement?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Verbs of beginning, ability and desire: <i>šarī</i>, <i>mṣē</i>, <i>bāʿē</i>, <i>ṣbā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of motion only]]></text><feedback format="html"><text><![CDATA[Not only motion.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Only the verb 'to be']]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Verbs of speaking only]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
-<question type="description"><name><text>Module 3 · Lesson 9 · Section 5: Military and Emotional Vocabulary — 30 Words</text></name><questiontext format="html"><text><![CDATA[<h3>Section 5: Military and Emotional Vocabulary — 30 Words</h3>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 6: Military and Emotional Vocabulary — 30 Words</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: Military and Emotional Vocabulary — 30 Words</h3>
 <p>This vocabulary set is essential for the narrative of Lesson 9. Learn
 both the verbal root and its noun/adjective derivatives.</p>
 <div class="tablewrap"><table>
@@ -602,7 +638,7 @@ both the verbal root and its noun/adjective derivatives.</p>
 <tr class="even">
 <td style="text-align: left;"><em>ʾ-s-r</em></td>
 <td style="text-align: left;">ܐܣܪ</td>
-<td style="text-align: left;"><em>ʾesar</em> / <em>nēsar</em></td>
+<td style="text-align: left;"><em>ʾesar</em> / <em>nēsūr</em></td>
 <td style="text-align: left;">bind, tie, imprison</td>
 </tr>
 <tr class="odd">
@@ -621,25 +657,25 @@ begin</td>
 <tr class="odd">
 <td style="text-align: left;"><em>ʾ-ḥ-d</em></td>
 <td style="text-align: left;">ܐܚܕ</td>
-<td style="text-align: left;"><em>ʾeḥad</em> / <em>nēḥod</em></td>
+<td style="text-align: left;"><em>ʾeḥad</em> / <em>nēḥūd</em></td>
 <td style="text-align: left;">seize, grab, take hold</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>g-r-r</em></td>
 <td style="text-align: left;">ܓܪ</td>
-<td style="text-align: left;"><em>gar</em> / <em>neggor</em></td>
+<td style="text-align: left;"><em>gar</em> / <em>neggūr</em></td>
 <td style="text-align: left;">drag, pull</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><em>ʿ-r-q</em></td>
 <td style="text-align: left;">ܥܪܩ</td>
-<td style="text-align: left;"><em>ʿraq</em> / <em>neʿroq</em></td>
+<td style="text-align: left;"><em>ʿraq</em> / <em>neʿrūq</em></td>
 <td style="text-align: left;">flee, escape</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>r-d-p</em></td>
 <td style="text-align: left;">ܪܕܦ</td>
-<td style="text-align: left;"><em>rdap</em> / <em>nerdop</em></td>
+<td style="text-align: left;"><em>rdap</em> / <em>nerdūp</em></td>
 <td style="text-align: left;">pursue, chase, persecute</td>
 </tr>
 <tr class="odd">
@@ -658,7 +694,7 @@ begin</td>
 <tr class="odd">
 <td style="text-align: left;"><em>z-ʿ-q</em></td>
 <td style="text-align: left;">ܙܥܩ</td>
-<td style="text-align: left;"><em>zʿaq</em> / <em>nezʿoq</em></td>
+<td style="text-align: left;"><em>zʿaq</em> / <em>nezʿaq</em></td>
 <td style="text-align: left;">cry out, shout</td>
 </tr>
 <tr class="even">
@@ -671,7 +707,7 @@ begin</td>
 <tr class="odd">
 <td style="text-align: left;"><em>k-n-š</em></td>
 <td style="text-align: left;">ܟܢܫ</td>
-<td style="text-align: left;"><em>knaš</em> / <em>neknoš</em></td>
+<td style="text-align: left;"><em>knaš</em> / <em>neknūš</em></td>
 <td style="text-align: left;">gather, assemble</td>
 </tr>
 <tr class="even">
@@ -713,9 +749,9 @@ begin</td>
 <em>šalšaltā</em>)</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><em>gūbbā</em></td>
+<td style="text-align: left;"><em>gubbā</em></td>
 <td style="text-align: left;">ܓܘܒܐ</td>
-<td style="text-align: left;"><em>gūbbā</em></td>
+<td style="text-align: left;"><em>gubbā</em></td>
 <td style="text-align: left;">pit, cistern; den (as in lions’ den)</td>
 </tr>
 <tr class="odd">
@@ -774,15 +810,15 @@ term)</td>
 </table></div>
 
 ]]></text></questiontext></question>
-<question type="description"><name><text>Module 3 · Lesson 9 · Section 6: The Story — Part 9</text></name><questiontext format="html"><text><![CDATA[<h3>Section 6: The Story — Part 9</h3>
+<question type="description"><name><text>Module 3 · Lesson 9 · Section 7: The Story — Part 9</text></name><questiontext format="html"><text><![CDATA[<h3>Section 7: The Story — Part 9</h3>
 <p><strong>The King Commands: Seize Yukhannan</strong></p>
-<p>The narrative reaches a climax. Having heard reports of Yukhannan’s
-preaching and miracles, the king summons his soldiers and issues a
-series of direct commands. The passage is rich in imperatives and
-<em>l-</em> + infinitive constructions, giving you immediate practice in
-the new grammar.</p>
+<p>The narrative reaches a climax. Having heard Yukhannan’s defiant
+answer, the king summons his soldiers and issues a series of direct
+commands. The passage is rich in imperatives and <em>l-</em> +
+infinitive constructions, giving you immediate practice in the new
+grammar.</p>
 <p><strong>Sentence 1</strong></p>
-<p>ܡܠܟܐ ܕܝܢ ܟܕ ܫܡܥ ܡܠܐ ܗܠܝܢ</p>
+<p>ܡܠܟܐ ܕܝܢ ܟܕ ܫܡܥ ܡ̈ܠܐ ܗܠܝܢ</p>
 <p><em>malkā dēn kad šmaʿ mellē hālēn</em></p>
 <p>malkā (the-king) dēn (now/but) kad (when) šmaʿ (he-heard) mellē
 (words) hālēn (these)</p>
@@ -795,32 +831,32 @@ b-qālā (with-voice) rabbā (great)</p>
 <p><em>→ he was filled with anger and cried out with a great
 voice.</em></p>
 <p><strong>Sentence 3</strong></p>
-<p>ܦܩܕ ܠܐܣܛܪܛܝܘܛܘܗܝ</p>
-<p><em>pqad l-ʾesṭraṭyōṭāw-hy</em></p>
-<p>pqad (he-commanded) l-ʾesṭraṭyōṭāw-hy (his-soldiers)</p>
+<p>ܦܩܕ ܠܐܣܛܪ̈ܛܝܘܛܘܗܝ</p>
+<p><em>pqad l-ʾesṭraṭyōṭaw(hy)</em></p>
+<p>pqad (he-commanded) l-ʾesṭraṭyōṭaw(hy) (his-soldiers)</p>
 <p><em>→ He commanded his soldiers:</em></p>
 <p><strong>Sentence 4</strong></p>
-<p>ܐܙܠܘ ܘܐܚܘܕܘ ܠܝܘܚܢܢ</p>
-<p><em>ʾezalw w-ʾeḥodw l-Yūḥannan</em></p>
-<p>ʾezalw (go! [m.pl.]) w-ʾeḥodw (and-seize! [m.pl.]) l-Yūḥannan
+<p>ܙܠܘ ܘܐܚܘܕܘ ܠܝܘܚܢܢ</p>
+<p><em>zel(w) w-ʾaḥūd(w) l-Yūḥannan</em></p>
+<p>zel(w) (go! [m.pl.]) w-ʾaḥūd(w) (and-seize! [m.pl.]) l-Yūḥannan
 (Yukhannan)</p>
 <p><em>→ “Go and seize Yukhannan!”</em></p>
 <p><strong>Sentence 5</strong></p>
-<p>ܘܐܝܬܘ ܘܐܪܡܘܗܝ ܒܐܬܘܢܐ</p>
-<p><em>w-ʾaytāw w-ʾarmāw-hy b-ʾattūnā</em></p>
-<p>w-ʾaytāw (and-bring! [m.pl.]) w-ʾarmāw-hy (and-throw-him!) b-ʾattūnā
-(into-the-furnace)</p>
-<p><em>→ “And bring and throw him into the furnace!”</em></p>
+<p>ܘܐܝܬܐܘܗܝ ܘܐܪܡܘ ܠܗ ܒܐܬܘܢܐ</p>
+<p><em>w-ʾaytaʾū(hy) w-ʾarmaw leh b-ʾattūnā</em></p>
+<p>w-ʾaytaʾū(hy) (and-bring-him! [Aphel m.pl. + suffix]) w-ʾarmaw
+(and-throw! [Aphel m.pl.]) leh (him) b-ʾattūnā (into-the-furnace)</p>
+<p><em>→ “And bring him and throw him into the furnace!”</em></p>
 <p><strong>Sentence 6</strong></p>
-<p>ܠܐ ܬܕܚܠܘܢ ܡܢ ܐܬܘܬܗ</p>
-<p><em>lā tedḥlūn men ʾātwāteh</em></p>
-<p>lā (do-not) tedḥlūn (you-fear [m.pl.]) men (from) ʾātwāteh
-(his-signs)</p>
-<p><em>→ “Do not fear his signs!”</em></p>
+<p>ܠܐ ܬܕܚܠܘܢ ܡܢ ܡ̈ܠܘܗܝ</p>
+<p><em>lā tedḥlūn men mellaw(hy)</em></p>
+<p>lā (do-not) tedḥlūn (you-fear [m.pl.]) men (from) mellaw(hy)
+(his-words)</p>
+<p><em>→ “Do not fear his words!”</em></p>
 <p><strong>Sentence 7</strong></p>
-<p>ܐܣܛܪܛܝܘܛܐ ܫܪܝܘ ܠܡܐܙܠ</p>
-<p><em>ʾesṭraṭyōṭē šarrīw l-mēzal</em></p>
-<p>ʾesṭraṭyōṭē (the-soldiers) šarrīw (began) l-mēzal (to-go)</p>
+<p>ܐܣܛܪ̈ܛܝܘܛܐ ܫܪܝܘ ܠܡܐܙܠ</p>
+<p><em>ʾesṭraṭyōṭē šarrī(w) l-mēzal</em></p>
+<p>ʾesṭraṭyōṭē (the-soldiers) šarrī(w) (began) l-mēzal (to-go)</p>
 <p><em>→ The soldiers began to go.</em></p>
 <p><strong>Sentence 8</strong></p>
 <p>ܒܥܐ ܚܕ ܡܢܗܘܢ ܠܡܗܦܟ</p>
@@ -834,15 +870,15 @@ voice.</em></p>
 zaddīqā (a-righteous-man)</p>
 <p><em>→ He said: “We are not able to kill a righteous man.”</em></p>
 <p><strong>Sentence 10</strong></p>
-<p>ܐܚܪܢܐ ܐܣܪܘ ܐܝܕܘܗܝ ܒܫܫܠܬܐ</p>
-<p><em>ʾaḥrānē ʾesarw ʾīdāw-hy b-šīšaltā</em></p>
-<p>ʾaḥrānē (others) ʾesarw (bound) ʾīdāw-hy (his-hands) b-šīšaltā
+<p>ܐܚܪ̈ܢܐ ܐܣܪܘ ܐܝ̈ܕܘܗܝ ܒܫܫܠܬܐ</p>
+<p><em>ʾaḥrānē ʾesar(w) ʾīdaw(hy) b-šīšaltā</em></p>
+<p>ʾaḥrānē (others) ʾesar(w) (bound) ʾīdaw(hy) (his-hands) b-šīšaltā
 (with-a-chain)</p>
 <p><em>→ Others bound his hands with a chain.</em></p>
 <p><strong>Sentence 11</strong></p>
 <p>ܘܓܪܘܗܝ ܠܘܬ ܐܬܘܢܐ</p>
-<p><em>w-garrū-hy lwāt ʾattūnā</em></p>
-<p>w-garrū-hy (and-they-dragged-him) lwāt (toward) ʾattūnā
+<p><em>w-garrū(hy) lwāt ʾattūnā</em></p>
+<p>w-garrū(hy) (and-they-dragged-him) lwāt (toward) ʾattūnā
 (the-furnace)</p>
 <p><em>→ And they dragged him toward the furnace.</em></p>
 <p><strong>Sentence 12</strong></p>
@@ -855,10 +891,10 @@ zaddīqā (a-righteous-man)</p>
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 9</text></name><questiontext format="html"><text><![CDATA[In the story, why was the king filled with anger?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[He heard the reports about Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The soldiers refused his order.]]></text><feedback format="html"><text><![CDATA[Only one soldier hesitated, later.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan insulted him to his face.]]></text><feedback format="html"><text><![CDATA[Not in this part.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The furnace went out.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 10</text></name><questiontext format="html"><text><![CDATA[What two commands did the king give his soldiers?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Seize Yukhannan, and throw him into the furnace]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Kill Yukhannan, and burn his books]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Bring Yukhannan, and set him free]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Bind Yukhannan, and send him away]]></text><feedback format="html"><text><![CDATA[The soldiers bound him; it was not the order.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 11</text></name><questiontext format="html"><text><![CDATA[What did one soldier say, and why?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA['We are not able to kill a righteous man' — moral hesitation]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['The furnace is too hot' — fear for himself]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['He is a sorcerer' — fear of his signs]]></text><feedback format="html"><text><![CDATA[The king told them not to fear the signs.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['Let us bind him first' — caution]]></text><feedback format="html"><text><![CDATA[Others bound him; he hesitated.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 11</text></name><questiontext format="html"><text><![CDATA[What did one soldier say, and why?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA['We are not able to kill a righteous man' — moral hesitation]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['The furnace is too hot' — fear for himself]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['He is a sorcerer' — fear of his words]]></text><feedback format="html"><text><![CDATA[The king told them not to fear his words.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA['Let us bind him first' — caution]]></text><feedback format="html"><text><![CDATA[Others bound him; he hesitated.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 12</text></name><questiontext format="html"><text><![CDATA[How was Yukhannan restrained, and how did he respond?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[His hands were bound with a chain and he was dragged to the furnace; he did not fear but prayed.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was locked in prison; he wept.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[He was beaten; he fled.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[His feet were bound; he cursed the king.]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 13</text></name><questiontext format="html"><text><![CDATA[In the king's order <i>ʾezlaw w-ʾeḥodw</i>, what are the forms?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine plural imperatives: 'Go! and seize!']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 3 m.pl.: 'they went and seized']]></text><feedback format="html"><text><![CDATA[The king is giving orders.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Infinitives: 'to go and to seize']]></text><feedback format="html"><text><![CDATA[Infinitives take <i>me-</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular imperatives]]></text><feedback format="html"><text><![CDATA[The -w ending is plural.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Which list gives the four Peal imperatives of <i>ʾ-z-l</i> (m.sg., f.sg., m.pl., f.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾezal, ʾezlī, ʾezlaw, ʾezlēn</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlaw, ʾezlī, ʾezlēn</i>]]></text><feedback format="html"><text><![CDATA[-ī is f.sg.; -aw is m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>tēzal, tēzlīn, tēzlūn, tēzlān</i>]]></text><feedback format="html"><text><![CDATA[Those are imperfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlat, ʾezalū, ʾezalēn</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 13</text></name><questiontext format="html"><text><![CDATA[In the king's order <i>zel(w) w-ʾaḥūd(w)</i>, what are the forms?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Masculine plural imperatives: 'Go! and seize!']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 3 m.pl.: 'they went and seized']]></text><feedback format="html"><text><![CDATA[The king is giving orders.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Infinitives: 'to go and to seize']]></text><feedback format="html"><text><![CDATA[Infinitives take <i>me-</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Masculine singular imperatives]]></text><feedback format="html"><text><![CDATA[The (silent) Waw ending is plural.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Which list gives the four Peal imperatives of <i>ʾ-z-l</i> (m.sg., f.sg., m.pl., f.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>zel, zel(y), zel(w), zelēn</i>]]></text><feedback format="html"><text><![CDATA[Correct: this verb is irregular and drops its Alaph in the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>zel, zel(w), zel(y), zelēn</i>]]></text><feedback format="html"><text><![CDATA[The order asked for is m.sg., f.sg., m.pl., f.pl.: silent -(y) is f.sg., silent -(w) is m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>tēzal, tēzlīn, tēzlūn, tēzlān</i>]]></text><feedback format="html"><text><![CDATA[Those are imperfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾezal, ʾezlat, ʾezal(w), ʾezalēn</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 1. What is the Peal imperative m.sg. of <i>ʿ-b-d</i> (do)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܥܒܘܕ <i>ʿbod</i>]]></text><feedback format="html"><text><![CDATA[Correct: drop the prefix of <i>teʿbod</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܥܒܕ <i>ʿbad</i>, 'he did']]></text><feedback format="html"><text><![CDATA[That is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܬܥܒܘܕ <i>teʿbod</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܥܒܕ <i>meʿbad</i>]]></text><feedback format="html"><text><![CDATA[That is the infinitive.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 2. What is the Paael infinitive of <i>š-d-r</i> (send)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[ܡܫܕܪܘ <i>mšaddārū</i>]]></text><feedback format="html"><text><![CDATA[Correct: the Paael infinitive pattern <i>mCaCCāCū</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܫܕܪ <i>šaddar</i>]]></text><feedback format="html"><text><![CDATA[That is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܢܫܕܪ <i>nšadder</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ܡܫܕܪ <i>mšadder</i>]]></text><feedback format="html"><text><![CDATA[Without final -ū, that is the participle.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܫܡܥܝ ܩܠܐ ܕܐܠܗܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Hear the voice of God! (to a woman)]]></text><feedback format="html"><text><![CDATA[Correct: the -ī ending is f.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Hear the voice of God! (to men)]]></text><feedback format="html"><text><![CDATA[The m.pl. ends in -w.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[She heard the voice of God.]]></text><feedback format="html"><text><![CDATA[The 3 f.sg. perfect ends in -at.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[My voice heard God.]]></text><feedback format="html"><text><![CDATA[<i>-ī</i> here is the imperative ending, not 'my'.]]></text></feedback></answer></question>
@@ -866,7 +902,7 @@ zaddīqā (a-righteous-man)</p>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܒܥܐ ܡܠܟܐ ܠܡܐܣܪ ܠܝܘܚܢܢ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king wanted to bind Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct: <i>bāʿē</i> + <i>l-</i> + infinitive.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king bound Yukhannan.]]></text><feedback format="html"><text><![CDATA[<i>l-mēsar</i> is 'to bind'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan wanted to bind the king.]]></text><feedback format="html"><text><![CDATA[<i>malkā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king asked Yukhannan to bind him.]]></text><feedback format="html"><text><![CDATA[Not this.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 20</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܡܨܐ ܐܠܗܐ ܠܡܡܚܐ ܠܐܣܛܪ̈ܛܝܘܛܐ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[God is able to strike the soldiers.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God struck the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>mṣē</i> + infinitive is 'is able to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The soldiers are able to strike God.]]></text><feedback format="html"><text><![CDATA[<i>ʾAlāhā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[God wants to save the soldiers.]]></text><feedback format="html"><text><![CDATA[<i>l-memḥā</i> is 'to strike'.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 21</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: ܨܒܐ ܝܘܚܢܢ ܠܡܨܠܝܘ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Yukhannan wished to pray.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan prayed.]]></text><feedback format="html"><text><![CDATA[<i>ṣbā</i> + infinitive is 'wished to'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan began to pray.]]></text><feedback format="html"><text><![CDATA['Began' is <i>šarī</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan was able to pray.]]></text><feedback format="html"><text><![CDATA['Was able' is <i>ʾeškaḥ</i> or <i>mṣē</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'Do not kill the righteous man!' (m.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>lā teqṭlūn l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Correct: <i>lā</i> + imperfect 2 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭolw l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Syriac does not negate the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭalū l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is 'they did not kill'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā teqṭūl l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is m.sg.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 22</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'Do not kill the righteous man!' (m.pl.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>lā teqṭlūn l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Correct: <i>lā</i> + imperfect 2 m.pl.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭūl(w) l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[Syriac does not negate the imperative.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā qṭal(w) l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is 'they did not kill'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>lā teqṭūl l-zaddīqā</i>]]></text><feedback format="html"><text><![CDATA[That is m.sg.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 23</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'He began to pray'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>šarī l-mṣallāyū</i>]]></text><feedback format="html"><text><![CDATA[Correct: Paael infinitive of <i>ṣ-l-y</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ṣallī</i>]]></text><feedback format="html"><text><![CDATA[That is 'he prayed'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-mṣallāyū</i>]]></text><feedback format="html"><text><![CDATA[That is 'he wants to pray'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>šarī ṣallī</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 3 · Lesson 9 · Check 24</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'She wants to read the book'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>bāʿyā l-meqrā ktābā</i>]]></text><feedback format="html"><text><![CDATA[Correct: f.sg. participle <i>bāʿyā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿē l-meqrā ktābā</i>]]></text><feedback format="html"><text><![CDATA[<i>bāʿē</i> is m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qrāt ktābā</i>]]></text><feedback format="html"><text><![CDATA[That is 'she read the book'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>bāʿyā qrī ktābā</i>]]></text><feedback format="html"><text><![CDATA[The complement needs <i>l-</i> + infinitive.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 3 · Lesson 9 · Section 10: Grammatical Summary Box</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary Box</h3>
@@ -897,22 +933,20 @@ stem)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Feminine Singular</td>
-<td style="text-align: left;"><em>CCūC</em> + <em>-y</em>
-(<em>-ī</em>)</td>
-<td style="text-align: left;"><em>ktūb(y)</em> (<em>ktobī</em>)</td>
+<td style="text-align: left;"><em>CCūC</em> + silent <em>-(y)</em></td>
+<td style="text-align: left;"><em>ktūb(y)</em></td>
 <td style="text-align: left;">ܟܬܘܒܝ</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Masculine Plural</td>
-<td style="text-align: left;"><em>CCūC</em> + <em>-w</em>
-(<em>-ū</em>)</td>
-<td style="text-align: left;"><em>ktūb(w)</em> (<em>ktobw</em>)</td>
+<td style="text-align: left;"><em>CCūC</em> + silent <em>-(w)</em></td>
+<td style="text-align: left;"><em>ktūb(w)</em></td>
 <td style="text-align: left;">ܟܬܘܒܘ</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Feminine Plural</td>
 <td style="text-align: left;"><em>CCūC</em> + <em>-ēn</em></td>
-<td style="text-align: left;"><em>ktūbēn</em> (<em>ktobēn</em>)</td>
+<td style="text-align: left;"><em>ktūbēn</em></td>
 <td style="text-align: left;">ܟܬܘܒܝܢ</td>
 </tr>
 </tbody>
@@ -964,7 +998,8 @@ ending</td>
 l-mektab</em> = He began to write <em>mṣē l-mešmaʿ</em> = He is able to
 hear <em>bāʿē l-mēzal</em> = He wants to go <em>pqad l-mēsar</em> = He
 commanded to bind NEGATIVE: <em>lā</em> + IMPERFECT (not imperative!)
-for prohibitions</p>
+for prohibitions IRREGULAR IMPERATIVES: <em>zel</em> (go!), <em>tā</em>
+(come!), <em>hab</em> (give!)</p>
 </blockquote>
 
 ]]></text></questiontext></question>

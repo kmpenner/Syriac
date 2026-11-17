@@ -14,13 +14,13 @@
 
 **Quick Summary**
 
-In Lesson 1, we established the basic building blocks of Syriac syntax. We learned that Syriac sentences do not strictly require a "to be" verb; rather, placing a subject and predicate side-by-side with a matching independent pronoun acts as an equational sentence (e.g., *Malkā hū ṭābā* — "The king [is] good"). We also looked at the absolute, construct, and emphatic states of nouns, with the emphatic ending in `ā` (Alaph) acting as the default dictionary form.
+In Lesson 1, we established the basic building blocks of Syriac syntax. We learned that Syriac sentences do not strictly require a "to be" verb; rather, placing a subject and predicate side-by-side with a matching independent pronoun acts as an equational sentence (e.g., *Malkā ṭāb hū* — "The king [is] good"). We also looked at the absolute, construct, and emphatic states of nouns, with the emphatic ending in `ā` (Alaph) acting as the default dictionary form.
 
 **5-Question Warm-Up Drill**
 
 *(Answers in Section 9)*
 
-1. Translate: *ʾAlāhā rabbā hū*.
+1. Translate: *ʾAlāhā rab hū*.
 2. What is the Syriac construct state for "word of" (from *meltā*)?
 3. How do you say "We" in Syriac?
 4. What particle is used to express "of", "who", or "that"?
@@ -75,19 +75,18 @@ To turn "writing" into "I am writing," Syriac places a personal pronoun after th
 
 | Person | Independent | Analytic Spelling | Fused Enclitic Form | Translation |
 | :--- | :--- | :--- | :--- | :--- |
-| **1 c.sg.** | ʾenā | ܟܬܒ ܐܢܐ (*kāteb-nā* / f. *kātbā-nā*) | *kāteb-nā* / *kātbā-nā* | I am writing |
+| **1 c.sg.** | ʾenā | ܟܬܒ ܐܢܐ (*kāteb-nā* / f. ܟܬܒܐ ܐܢܐ *kātbā-nā*) | ܟܬܒܢܐ (*kātebnā* / f. *kātbānā*) | I am writing |
 | **2 m.sg.** | ʾant | ܟܬܒ ܐܢܬ (*kāteb ʾant*) | ܟܬܒܬ (*kātbat*) | You (m) are writing |
-| **2 f.sg.** | ʾanti | ܟܬܒܐ ܐܢܬܝ (*kātbā ʾanti*) | ܟܬܒܬܝ (*kātbāt(y)*) | You (f) are writing |
+| **2 f.sg.** | ʾant(y) | ܟܬܒܐ ܐܢܬܝ (*kātbā ʾant(y)*) | ܟܬܒܬܝ (*kātbat(y)*) | You (f) are writing |
 | **3 m.sg.** | hū | ܟܬܒ (*kāteb*) / ܟܬܒ ܗܘ (*kāteb-hū*) | *kāteb* | He is writing / writes |
 | **3 f.sg.** | hī | ܟܬܒܐ (*kātbā*) / ܟܬܒܐ ܗܝ (*kātbā-hī*) | *kātbā* | She is writing / writes |
 | **1 c.pl.** | ḥnan | ܟܬܒܝܢ ܚܢܢ (*kātbīn ḥnan*) | ܟܬܒܝܢܢ (*kātbīnan* / f. *kātbānan*) | We are writing |
 | **2 m.pl.** | ʾantūn | ܟܬܒܝܢ ܐܢܬܘܢ (*kātbīn ʾantūn*) | ܟܬܒܝܬܘܢ (*kātbītūn*) | You (m.pl) are writing |
-| **2 f.pl.** | ʾantēn | ܟܬܒܢ ܐܢܬܝܢ (*kātbān ʾantēn*) | ܟܬܒܬܝܢ (*kātbātēn*) | You (f.pl) are writing |
+| **2 f.pl.** | ʾantēn | ܟܬܒ̈ܢ ܐܢܬܝܢ (*kātbān ʾantēn*) | ܟܬܒ̈ܬܝܢ (*kātbātēn*) | You (f.pl) are writing |
 | **3 m.pl.** | hennōn | ܟܬܒܝܢ (*kātbīn*) | *kātbīn* | They (m) are writing |
-| **3 f.pl.** | hennēn | ܟܬܒܢ (*kātbān*) | *kātbān* | They (f) are writing |
+| **3 f.pl.** | hennēn | ܟܬܒ̈ܢ (*kātbān*) | *kātbān* | They (f) are writing |
 
-*\*In the 3rd person singular, the participle usually stands alone without an enclitic.*
-*\*\*In the 3rd person plural, the plural suffix (-īn / -ān) is sufficient; no enclitic is added.*
+*Notes: In the 3rd person singular, the participle usually stands alone without an enclitic. In the 3rd person plural, the plural ending (-īn / -ān) is sufficient; no enclitic is added. The feminine plural participle, like other feminine plural forms, is normally written with the plural dots (syāmē): ܟܬܒ̈ܢ.*
 
 **2. The Peal Active Participle Declension (Root `k-t-b`)**
 
@@ -97,7 +96,7 @@ To turn "writing" into "I am writing," Syriac places a personal pronoun after th
 | **Masc. Sg.** | ܟܬܒ | kāteb |
 | **Fem. Sg.** | ܟܬܒܐ | kātbā |
 | **Masc. Pl.** | ܟܬܒܝܢ | kātbīn |
-| **Fem. Pl.** | ܟܬܒܢ | kātbān |
+| **Fem. Pl.** | ܟܬܒ̈ܢ | kātbān |
 
 ---
 
@@ -115,18 +114,35 @@ When the active participle drives the sentence, the word order is very fluid, bu
 #### Section 6: Vocabulary (Strong Verbs, Nouns & Adverbs)
 
 
-| Root / Word | Peal Ptcp / Form | Meaning | Adverb/Particle | Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| ܟ.ܬ.ܒ | kāteb | to write | ܗܫܐ (hāšā) | now |
-| ܐ.ܙ.ܠ | ʾāzel | to go | ܕܝܢ (dēn) | but, then, however |
-| ܐ.ܡ.ܪ | ʾāmer | to speak/say | ܬܡܢ (tammān) | there |
-| ܫ.ܡ.ܥ | šāmaʿ* | to hear | ܠܥܠ (lʿel) | above |
-| ܚ.ܙ.ܝ | ܚܙܐ (ḥāzē) | to see | ܗܪܟܐ (harkā) | here |
-| ܥ.ܒ.ܕ | ʿābed | to do/make | ܥܡ (ʿam) | with |
-| ܢ.ܛ.ܪ | nāṭer | to keep/guard| ܥܠ (ʿal) | upon, against |
-| ܪ.ܕ.ܦ | rādep | to pursue | ܡܢ (men) | from |
-| ܫ.ܒ.ܩ | šābeq | to leave | ܐܝܬ (ʾīt) | there is / are |
-| ܢ.ܦ.ܩ | nāpeq | to go out | ܬܠܡܝܕܐ (talmīdā) | disciple (pl. *talmīdē*) |
+**Verbs**
+
+| Root | Peal Participle (m.sg.) | Meaning |
+| :--- | :--- | :--- |
+| ܟ.ܬ.ܒ | kāteb | to write |
+| ܐ.ܙ.ܠ | ʾāzel | to go |
+| ܐ.ܡ.ܪ | ʾāmer | to speak, say |
+| ܫ.ܡ.ܥ | šāmaʿ* | to hear |
+| ܚ.ܙ.ܝ | ܚܙܐ (ḥāzē) | to see |
+| ܥ.ܒ.ܕ | ʿābed | to do, make |
+| ܢ.ܛ.ܪ | nāṭer | to keep, guard |
+| ܪ.ܕ.ܦ | rādep | to pursue |
+| ܫ.ܒ.ܩ | šābeq | to leave |
+| ܢ.ܦ.ܩ | nāpeq | to go out |
+
+**Adverbs, Prepositions and Other Words**
+
+| Word | Transliteration | Meaning |
+| :--- | :--- | :--- |
+| ܗܫܐ | hāšā | now |
+| ܕܝܢ | dēn | but, then, however |
+| ܬܡܢ | tammān | there |
+| ܠܥܠ | lʿel | above |
+| ܗܪܟܐ | harkā | here |
+| ܥܡ | ʿam | with |
+| ܥܠ | ʿal | upon, against |
+| ܡܢ | men | from |
+| ܐܝܬ | ʾīt | there is / are |
+| ܬܠܡܝܕܐ | talmīdā | disciple (pl. ܬܠܡܝ̈ܕܐ *talmīdē*) |
 
 *\*Note: Roots ending in gutturals (like ʿAyn) change the `e` to an `a` (šāmaʿ instead of šāmeʿ). For III-Yodh roots like ḥ-z-y ("see"), the m.pl. participle is ḥāzēn (ܚܙܝܢ), contracting to ḥāzēnan ("we see") or ḥāzētūn ("you [m.pl.] see").*
 
@@ -141,7 +157,7 @@ When the active participle drives the sentence, the word order is very fluid, bu
 
 **Sentence 1**
 
-ܝܘܚܢܢ ܐܡܪ ܠܬܠܡܝܕܐ ܕܐܝܬ ܠܗ
+ܝܘܚܢܢ ܐܡܪ ܠܬܠܡܝ̈ܕܐ ܕܐܝܬ ܠܗ
 Yūḥannan ʾāmer l-talmīdē d-ʾīt leh.
 Yūḥannan (John) ʾāmer (is-speaking) l- (to) talmīdē (the-disciples) d- (that) ʾīt (there-are) leh (to-him).
 → Yukhannan is speaking to the disciples that are his (lit. "that there are to him", previewing Lesson 4's possession idiom).
@@ -162,7 +178,7 @@ Yūḥannan (John) ʾāmer (is-speaking) l- (to) talmīdē (the-disciples) d- (t
 
 **Sentence 4**
 
-ܬܠܡܝܕܐ ܫܡܥܝܢ ܡܠܬܐ ܕܝܘܚܢܢ
+ܬܠܡܝ̈ܕܐ ܫܡܥܝܢ ܡܠܬܐ ܕܝܘܚܢܢ
 talmīdē šāmʿīn meltā d-Yūḥannan.
 talmīdē (the-disciples) šāmʿīn (are-hearing) meltā (the-word) d- (of) Yūḥannan (John).
 → The disciples hear the word of Yukhannan.
@@ -199,7 +215,7 @@ Identify the gender and number of the following participles.
 
 1. ܟܬܒܝܢ (kātbīn)
 2. ܫܡܥܐ (šāmʿā)
-3. ܢܦܩܢ (nāpqān)
+3. ܢܦܩ̈ܢ (nāpqān)
 4. ܪܕܦ (rādep)
 
 **Exercise 2: Conjugation Drill**
@@ -259,9 +275,9 @@ Re-read Section 7 and answer:
 
 **Exercise 2: Conjugation Drill**
 
-1. *ʿābed-nā* (ܥܒܕ ܐܢܐ)
+1. *ʿābed-nā* (ܥܒܕ ܐܢܐ, or fused ܥܒܕܢܐ)
 2. *ʿābdīn ḥnan* or fused *ʿābdīnan* (ܥܒܕܝܢ ܚܢܢ / ܥܒܕܝܢܢ)
-3. *ʿābdā ʾanti* or fused *ʿābdāt(y)* (ܥܒܕܐ ܐܢܬܝ / ܥܒܕܬܝ)
+3. *ʿābdā ʾant(y)* or fused *ʿābdat(y)* (ܥܒܕܐ ܐܢܬܝ / ܥܒܕܬܝ)
 4. *ʿābdīn* (ܥܒܕܝܢ — no enclitic needed for 3rd person pl)
 
 **Exercise 3: Translation Drill**
@@ -294,7 +310,7 @@ Re-read Section 7 and answer:
 
 | English | Participle | Analytic Spelling | Fused Enclitic Form |
 | :--- | :--- | :--- | :--- |
-| I write (m) | kāteb | ܟܬܒ ܐܢܐ (*kāteb ʾenā*) | *kāteb-nā* |
+| I write (m) | kāteb | ܟܬܒ ܐܢܐ (*kāteb ʾenā*) | ܟܬܒܢܐ (*kātebnā*) |
 | You write (m) | kāteb | ܟܬܒ ܐܢܬ (*kāteb ʾant*) | ܟܬܒܬ (*kātbat*) |
 | He writes | kāteb | ܟܬܒ (*kāteb*) | *kāteb* / *kāteb-hū* |
 | We write (m) | kātbīn | ܟܬܒܝܢ ܚܢܢ (*kātbīn ḥnan*) | ܟܬܒܝܢܢ (*kātbīnan*) |
@@ -303,7 +319,7 @@ Re-read Section 7 and answer:
 
 #### Section 11: Additional Vocabulary
 
-The following 31 high-frequency words supplement this lesson's vocabulary, focusing on nouns and derived verbal nouns relevant to narrative present usage.
+The following 31 words supplement this lesson's vocabulary. Most are nouns built on verbal roots, so that you begin to see how one root yields a family of words.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -313,14 +329,14 @@ The following 31 high-frequency words supplement this lesson's vocabulary, focus
 | ܦܓܥܐ | pegʿā | m. noun | encounter, meeting | from root p-g-ʿ (to meet) |
 | ܨܒܥܐ | ṣebʿā | f. noun | finger | body part |
 | ܦܘܠܚܢܐ | pūlḥānā | m. noun | labor, service | from root p-l-ḥ (to serve) |
-| ܢܛܘܪܬܐ | nāṭōrtā | f. noun | guard, custody | from root n-ṭ-r (to guard) |
+| ܢܛܘܪܬܐ | nṭūrtā | f. noun | watching, custody | from root n-ṭ-r (to guard) |
 | ܒܣܝܡܘܬܐ | bassīmūtā | f. noun | kindness, gentleness | from root b-s-m (to be pleasant) |
 | ܠܒܟܬܐ | lebkātā | f. noun | capture, hold | from root l-b-k (to hold) |
 | ܡܣܟܢܘܬܐ | meskēnūtā | f. noun | poverty, want | abstract noun |
 | ܦܠܓܘܬܐ | palgūtā | f. noun | division, half | from root p-l-g (to divide) |
 | ܩܠܦܬܐ | qlāptā | f. noun | shell, bark, scale | |
 | ܪܘܓܙܐ | rūgzā | m. noun | rage, wrath | from root r-g-z (to be angry) |
-| ܝܕܥܬܐ | īdaʿtā | f. noun | knowledge | from root y-d-ʿ (to know) |
+| ܝܕܥܬܐ | ʾīdaʿtā | f. noun | knowledge | from root y-d-ʿ (to know) |
 | ܟܦܪܐ | kaprā | m. noun | village, hamlet | place noun |
 | ܦܬܚܐ | petḥā | m. noun | opening, commencement | from root p-t-ḥ (to open) |
 | ܓܡܝܪܘܬܐ | gmīrūtā | f. noun | completion, perfection | from root g-m-r (to complete) |
@@ -330,11 +346,11 @@ The following 31 high-frequency words supplement this lesson's vocabulary, focus
 | ܡܫܘܚܬܐ | mšūḥtā | f. noun | measure, standard | from root m-š-ḥ (to measure) |
 | ܫܠܡܘܬܐ | šalmūtā | f. noun | completeness, concord | from root š-l-m (to be whole) |
 | ܕܪܓܐ | dargā | m. noun | step, stair, rank | from root d-r-g |
-| ܣܝܓܐ | syāgā | m. noun | enclosure, hedge | from root s-w-g (to fence) |
-| ܫܘܚܠܦܐ | šuḥlāpā | m. noun | change, alteration | from root š-ḥ-l-p (to change) |
+| ܣܝܓܐ | syāgā | m. noun | enclosure, hedge | from root s-y-g (to fence) |
+| ܫܘܚܠܦܐ | šūḥlāpā | m. noun | change, alteration | from root š-ḥ-l-p (to change) |
 | ܕܒܝܩܘܬܐ | dbīqūtā | f. noun | clinging, adhesion | from root d-b-q (to cling) |
 | ܩܕܝܫܘܬܐ | qaddīšūtā | f. noun | holiness, sanctity | from root q-d-š (to be holy) |
 | ܪܒܘܬܐ | rabbūtā | f. noun | greatness, majesty | from root r-b-b (to be great) |
 | ܥܪܛܠܝܘܬܐ | ʿarṭlāyūtā | f. noun | nakedness, exposure | from root ʿ-r-ṭ-l (to be naked) |
-| ܕܘܒܪܐ | dūbbārā | m. noun | conduct, way of life | from root d-b-r (to lead) |
+| ܕܘܒܪܐ | dubbārā | m. noun | conduct, way of life | from root d-b-r (to lead) |
 | ܪܘܡܐ | rawmā | m. noun | height, elevation | from root r-w-m (to be high) |

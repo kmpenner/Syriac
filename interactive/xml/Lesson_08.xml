@@ -11,21 +11,21 @@
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 2 · Lesson 8 · Section 1: Review of Lesson 7</text></name><questiontext format="html"><text><![CDATA[<h3>Section 1: Review of Lesson 7</h3>
 <p><strong>Quick Summary</strong></p>
-<p>In Lesson 7, we tackled “weak roots”—verbs that contain an Alaph (ܐ)
-or Yodh (ܝ). We saw that while they can lose or transform their weak
-consonants in conjugation (e.g., <em>ʾ-m-r</em> <span
-class="math inline">→</span> <em>ʾemar</em>; <em>ḥ-z-y</em> <span
-class="math inline">→</span> <em>ḥzā</em>), they still behave
-syntactically like normal verbs.</p>
+<p>In Lesson 7, we tackled “weak roots”—verbs whose roots contain a weak
+letter: Alaph, Yodh, Waw, or an initial Nun. We saw that while they can
+lose or transform their weak consonants in conjugation (e.g.,
+<em>ʾ-m-r</em> <span class="math inline">→</span> <em>ʾemar</em>;
+<em>ḥ-z-y</em> <span class="math inline">→</span> <em>ḥzā</em>), they
+still behave syntactically like normal verbs.</p>
 <p><strong>5-Question Warm-Up Drill</strong></p>
 <p><em>(Answers in Section 9)</em></p>
 <ol type="1">
 <li>What does the Yodh in a III-Yodh verb turn into in the 3rd masc
 singular perfect (e.g., <em>ḥ-z-y</em>)?</li>
 <li>Translate: <em>ʾEmar malkā</em>.</li>
-<li>Identify the root of <em>īdaʿ</em> (he knew).</li>
-<li>Translate: <em>ʾAytiwhy</em> (ܐܝܬܝܘܗܝ, bring him!). Why is the
-suffix <em>-hy</em> used instead of <em>-eh</em>?</li>
+<li>Identify the root of <em>ʾīdaʿ</em> (he knew).</li>
+<li>What does the <em>-hy</em> at the end of <em>ʾaytaʾū(hy)</em>
+(ܐܝܬܐܘܗܝ, “bring him!”) stand for?</li>
 <li>How would you say “I saw” (1 c.sg. of <em>ḥ-z-y</em>)?</li>
 </ol>
 <hr />
@@ -33,8 +33,8 @@ suffix <em>-hy</em> used instead of <em>-eh</em>?</li>
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 1</text></name><questiontext format="html"><text><![CDATA[Warm-up 1. What does the Yodh of a III-Yodh verb become in the 3 m.sg. perfect (e.g. ḥ-z-y)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[A long ā: <i>ḥzā</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A long ī: <i>ḥzī</i>]]></text><feedback format="html"><text><![CDATA[Not in the 3 m.sg.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[It is kept as a consonant: <i>ḥzay</i>]]></text><feedback format="html"><text><![CDATA[The 3 m.sg. ends in ā.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A doubled consonant]]></text><feedback format="html"><text><![CDATA[Doubling marks the Paael.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 2</text></name><questiontext format="html"><text><![CDATA[Warm-up 2. Translate: <i>ʾEmar malkā</i>.]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king said.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king says.]]></text><feedback format="html"><text><![CDATA[<i>ʾemar</i> is the perfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Say to the king!]]></text><feedback format="html"><text><![CDATA[No imperative here.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The word of the king]]></text><feedback format="html"><text><![CDATA['Word' is <i>meltā</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. What is the root of <i>īdaʿ</i> (he knew)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[y-d-ʿ, a I-Yodh root]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ʾ-d-ʿ, a I-Alaph root]]></text><feedback format="html"><text><![CDATA[The initial ī comes from Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[d-ʿ-ʿ]]></text><feedback format="html"><text><![CDATA[The first radical is Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ʿ-d-y]]></text><feedback format="html"><text><![CDATA[Not this root.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. In <i>ʾaytiwhy</i> 'bring him!', why is the suffix <i>-hy</i> used instead of <i>-eh</i>?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[It attaches to a word ending in a vowel (the imperative <i>ʾaytī</i>).]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because the object is plural.]]></text><feedback format="html"><text><![CDATA[<i>-hy</i> here is 'him'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because it is a feminine object.]]></text><feedback format="html"><text><![CDATA[The feminine suffix is <i>-āh</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Because imperatives never take <i>-eh</i>.]]></text><feedback format="html"><text><![CDATA[The rule is about the preceding vowel.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 3</text></name><questiontext format="html"><text><![CDATA[Warm-up 3. What is the root of <i>ʾīdaʿ</i> (he knew)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[y-d-ʿ, a I-Yodh root]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ʾ-d-ʿ, a I-Alaph root]]></text><feedback format="html"><text><![CDATA[The initial ī comes from Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[d-ʿ-ʿ]]></text><feedback format="html"><text><![CDATA[The first radical is Yodh.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[ʿ-d-y]]></text><feedback format="html"><text><![CDATA[Not this root.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 4</text></name><questiontext format="html"><text><![CDATA[Warm-up 4. In <i>ʾaytaʾū(hy)</i> (ܐܝܬܐܘܗܝ) 'bring him!', what is the final <i>-(hy)</i>?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The 3 m.sg. object suffix 'him', in the form used after a vowel; it is written but silent.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A plural object, 'them'.]]></text><feedback format="html"><text><![CDATA['Them' is the separate word <i>ʾennōn</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[A feminine object, 'her'.]]></text><feedback format="html"><text><![CDATA[The feminine suffix is <i>-āh</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Part of the root ʾ-t-y.]]></text><feedback format="html"><text><![CDATA[The root letters are Alaph, Taw and Yodh; <i>-(hy)</i> is a suffix.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 5</text></name><questiontext format="html"><text><![CDATA[Warm-up 5. How do you say 'I saw' (ḥ-z-y, 1 c.sg.)?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ḥzēt</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ḥzā</i>]]></text><feedback format="html"><text><![CDATA[That is 'he saw'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ḥzayn</i>]]></text><feedback format="html"><text><![CDATA[That is 'we saw'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾeḥzē</i>]]></text><feedback format="html"><text><![CDATA[That is the imperfect, 'I will see'.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 2 · Lesson 8 · Section 2: The Semitic Prefix Conjugation — Overview</text></name><questiontext format="html"><text><![CDATA[<h3>Section 2: The Semitic Prefix Conjugation — Overview</h3>
 <p>We have learned that the Participle handles the <em>Present</em>
@@ -71,10 +71,10 @@ vowel written with <em>waw</em> between the second and third consonant:
 <em>-ktūb</em> (<em>-ktob</em>). We then add the person-marking
 prefixes:</p>
 <ul>
-<li><em>n-</em> (He / They m / We) <span class="math inline">→</span>
+<li><em>n-</em> (He / They / We) <span class="math inline">→</span>
 <em>n-ek-tūb</em> <span class="math inline">→</span>
 <strong>nektūb</strong> (He will write).</li>
-<li><em>t-</em> (You / She / They f) <span class="math inline">→</span>
+<li><em>t-</em> (You / She) <span class="math inline">→</span>
 <strong>tektūb</strong> (You will write / She will write).</li>
 <li><em>ʾ-</em> (I) <span class="math inline">→</span>
 <strong>ʾektūb</strong> (I will write).</li>
@@ -178,7 +178,7 @@ pronunciation, and the theme vowel is <em>ū</em> (West Syriac) /
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>3 f.pl.</strong></td>
-<td style="text-align: left;">ܢܩܛܠܢ</td>
+<td style="text-align: left;">ܢܩܛ̈ܠܢ</td>
 <td style="text-align: left;">neqṭlān</td>
 <td style="text-align: left;">they (f.pl.) will kill</td>
 <td style="text-align: left;">n-</td>
@@ -215,6 +215,69 @@ will kill” (</em>neqṭūl<em>) are identical in spelling and
 pronunciation! Likewise, “She will kill” (</em>teqṭūl<em>) and “You
 (m.sg.) will kill” (</em>teqṭūl<em>) are identical. Context almost
 always makes the subject clear.</em></p>
+<p><strong>Weak Verbs in the Peal Imperfect</strong></p>
+<p>The weak classes of Lesson 7 behave predictably once the prefix is
+added:</p>
+<div class="tablewrap"><table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Class</th>
+<th style="text-align: left;">Perfect</th>
+<th style="text-align: left;">Imperfect 3 m.sg.</th>
+<th style="text-align: left;">Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>I-Alaph</strong></td>
+<td style="text-align: left;">ʾemar, ʾekal</td>
+<td style="text-align: left;">ܢܐܡܪ nēmar, ܢܐܟܘܠ nēkūl</td>
+<td style="text-align: left;">Alaph is silent; the prefix vowel
+lengthens to <em>ē</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>I-Yodh</strong></td>
+<td style="text-align: left;">ʾīdaʿ, ʾīteb</td>
+<td style="text-align: left;">ܢܕܥ neddaʿ, ܢܬܒ netteb</td>
+<td style="text-align: left;">the Yodh assimilates, doubling the next
+consonant</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>I-Nun</strong></td>
+<td style="text-align: left;">npaq</td>
+<td style="text-align: left;">ܢܦܘܩ neppūq</td>
+<td style="text-align: left;">the Nun assimilates</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Hollow</strong></td>
+<td style="text-align: left;">qām, sām</td>
+<td style="text-align: left;">ܢܩܘܡ nqūm, ܢܣܝܡ nsīm</td>
+<td style="text-align: left;">no prefix vowel; long <em>ū</em> or
+<em>ī</em> in the stem</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>III-Yodh</strong></td>
+<td style="text-align: left;">ḥzā</td>
+<td style="text-align: left;">ܢܚܙܐ neḥzē</td>
+<td style="text-align: left;">ends in <em>-ē</em>; plural ܢܚܙܘܢ
+neḥzōn</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>ʾ-t-y, h-w-y</strong></td>
+<td style="text-align: left;">ʾetā, hwā</td>
+<td style="text-align: left;">ܢܐܬܐ nētē, ܢܗܘܐ nehwē</td>
+<td style="text-align: left;">combine the rules above</td>
+</tr>
+</tbody>
+</table></div>
+]]></text></questiontext></question>
+<question type="description"><name><text>Module 2 · Lesson 8 · Section 4: Imperfect Tense Paradigms (Peal, Paael, Aphel) (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Imperfect Tense Paradigms (Peal, Paael, Aphel) (continued)</h3>
 <p><strong>2. The Paael Imperfect (Root <code>q-d-š</code>, to
 sanctify)</strong></p>
 <p>In the Paael the prefix consonant has no full vowel
@@ -256,8 +319,6 @@ is doubled.</p>
 </tr>
 </tbody>
 </table></div>
-]]></text></questiontext></question>
-<question type="description"><name><text>Module 2 · Lesson 8 · Section 4: Imperfect Tense Paradigms (Peal, Paael, Aphel) (continued)</text></name><questiontext format="html"><text><![CDATA[<h3>Section 4: Imperfect Tense Paradigms (Peal, Paael, Aphel) (continued)</h3>
 <p><strong>3. The Aphel Imperfect (Root <code>n-p-q</code>, Aphel =
 <code>ʾappeq</code> to bring out)</strong></p>
 <p>In the Aphel, the original <em>ʾa-</em> prefix of the perfect drops
@@ -392,7 +453,7 @@ will see.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܝܬܒ</td>
-<td style="text-align: left;">īteb (Peal)</td>
+<td style="text-align: left;">ʾīteb (Peal)</td>
 <td style="text-align: left;">to sit/enthrone</td>
 <td style="text-align: left;">enthronement</td>
 </tr>
@@ -414,6 +475,13 @@ will see.</td>
 <td style="text-align: left;">to judge</td>
 <td style="text-align: left;">Active verb of <em>dīnā</em></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;">ܐܢ</td>
+<td style="text-align: left;">ʾen</td>
+<td style="text-align: left;">if</td>
+<td style="text-align: left;">Introduces a condition; negative <em>ʾen
+lā</em></td>
+</tr>
 </tbody>
 </table></div>
 <hr />
@@ -428,21 +496,20 @@ express his threats and purpose concerning Yukhannan’s future.</em></p>
 Yūḥannan (John) qdām (before) malkā (the-king) d-dīnā (of-judgment). →
 Yukhannan stood before the king of judgment.</p>
 <p><strong>Sentence 2</strong></p>
-<p>ܘܝܬܒ ܡܠܟܐ ܘܐܡܪ ܠܗ w-īteb malkā w-ʾemar leh: w-īteb (and-sat) malkā
+<p>ܘܝܬܒ ܡܠܟܐ ܘܐܡܪ ܠܗ w-ʾīteb malkā w-ʾemar leh: w-ʾīteb (and-sat) malkā
 (the-king) w-ʾemar (and-said) leh (to-him): → And the king sat and said
 to him:</p>
 <p><strong>Sentence 3</strong></p>
-<p>ܥܒܕ ܐܢܐ ܕܝܢܐ ܕܐܥܒܕ ܒܝܫܐ ܠܟ ʿābed-nā dīnā, d-ʾeʿbed bīšā lāḵ! ʿābed
-(doing/making) -nā (am-I) dīnā (judgment), d- (PURP) + ʾeʿbed
-(1sg.IMPF.PEAL of ʿ-b-d, ‘do/make’ = “in order that I might do”) bīšā
-(evil) lāḵ (to-you)! → “I am rendering judgment, that I might do evil to
-you!” <em>Note: ʾeʿbed is a Peal imperfect 1sg in a purpose clause
+<p>ܝܬܒ ܐܢܐ ܕܐܥܒܕ ܕܝܢܐ ܒܐܪܥܝ yāteb-nā d-ʾeʿbed dīnā b-ʾarʿ(y)! yāteb
+(sitting) -nā (am-I) d-ʾeʿbed (that-I-might-do) dīnā (judgment)
+b-ʾarʿ(y) (in-land-my)! → “I sit in order to render judgment in my
+land!” <em>Note: ʾeʿbed is a Peal imperfect 1sg in a purpose clause
 (introduced by d-), not a perfect or imperative. The construction d- +
 Imperfect corresponds to Greek ἵνα + subjunctive.</em></p>
 <p><strong>Sentence 4</strong></p>
-<p>ܐܢ ܠܐ ܬܫܒܘܩ ܐܪܥܝ ܢܩܛܠܘܢ ܠܟ ܒܝܘܡ ܕܝܢܐ ʾen lā tešbūq ʾarʿ-y, neqṭlūn
-lāḵ b-yūm dīnā! ʾen (if) lā (not) tešbūq (you-will-leave) ʾarʿ-y
-(land-my), neqṭlūn (they-will-kill) lāḵ (to-you) b-yūm (in-the-day-of)
+<p>ܐܢ ܠܐ ܬܫܒܘܩ ܐܪܥܝ ܢܩܛܠܘܢ ܠܟ ܒܝܘܡ ܕܝܢܐ ʾen lā tešbūq ʾarʿ(y), neqṭlūn
+lāk b-yūm dīnā! ʾen (if) lā (not) tešbūq (you-will-leave) ʾarʿ(y)
+(land-my), neqṭlūn (they-will-kill) lāk (to-you) b-yūm (in-the-day-of)
 dīnā (judgment)! → “If you do not leave my land, they will kill you in
 the day of judgment!”</p>
 <p><strong>Sentence 5</strong></p>
@@ -458,16 +525,16 @@ God to the world.”</p>
 
 ]]></text></questiontext></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 8</text></name><questiontext format="html"><text><![CDATA[In the story, what does the king threaten to do to Yukhannan?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Have him killed in the day of judgment]]></text><feedback format="html"><text><![CDATA[Correct (sentence 4).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Throw him into prison]]></text><feedback format="html"><text><![CDATA[Not in this part.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Send him back to the wilderness]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Banish him from the temple]]></text><feedback format="html"><text><![CDATA[That was the chief priest in Lesson 6.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 9</text></name><questiontext format="html"><text><![CDATA[What condition does the king set?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[If Yukhannan does not leave his land]]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾen lā tešbūq ʾarʿ-y</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not stop preaching]]></text><feedback format="html"><text><![CDATA[The condition is about leaving the land.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not worship him]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not pay tribute]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 9</text></name><questiontext format="html"><text><![CDATA[What condition does the king set?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[If Yukhannan does not leave his land]]></text><feedback format="html"><text><![CDATA[Correct: <i>ʾen lā tešbūq ʾarʿ(y)</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not stop preaching]]></text><feedback format="html"><text><![CDATA[The condition is about leaving the land.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not worship him]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[If Yukhannan does not pay tribute]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 10</text></name><questiontext format="html"><text><![CDATA[What is Yukhannan's stated purpose for coming?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[To speak the word of God to the world]]></text><feedback format="html"><text><![CDATA[Correct (sentence 6).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To become king]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To judge the king]]></text><feedback format="html"><text><![CDATA[Not in the story.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[To leave the land]]></text><feedback format="html"><text><![CDATA[He says he will not fear.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 11</text></name><questiontext format="html"><text><![CDATA[In sentence 3, what is <i>ʾeʿbed</i>?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Peal imperfect 1 c.sg. of ʿ-b-d in a purpose clause: 'that I might do']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Peal perfect 1 c.sg.: 'I did']]></text><feedback format="html"><text><![CDATA[The ʾe- prefix marks the imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperative: 'do!']]></text><feedback format="html"><text><![CDATA[It follows <i>d-</i>: a purpose clause.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Participle: 'doing']]></text><feedback format="html"><text><![CDATA[The participle is <i>ʿābed</i>.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 12</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܬܫܒܩܘܢ (<i>tešbqūn</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Imperfect 2 m.pl.: 'you (pl.) will leave']]></text><feedback format="html"><text><![CDATA[Correct: t- prefix with -ūn.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperfect 3 m.pl.: 'they will leave']]></text><feedback format="html"><text><![CDATA[3 m.pl. takes n- (<i>nešbqūn</i>).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperfect 2 m.sg.]]></text><feedback format="html"><text><![CDATA[-ūn marks the plural.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 2 m.pl.]]></text><feedback format="html"><text><![CDATA[The perfect has no prefix.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 13</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܢܥܒܕܢ (<i>neʿbdān</i>).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Imperfect 3 f.pl.: 'they (f.) will do']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperfect 3 m.pl.]]></text><feedback format="html"><text><![CDATA[That ends in -ūn.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperfect 1 c.pl.]]></text><feedback format="html"><text><![CDATA[1 c.pl. has no ending: <i>neʿbed</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 1 c.pl.]]></text><feedback format="html"><text><![CDATA[The n- is a prefix.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 14</text></name><questiontext format="html"><text><![CDATA[Exercise 1. Identify ܐܚܙܐ (<i>ʾeḥzē</i>, root ḥ-z-y).]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[Imperfect 1 c.sg.: 'I will see']]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Perfect 3 m.sg.: 'he saw']]></text><feedback format="html"><text><![CDATA[That is <i>ḥzā</i>.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Aphel perfect: 'he showed']]></text><feedback format="html"><text><![CDATA[ʾe- here is the imperfect prefix.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Imperfect 3 m.sg.]]></text><feedback format="html"><text><![CDATA[3 m.sg. takes n-: <i>neḥzē</i>.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Which forms are the Peal imperfect of q-ṭ-l for 'he will kill, we will kill, I will kill, they (m.) will kill'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>neqṭūl, neqṭūl, ʾeqṭūl, neqṭlūn</i>]]></text><feedback format="html"><text><![CDATA[Correct: 3 m.sg. and 1 c.pl. look the same.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>teqṭūl, neqṭūl, ʾeqṭūl, teqṭlūn</i>]]></text><feedback format="html"><text><![CDATA[t- marks the 2nd person (and 3 f.sg.).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>neqṭūl, neqṭlūn, ʾeqṭūl, neqṭūl</i>]]></text><feedback format="html"><text><![CDATA[-ūn is the plural ending for 'they'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qṭal, qṭaln, qeṭlet, qṭalū</i>]]></text><feedback format="html"><text><![CDATA[Those are perfect forms.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 15</text></name><questiontext format="html"><text><![CDATA[Exercise 2. Which forms are the Peal imperfect of q-ṭ-l for 'he will kill, we will kill, I will kill, they (m.) will kill'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>neqṭūl, neqṭūl, ʾeqṭūl, neqṭlūn</i>]]></text><feedback format="html"><text><![CDATA[Correct: 3 m.sg. and 1 c.pl. look the same.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>teqṭūl, neqṭūl, ʾeqṭūl, teqṭlūn</i>]]></text><feedback format="html"><text><![CDATA[t- marks the 2nd person (and 3 f.sg.).]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>neqṭūl, neqṭlūn, ʾeqṭūl, neqṭūl</i>]]></text><feedback format="html"><text><![CDATA[-ūn is the plural ending for 'they'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>qṭal, qṭaln, qeṭlet, qṭal(w)</i>]]></text><feedback format="html"><text><![CDATA[Those are perfect forms.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 16</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Npaq malkā d-neḥzē l-Yūḥannan.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king went out in order to see Yukhannan.]]></text><feedback format="html"><text><![CDATA[Correct: <i>d-</i> + imperfect = purpose.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king went out and saw Yukhannan.]]></text><feedback format="html"><text><![CDATA[<i>d-neḥzē</i> is purpose, not a past fact.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[Yukhannan went out to see the king.]]></text><feedback format="html"><text><![CDATA[<i>malkā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king will go out and see Yukhannan.]]></text><feedback format="html"><text><![CDATA[<i>npaq</i> is perfect.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 17</text></name><questiontext format="html"><text><![CDATA[Exercise 3. Translate: <i>Lā neqṭūl malkā l-gabrā ṭābā.</i>]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[The king will not kill the good man.]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The king did not kill the good man.]]></text><feedback format="html"><text><![CDATA[<i>neqṭūl</i> is imperfect.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[We will not kill the good king.]]></text><feedback format="html"><text><![CDATA[<i>malkā</i> is the subject.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[The good man will not kill the king.]]></text><feedback format="html"><text><![CDATA[<i>l-</i> marks the object.]]></text></feedback></answer></question>
-<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'If you (m.sg.) do not leave heaven, you will see God'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾEn lā tešbūq šmayyā, teḥzē l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā šbaqt šmayyā, ḥzayt l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā nešbūq šmayyā, neḥzē l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[n- is 'he' or 'we'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā tešbqūn šmayyā, teḥzōn l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[-ūn makes it plural.]]></text></feedback></answer></question>
+<question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 18</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'If you (m.sg.) do not leave the truth, you will see God'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>ʾEn lā tešbūq šrārā, teḥzē l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā šbaqt šrārā, ḥzayt l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[Those are perfects.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā nešbūq šrārā, neḥzē l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[n- is 'he' or 'we'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEn lā tešbqūn šrārā, teḥzōn l-ʾAlāhā.</i>]]></text><feedback format="html"><text><![CDATA[-ūn makes it plural.]]></text></feedback></answer></question>
 <question type="multichoice"><name><text>Module 2 · Lesson 8 · Check 19</text></name><questiontext format="html"><text><![CDATA[Exercise 4. Which is the best Syriac for 'They (m.pl.) will come to the kingdom'?]]></text></questiontext><generalfeedback format="html"><text><![CDATA[]]></text></generalfeedback><single>true</single><shuffleanswers>true</shuffleanswers><answer fraction="100" format="html"><text><![CDATA[<i>Nētūn l-malkūtā.</i>]]></text><feedback format="html"><text><![CDATA[Correct.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>ʾEtaw l-malkūtā.</i>]]></text><feedback format="html"><text><![CDATA[That is the perfect, 'they came'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Tētūn l-malkūtā.</i>]]></text><feedback format="html"><text><![CDATA[t- makes it 'you (pl.)'.]]></text></feedback></answer><answer fraction="0" format="html"><text><![CDATA[<i>Nētē l-malkūtā.</i>]]></text><feedback format="html"><text><![CDATA[That is 'he will come'.]]></text></feedback></answer></question>
 <question type="description"><name><text>Module 2 · Lesson 8 · Section 10: Grammatical Summary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 10: Grammatical Summary</h3>
 <p><strong>THE PEAL IMPERFECT (Root q-ṭ-l)</strong></p>
@@ -539,8 +606,8 @@ covenant).</em></p>
 
 ]]></text></questiontext></question>
 <question type="description"><name><text>Module 2 · Lesson 8 · Section 11: Additional Vocabulary</text></name><questiontext format="html"><text><![CDATA[<h3>Section 11: Additional Vocabulary</h3>
-<p>The following 20 high-frequency words supplement this lesson’s
-vocabulary for nature, time, and human emotion.</p>
+<p>The following 17 words supplement this lesson’s vocabulary for
+nature, time, and human emotion.</p>
 <div class="tablewrap"><table>
 <thead>
 <tr class="header">
@@ -571,7 +638,7 @@ vocabulary for nature, time, and human emotion.</p>
 </tr>
 <tr class="even">
 <td style="text-align: left;">ܚܝܘܬܐ</td>
-<td style="text-align: left;">ḥaywtā</td>
+<td style="text-align: left;">ḥayūtā</td>
 <td style="text-align: left;">f</td>
 <td style="text-align: left;">animal, beast</td>
 </tr>
@@ -618,54 +685,36 @@ vocabulary for nature, time, and human emotion.</p>
 <td style="text-align: left;">fire</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">ܪܚܡܐ</td>
-<td style="text-align: left;">raḥmē</td>
-<td style="text-align: left;">m.pl</td>
-<td style="text-align: left;">mercy, compassion</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">ܡܚܪ</td>
 <td style="text-align: left;">mḥār</td>
 <td style="text-align: left;">adv</td>
 <td style="text-align: left;">tomorrow</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܙܢܐ</td>
 <td style="text-align: left;">znā</td>
 <td style="text-align: left;">m</td>
 <td style="text-align: left;">kind, manner, way</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">ܪܫܐ</td>
-<td style="text-align: left;">rēšā</td>
-<td style="text-align: left;">m</td>
-<td style="text-align: left;">head, chief</td>
-</tr>
 <tr class="even">
-<td style="text-align: left;">ܐܢ</td>
-<td style="text-align: left;">ʾen</td>
-<td style="text-align: left;">conj</td>
-<td style="text-align: left;">if</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">ܟܒܪ</td>
 <td style="text-align: left;">kbar</td>
 <td style="text-align: left;">adv</td>
 <td style="text-align: left;">perhaps, already</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܬܘܟܠܢܐ</td>
 <td style="text-align: left;">tūklānā</td>
 <td style="text-align: left;">m</td>
 <td style="text-align: left;">trust, confidence</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ܕܚܠܐ</td>
 <td style="text-align: left;">deḥlā</td>
 <td style="text-align: left;">m</td>
 <td style="text-align: left;">fear</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ܝܕܥܐ</td>
 <td style="text-align: left;">yadʿā</td>
 <td style="text-align: left;">m</td>

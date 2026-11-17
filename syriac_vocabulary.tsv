@@ -11,9 +11,10 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܟܪܛܝܣܐ	karṭīsā	parchment, document	noun	m	emphatic			0	From Gk chartēs
 ܣܦܪܐ	sāprā	scribe, writer	noun	m	emphatic			0	
 ܐܪܥܐ	ʾarʿā	earth, land	noun	f	emphatic			0	Cognate with Hebrew *ʾereṣ*, Arabic *ʾarḍ*
+ܐܕܝ	ʾAddai	Addai (proper name)	noun	m				0	Apostle of Edessa
 ܒܪܢܫܐ	barnāšā	Human, son of man	noun	m				1	Compounded from *bar* (son) + *nāšā* (man). Standard term for human.
 ܒܣܪܐ	besrā	flesh	noun	m	emphatic			1	
-ܒܝܫܐ	bīšā	evil, bad	noun	m	emphatic			1	Adjective behaving as noun.
+ܒܝܫܐ	bīšā	evil, bad	adj	m	emphatic			1	Absolute (predicate) form ܒܝܫ bīš. As a noun: the evil one
 ܕܚܠܬܐ	deḥltā	fear, reverence	noun	f	emphatic			1	abstract noun
 ܕܝܢܐ	dīnā	judgment	noun	m	emphatic			1	Cf. Heb dīn (legal judgment)
 ܓܪܡܐ	garmā	bone	noun	m	emphatic			1	
@@ -25,7 +26,7 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܟܐܦܐ	kēpā	stone, rock	noun	f	emphatic			1	
 ܠܫܢܐ	leššānā	tongue, language	noun	m	emphatic			1	
 ܡܠܟܘܬܐ	malkūtā	kingdom	noun	f	emphatic			1	Abstract noun ending *-ūtā*
-ܡܝܐ	mayyā	water	noun	m	emphatic			1	plural in form
+ܡ̈ܝܐ	mayyā	water	noun	m	emphatic			1	plural in form
 ܡܕܝܢܬܐ	mdīttā	city	noun	f	emphatic			1	
 ܡܠܬܐ	meltā	word, Logos	noun	f	emphatic			1	The Syriac translation of Greek *Logos* (John 1:1)
 ܡܫܚܐ	mešḥā	oil, ointment	noun	m	emphatic			1	From m-š-ḥ (anoint); root of Messiah
@@ -35,7 +36,7 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܩܝܣܐ	qaysā	wood, tree	noun	m				1	
 ܩܪܝܬܐ	qrītā	village	noun	f	emphatic			1	emphatic state
 ܩܝܡܐ	qyāmā	covenant	noun	m	emphatic			1	Root q-w-m
-ܪܒܐ	rabbā	Great, large	noun	m				1	"Root *r-b-b*. Cf. ""Rabbi"" (my great one)."
+ܪܒܐ	rabbā	Great, large	adj	m				1	Absolute (predicate) form ܪܒ rab. Root r-b-b
 ܪܓܠܐ	reglā	foot	noun	f				1	
 ܣܒܪܐ	sabrā	hope	noun	m				1	
 ܣܗܪܐ	sahrā	moon	noun	m	emphatic			1	
@@ -54,11 +55,11 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܐܘܪܚܐ	ʾūrḥā	way, road	noun	f	emphatic			1	
 ܥܝܢܐ	ʿaynā	eye	noun	f	emphatic			1	
 ܚܝܠܐ	ḥaylā	power, army	noun	m	emphatic			1	
-ܚܝܐ	ḥayyē	life	noun	m	emphatic			1	Root *ḥ-y-y*. Plural form (like Heb *ḥayyīm*)
+ܚ̈ܝܐ	ḥayyē	life	noun	m	emphatic			1	Root *ḥ-y-y*. Plural form (like Heb *ḥayyīm*)
 ܚܢܢ	ḥnan	We	pronoun					1	naḥnu (نحن)
-ܛܒܐ	ṭābā	good	noun	m	emphatic			1	Adjective behaving as noun. Heb *ṭōb*
+ܛܒܐ	ṭābā	good	adj	m	emphatic			1	Absolute (predicate) form ܛܒ ṭāb. Heb ṭōb
 ܕܒܝܩܘܬܐ	dbīqūtā	clinging, adherence	noun	f	emphatic	d-b-q		2	from root d-b-q
-ܕܘܒܪܐ	dūbbārā	way of life, conduct	noun	m	emphatic	d-b-r	Paael	2	related to d-b-r
+ܕܘܒܪܐ	dubbārā	way of life, conduct	noun	m	emphatic	d-b-r	Paael	2	related to d-b-r
 ܕܘܟܪܢܐ	dūkrānā	memory, remembrance	noun	m	emphatic	d-k-r	Peal	2	from root d-k-r
 ܡܣܟܢܘܬܐ	meskēnūtā	poverty, want	noun	f	emphatic	m-s-k-n		2	abstract noun
 ܪܒܘܬܐ	rabbūtā	greatness, grandeur	noun	f	emphatic	r-b-b	Peal	2	from root r-b-b
@@ -77,11 +78,11 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܩܠܦܬܐ	qlāptā	bark, scale, shell	noun	f	emphatic	q-l-p	noun	2	
 ܪܘܓܙܐ	rūgzā	rage, wrath	noun	m	emphatic	r-g-z		2	from root r-g-z
 ܪܘܡܐ	rawmā	height, elevation	noun	m	emphatic	r-w-m		2	from root r-w-m
-ܝܕܥܬܐ	īdaʿtā	knowledge	noun	f	emphatic	y-d-ʿ		2	from root y-d-ʿ
+ܝܕܥܬܐ	ʾīdaʿtā	knowledge	noun	f	emphatic	y-d-ʿ		2	from root y-d-ʿ
 ܫܒܬܐ	šabbtā	sabbath, week	noun	f		š-b-t		2	
 ܫܡܥ	šmaʿ	to hear	verb			š-m-ʿ	Peal	2	
 ܫܠܡܘܬܐ	šalmūtā	completeness, agreement	noun	f	emphatic	š-l-m	Peal	2	from root š-l-m
-ܢܛܘܪܬܐ	nāṭōrtā	guard, watchfulness	noun	f	emphatic	n-ṭ-r		2	from root n-ṭ-r
+ܢܛܘܪܬܐ	nṭūrtā	watching, custody	noun	f	emphatic	n-ṭ-r		2	from root n-ṭ-r
 ܫܘܚܠܦܐ	šūḥlāpā	change, alteration	noun	m	emphatic	š-ḥ-l-p		2	from root š-ḥ-l-p
 ܫܦܥܐ	šepʿā	abundance, overflow	noun	m	emphatic	š-p-ʿ	Peal	2	from root š-p-ʿ
 ܨܒܥܐ	ṣebʿā	finger	noun	f	emphatic	ṣ-b-ʿ		2	body part
@@ -90,7 +91,9 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܥܪܛܠܝܘܬܐ	ʿarṭellāyūtā	nakedness, exposure	noun	f	emphatic	ʿ-r-ṭ-l		2	from root ʿ-r-ṭ-l
 ܚܙܐ	ḥzā	to see	verb			ḥ-z-y	Peal	2	
 ܥܘܫܢܐ	ʿūšnā	strength, might	noun	m	emphatic	ʿ-š-n		2	from root ʿ-š-n
-ܝܠܕ	īled	to give birth	verb		absolute	y-l-d	Peal	3	narrative verb, past action
+ܬܠܡܝܕܐ	talmīdā	disciple, student	noun	m	emphatic	t-l-m-d		2	
+ܐܝܬ	ʾīt	there is, there are	particle					2	existential particle
+ܝܠܕ	ʾīled	to give birth	verb		absolute	y-l-d	Peal	3	narrative verb, past action
 ܕܡܥܬܐ	demʿtā	tear, weeping	noun	f	emphatic	d-m-ʿ		3	from root d-m-ʿ
 ܕܘܪܟܐ	dūrkā	treading, step	noun	m	emphatic	d-r-k		3	from root d-r-k
 ܓܠܝܘܬܐ	galyūtā	openness, manifestation	noun	f	emphatic	g-l-y		3	from root g-l-y
@@ -124,9 +127,10 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܥܡܘܕܐ	ʿammūdā	pillar, column	noun	m	emphatic	ʿ-m-d	noun	3	
 ܥܩܪ	ʿqar	to uproot, tear down	verb		absolute	ʿ-q-r	Peal	3	narrative verb, past action
 ܥܪܩ	ʿraq	to flee	verb			ʿ-r-q	Peal	3	
-ܡܣܩܢܐ	masqqānā	ascent, rising	noun	m	emphatic	s-l-q		3	from root s-l-q
+ܡܣܩܢܐ	masqānā	ascent, rising	noun	m	emphatic	s-l-q		3	from root s-l-q
 ܥܪܘܩܐ	ʿārōqā	fugitive	noun	m	emphatic	ʿ-r-q	Peal	3	from root ʿ-r-q
 ܚܡܝܡܘܬܐ	ḥammīmūtā	heat, warmth	noun	f	emphatic	ḥ-m-m		3	from root ḥ-m-m
+ܩܡ	qām	to rise, stand	verb			q-w-m	Peal	3	Hollow; participle qāʾem, imperfect nqūm
 ܒܪ	bar	son	noun	m	construct			4	
 ܒܪܐ	brā	son	noun	m	emphatic			4	(Construct: ܒܪ)
 ܒܪܬܐ	bartā	daughter	noun	f	emphatic			4	(Construct: ܒܪܬ)
@@ -138,13 +142,12 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܡܣܟܢܐ	meskēnā	poor, humble	adj	m	emphatic		Peal	4	
 ܡܢܐ	mānā	What?	interrogative					4	(Short form: ܡܐ)
 ܡܐ	mā	what	pronoun					4	
-ܦܠܛܐ	pālṭā	escape, survivor	noun	m	emphatic		Peal	4	
 ܩܠܝܠܐ	qallīlā	swift, light, little	adj	m	emphatic		Peal	4	
 ܩܠܐ	qālā	voice, sound	noun	m	emphatic			4	(Construct: ܩܠ)
 ܪܝܫܐ	rēšā	head, chief	noun	m	emphatic			4	(Construct: ܪܝܫ)
 ܣܦܬܐ	septā	lip, shore	noun	f	emphatic		Peal	4	
 ܬܠܓܐ	talgā	snow	noun	m	emphatic		Peal	4	
-ܝܚܝܕܝܐ	īḥīdāyā	only-begotten, solitary	adj	m	emphatic		Peal	4	
+ܝܚܝܕܝܐ	ʾīḥīdāyā	only-begotten, solitary	adj	m	emphatic		Peal	4	
 ܐܒܐ	ʾabā	father	noun	m	emphatic			4	(Construct: ܐܒ)
 ܐܝܟܐ	ʾaykā	where?	interrogative					4	
 ܐܚܐ	ʾaḥā	brother	noun	m	emphatic			4	(Construct: ܐܚ)
@@ -158,9 +161,10 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܥܬܝܪܐ	ʿattīrā	rich, wealthy	adj	m	emphatic		Peal	4	
 ܚܬܢܐ	ḥatnā	bridegroom, son-in-law	noun	m	emphatic		Peal	4	
 ܐܠܥܐ	ʾelʿā	rib, side	noun	f	emphatic		Peal	4	
+ܥܠ	ʿal	to enter	verb			ʿ-w-l	Peal	4	hollow verb (Lesson 7); with l- into
 ܒܪܐ	brā	to create	verb			b-r-y	Peal	5	
 ܒܪܝܬܐ	brīttā	creation, creature	noun	f	emphatic	b-r-y		5	From Peal brā; cf. Heb bārāʾ
-ܒܘܪܟܬܐ	būrktā	blessing	noun	f	emphatic	b-r-k		5	From b-r-k; cf. Heb bĕrākāh
+ܒܘܪܟܬܐ	burktā	blessing	noun	f	emphatic	b-r-k		5	From b-r-k; cf. Heb bĕrākāh
 ܓܠܝܢܐ	gelyānā	revelation, disclosure	noun	m	emphatic	g-l-y		5	From g-l-y; cf. Gk apokalypsis
 ܗܝܡܢܘܬܐ	haymānūtā	faith, belief	noun	f	emphatic	h-y-m-n		5	Abstract noun from haymen
 ܟܬܒܐ	ktābā	book, scripture	noun	m	emphatic	k-t-b		5	From k-t-b; cf. Arabic kitāb
@@ -171,14 +175,12 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܢܒܝܘܬܐ	nbīyūtā	prophecy	noun	f	emphatic	n-b-y		5	From n-b-y; cf. Heb nĕbūʾāh
 ܦܘܪܩܢܐ	pūrqānā	redemption, salvation	noun	m	emphatic	p-r-q		5	
 ܩܕܫ	qaddeš	to sanctify	verb			q-d-š	Paael	5	Cf. Heb Piel qiddēš
-ܪܚܡܐ	raḥmē	mercy, compassion	noun	m	emphatic	r-ḥ-m		5	Pl. form; cognate with Heb raḥămīm
+ܪ̈ܚܡܐ	raḥmē	mercy, compassion	noun	m	emphatic	r-ḥ-m		5	Pl. form; cognate with Heb raḥămīm
 ܪܐܙܐ	rāzā	mystery, secret	noun	m	emphatic			5	From Persian rāz
 ܪܘܚܐ	rūḥā	spirit, wind	noun	f	emphatic	r-w-ḥ		5	f. noun; cf. Heb rūaḥ
-ܫܘܕܪܐ	šūddārā	sending, mission	noun	m	emphatic	š-d-r		5	From šaddar
+ܫܘܕܪܐ	šuddārā	sending, mission	noun	m	emphatic	š-d-r		5	From šaddar
 ܫܘܒܚܐ	šūbḥā	glory, praise	noun	m	emphatic	š-b-ḥ		5	Used in doxologies
-ܐܓܠܝ	ʾaglī	to reveal, exile	verb			g-l-y	Aphel	5	
 ܐܠܒܫ	ʾalbeš	to clothe	verb			l-b-š	Aphel	5	
-ܐܠܦ	ʾallep	to teach	verb			ʾ-l-p	Paael	6	I-Alaph Paael verb
 ܐܦܩܕ	ʾapqed	to entrust, charge	verb			p-q-d	Aphel	5	
 ܐܩܪܒ	ʾaqreb	to bring near, offer	verb			q-r-b	Aphel	5	
 ܐܩܝܡ	ʾaqīm	to raise up, establish	verb			q-w-m	Aphel	5	
@@ -200,6 +202,12 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܝܘܠܦܢܐ	yūlpānā	teaching, doctrine	noun	m	emphatic	y-l-p		5	From y-l-p
 ܥܡܐ	ʿammā	people, nation	noun	m	emphatic	ʿ-m-m		5	
 ܛܝܒܘܬܐ	ṭaybūtā	grace, kindness	noun	f	emphatic	ṭ-y-b		5	Abstract noun from ṭāb (good)
+ܓܠܐ	glā	to reveal, uncover	verb			g-l-y	Peal	5	'Reveal' is a Peal; the Aphel of this root means 'carry into exile'
+ܡܪܝܐ	māryā	the Lord	noun	m	emphatic			5	The divine name in the Peshitta
+ܓܒܪܐ	gabrā	man	noun	m	emphatic	g-b-r		5	pl. gabrē
+ܡܕܡ	meddem	thing, something	noun					5	kull meddem 'everything'
+ܥܒܕܐ	ʿabdā	servant, slave	noun	m	emphatic	ʿ-b-d		5	
+ܐܠܦ	ʾallep	to teach	verb			ʾ-l-p	Paael	6	I-Alaph Paael verb
 ܒܪܟ	barrek	to bless	verb			b-r-k	Paael	6	Cf. Heb Piel bērak
 ܒܣܡܐ	besmā	incense, fragrance	noun	m	emphatic	b-s-m		6	Cf. Heb bōśem
 ܕܟܝ	dakkī	to purify, cleanse	verb			d-k-y	Paael	6	Factitive of 'be pure'
@@ -225,12 +233,16 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܣܓܕ	sgad	to bow down, worship	verb			s-g-d	Peal	6	Cf. Arabic sajada
 ܫܒܚ	šabbeḥ	to praise, glorify	verb			š-b-ḥ	Paael	6	Cf. Syriac šūbḥā
 ܫܡܫ	šammeš	to minister, serve	verb			š-m-š	Paael	6	Liturgical and formal service
-ܚܓ	ḥag	to feast, celebrate	verb			ḥ-g-g	Peal	6	Cf. Heb ḥāgag; Arabic ḥajja
 ܨܠܝ	ṣallī	to pray	verb			ṣ-l-y	Paael	6	Cf. Arabic ṣallā
 ܨܡ	ṣām	to fast, abstain	verb			ṣ-w-m	Peal	6	Cf. Heb ṣûm; Arabic ṣāma
 ܨܠܘܬܐ	ṣlūtā	prayer	noun	f	emphatic	ṣ-l-y		6	From ṣ-l-y
-ܫܘܠܛܢܐ	šulṭānā	authority, power	noun	m	emphatic	š-l-ṭ		6	From š-l-ṭ
+ܫܘܠܛܢܐ	šūlṭānā	authority, power	noun	m	emphatic	š-l-ṭ		6	From š-l-ṭ
 ܬܫܡܫܬܐ	tešmeštā	ministry, service	noun	f	emphatic	š-m-š		6	From šammeš
+ܠܒܐ	lebbā	heart	noun	m	emphatic	l-b-b		6	
+ܐܢܫܐ	ʾnāšā	person, human being; people	noun	m	emphatic			6	absolute ʾnāš 'someone'; the Alaph is silent
+ܐܠܐ	ʾellā	but rather, except	particle					6	after a negative
+ܪܡܐ	rāmā	high, loud	adj	m	emphatic	r-w-m		6	b-qālā rāmā 'with a loud voice'
+ܚܕܬܐ	ḥadtā	new	adj	m	emphatic	ḥ-d-t		6	f. ḥdatā (same spelling)
 ܒܢܐ	bnā	to build	verb			b-n-y	Peal	7	III-Yodh
 ܒܢܝܢܐ	benyānā	building, structure	noun	m	emphatic	b-n-y		7	from III-Yodh root b-n-y
 ܕܘܩܐ	dūqā	aim, gaze, spectacle	noun	m	emphatic	d-w-q	weak	7	from hollow root d-w-q
@@ -248,15 +260,15 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܩܘܪܐ	qūrā	cold	noun	m	emphatic	q-r-r		7	from geminate root q-r-r
 ܩܪܝܢܐ	qeryānā	reading, calling	noun	m	emphatic	q-r-y		7	from III-Yodh root q-r-y
 ܒܗܬܬܐ	behttā	shame, disgrace	noun	f	emphatic	b-h-t		7	from root b-h-t
-ܝܗܒ	yahb	to give	verb			y-h-b	Peal	7	
-ܝܙܦܬܐ	īzaptā	loan, borrowing	noun	f	emphatic	y-z-p	noun	7	from root y-z-p
-ܝܕܥ	īdaʿ	to know	verb			y-d-ʿ	Peal	7	I-Yodh
+ܝܗܒ	ya(h)b	to give	verb			y-h-b	Peal	7	I-Yodh, irregular: the He is silent; 1 c.sg. yehbet; imperative hab; imperfect nettel
+ܝܙܦܬܐ	ʾīzaptā	loan, borrowing	noun	f	emphatic	y-z-p	noun	7	from root y-z-p
+ܝܕܥ	ʾīdaʿ	to know	verb			y-d-ʿ	Peal	7	I-Yodh
 ܣܗܕܘܬܐ	sāhdūtā	testimony, witness	noun	f	emphatic	s-h-d		7	from root s-h-d
 ܫܠܝܐ	šelyā	quiet, stillness	noun	m	emphatic	š-l-y		7	from weak root š-l-y
 ܐܟܠ	ʾekal	to eat	verb			ʾ-k-l	Peal	7	I-Alaph
 ܐܡܪ	ʾemar	to say	verb			ʾ-m-r	Peal	7	I-Alaph
 ܐܬܐ	ʾetā	to come	verb			ʾ-t-y	Peal	7	I-Alaph & III-Yodh
-ܐܙܠ	ʾezal	to go	verb			ʾ-z-l	Peal	7	I-Alaph
+ܐܙܠ	ʾezal	to go	verb			ʾ-z-l	Peal	7	I-Alaph; imperative zel (irregular)
 ܚܕܝܘܬܐ	ḥdāyūtā	oneness, joy	noun	f	emphatic	ḥ-d-y		7	from root ḥ-d-y
 ܐܬܐ	ʾātā	sign, miracle	noun	f	emphatic	ʾ-t-y		7	from root ʾ-t-y
 ܡܐܬܝܬܐ	mētītā	coming, arrival	noun	f	emphatic	ʾ-t-y		7	from weak root ʾ-t-y
@@ -270,6 +282,10 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܛܘܦܣܐ	ṭūpsā	pattern, type, example	noun	m	emphatic			7	from Gk typos
 ܗܘܐ	hwā	to be, become	verb			h-w-y	Peal	7	III-Yodh
 ܛܒܐ	ṭebbā	report, news, tidings	noun	m	emphatic	ṭ-b-b		7	Court term
+ܢܦܠ	npal	to fall	verb			n-p-l	Peal	7	I-Nun: imperfect neppel
+ܣܡ	sām	to put, place	verb			s-y-m	Peal	7	Hollow; imperfect nsīm
+ܡܝܬ	mīt	to die	verb			m-w-t	Peal	7	Hollow, stative
+ܢܣܒ	nsab	to take	verb			n-s-b	Peal	7	I-Nun: imperfect nessab, imperative sab
 ܕܚܠܐ	deḥlā	fear, object of fear	noun	m	emphatic	d-ḥ-l	Peal	8	
 ܕܢ	dān	to judge	verb			d-w-n	Peal	8	Hollow verb
 ܓܙܪ	gzar	to decree, cut, determine	verb			g-z-r	Peal	8	
@@ -285,7 +301,7 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܝܘܡܐ	yawmā	day	noun	m	emphatic	y-w-m		8	(Absolute/Construct: ܝܘܡ yūm)
 ܙܒܢܐ	zabnā	time, season	noun	m	emphatic	z-b-n		8	(Absolute/Construct: ܙܒܢ zban)
 ܙܢܐ	znā	kind, manner, way	noun	m	emphatic			8	
-ܝܬܒ	īteb	to sit, dwell	verb			y-t-b	Peal	8	I-Yodh
+ܝܬܒ	ʾīteb	to sit, dwell	verb			y-t-b	Peal	8	I-Yodh
 ܫܘܩܐ	šūqā	street, market	noun	m	emphatic			8	
 ܐܦܩ	ʾappeq	he brought out / I will bring out	verb			n-p-q	Aphel	8	Aphel 3msg perf. or 1csg impf.
 ܐܩܛܘܠ	ʾeqṭūl	I will kill	verb			q-ṭ-l	Peal	8	1csg Peal impf.
@@ -295,12 +311,12 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܥܪܒܐ	ʿerbā	sheep	noun	m	emphatic			8	
 ܥܩܬܐ	ʿāqtā	distress, anguish	noun	f	emphatic	ʿ-w-q		8	
 ܚܕܘܬܐ	ḥadūtā	joy, gladness	noun	f	emphatic	ḥ-d-y		8	
-ܚܝܘܬܐ	ḥaywtā	animal, beast, life	noun	f	emphatic	ḥ-y-y		8	
+ܚܝܘܬܐ	ḥayūtā	animal, beast, life	noun	f	emphatic	ḥ-y-y		8	
 ܚܟܡܬܐ	ḥekmtā	wisdom	noun	f	emphatic	ḥ-k-m		8	
 ܛܘܪܐ	ṭūrā	mountain	noun	m	emphatic			8	
 ܒܥܐ	bʿā	to want, seek, ask	verb			b-ʿ-y	Peal	9	Participle: bāʿē
 ܓܪ	gar	to drag, pull	verb			g-r-r	Peal	9	Geminate verb
-ܓܘܒܐ	gūbbā	pit, cistern, den	noun	m	emphatic	g-b-b		9	
+ܓܘܒܐ	gubbā	pit, cistern, den	noun	m	emphatic	g-b-b		9	
 ܟܢܫܐ	kenšā	crowd, gathering	noun	m	emphatic	k-n-š		9	
 ܡܟܬܒ	mektab	to write (infinitive)	verb		construct	k-t-b	Peal	9	Peal infinitive
 ܢܘܪܐ	nūrā	fire	noun	f	emphatic	n-w-r		9	
@@ -323,7 +339,6 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܕܟܐ	dkā	to be pure, clean	verb			d-k-y	Peal	10	Paael dakkī = purify
 ܕܚܠ	dḥel	to fear, be afraid	verb			d-ḥ-l	Peal	10	
 ܦܪܩ	praq	to save, redeem	verb			p-r-q	Peal	10	
-ܓܠܐ	glā	to reveal, uncover	verb			g-l-y	Peal	10	
 ܟܠܠ	kallel	to crown	verb			k-l-l	Paael	10	
 ܟܢܫ	knaš	to gather, assemble	verb			k-n-š	Peal	10	
 ܡܕܥܐ	maddʿā	mind, knowledge	noun	m	emphatic	y-d-ʿ		10	
@@ -337,16 +352,16 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܬܒ	tāb	to return, repent	verb			t-w-b	Peal	10	Hollow verb
 ܫܕܪ	šaddar	to send	verb			š-d-r	Paael	10	Etpaael ʾeštaddar
 ܡܟܟ	makkek	to humble, bring low	verb			m-k-k	Paael	10	Etpaael ʾetmakkak
-ܐܢܗܪ	ʾanhar	to illuminate, enlighten	verb			n-h-r	Aphel	10	
+ܢܗܪ	nahhar	to illuminate, enlighten	verb			n-h-r	Paael	10	
 ܐܦܪܫ	ʾapreš	to separate, set apart	verb			p-r-š	Aphel	10	
 ܐܪܝܡ	ʾarīm	to exalt, lift up	verb			r-w-m	Aphel	10	
 ܐܣܝ	ʾassī	to heal, cure	verb			ʾ-s-y	Paael	10	Etpaael ʾetʾassī
 ܐܘܕܝ	ʾawdī	to confess, give thanks	verb			y-d-y	Aphel	10	
-ܐܚܕ	ʾeḥad	to seize, hold, shut	verb		absolute	ʾ-ḥ-d	Peal	10	Ethpeel ʾetʾḥed
+ܐܚܕ	ʾeḥad	to seize, hold, shut	verb		absolute	ʾ-ḥ-d	Peal	10	Ethpeel ʾeteḥed
 ܐܫܦܠ	ʾašpel	to humble, bring low	verb			š-p-l	Aphel	10	
 ܥܡܕ	ʿmad	to dip, be baptized	verb			ʿ-m-d	Peal	10	
 ܚܝܒ	ḥayyeb	to condemn, make guilty	verb			ḥ-w-b	Paael	10	
-ܚܠܡ	ḥlam	to heal, be sound	verb		absolute	ḥ-l-m	Peal	10	Ethpeel ʾetḥlam (be healed)
+ܚܠܡ	ḥlam	to heal, be sound	verb		absolute	ḥ-l-m	Peal	10	Ethpeel ʾetḥlem (be healed)
 ܚܛܝܬܐ	ḥṭītā	sin	noun	f	emphatic	ḥ-ṭ-y		10	Cf. Gk hamartia, Heb ḥēṭʾ
 ܨܠܒ	ṣlab	to crucify	verb			ṣ-l-b	Peal	10	Ethpeel ʾeṣṭleb
 ܕܒܩ	dbaq	to cling, cleave, adhere	verb			d-b-q	Peal	11	governs b-
@@ -356,32 +371,32 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܓܕܪ	gdar	to fence, hedge in	verb			g-d-r	Peal	11	takes object suffix
 ܟܣܝ	kassī	to cover, conceal	verb			k-s-y	Paael	11	takes object suffix
 ܟܠܐ	klā	to withhold, forbid, hinder	verb			k-l-y	Peal	11	object suffix common
-ܡܘܟܟܐ	mūkkāḵā	humility, lowliness	noun	m	emphatic	m-k-k		11	from root m-k-k
+ܡܘܟܟܐ	mukkākā	humility, lowliness	noun	m	emphatic	m-k-k		11	from root m-k-k
 ܡܚܐ	mḥā	to strike, smite	verb			m-ḥ-y	Peal	11	
 ܢܣܟ	nsak	to pour out, cast	verb			n-s-k	Peal	11	common with suffixes
 ܢܚܡ	naḥḥem	to raise (the dead), revive	verb			n-ḥ-m	Paael	11	
-ܢܦܠ	npal	to fall	verb			n-p-l	Peal	11	
 ܢܓܕ	ngad	to draw, pull, scourge	verb			n-g-d	Peal	11	object suffix usage
-ܢܘܩܝܐ	nūqqāyā	libation, drink-offering	noun	m	emphatic	n-q-y		11	from root n-q-y
+ܢܘܩܝܐ	nuqqāyā	libation, drink-offering	noun	m	emphatic	n-q-y		11	from root n-q-y
 ܦܣܩ	psaq	to cut off, decide, decree	verb			p-s-q	Peal	11	object suffix frequent
 ܦܕܥ	pdaʿ	to wound, crush	verb			p-d-ʿ	Peal	11	takes object suffix
 ܡܪܚܡܢܘܬܐ	mraḥmānūtā	mercy, compassion, alms	noun	f	emphatic	r-ḥ-m		11	from root r-ḥ-m
-ܩܘܒܠܐ	qūbbālā	reception, thanksgiving	noun	m	emphatic	q-b-l		11	from root q-b-l
+ܩܘܒܠܐ	qubbālā	reception, thanksgiving	noun	m	emphatic	q-b-l		11	from root q-b-l
 ܪܟܒ	rkeb	to ride, mount	verb			r-k-b	Peal	11	takes object suffix
 ܫܪܪ	šarrar	to confirm, establish	verb			š-r-r	Paael	11	takes object suffix
 ܬܒܪ	tbar	to break, shatter	verb		absolute	t-b-r	Peal	11	common with object suffixes
 ܫܩܠ	šqal	to take, lift, carry	verb			š-q-l	Peal	11	takes object suffix
 ܥܫܢ	ʿšan	to grow strong, prevail	verb			ʿ-š-n	Peal	11	
 ܫܢܐ	šnā	to change, depart	verb			š-n-y	Peal	11	Paael šannī = depart, transfer
-ܫܬܐ	štā	to drink	verb			š-t-y	Peal	11	takes object suffix
+ܐܫܬܝ	ʾeštī	to drink	verb			š-t-y	Peal	11	perfect has a prefixed Alaph
 ܢܛܘܪܐ	nāṭōrā	watchman, guard	noun	m	emphatic	n-ṭ-r	Peal	11	from root n-ṭ-r
 ܫܬܝܐ	šetyā	drink, drinking	noun	m	emphatic	š-t-y		11	from root š-t-y
 ܥܡܪ	ʿmar	to dwell, inhabit	verb			ʿ-m-r	Peal	11	
 ܣܡܟ	smak	to support, uphold, recline	verb			s-m-k	Peal	11	object suffix usage
-ܦܘܢܝܐ	pūnnāyā	answer, return, restoration	noun	m	emphatic	p-n-y		11	from root p-n-y
+ܦܘܢܝܐ	punnāyā	answer, return, restoration	noun	m	emphatic	p-n-y		11	from root p-n-y
 ܚܣܪ	ḥsar	to lack, suffer loss	verb			ḥ-s-r	Peal	11	
 ܚܛܐ	ḥṭā	to sin	verb			ḥ-ṭ-y	Peal	11	
-ܟܘܪܗܢܐ	kurhānā	illness, sickness, disease	noun	m	emphatic	k-r-h		11	
+ܟܘܪܗܢܐ	kūrhānā	illness, sickness, disease	noun	m	emphatic	k-r-h		11	
+ܡܘܬܐ	mawtā	death	noun	m	emphatic	m-w-t		11	
 ܡܟܐ	mekkā	from here, hence	adv					12	men + kā
 ܗܘ	haw	that (m)	demonstrative	m				12	
 ܗܕܐ	hādē	this (f)	demonstrative	f				12	
@@ -399,10 +414,8 @@ Syriac	Transliteration	English	PartOfSpeech	Gender	State	Root	Stem	Lesson	Notes
 ܥܣܪܐ	ʿesrā	ten	num	m	emphatic			12	used with m. nouns
 ܚܕ	ḥad	one (m.)	number	m	absolute	ḥ-d-y		12	f. ܚܕܐ ḥdā
 ܚܡܫܐ	ḥamšā	five	num	m	emphatic	ḥ-m-š		12	used with m. nouns
-ܚܫܘܟܐ	ḥešūḵā	darkness	noun	m	emphatic	ḥ-š-k		12	Antonym of *nūhrā* (light)
+ܚܫܘܟܐ	ḥešūkā	darkness	noun	m	emphatic	ḥ-š-k		12	Antonym of *nūhrā* (light)
 ܩܕܡܝܐ	qadmāyā	first, former	adj	m	emphatic	q-d-m		12	ordinal numeral
-ܐܕܝ	ʾAddai	Addai (proper name)	noun	m				0	Apostle of Edessa
-ܬܠܡܝܕܐ	talmīdā	disciple, student	noun	m	emphatic	t-l-m-d		2	
-ܐܝܬ	ʾīt	there is, there are	particle					2	existential particle
 ܬܪܝܢܐ	trayyānā	second	adj	m	emphatic	t-r-y		12	ordinal numeral
 ܬܠܝܬܝܐ	tlītāyā	third	adj	m	emphatic	t-l-t		12	ordinal numeral
+ܫܡ̈ܝܐ	šmayyā	heaven, sky	noun	m	emphatic			12	plural in form

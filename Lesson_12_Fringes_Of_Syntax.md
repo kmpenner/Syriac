@@ -20,8 +20,8 @@ In Lesson 11, we examined how Syriac attaches direct object pronouns directly to
 
 *(Answers in Section 9)*
 
-1. How does Syriac buffer the 1st person singular object suffix on a Peal perfect verb?
-2. Translate: *Parq-anī* (and contrast it with *Pruqaynī!*).
+1. What is the 1st person singular object suffix on a verb, and how does it differ from the possessive "my"?
+2. Translate: *Parqan(y)* (and contrast it with *Pruqayn(y)!*).
 3. Break down the components of *qṭal ʾennōn*.
 4. Why does *qṭal* become *qaṭl-* when adding a light (vowel-initial) suffix?
 5. Translate the double-determined phrase: *ʾAssyeh ʾAlāhā l-malkā*.
@@ -41,7 +41,7 @@ Semitic languages feature a close-range pointing word ("this") and a far-range p
 *   **Arabic**: هَذَا (*hādhā* — this, m), ذٰلِكَ (*dhālika* — that, m).
 *   **Syriac**: ܗܢܐ (*hānā* — this, m), ܗܘ (*haw* — that, m). 
 
-*Syriac Trick*: The far demonstrative ("that", *haw* ܗܘ) is spelled with the same consonants as the 3rd person independent pronoun (*hū* ܗܘ = he/it), distinguished in pointed texts by a supralinear vs. sublinear dot. Context dictates the meaning.
+*Syriac Trick*: The far demonstrative ("that", *haw* ܗܘ) is spelled with the same consonants as the 3rd person independent pronoun (*hū* ܗܘ = he/it), distinguished in carefully written texts by a dot: above for *haw* (ܗ̇ܘ), below for *hū* (ܗ̣ܘ). Where the dot is missing, context dictates the meaning.
 
 ---
 
@@ -51,7 +51,7 @@ Semitic languages feature a close-range pointing word ("this") and a far-range p
 **1. Pointing Words (Demonstratives)**
 
 Demonstratives in Syriac must agree with the noun they modify in gender and number.
-Unlike English (which puts "this" *before* the noun: "this king"), Syriac prefers to place the demonstrative *after* the noun, or even isolated at the front of a sentence.
+The demonstrative may stand before or after its noun (*hānā malkā* or *malkā hānā*); this course places it after.
 
 *   *Malkā hānā* = This king (The king, this one).
 *   *Malkūtā hādē* = This kingdom.
@@ -66,9 +66,9 @@ The "if" half of the sentence is the *protasis*, and the "then" half is the *apo
 
 **3. Comparatives (`men`)**
 
-Syriac lacks special adjective forms for "bigger," "faster," or "better" (like Greek's -τερος or English's -er). Instead, it uses the standard adjective and the preposition `men` (from/than).
+Syriac lacks special adjective forms for "bigger," "faster," or "better" (like Greek's -τερος or English's -er). Instead, it uses the ordinary adjective (in the absolute state, since it is a predicate) and the preposition `men` (from/than).
 
-*   *Nūhrā ṭābā hū men ḥešūḵā* (Light is good from darkness $\rightarrow$ Light is **better than** darkness).
+*   *Nūhrā ṭāb hū men ḥešūkā* (Light is good from darkness $\rightarrow$ Light is **better than** darkness).
 *   *Rabbā hī men malkūtā* (She is great from the kingdom $\rightarrow$ She is **greater than** the kingdom).
 
 ---
@@ -91,14 +91,14 @@ Syriac lacks special adjective forms for "bigger," "faster," or "better" (like G
 #### Section 5: The Numbers 1-10
 
 
-Semitic numbers from 3 to 10 famously exhibit "gender polarity"—masculine nouns take the numeral form ending in *-ā* (which looks morphologically feminine), while feminine nouns take the short numeral form without *-ā*. For 1 and 2, the numeral agrees directly in gender with the noun.
+Semitic numbers from 3 to 10 famously exhibit "gender polarity"—masculine nouns take the numeral form ending in *-ā* (which looks morphologically feminine), while feminine nouns take the short numeral form without *-ā*. For 1 and 2, the numeral agrees directly in gender with the noun. The counted noun follows in the plural, often in the absolute state: ܬܠܬܐ ܓܒܪ̈ܝܢ *tlātā gabrīn* "three men".
 
 | Number | With Masc. Nouns | With Fem. Nouns | Meaning |
 | :--- | :--- | :--- | :--- |
 | **1** | ܚܕ (ḥad) | ܚܕܐ (ḥdā) | (One) |
 | **2** | ܬܪܝܢ (trēn) | ܬܪܬܝܢ (tartēn) | (Two) |
 | **3** | ܬܠܬܐ (tlātā) | ܬܠܬ (tlāt) | (Three) |
-| **4** | ܐܪܒܥܐ (ʾarbaʿā) | ܐܪܒܥ (ʾarbaʿ) | (Four) |
+| **4** | ܐܪܒܥܐ (ʾarbʿā) | ܐܪܒܥ (ʾarbaʿ) | (Four) |
 | **5** | ܚܡܫܐ (ḥamšā) | ܚܡܫ (ḥammeš) | (Five) |
 | **6** | ܫܬܐ (štā) | ܫܬ (šet) | (Six) |
 | **7** | ܫܒܥܐ (šabʿā) | ܫܒܥ (šbaʿ) | (Seven) |
@@ -115,12 +115,13 @@ Semitic numbers from 3 to 10 famously exhibit "gender polarity"—masculine noun
 | :--- | :--- | :--- | :--- | :--- |
 | ܫܪܪܐ | šrārā | m. | truth, reality | Root š-r-r (to be firm). Cf. Heb *ʾĕmet* |
 | ܫܠܡܐ | šlāmā | m. | peace, greeting | Root š-l-m. Heb *Shalom*, Arabic *Salam* |
-| ܚܝܐ | ḥayyē | m.pl. | life | Used heavily by John in the NT |
+| ܚ̈ܝܐ | ḥayyē | m.pl. | life | Used heavily by John in the NT |
 | ܥܠܡܐ | ʿālmā | m. | world, eternity | Temporal and spatial boundary |
 | ܗܟܢܐ | hākannā | adv. | thus, so | Also shortened to ܗܟܢ *hākan* |
 | ܐܢ | ʾen | conj. | if | Introduces condition |
-| ܚܫܘܟܐ | ḥešūḵā | m. | darkness | Antonym of *nūhrā* (light) |
+| ܚܫܘܟܐ | ḥešūkā | m. | darkness | Antonym of *nūhrā* (light) |
 | ܫܠܚ | šlaḥ (Peal) | verb | to strip off / send | Used for stripping off garments or sin |
+| ܫܡܝܐ | šmayyā | m.pl. | heaven, sky | Plural in form, like *mayyā* |
 
 ---
 
@@ -147,9 +148,9 @@ w-ʾemar (and-said) l-ʿammā (to-the-people) d-īl-eh (which-were-his) hākann�
 
 **Sentence 3**
 
-ܐܢ ܐܝܢܐ ܒܪܢܫܐ ܠܐ ܢܫܠܚ ܚܛܝܬܐ ܕܝܠܗ ܢܩܛܠܘܢܝܗܝ
-ʾen ʾaynā barnāšā lā nešlaḥ ḥṭītā d-īl-eh, neqṭlūn-yhy!
-ʾen (If) ʾaynā (which/any) barnāšā (man) lā (not) nešlaḥ (will-cast-away) ḥṭītā (sin) d-īl-eh (which-[is]-his), neqṭlūn-yhy (they-will-kill-him)!
+ܐܢ ܐܢܫ ܠܐ ܢܫܠܚ ܚܛܝܬܐ ܕܝܠܗ ܢܩܛܠܘܢܝܗܝ
+ʾen ʾnāš lā nešlaḥ ḥṭītā d-īl-eh, neqṭlūnāy(hy)!
+ʾen (If) ʾnāš (anyone) lā (not) nešlaḥ (will-cast-away) ḥṭītā (sin) d-īl-eh (which-[is]-his), neqṭlūnāy(hy) (they-will-kill-him)!
 → "If any man does not cast away his sin, they shall kill him!"
 
 **Sentence 4**
@@ -168,9 +169,9 @@ Yūḥannan (John) ʾemar (said) l-malkā (to-the-king): lā (not) hākannā (th
 
 **Sentence 6**
 
-ܢܘܗܪܐ ܗܢܐ ܛܒܐ ܗܘ ܡܢ ܚܫܘܟܐ
-nūhrā hānā ṭābā hū men ḥešūḵā.
-nūhrā (the-light) hānā (this) ṭābā (good) hū (it-[is]) men (from) ḥešūḵā (darkness).
+ܢܘܗܪܐ ܗܢܐ ܛܒ ܗܘ ܡܢ ܚܫܘܟܐ
+nūhrā hānā ṭāb hū men ḥešūkā.
+nūhrā (the-light) hānā (this) ṭāb (good) hū (it-[is]) men (from) ḥešūkā (darkness).
 → "This light is better than darkness."
 
 **Sentence 7**
@@ -198,16 +199,16 @@ Identify the gender, number, and meaning of these modifiers.
 
 Translate these sentences using `men` as a comparative.
 
-1. ʾAlāhā rabbā hū men malkā.
+1. ʾAlāhā rab hū men malkā.
 2. Ḥayyē ṭābīn hennōn men mawtā.
-3. ʾArʿā hādē bīštā hī men šmayyā (heaven).
+3. ʾArʿā hādē bīšā hī men šmayyā (heaven).
 
 **Exercise 3: Translation Drill (Syriac → English)**
 
 Translate the following conditional and demonstrative clauses.
 
-1. ʾEn tešbūq l-ʾAlāhā, neqṭūl lāḵ malkā hānā.
-2. Gabrā haw npal b-kurhānā.
+1. ʾEn tešbūq l-ʾAlāhā, neqṭūl lāk malkā hānā.
+2. Gabrā haw npal b-kūrhānā.
 3. W-ʾetaw talmīdē hālēn l-bayteh.
 4. Lā hākannā ʾemar Yūḥannan b-šrārā.
 
@@ -235,8 +236,8 @@ Re-read Section 7 and answer:
 
 **Section 1 Warm-Up**
 
-1. It inserts a *Nun* (n) in the 1st person singular object suffix, e.g., *qaṭlanī*.
-2. *Parqanī* means "He saved me" (3 m.sg. Peal perfect + 1 c.sg. suffix); *Pruqaynī!* means "Save me!" (2 m.sg. Peal imperative + 1 c.sg. suffix).
+1. It is *-an(y)*, with a Nun and a silent Yodh (*qaṭlan(y)*, "he killed me"); the possessive is the bare silent *-(y)* (*malk(y)*).
+2. *Parqan(y)* means "He saved me" (3 m.sg. Peal perfect + 1 c.sg. suffix); *Pruqayn(y)!* means "Save me!" (2 m.sg. Peal imperative + 1 c.sg. suffix).
 3. 3 m.sg. Peal perfect *qṭal* ("he killed") followed by the 3 m.pl. enclitic object pronoun *ʾennōn* ("them") = "He killed them."
 4. The addition of the vowel-initial suffix shifts the syllable structure, causing the vowel *a* to move after the first radical (*qṭal* + *-eh* $\rightarrow$ *qaṭ-leh*).
 5. "God healed him, the king" (Double determination using the suffix *and* the preposition *l-*).
@@ -263,14 +264,14 @@ Re-read Section 7 and answer:
 
 **Exercise 4: Production Drill**
 
-1. Meltā hādē ṭābtā hī men meltā hāy.
+1. Meltā hādē ṭābā hī men meltā hāy.
 2. ʾEn tešmʿūn qālā, tēḥūn / teḥyūn.
-3. Tlātā gabrīn npaqū men malkūtā.
+3. Tlātā gabrīn npaq(w) men malkūtā.
 4. ʾAlāhā praq l-ʿālmā hānā bīšā.
 
 **Exercise 5: Reading Comprehension**
 
-1. They will be killed (*neqṭlūn-yhy*).
+1. Death: "they shall kill him" (*neqṭlūnāy(hy)*).
 2. By reminding him that the God of truth forgave the evil ("Not so," *lā hākannā*).
 3. In peace (*b-šlāmā*).
 
@@ -293,20 +294,19 @@ Re-read Section 7 and answer:
 | Construction | Example | Meaning |
 | :--- | :--- | :--- |
 | `ʾen` (If) + Imperf | ʾen teḥzē | If you see... |
-| Adj + `men` (from) | ṭābā men malkā | Better than the king |
+| Adj (absolute) + `men` (from) | ṭāb men malkā | Better than the king |
 | Noun + Demonstrative | malkā hānā | This king |
 
 #### Section 11: Additional Vocabulary
 
-The following 8 high-frequency words and ordinal/cardinal reference forms supplement this lesson's core vocabulary.
+The following 7 words, including the first three ordinal numbers, supplement this lesson's core vocabulary.
 
 | Syriac (Estrangela) | Transliteration | Part of Speech | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | ܬܘܪܓܡܐ | tūrgāmā | m. noun | translation, interpretation, homily | from t-r-g-m |
 | ܐܝܟܢܐ | ʾaykannā | adv | how, in what manner | interrogative/relative |
 | ܡܟܐ | mekkā | adv | from here, hence | men + kā |
-| ܠܐ | lā | neg_adv | not, no | negation/discourse |
-| ܕܘܟܬܐ | dūktā | f. noun | place, position | emphatic of dūkkā |
+| ܕܘܟܬܐ | dūktā | f. noun | place, position | also ܕܘܟܐ *dukkā* |
 | ܩܕܡܝܐ | qadmāyā | m. adj | first, former | ordinal numeral |
 | ܬܪܝܢܐ | trayyānā | m. adj | second | ordinal numeral from trēn |
 | ܬܠܝܬܝܐ | tlītāyā | m. adj | third | ordinal numeral from tlātā |

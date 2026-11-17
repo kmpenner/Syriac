@@ -18,10 +18,20 @@ Syriac is written from **right to left**. The script used in this course is **Es
 
 **Core Principles:**
 
-1. **22 Consonants**: All letters are consonants. Vowels are indicated by separate small marks or dots (to be covered in Lesson 1).
+1. **22 Consonants**: The alphabet has 22 letters, all of them consonants. Three of them, Alaph (ܐ), Waw (ܘ) and Yodh (ܝ), also serve as vowel letters: Waw can stand for *ū* or *ō* (ܢܘܗܪܐ *nūhrā*), Yodh for *ī* or *ē*, and a final Alaph usually marks *ā* or *ē*. The other vowels are not written in the letters at all.
 2. **Connecting Letters**: Most letters connect to the preceding and following letters (like cursive or Arabic). However, 8 letters are "non-joiners" — they only connect to the letter before them.
 3. **No Case**: There are no capital letters.
 4. **Alaph as Carrier**: The first letter, Alaph (ܐ), is often a silent carrier for a vowel or a glottal stop.
+
+**Reading Aids: Dots and Vowel Signs**
+
+Syriac scribes added small marks to help the reader. You will meet three kinds:
+
+- **Plural dots (*syāmē*)**: two dots above a word mark it as plural. ܡܠܟܐ is *malkā* "king"; ܡ̈ܠܟܐ is *malkē* "kings". On a word containing Rish, the two dots replace the dot of the Rish (ܓܒܪ̈ܐ *gabrē* "men"). This course writes *syāmē* on every plural noun and adjective.
+- **A distinguishing dot**: a single dot above or below a word tells apart two words spelled alike. The commonest pair is ܗ̇ܘ *haw* "that" (dot above) and ܗ̣ܘ *hū* "he" (dot below).
+- **Vowel signs**: later manuscripts and printed Bibles add full vowel signs, in two systems: five small signs derived from Greek vowel letters (West Syriac), or combinations of dots (East Syriac).
+
+Most Syriac texts are written without vowel signs, and this course does the same: the Syriac is printed unpointed, as you will meet it in manuscripts and editions, and every word is given in transliteration so that you learn its vowels.
 
 ---
 
@@ -40,11 +50,11 @@ Syriac letters follow the same order as Hebrew and the ancient "Abgad" order of 
 | ܓ | Gamal | g / gh | g as in 'go' | ג | ج |
 | ܕ | Dalath | d / dh | d as in 'dog' | ד | د |
 | ܗ | He | h | h as in 'house' | ה | ه |
-| ܘ | Waw | w | w as in 'water' | ו | و |
+| ܘ | Waw | w | w as in 'water'; also the vowels ū, ō | ו | و |
 | ܙ | Zain | z | z as in 'zebra' | ז | ز |
 | ܚ | Heth | ḥ | Pharyngeal 'h' | ח | ح |
 | ܛ | Teth | ṭ | Emphatic 't' | ט | ط |
-| ܝ | Yodh | y | y as in 'yes' | י | ي |
+| ܝ | Yodh | y | y as in 'yes'; also the vowels ī, ē | י | ي |
 | ܟ | Kaph | k / kh | k as in 'king' | כ | ك |
 
 **Letters 12–22**
@@ -56,9 +66,9 @@ Syriac letters follow the same order as Hebrew and the ancient "Abgad" order of 
 | ܡ | Mim | m | m as in 'man' | מ | م |
 | ܢ | Nun | n | n as in 'noon' | נ | ن |
 | ܣ | Semkath | s | s as in 'sun' | ס | س |
-| ܥ | ʿe | ʿ | Pharyngeal stop | ע | ع |
+| ܥ | ʿe | ʿ | Voiced pharyngeal (Arabic ع) | ע | ع |
 | ܦ | Pe | p / f | p as in 'paper' | פ | ف |
-| ܨ | Sade | ṣ | Emphatic 's'/'ts' | צ | ص |
+| ܨ | Sade | ṣ | Emphatic 's' | צ | ص |
 | ܩ | Qoph | q | Uvular 'k' | ק | ق |
 | ܪ | Rish | r | Rolled 'r' | ר | ر |
 | ܫ | Shin | š | sh as in 'she' | ש | ش |
@@ -75,7 +85,7 @@ In your reading, you will notice that certain letters never connect to the lette
 
 ܐ (Alaph), ܕ (Dalath), ܗ (He), ܘ (Waw), ܙ (Zain), ܨ (Sade), ܪ (Rish), ܬ (Taw).
 
-*Note: Taw (ܬ) often appears to connect, but technically follows the non-joiner rule in many formal manuscripts. Dalath (ܕ) and Rish (ܪ) look identical except for a single dot: Dalath has a dot BELOW, Rish has a dot ABOVE.*
+*Note: Dalath (ܕ) and Rish (ܪ) look identical except for a single dot: Dalath has a dot BELOW, Rish has a dot ABOVE.*
 
 ---
 
@@ -87,7 +97,7 @@ In your reading, you will notice that certain letters never connect to the lette
 | ܐܠܗܐ | ʾAlāhā | God | Alaph (NJ) + Lamad + He (NJ) + Alaph (NJ) |
 | ܡܠܟܐ | malkā | King | Mim + Lamad + Kaph + Alaph (NJ) |
 | ܐܪܥܐ | ʾarʿā | Earth | Alaph (NJ) + Rish (NJ) + ʿe + Alaph (NJ) |
-| ܢܘܗܪܐ | nūhrā | Light | Nun + Waw (NJ) + He (NJ) + Rish (NJ) + Alaph (NJ) |
+| ܢܘܗܪܐ | nūhrā | Light | Nun + Waw (NJ, here the vowel ū) + He (NJ) + Rish (NJ) + Alaph (NJ) |
 | ܝܘܚܢܢ | Yūḥannan | John | Yodh + Waw (NJ) + Heth + Nun + Nun |
 
 ---
@@ -145,7 +155,7 @@ Write out the Syriac letters for the following names based on Section 2:
 
 1. M-L-K-A (King)
 2. A-L-H-A (God)
-3. Y-W-H-N-N (Yukhannan / John)
+3. Y-W-Ḥ-N-N (Yukhannan / John)
 
 **Exercise 4: Directional Awareness**
 
@@ -158,9 +168,9 @@ If you are reading the word **ܐܠܗܐ**, which letter do you read first (the on
 
 **Exercise 1**
 
-1. ܐ , ܒ , ܓ (A-B-G)
-2. ܚ , ܛ , ܝ (H-T-Y)
-3. ܩ , ܪ , ܫ (Q-R-S)
+1. ܐ , ܒ , ܓ (ʾ-B-G)
+2. ܚ , ܛ , ܝ (Ḥ-Ṭ-Y)
+3. ܩ , ܪ , ܫ (Q-R-Š)
 
 **Exercise 2**
 

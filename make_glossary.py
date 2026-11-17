@@ -3,7 +3,7 @@
 import csv, html, os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 ORDER = 'ܐܒܓܕܗܘܙܚܛܝܟܠܡܢܣܥܦܨܩܪܫܬ'
-key = lambda r: [ORDER.index(c) if c in ORDER else 99 for c in r['Syriac']]
+key = lambda r: [ORDER.index(c) for c in r['Syriac'] if c in ORDER]  # ignore syame and spaces
 rows = [r for r in csv.DictReader(open('syriac_vocabulary.tsv'), delimiter='\t') if r['Syriac'].strip()]
 rows.sort(key=key)
 def gram(r):

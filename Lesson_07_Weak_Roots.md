@@ -22,7 +22,7 @@ In Lessons 5 and 6, we expanded our vocabulary exponentially by learning how Sem
 
 1. What stem does a verb belonging to the pattern *ʾaCCeC* belong to (e.g., *ʾaqreb*)?
 2. What consonant prefix marks the active participle of *all* derived stems (Aphel, Paael, etc.)?
-3. Translate: *ʾAlāhā ʾaglī šrārā* (ܐܠܗܐ ܐܓܠܝ ܫܪܪܐ).
+3. Translate: *ʾAlāhā ʾawdaʿ šrārā* (ܐܠܗܐ ܐܘܕܥ ܫܪܪܐ).
 4. If *q-d-š* in Peal means "to be holy", what does it mean in Paael (*qaddeš*)?
 5. How would you recognize a Paael participle versus a Peal participle?
 
@@ -32,7 +32,7 @@ In Lessons 5 and 6, we expanded our vocabulary exponentially by learning how Sem
 
 
 Until now, we have mostly dealt with "strong" roots (like *k-t-b* or *š-b-q*), where all three consonants boldly assert themselves in every conjugation.
-However, some of the most common verbs in human language—to say, to be, to know, to give, to come—are "weak". This means one of their three root consonants is a "weak letter" (Alaph, Waw, or Yodh), which tends to assimilate, drop out entirely, or turn into a vowel depending on the surrounding sounds.
+However, some of the most common verbs in human language—to say, to be, to know, to give, to come—are "weak". This means one of their three root consonants is a "weak letter" (Alaph, Waw, or Yodh, and in first position also Nun), which tends to assimilate, drop out entirely, or turn into a vowel depending on the surrounding sounds. You have been reading several of these verbs since Lesson 3 (*ʾemar*, *ʾezal*, *qām*, *ʾappeq*); this lesson explains them.
 
 **Cross-Linguistic Comparison: Weak Consonants**
 
@@ -42,8 +42,10 @@ Weak verbs are the bane of every Semitic language student, but they follow highl
 *   **Arabic**: Hollow verbs (قَالَ *qāla* = he said); Defective/Final Weak (رَمَى *ramā* = he threw).
 *   **Syriac**: 
     - **I-Alaph**: Root *ʾ-m-r* (to say) $\rightarrow$ *ʾemar* (not *ʾamar*).
-    - **I-Yodh**: Root *y-d-ʿ* (to know) $\rightarrow$ *īdaʿ* (Yodh acts like an *i* vowel).
+    - **I-Yodh**: Root *y-d-ʿ* (to know) $\rightarrow$ *ʾīdaʿ* (Yodh acts like an *ī* vowel).
     - **III-Yodh**: Root *ḥ-z-y* (to see) $\rightarrow$ *ḥzā* (the Yodh drops out, leaving an *ā* vowel).
+    - **Hollow (II-Waw/Yodh)**: Root *q-w-m* (to rise) $\rightarrow$ *qām* (the middle letter disappears into a long vowel).
+    - **I-Nun**: Root *n-p-q* (to go out) $\rightarrow$ imperfect *neppūq*, Aphel *ʾappeq* (the Nun assimilates to the next consonant).
 
 ---
 
@@ -61,11 +63,11 @@ The most famous is *ʾ-m-r* ("to say"). In the Peal perfect 3rd masc singular, t
 
 **2. I-Yodh Verbs (First consonant is Yodh)**
 
-Very common verbs like *y-d-ʿ* (to know) and *y-t-b* (to sit). The initial `y` fuses with the preceding invisible glottal stop to form an *ī* vowel.
+Very common verbs like *y-d-ʿ* (to know) and *y-t-b* (to sit). A Syriac word cannot begin with a vowelless *y*, so the initial Yodh is pronounced as the vowel *ī*. Where the first radical has a vowel of its own (1 c.sg. and 3 f.sg.), it is a normal consonant again: *yedʿet* (I knew), *yedʿat* (she knew).
 
-*   *y-d-ʿ* $\rightarrow$ *īdaʿ* (he knew).
-*   *y-t-b* $\rightarrow$ *īteb* (he sat).
-*Note: The verb y-h-b (to give) is irregular in the perfect: yahb / yhab (he gave), where the h is silent in pronunciation (yab).*
+*   *y-d-ʿ* $\rightarrow$ *ʾīdaʿ* (he knew).
+*   *y-t-b* $\rightarrow$ *ʾīteb* (he sat).
+*Note: The verb y-h-b (to give) is irregular: in the perfect ܝܗܒ the He is written but silent, ya(h)b "he gave" (pronounced yab), 1 c.sg. yehbet "I gave". Its imperfect is supplied by another root altogether: ܢܬܠ nettel "he will give".*
 
 **3. III-Yodh Verbs (Third consonant is Yodh)**
 
@@ -73,7 +75,24 @@ Verbs ending in Yodh (like *ḥ-z-y*, *b-n-y*, *ḥ-y-y*). The Yodh falls away i
 
 *   *ḥ-z-y* (to see) $\rightarrow$ *ḥzā* (he saw) [looks like a 2-consonant word].
 *   *ḥ-z-y* + *-et* (I saw) $\rightarrow$ *ḥzēt* (the *ay* contracts to *ē*).
-*   *ḥ-z-y* + *-ū* (They saw) $\rightarrow$ *ḥzaw* (the *ay-ū* contracts to *aw*).
+*   *ḥ-z-y* + *-w* (They saw) $\rightarrow$ *ḥzaw* (here the plural Waw is heard, as the diphthong *aw*).
+
+**4. Hollow Verbs (Second consonant is Waw or Yodh)**
+
+In roots like *q-w-m* (rise, stand), *d-w-n* (judge) and *s-y-m* (put), the middle radical is not a real consonant. In the Peal perfect it vanishes into a long *ā* that never changes: *qām* (he rose), *qāmat* (she rose), *qāmet* (I rose). The active participle shows a glottal stop or *y* in its place: ܩܐܡ *qāʾem*, f. ܩܝܡܐ *qāymā*. The imperfect and imperative show the long vowel of the root: ܢܩܘܡ *nqūm* (he will rise), ܩܘܡ *qūm* (rise!); for *s-y-m*, ܢܣܝܡ *nsīm*.
+
+In the Aphel the middle radical appears as *ī*: ܐܩܝܡ *ʾaqīm* (he raised up), participle ܡܩܝܡ *mqīm*; likewise *ʾarīm* (he exalted), from *r-w-m*.
+
+**5. I-Nun Verbs (First consonant is Nun)**
+
+The perfect of a I-Nun verb is regular: *npaq* (he went out), *npal* (he fell), *nsab* (he took). But wherever the Nun would stand directly before the second radical with no vowel between them, it assimilates to that radical and doubles it:
+
+*   Imperfect: *n-* + *npūq* $\rightarrow$ ܢܦܘܩ *neppūq* (he will go out); ܢܦܠ *neppel* (he will fall); ܢܣܒ *nessab* (he will take).
+*   Imperative: the Nun is dropped altogether: ܦܘܩ *pūq* (go out!), ܣܒ *sab* (take!).
+*   Infinitive: ܡܦܩ *meppaq* (to go out).
+*   Aphel: ܐܦܩ *ʾappeq* (he brought out), participle ܡܦܩ *mappeq*. This is the verb you learned in Lesson 5.
+
+Two other verbs assimilate a first or second radical in the same way: *s-l-q* (go up; Aphel *ʾasseq*, "bring up") and *ʾ-z-l* (go; *ʾezzet* is heard for *ʾezlet*, "I went").
 
 ---
 
@@ -97,8 +116,29 @@ Because III-Yodh verbs lose their third consonant so frequently, memorizing thei
 
 ---
 
-#### Section 5: The highly irregular verbs ʾ-t-y and h-w-y
+#### Section 5: Hollow Paradigm; the Irregular Verbs ʾ-t-y and h-w-y
 
+
+**The Hollow Peal (Root q-w-m "to rise, stand")**
+
+| Form | Estrangela | Transliteration | Translation |
+| :--- | :--- | :--- | :--- |
+| **Perfect 3 m.sg.** | ܩܡ | qām | he rose |
+| **Perfect 3 f.sg.** | ܩܡܬ | qāmat | she rose |
+| **Perfect 2 m.sg.** | ܩܡܬ | qāmt | you (m) rose |
+| **Perfect 1 c.sg.** | ܩܡܬ | qāmet | I rose |
+| **Perfect 3 m.pl.** | ܩܡܘ | qām(w) | they (m) rose |
+| **Perfect 2 m.pl.** | ܩܡܬܘܢ | qāmtūn | you (m.pl) rose |
+| **Participle m.sg.** | ܩܐܡ | qāʾem | rising, standing |
+| **Participle f.sg.** | ܩܝܡܐ | qāymā | rising, standing |
+| **Participle m.pl.** | ܩܝܡܝܢ | qāymīn | rising, standing |
+| **Imperfect 3 m.sg.** | ܢܩܘܡ | nqūm | he will rise |
+| **Imperative m.sg.** | ܩܘܡ | qūm | rise! |
+| **Infinitive** | ܡܩܡ | mqām | to rise |
+| **Aphel perfect** | ܐܩܝܡ | ʾaqīm | he raised up |
+| **Aphel participle** | ܡܩܝܡ | mqīm | raising up |
+
+**Two Doubly Weak Verbs**
 
 Two of the most common verbs in Syriac are doubly weak and highly irregular.
 
@@ -111,6 +151,16 @@ Two of the most common verbs in Syriac are doubly weak and highly irregular.
     * 1 c.s: *hwēt* (I was).
     * 3 m.pl: *hwaw* (they were).
 
+**The Past Continuous: Participle + hwā**
+
+Placed after a participle, *hwā* turns the present into a continuous or habitual past. In this use it is enclitic and its He is silent (pronounced *wā*):
+
+*   ܟܬܒ ܗܘܐ *kāteb (h)wā* = he was writing, he used to write.
+*   ܟܬܒܐ ܗܘܬ *kātbā (h)wāt* = she was writing.
+*   ܟܬܒܝܢ ܗܘܘ *kātbīn (h)waw* = they were writing.
+
+Placed after a perfect it gives a pluperfect: ܟܬܒ ܗܘܐ *ktab (h)wā* = he had written. In unpointed text the two look the same, and the context decides.
+
 ---
 
 #### Section 6: Vocabulary (Weak Verbs & Court Terms)
@@ -121,15 +171,20 @@ Two of the most common verbs in Syriac are doubly weak and highly irregular.
 | ܐ.ܡ.ܪ | ʾemar (ܐܡܪ) | to say | I-Alaph |
 | ܐ.ܟ.ܠ | ʾekal (ܐܟܠ) | to eat | I-Alaph |
 | ܐ.ܙ.ܠ | ʾezal (ܐܙܠ) | to go | I-Alaph |
-| ܝ.ܕ.ܥ | īdaʿ (ܝܕܥ) | to know | I-Yodh |
-| ܝ.ܬ.ܒ | īteb (ܝܬܒ) | to sit | I-Yodh |
-| ܝ.ܗ.ܒ | yahb (ܝܗܒ) | to give | I-Yodh (Irregular) |
+| ܝ.ܕ.ܥ | ʾīdaʿ (ܝܕܥ) | to know | I-Yodh |
+| ܝ.ܬ.ܒ | ʾīteb (ܝܬܒ) | to sit | I-Yodh |
+| ܝ.ܗ.ܒ | ya(h)b (ܝܗܒ) | to give | I-Yodh (Irregular) |
 | ܚ.ܙ.ܝ | ḥzā (ܚܙܐ) | to see | III-Yodh |
 | ܩ.ܪ.ܐ | qrā (ܩܪܐ) | to call / read | III-Alaph (behaves like III-Yodh) |
 | ܒ.ܢ.ܝ | bnā (ܒܢܐ) | to build | III-Yodh |
 | ܚ.ܝ.ܝ | ḥyā (ܚܝܐ) | to live | III-Yodh |
 | ܐ.ܬ.ܝ | ʾetā (ܐܬܐ) | to come | I-Alaph & III-Yodh |
 | ܗ.ܘ.ܝ | hwā (ܗܘܐ) | to be/become | III-Yodh |
+| ܩ.ܘ.ܡ | qām (ܩܡ) | to rise, stand | Hollow |
+| ܣ.ܝ.ܡ | sām (ܣܡ) | to put, place | Hollow |
+| ܡ.ܘ.ܬ | mīt (ܡܝܬ) | to die | Hollow (stative: *ī* in the perfect) |
+| ܢ.ܦ.ܠ | npal (ܢܦܠ) | to fall | I-Nun |
+| ܢ.ܣ.ܒ | nsab (ܢܣܒ) | to take | I-Nun |
 | (Noun)| ܪܘܓܙܐ (rūgzā) | anger/wrath | Emotion abstract |
 | (Noun)| ܛܒܐ (ṭebbā) | report / tidings | Court term |
 
@@ -140,21 +195,21 @@ Two of the most common verbs in Syriac are doubly weak and highly irregular.
 
 **The Summons**
 
-*Narrative note: Pay attention to the massive use of weak roots—ʾemar (said), ʾezal (went), īdaʿ (knew), hwā (was/became), ḥzayn (we saw), ʾetā (came).*
+*Narrative note: The scene returns to the king's guards, who have heard what Yukhannan said in the temple (Lesson 6). Pay attention to the massive use of weak roots—ʾemar (said), ʾezal (went), ʾīdaʿ (knew), hwā (was/became), ḥzayn (we saw), ʾetā (came).*
 
 **Sentence 1**
 
-ܟܕ ܐܡܪ ܝܘܚܢܢ ܡܠܬܐ ܕܐܠܗܐ ܐܙܠܘ ܢܛܘܪܐ ܠܘܬ ܡܠܟܐ
-kad ʾemar Yūḥannan meltā d-ʾAlāhā, ʾezalū nāṭōrē lwāt malkā.
-kad (when) ʾemar (said) Yūḥannan (John) meltā (the-word) d-ʾAlāhā (of-God), ʾezalū (went) nāṭōrē (the-guards) lwāt (to-the-presence-of) malkā (the-king).
+ܟܕ ܐܡܪ ܝܘܚܢܢ ܡܠܬܐ ܕܐܠܗܐ ܐܙܠܘ ܢܛܘܪ̈ܐ ܠܘܬ ܡܠܟܐ
+kad ʾemar Yūḥannan meltā d-ʾAlāhā, ʾezal(w) nāṭōrē lwāt malkā.
+kad (when) ʾemar (said) Yūḥannan (John) meltā (the-word) d-ʾAlāhā (of-God), ʾezal(w) (went) nāṭōrē (the-guards) lwāt (to-the-presence-of) malkā (the-king).
 → When Yukhannan said the word of God, the guards went to the king.
 
 **Sentence 2**
 
-ܐܡܪܝܢ ܠܗ ܝܕܥܝܢ ܚܢܢ ܡܐ ܗܘܐ ܒܬܪܥܐ
-ʾāmrīn leh: yādʿīn ḥnan mā hwā b-tarʿā!
-ʾāmrīn (they-[are]-saying) leh (to-him): yādʿīn (knowing) ḥnan (are-we) mā (what) hwā (happened/was) b-tarʿā (in-the-gate)!
-→ They say to him: "We know what happened at the gate!"
+ܐܡܪܝܢ ܠܗ ܝܕܥܝܢ ܚܢܢ ܡܐ ܗܘܐ ܒܗܝܟܠܐ
+ʾāmrīn leh: yādʿīn ḥnan mā hwā b-hayklā!
+ʾāmrīn (they-[are]-saying) leh (to-him): yādʿīn (knowing) ḥnan (are-we) mā (what) hwā (happened/was) b-hayklā (in-the-temple)!
+→ They say to him: "We know what happened in the temple!"
 
 **Sentence 3**
 
@@ -172,9 +227,9 @@ hwā (became/was) hāšā (now) malkā (the-king) rgīz (angry) ṭāb (greatly/
 
 **Sentence 5**
 
-ܐܡܪ ܡܠܟܐ ܠܢܛܘܪܐ ܐܝܬܝܘܗܝ ܠܗܪܟܐ
-ʾemar malkā l-nāṭōrē: ʾaytiwhy l-harkā!
-ʾemar (said) malkā (the-king) l-nāṭōrē (to-the-guards): ʾaytiwhy (bring-him! [Aphel imperative pl. of ʾ-t-y + 3m.sg. suffix]) l-harkā (to-here)!
+ܐܡܪ ܡܠܟܐ ܠܢܛܘܪ̈ܐ ܐܝܬܐܘܗܝ ܠܗܪܟܐ
+ʾemar malkā l-nāṭōrē: ʾaytaʾū(hy) l-harkā!
+ʾemar (said) malkā (the-king) l-nāṭōrē (to-the-guards): ʾaytaʾū(hy) (bring-him! [Aphel imperative m.pl. of ʾ-t-y + 3 m.sg. suffix; imperatives and object suffixes come in Lessons 9 and 11]) l-harkā (to-here)!
 → The king said to the guards: "Bring him here!"
 
 **Sentence 6**
@@ -194,9 +249,9 @@ w-ʾetā (and-came) Yūḥannan (John) qdām (before) malkā (the-king).
 Identify the root and grammatical form of these weak verbs:
 
 1. ܚܙܝܬ (ḥzēt)
-2. ܐܡܪܘ (ʾemarū)
+2. ܐܡܪܘ (ʾemar(w))
 3. ܐܬܐ (ʾetā)
-4. ܝܗܒܘ (yahbū)
+4. ܝܗܒܘ (ya(h)b(w))
 
 **Exercise 2: Conjugation Drill**
 
@@ -211,9 +266,9 @@ Conjugate the root *ʾ-m-r* (to say) in the Peal perfect for:
 
 Translate the following past narrative clauses involving weak verbs.
 
-1. ʾEmarū nāṭōrē meltā.
+1. ʾEmar(w) nāṭōrē meltā.
 2. Ḥzayn nūhrā d-ʾAlāhā b-tarʿā.
-3. W-īdaʿ malkā rūgzā (wrath).
+3. W-ʾīdaʿ malkā meltā d-Yūḥannan.
 4. Hwaw b-ʾarʿā.
 
 **Exercise 4: Production Drill (English → Syriac)**
@@ -222,8 +277,8 @@ Render the following narrative sentences into Syriac transliteration. (Remember 
 
 1. The evil king saw (ḥzā) the man.
 2. We came (ʾetayn) to the kingdom.
-3. I gave (yahbet) the garment to the guard (*nāṭōrā*).
-4. John knew (*īdaʿ*) the word of God.
+3. I gave (yehbet) the garment to the guard (*nāṭōrā*).
+4. John knew (*ʾīdaʿ*) the word of God.
 
 **Exercise 5: Reading Comprehension**
 
@@ -242,7 +297,7 @@ Re-read Section 7 and answer:
 
 1. Aphel. (Causative). 
 2. *Mīm* (m-). e.g., *maqreb*, *mqaddeš*, *mallep*.
-3. God revealed the truth.
+3. God made known the truth.
 4. To make holy / to sanctify.
 5. The vowel pattern and prefix: *mqaddeš* (Paael) vs *kāteb* (Peal). The Peal has no *m-* prefix in the active participle.
 
@@ -258,21 +313,21 @@ Re-read Section 7 and answer:
 1. ʾemret
 2. ʾemarn
 3. ʾemart
-4. ʾemarū
+4. ʾemar(w)
 
 **Exercise 3: Translation Drill**
 
 1. The guards said a word.
 2. We saw the light of God in the gate.
-3. And the king knew wrath.
+3. And the king knew the word of Yukhannan.
 4. They were in the earth.
 
 **Exercise 4: Production Drill**
 
 1. Ḥzā malkā bīšā l-gabrā. (*l-* marks direct object).
 2. ʾEtayn l-malkūtā.
-3. Yahbet lbūšā l-nāṭōrā.
-4. Īdaʿ Yūḥannan meltā d-ʾAlāhā.
+3. Yehbet lbūšā l-nāṭōrā.
+4. ʾĪdaʿ Yūḥannan meltā d-ʾAlāhā.
 
 **Exercise 5: Reading Comprehension**
 
@@ -291,25 +346,27 @@ Re-read Section 7 and answer:
 | Class | Root | Shift Rule | 3 m.sg Example | 1 c.sg Example |
 | :--- | :--- | :--- | :--- | :--- |
 | **I-Alaph** | ʾ-m-r | First vowel becomes *e* | ʾemar (he said) | ʾemret (I said) |
-| **I-Yodh** | y-d-ʿ | Initial Yodh + stop $\rightarrow$ *ī* | īdaʿ (he knew) | īdʿet (I knew) |
+| **I-Yodh** | y-d-ʿ | Initial vowelless *y* $\rightarrow$ *ī* | ʾīdaʿ (he knew) | yedʿet (I knew) |
 | **III-Yodh** | ḥ-z-y | Yodh drops, ends in *ā* in 3ms| ḥzā (he saw) | ḥzēt (I saw) |
 | **Double Weak**| ʾ-t-y | Follows both rules | ʾetā (he came) | ʾetēt (I came) |
+| **Hollow** | q-w-m | Middle radical becomes long *ā* | qām (he rose) | qāmet (I rose) |
+| **I-Nun** | n-p-q | Perfect regular; *n* assimilates in imperfect and Aphel | npaq (he went out) | nepqet (I went out); impf. neppūq |
 
 
 #### Section 11: Additional Vocabulary
 
-The following 28 high-frequency words supplement this lesson's vocabulary, focusing on derived nouns from weak roots.
+The following 28 words supplement this lesson's vocabulary. Most are nouns derived from weak roots.
 
 | Estrangela | Transliteration | Gender/Type | Meaning | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ܚܕܝܘܬܐ | ḥdāyūtā | f. noun | oneness, unity | from root ḥ-d-y |
+| ܚܕܝܘܬܐ | ḥdāyūtā | f. noun | oneness, unity | from *ḥad* "one" |
 | ܕܡܘܬܐ | dmūtā | f. noun | likeness, image | from root d-m-y (to be like) |
 | ܚܙܘܐ | ḥezwā | m. noun | vision, sight | from III-Yodh root ḥ-z-y |
 | ܒܢܝܢܐ | benyānā | m. noun | building, structure | from III-Yodh root b-n-y |
 | ܡܣܩܬܐ | masqtā | f. noun | ascent, exaltation | from root s-l-q |
 | ܩܪܝܢܐ | qeryānā | m. noun | reading, calling | from III-Alaph root q-r-ʾ |
 | ܥܘܕܪܢܐ | ʿūdrānā | m. noun | help, aid | from root ʿ-d-r |
-| ܝܙܦܬܐ | īzaptā | f. noun | loan, borrowing | from root y-z-p (cf. *yazpā* "borrower") |
+| ܝܙܦܬܐ | ʾīzaptā | f. noun | loan, borrowing | from root y-z-p (cf. *yazpā* "borrower") |
 | ܡܘܗܒܬܐ | mawhabtā | f. noun | gift, offering | from I-Yodh root y-h-b |
 | ܡܐܬܝܬܐ | meʾtītā | f. noun | coming, arrival | from weak root ʾ-t-y |
 | ܗܘܝܐ | hwāyā | m. noun | being, genesis, existence | verbal noun from h-w-y (f.sg. ptcp. is *hāwyā*) |
@@ -327,7 +384,7 @@ The following 28 high-frequency words supplement this lesson's vocabulary, focus
 | ܡܥܨܪܬܐ | maʿṣartā | f. noun | winepress | from root ʿ-ṣ-r |
 | ܐܣܘܪܐ | ʾesūrā | m. noun | bond, chain | from root ʾ-s-r |
 | ܫܠܝܐ | šelyā | m. noun | quiet, stillness | from weak root š-l-y |
-| ܐܬܐ | ʾātā | f. noun | sign, miracle | from root ʾ-t-y |
+| ܐܬܐ | ʾātā | f. noun | sign, miracle | pl. ܐܬܘ̈ܬܐ *ʾātwātā*; not related to *ʾetā* "come" |
 | ܢܝܚܐ | nyāḥā | m. noun | rest, tranquility | from hollow root n-w-ḥ |
 | ܒܗܬܬܐ | behttā | f. noun | shame, disgrace | from root b-h-t |
 

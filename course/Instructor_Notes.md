@@ -70,7 +70,7 @@ These notes go with *The Acts of Mar Yukhannan*, Lessons 0–12, taught in one 1
 
 ### Lesson 7: Weak Roots (Week 7, after the study break)
 - **Pacing:** start with a short review of the perfect, because the break erodes it. Then take one weak class per day: III-Yodh, then I-Alaph and I-Yodh, then I-Nun and ʾetā.
-- **Discussion:** How do you look up a weak verb in a lexicon? Practise finding *ḥzā, ʾetā, īdaʿ* in SEDRA by root.
+- **Discussion:** How do you look up a weak verb in a lexicon? Practise finding *ḥzā, ʾetā, ʾīdaʿ* in SEDRA by root.
 - **Common errors:**
   - looking for three consonants in *ḥzā* or *ʾetā*;
   - reading *ʾemar* as an Aphel because it starts with Alaph;
@@ -85,12 +85,12 @@ These notes go with *The Acts of Mar Yukhannan*, Lessons 0–12, taught in one 1
   - translating every imperfect as a future.
 
 ### Lesson 9: Commands and Intentions (Week 9, after the Module 2 test)
-- **Pacing:** the imperative builds on the imperfect stem, so revise *teqṭūl → qṭol*. The infinitive with *l-* comes quickly once *meqṭal* is learned.
+- **Pacing:** the imperative builds on the imperfect stem, so revise *teqṭūl → qṭūl*. The infinitive with *l-* comes quickly once *meqṭal* is learned.
 - **Discussion:** The soldier who says "We are not able to kill a righteous man." Use it to discuss martyr acts as a genre and the figure of the hesitant executioner.
 - **Common errors:**
-  - negating the imperative (*lā qṭol*) instead of using *lā teqṭūl*;
+  - negating the imperative (*lā qṭūl*) instead of using *lā teqṭūl*;
   - reading *meqṭal* as a participle;
-  - mixing up *ʾezlaw* "go!" (imperative) and *ʾezalw* "they went".
+  - mixing up the irregular imperative ܙܠܘ *zel(w)* "go!" and the perfect ܐܙܠܘ *ʾezal(w)* "they went".
 
 ### Lesson 10: The Passive Voice (Week 10)
 - **Pacing:** use the stem-and-partner table (Appendix A.4) as the anchor. Leave metathesis (*ʾeštmaʿ, ʾeštaddar*) for the second class.
@@ -104,7 +104,7 @@ These notes go with *The Acts of Mar Yukhannan*, Lessons 0–12, taught in one 1
 - **Pacing:** one class only in a short week. Focus on 3rd-person suffixes and *-anī*, and treat the 2nd-person forms as recognition only.
 - **Discussion:** "Heal me, save me": the king's plea. How do Syriac healing stories link bodily and spiritual healing?
 - **Common errors:**
-  - reading *qaṭlanī* "he killed me" as *qṭaln* "we killed";
+  - reading *qaṭlan(y)* "he killed me" as *qṭaln* "we killed";
   - missing the vowel shift *qṭal → qaṭl-*;
   - reading the double marking (suffix + *l-*) as two objects.
 
