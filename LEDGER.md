@@ -63,7 +63,8 @@
 
 - **[OPEN - PENDING KEN REVIEW]**: Course weights (10/10/15/25/40) and Moodle shell creation for RELS 4XX.
 - **[OPEN - FUTURE PHASE]**: Audio recordings (Ken will record audio; SEDRA has no audio).
-- **[OPEN - FUTURE PHASE]**: Copying `flashpro/syriac_yukhannan.json` to the separate `kmpenner/flash-pro` repo upon publication.
+- **[OPEN - KEN]**: Flash Pro already carries an older copy of the deck (`data/syriac_yukhannan.json`, 419 cards, sequential ids, flash-pro commit 0ea903b, 2026-10-06) with the pre-audit errors. Flash Pro caches a catalog deck in the browser on first load and never re-fetches it, so the corrected deck reaches only browsers that have not opened it yet (or that delete and reload it). Decide when to push the corrected deck to flash-pro (before Winter 2027 classes begin).
+- **[OPEN - KEN]**: The syllabus promises weekly vocabulary quizzes (10%, lowest two dropped), but no quiz bank exists; decide the format (e.g. 10 items per lesson from the TSV, Syriac to English).
 
 ---
 
