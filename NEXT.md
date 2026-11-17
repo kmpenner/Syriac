@@ -1,89 +1,75 @@
 # NEXT — Syriac
 
-**Updated 2026-10-06 by Claude** after an audit of the textbook build.
+**Updated 2026-11-17 by Claude** after the November audit and its fixes.
+Settled decisions and conventions are in `LEDGER.md`; the audit findings are in
+`REVIEW_2026-11-16.md`. Older audit notes (October) are in git history.
 
 ## State
 
-The `.md` lessons are the source. `./build.sh` rebuilds every lesson's
-`.html` (web), `_print.html` and `.pdf`, then `Syriac_Textbook.pdf`
-(pandoc → headless Chrome → pdfunite; weasyprint isn't installed here).
-`./build.sh Lesson_05` rebuilds one lesson plus the textbook.
+- All 13 lessons, Appendix A, the interactive checks and `syriac_vocabulary.tsv`
+  (420 entries) are corrected per `REVIEW_2026-11-16.md`. The full pipeline rebuilds
+  clean: table lint passes, `Syriac_Textbook.pdf` is 223 pages.
+- Stem names: Ethpeel / Ethpaal / Ettaphal. Silent letters in parentheses
+  (`ktab(w)`, `malk(y)`), predicate adjectives in the absolute, syāmē on plurals.
+- Tests and final exam: `course/make_assessments.py` (rewritten 2026-11-17) builds
+  `course/moodle/{Module1_Test,Module2_Test,Final_Exam}.xml` and `course/*_Key.md`.
+  These files are gitignored on purpose (public repo) and travel only by Syncthing;
+  keep a private backup, since the previous generator was lost that way.
+- Flash Pro: the corrected deck is live (kmpenner/flash-pro commit bf6cb8b). Card ids
+  are stable hashes. Browsers that loaded the October copy keep it until the deck is
+  deleted and reloaded in Flash Pro.
+- Syriac repo commits from 2026-11-17 are local only; the GitHub Pages site
+  (https://kmpenner.github.io/Syriac/) still shows the pre-audit build until `/stand` pushes.
 
-Fixed 2026-10-06:
-- Missing blank lines before headings, lists and labels broke every PDF:
-  literal `###` in subtitles, run-together drills, italics in the first
-  paragraph shoved onto lines of their own.
-- The recaps in Lessons 5, 6 and 9 described a different syllabus (e.g.
-  perfect in L4, imperfect in L5); they now match the actual lessons.
-- Lessons 9–10: warm-up tables rebuilt (English had been set right-to-left),
-  six broken boxed tables repaired, typos (`fsG`, `ʾaodāʿū`, `šarī`).
+## Next (decisions for Ken)
 
-Done 2026-10-06 (second pass):
-- Leftovers removed (`*_test.html`, stray `_print.html`, `md-to-pdf-skill*`, old
-  Python helpers, `backups/`); all in git history.
-- `build.sh` now also writes each lesson's `.docx` (pandoc), so they never go stale.
-- Transliteration: academic in transliterations (`š`, `ṭ`, `ḥ`, `Yūḥannan`),
-  "Yukhannan" only as the English name in prose. `q-ṭ-l` forms fixed
-  throughout; `shād` (ܣܗܕ) corrected to `sehed`.
-- One vocabulary list, `syriac_vocabulary.tsv`: 424 entries after merging
-  duplicates. Fixed ܒܐ→ܒܥܐ (bāʿē), ʾin→ʾen, ʾaqrab→ʾaqreb, ʾrīm→ʾarīm.
-- Lessons 5, 6, 9 and 10: Word-era `[..]{dir="rtl"}` spans unwrapped, `---`/`\'`
-  escapes normalized, grid boxes turned into blockquotes, and answer-key
-  subheadings matched to the other lessons. Table counts were checked against the previous version.
+1. Course number (still RELS 4XX) and the Moodle shell. The StFX calendar shows 499
+   Directed Study in other departments, but that is for individual students; ask the
+   Registrar or department which number to run this under.
+2. Confirm the course weights 10/10/15/25/40 (syllabus and ledger agree; RELS 114
+   uses 20/20/25/35 for comparison).
+3. Weekly vocabulary quizzes (10%, lowest two dropped) are promised in the syllabus
+   but no bank exists. Pick a format (suggested: 10 items per lesson from the TSV,
+   Syriac to English) and the generator can be written.
+4. Audio: Ken records it; SEDRA has no pronunciation audio.
+5. Proofreading by a strong reader of Syriac is still worth doing. Some forms added
+   in November rest on grammar, not SEDRA (the ʾalbeš paradigm, malk- with plural
+   suffixes, ktabūn, ʾassān(y)).
 
-## Next
+## Rebuild after any lesson or TSV edit
 
-1. Proofread the Syriac and the story sentences by hand; a native-level reader
-   is needed. Known: L3 s.3 "kept light in the road" is awkward. L5, L6, L9 and L10
-   are still about twice as long as the others; trimming them is an editorial call.
-2. Proofreading found while writing the checks (not yet fixed; editorial calls):
-   - L4 §8: `ܐܝܕܟᱤ` contains a stray Ol Chiki character.
-   - L4 transliterates suffixed nouns as `malk-y`, `malk-an` (hyphenated, unlike other lessons).
-   - L5 key, warm-up Q4, has no answer (should be `ʾāzel`). L6 key Q2 is blank too
-     (should be: Aphel participle m.sg. of ʾ-l-p). The L5 Aphel paradigm writes `ʾallep`
-     where ʾ-l-p Aphel is usually `ʾalep`; root of `ʾappiq` is given as `p-q` (n-p-q).
-   - L9 §7 Ex. 2: Paael/Aphel infinitive patterns `mCāCāCū`/`ʾaCCāCū` are nonstandard
-     (usually `mCaCCāCū`, `maCCāCū`). L10 key calls `ʾeštadar` an Ettaphal (it is Ethpeel with metathesis).
-   The checks avoid testing these points.
+```bash
+python3 make_glossary.py
+python3 make_flashpro.py
+python3 interactive/build_interactive.py
+python3 course/make_assessments.py
+python3 make_site.py
+bash build.sh
+```
 
-## Interactive version (built 2026-10-06)
+`bash build.sh Lesson_05` rebuilds one lesson plus the textbook. When a key answer
+changes, update `interactive/checks/Lesson_NN.json` too. The TSV has CRLF line endings;
+read and write it with `newline=''`.
 
-`interactive/` holds the Moodle-XML version for January 2027. The lessons are grouped
-into three modules (numbering unchanged, 0–12):
-Module 1 Foundations (L0–4), Module 2 The Verbal System (L5–8), Module 3 Advanced Syntax (L9–12).
+## Interactive version
 
-- `python3 interactive/build_interactive.py [Lesson_05 ...]` turns each `.md` section into
-  content slides (the full textbook text) and replaces the Exercises/Answer Key with the
-  learning checks in `interactive/checks/Lesson_NN.json`: 19–27 per lesson, covering the
-  warm-up, the story, and the exercises, with answers following the answer key.
-  Rebuild after any `.md` edit.
-- Output: `interactive/xml/Lesson_NN.xml` (importable into Moodle), `index.html` listing the
-  modules, and `player.html` (a copy of `shared/moodle-lesson-player/index.html`, which now
-  embeds Noto Sans Syriac so Estrangela displays everywhere). Preview it with
-  `cd interactive && python3 -m http.server`, then open `index.html`.
-- Open-ended drills (full conjugations, free composition) became multiple-choice
-  checks on the same items.
-
-## Accuracy audit 2026-10-06 — fixed
-L4 stray Ol Chiki char; palṭā, qallīlā, ܡܣܟܢܐ. L5 warm-up Q4 + Q5 key (ketbat = 3 f.sg.), root n-p-q, ʾappeq, Aphel ʾalep. L6 key Q2. L10 Ettaphal examples (ʾettaḥyī, ʾettalap); ʾeštadar relabelled Ethpaal of šaddar.
-
-## Audit round 2 (2026-10-06) — fixed
-L3 unattested ܥܪܩܘܬܐ → ܥܪܘܩܐ ʿārōqā 'fugitive' (SEDRA). L7 ʾemarn. L9/L10 infinitives mCaCCāCū / maCCāCū (mappāqū, Peal mappaq). L10 ʾeštaddar paradigm (Ethpaal), ʾetnahhar Ethpaal, Ex1 #12 → ʾetpreš. Transliteration lines use Yūḥannan; English glosses keep Yukhannan.
+`interactive/` holds the Moodle-XML lessons, grouped into Module 1 (L0–4), Module 2
+(L5–8) and Module 3 (L9–12). Checks live in `interactive/checks/Lesson_NN.json`, keyed
+by `"after": <section number>`; renumbering a lesson's sections means shifting these.
+Preview with `cd interactive && python3 -m http.server`, then open `index.html`.
 
 ## Checking Syriac forms (for agents)
-- Verify a word exists via SEDRA: `curl -s "https://sedra.bethmardutho.org/api/word/<unvocalized Syriac>.json"` — returns vocalized form + English glosses, or 404 if unattested (verified 2026-10).
-- When a key answer changes, update `interactive/checks/Lesson_NN.json` too, then run `./build.sh` and `python3 interactive/build_interactive.py`.
-- Careful with bulk `str.replace` on paradigm forms: a stem like ʾeštadar is a prefix of ʾeštadart, so replace longest forms first.
 
-## Course materials (2026-10-06)
-- Textbook appendices: `Appendix_A_Paradigms.md`, `Appendix_B_Glossary.md` (generated by `python3 make_glossary.py` from `syriac_vocabulary.tsv`; also writes `course/moodle/Syriac_Glossary.xml`). `build.sh` now appends `Appendix_*` to the textbook.
-- TSV cleanup: 28 misspelled entries were corrected (e.g. ܣܦܪܐ, ܡܥܡܘܕܝܬܐ, ܩܘܪܒܢܐ, ܨܠܒ), 5 duplicates were dropped, and 419 entries remain. Several stale TSV words (ʿesbā, ʾarmlūtā, maddʿā…) are not in their lesson's vocabulary table. Either add them to the lessons or drop them.
-- L11 fixes: s-b-r 'break' → tbar (t-b-r); naḥḥem 'revive'; qrā root q-r-y; kūrā (= furnace) → kurhānā 'illness' in the table and the story.
-- `course/`: `Syllabus.tex` and `Schedule.tex` (Winter 2027, built with xelatex with `TEXINPUTS=shared/pdf-pipeline`), `Instructor_Notes.md`, `make_assessments.py` → Module 1 and 2 tests and the final exam (Moodle XML + `_Key.md` + `_Review.md`).
-- Course number: RELS 4XX. Missing vocabulary was added to L2, L3 and L10 (Additional words). TODO, Ken: confirm the weights (10/10/15/25/40), the Moodle course id and the go-ahead for import. Audio (Ken records) and flashcards (Flash Pro repo) are separate. Gemini will review the textbook. Term-2 items are postponed.
-- Audio: Ken asked for SEDRA audio, but SEDRA (web and API) has no pronunciation audio (checked 2026-10-06).
+- SEDRA: `curl -s "https://sedra.bethmardutho.org/api/word/<unvocalized Syriac>.json"`
+  (200 = attested, 404 = not listed). SEDRA often lacks prefixed forms (w-, d-, l-),
+  so check the bare form too.
+- Bulk `str.replace` on paradigm forms: replace longest forms first (ʾeštadar is a
+  prefix of ʾeštadart).
 
-## Web site and flashcards (2026-10-06)
-- GitHub Pages: https://kmpenner.github.io/Syriac/ (main, root). `python3 make_site.py` rewrites `index.html`.
-- Flash Pro deck: `python3 make_flashpro.py` → `flashpro/syriac_yukhannan.json`; copy it to kmpenner/flash-pro `data/` after any TSV change.
+## Web site and flashcards
+
+- GitHub Pages: https://kmpenner.github.io/Syriac/ (main, root). `python3 make_site.py`
+  rewrites `index.html`.
+- Flash Pro: after any TSV change, copy `flashpro/syriac_yukhannan.json` to kmpenner/flash-pro
+  `data/` and update `totalCards` in both `data/catalog.json` and `data/catalog-data.js`.
   Deep link: `https://kmpenner.github.io/flash-pro/?deck=deck_syriac_yukhannan&bundle=Lesson%203:`
