@@ -182,10 +182,10 @@ qrā (called [3msg Peal Perf. of q-r-y]) Yūḥannan (John) l-ʾAlāhā (upon-Go
 
 **Sentence 6**
 
-ܐܠܗܐ ܢܢܝܚܟ ܘܢܚܝܟ ܗܫܐ
-ʾAlāhā nnīḥ-āk, w-naḥḥēk hāšā.
-ʾAlāhā (God) nnīḥ-āk (he-will-give-rest-to-you [Aphel Imperfect of n-w-ḥ]), w-naḥḥēk (and-he-will-give-life/save-you [Aphel Imperfect of ḥ-y-y]) hāšā (now).
-→ "God will give you rest, and will save you now."
+ܐܠܗܐ ܦܪܘܩܝܢܝ ܗܫܐ
+ʾAlāhā, pruqayn(y) hāšā.
+ʾAlāhā (O-God), pruqayn(y) (save-me! [Peal imperative of p-r-q + 1 c.sg. suffix]) hāšā (now).
+→ "O God, save me now!"
 
 **Sentence 7**
 

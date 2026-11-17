@@ -74,498 +74,498 @@
    "id": "b_l00",
    "name": "Lesson 0: The Alphabet",
    "cardIds": [
-    "syr0001",
-    "syr0002",
-    "syr0003",
-    "syr0004",
-    "syr0005",
-    "syr0006",
-    "syr0007",
-    "syr0008",
-    "syr0009",
-    "syr0010",
-    "syr0011",
-    "syr0012",
-    "syr0013"
+    "syr_1eb51fa7c7",
+    "syr_599ff7b8fb",
+    "syr_3b8f1a19a0",
+    "syr_0c1accd344",
+    "syr_73b1d19017",
+    "syr_853fdf3a2e",
+    "syr_e1e816c939",
+    "syr_48d3b7c746",
+    "syr_86db4a9e6c",
+    "syr_25bdeffcc2",
+    "syr_5613432c3c",
+    "syr_59361a4718",
+    "syr_505c946ddf"
    ]
   },
   {
    "id": "b_l01",
    "name": "Lesson 1: Core Architecture",
    "cardIds": [
-    "syr0014",
-    "syr0015",
-    "syr0016",
-    "syr0017",
-    "syr0018",
-    "syr0019",
-    "syr0020",
-    "syr0021",
-    "syr0022",
-    "syr0023",
-    "syr0024",
-    "syr0025",
-    "syr0026",
-    "syr0027",
-    "syr0028",
-    "syr0029",
-    "syr0030",
-    "syr0031",
-    "syr0032",
-    "syr0033",
-    "syr0034",
-    "syr0035",
-    "syr0036",
-    "syr0037",
-    "syr0038",
-    "syr0039",
-    "syr0040",
-    "syr0041",
-    "syr0042",
-    "syr0043",
-    "syr0044",
-    "syr0045",
-    "syr0046",
-    "syr0047",
-    "syr0048",
-    "syr0049",
-    "syr0050",
-    "syr0051",
-    "syr0052",
-    "syr0053",
-    "syr0054",
-    "syr0055",
-    "syr0056",
-    "syr0057",
-    "syr0058",
-    "syr0059"
+    "syr_4d1cd6dbd7",
+    "syr_aa707749c5",
+    "syr_51f52e1eef",
+    "syr_fc11a497b8",
+    "syr_fca18a1c04",
+    "syr_81b0ca08be",
+    "syr_3420ee1efe",
+    "syr_dae645d553",
+    "syr_02eef4d1c3",
+    "syr_b63e0c757a",
+    "syr_7070afe9b2",
+    "syr_d95b7e8909",
+    "syr_dc33bf5faf",
+    "syr_0cfb770830",
+    "syr_10e5863d38",
+    "syr_a4cc2f258f",
+    "syr_e95ed7ea41",
+    "syr_b6a7684d9e",
+    "syr_14c83b392b",
+    "syr_17156714ac",
+    "syr_94f06f6094",
+    "syr_3b28d9833c",
+    "syr_fec03d5495",
+    "syr_2179fba21c",
+    "syr_0fe272ed06",
+    "syr_e461f241b9",
+    "syr_5e394077bb",
+    "syr_1d29e3bfdb",
+    "syr_d238e670ab",
+    "syr_feb7b0a6cd",
+    "syr_9dba9f5076",
+    "syr_fef1051313",
+    "syr_6caa4fa863",
+    "syr_c4f55a6232",
+    "syr_0f45857cf6",
+    "syr_64476149df",
+    "syr_d07780e6f6",
+    "syr_df534a2a98",
+    "syr_79f3aa128f",
+    "syr_8a654a96a1",
+    "syr_c8c6234f7b",
+    "syr_29ab43f1e1",
+    "syr_4a32d5855a",
+    "syr_21352d5052",
+    "syr_7b41a0c0ed",
+    "syr_7c29b7d120"
    ]
   },
   {
    "id": "b_l02",
    "name": "Lesson 2: Narrative Present",
    "cardIds": [
-    "syr0060",
-    "syr0061",
-    "syr0062",
-    "syr0063",
-    "syr0064",
-    "syr0065",
-    "syr0066",
-    "syr0067",
-    "syr0068",
-    "syr0069",
-    "syr0070",
-    "syr0071",
-    "syr0072",
-    "syr0073",
-    "syr0074",
-    "syr0075",
-    "syr0076",
-    "syr0077",
-    "syr0078",
-    "syr0079",
-    "syr0080",
-    "syr0081",
-    "syr0082",
-    "syr0083",
-    "syr0084",
-    "syr0085",
-    "syr0086",
-    "syr0087",
-    "syr0088",
-    "syr0089",
-    "syr0090",
-    "syr0091",
-    "syr0092",
-    "syr0093",
-    "syr0094"
+    "syr_834ae80957",
+    "syr_68c673d498",
+    "syr_d50bf893f0",
+    "syr_1855f826bd",
+    "syr_19faaa8f25",
+    "syr_8a7daaeb37",
+    "syr_1770046c43",
+    "syr_a51e60cfe9",
+    "syr_d87703c443",
+    "syr_3283c6bcee",
+    "syr_ceb1061043",
+    "syr_9edda21e3e",
+    "syr_896db96d25",
+    "syr_968f78502e",
+    "syr_2a5921b3d3",
+    "syr_afcec13a2b",
+    "syr_6e80a8a9e9",
+    "syr_aedf731a5f",
+    "syr_e1693d07d8",
+    "syr_e7d857a45f",
+    "syr_e5802dc2c1",
+    "syr_fc7c3acbc1",
+    "syr_a173f27898",
+    "syr_d4983dabe3",
+    "syr_bda5e46dbc",
+    "syr_4c423b9af8",
+    "syr_472d4567a5",
+    "syr_c9777a0d99",
+    "syr_4b149c6876",
+    "syr_83acaaf13c",
+    "syr_4168d18b7d",
+    "syr_e03d5b19ea",
+    "syr_79a20ad22b",
+    "syr_ef1fb9606c",
+    "syr_0873de7372"
    ]
   },
   {
    "id": "b_l03",
    "name": "Lesson 3: Narrative Past",
    "cardIds": [
-    "syr0095",
-    "syr0096",
-    "syr0097",
-    "syr0098",
-    "syr0099",
-    "syr0100",
-    "syr0101",
-    "syr0102",
-    "syr0103",
-    "syr0104",
-    "syr0105",
-    "syr0106",
-    "syr0107",
-    "syr0108",
-    "syr0109",
-    "syr0110",
-    "syr0111",
-    "syr0112",
-    "syr0113",
-    "syr0114",
-    "syr0115",
-    "syr0116",
-    "syr0117",
-    "syr0118",
-    "syr0119",
-    "syr0120",
-    "syr0121",
-    "syr0122",
-    "syr0123",
-    "syr0124",
-    "syr0125",
-    "syr0126",
-    "syr0127",
-    "syr0128",
-    "syr0129",
-    "syr0130",
-    "syr0131",
-    "syr0132"
+    "syr_08614e55d6",
+    "syr_49cfac24e9",
+    "syr_39047243c5",
+    "syr_d09745bac5",
+    "syr_6f8afdf882",
+    "syr_376e83a120",
+    "syr_8b6eaa98e3",
+    "syr_63ca6afd3f",
+    "syr_eaa69f1758",
+    "syr_463403dc43",
+    "syr_b43fc2bfdf",
+    "syr_469a049a04",
+    "syr_dbc658483c",
+    "syr_2357907012",
+    "syr_9c11bcf5e8",
+    "syr_9f1af8da80",
+    "syr_1520245768",
+    "syr_f731ff0bdf",
+    "syr_f88a189406",
+    "syr_206807f98a",
+    "syr_858559c573",
+    "syr_195e0b11e4",
+    "syr_8c48a25c43",
+    "syr_fdb4bc6a50",
+    "syr_a9ac2868c7",
+    "syr_637fbc22a9",
+    "syr_f1887fa093",
+    "syr_66cacb24ae",
+    "syr_d8be06d857",
+    "syr_54db6db186",
+    "syr_af939b0e9d",
+    "syr_c1a1ec68fa",
+    "syr_93390f5b68",
+    "syr_bc332ec8b8",
+    "syr_6ca0fe85c9",
+    "syr_a49db4d9d1",
+    "syr_2617628506",
+    "syr_bc184886c9"
    ]
   },
   {
    "id": "b_l04",
    "name": "Lesson 4: Personalizing the Text",
    "cardIds": [
-    "syr0133",
-    "syr0134",
-    "syr0135",
-    "syr0136",
-    "syr0137",
-    "syr0138",
-    "syr0139",
-    "syr0140",
-    "syr0141",
-    "syr0142",
-    "syr0143",
-    "syr0144",
-    "syr0145",
-    "syr0146",
-    "syr0147",
-    "syr0148",
-    "syr0149",
-    "syr0150",
-    "syr0151",
-    "syr0152",
-    "syr0153",
-    "syr0154",
-    "syr0155",
-    "syr0156",
-    "syr0157",
-    "syr0158",
-    "syr0159",
-    "syr0160",
-    "syr0161",
-    "syr0162",
-    "syr0163"
+    "syr_f08f9a3512",
+    "syr_d0256a01c0",
+    "syr_8063329c0f",
+    "syr_6d1c19ce81",
+    "syr_f8d8be17de",
+    "syr_3b3c367e92",
+    "syr_12c5cd10da",
+    "syr_b6e9566e84",
+    "syr_32c51430b9",
+    "syr_4ade4c0baa",
+    "syr_ee929c0175",
+    "syr_f05ad4e495",
+    "syr_d22c3308b5",
+    "syr_654429e035",
+    "syr_0c79ed1af0",
+    "syr_4bca8398f9",
+    "syr_492c53b26b",
+    "syr_4f20d57fd0",
+    "syr_00f597ea6e",
+    "syr_b421474f33",
+    "syr_51dff735f5",
+    "syr_1df9d8ae50",
+    "syr_71f83c4d45",
+    "syr_317b1dbe24",
+    "syr_8f43b75ffa",
+    "syr_dfd117b77e",
+    "syr_cb7f7732b2",
+    "syr_1cd1d0cd5b",
+    "syr_4c01826d20",
+    "syr_705db7ae08",
+    "syr_fb106f88c2"
    ]
   },
   {
    "id": "b_l05",
    "name": "Lesson 5: Aphel Stem",
    "cardIds": [
-    "syr0164",
-    "syr0165",
-    "syr0166",
-    "syr0167",
-    "syr0168",
-    "syr0169",
-    "syr0170",
-    "syr0171",
-    "syr0172",
-    "syr0173",
-    "syr0174",
-    "syr0175",
-    "syr0176",
-    "syr0177",
-    "syr0178",
-    "syr0179",
-    "syr0180",
-    "syr0181",
-    "syr0182",
-    "syr0183",
-    "syr0184",
-    "syr0185",
-    "syr0186",
-    "syr0187",
-    "syr0188",
-    "syr0189",
-    "syr0190",
-    "syr0191",
-    "syr0192",
-    "syr0193",
-    "syr0194",
-    "syr0195",
-    "syr0196",
-    "syr0197",
-    "syr0198",
-    "syr0199",
-    "syr0200",
-    "syr0201",
-    "syr0202",
-    "syr0203",
-    "syr0204",
-    "syr0205",
-    "syr0206",
-    "syr0207",
-    "syr0208"
+    "syr_de3018014f",
+    "syr_a0ea6c0928",
+    "syr_e7df2f0e34",
+    "syr_f6738e29c3",
+    "syr_64aa775dec",
+    "syr_1d9ffcb5a0",
+    "syr_348a43de9a",
+    "syr_af7259faea",
+    "syr_5fd8d4125a",
+    "syr_200ea6ab48",
+    "syr_4fe8f9be87",
+    "syr_e340cc723a",
+    "syr_812df1f2f7",
+    "syr_6b474d235d",
+    "syr_557261bcc5",
+    "syr_b44861a5b9",
+    "syr_177d88da10",
+    "syr_f31cad2267",
+    "syr_49b56293b3",
+    "syr_47832bbee6",
+    "syr_3388283770",
+    "syr_19751d5258",
+    "syr_4f1efd9974",
+    "syr_fcf24dbc45",
+    "syr_06277a7e97",
+    "syr_270ddfdc10",
+    "syr_2f60ffc175",
+    "syr_03336f396a",
+    "syr_187248c006",
+    "syr_3bf0fb4da4",
+    "syr_4fe138f4f6",
+    "syr_80ff51075a",
+    "syr_13bb5b9e1f",
+    "syr_fc1f2669a8",
+    "syr_ac1f89960b",
+    "syr_33be944600",
+    "syr_922128d1d3",
+    "syr_8c6d2660fe",
+    "syr_b26e78344d",
+    "syr_eb7f3ef60b",
+    "syr_c76362991c",
+    "syr_88e99d090a",
+    "syr_84ba96d10a",
+    "syr_1ccb795c5f",
+    "syr_470ae77fd5"
    ]
   },
   {
    "id": "b_l06",
    "name": "Lesson 6: Paael Stem",
    "cardIds": [
-    "syr0209",
-    "syr0210",
-    "syr0211",
-    "syr0212",
-    "syr0213",
-    "syr0214",
-    "syr0215",
-    "syr0216",
-    "syr0217",
-    "syr0218",
-    "syr0219",
-    "syr0220",
-    "syr0221",
-    "syr0222",
-    "syr0223",
-    "syr0224",
-    "syr0225",
-    "syr0226",
-    "syr0227",
-    "syr0228",
-    "syr0229",
-    "syr0230",
-    "syr0231",
-    "syr0232",
-    "syr0233",
-    "syr0234",
-    "syr0235",
-    "syr0236",
-    "syr0237",
-    "syr0238",
-    "syr0239",
-    "syr0240",
-    "syr0241",
-    "syr0242",
-    "syr0243",
-    "syr0244"
+    "syr_94ae606798",
+    "syr_8ddbd51555",
+    "syr_c925cf1885",
+    "syr_42813b52ce",
+    "syr_98c4b24dfc",
+    "syr_88218605bf",
+    "syr_f25c3b70a3",
+    "syr_e0928703e9",
+    "syr_c91b464b2d",
+    "syr_4c58864747",
+    "syr_d997afcdcd",
+    "syr_cb72b1538c",
+    "syr_44d369b38d",
+    "syr_716b3d4f4b",
+    "syr_f2337319ee",
+    "syr_e0339ea211",
+    "syr_a86e964578",
+    "syr_8e2f8755d8",
+    "syr_83ce8b6f3e",
+    "syr_f04d391cbc",
+    "syr_45f0eeba2c",
+    "syr_12aecaff3e",
+    "syr_9b3ccda087",
+    "syr_c1b1f62db0",
+    "syr_0bfc73638a",
+    "syr_8b12b92194",
+    "syr_1d2af0e540",
+    "syr_05c8ffddcc",
+    "syr_574a732817",
+    "syr_805d347ef6",
+    "syr_15264e9184",
+    "syr_3c1be0fcba",
+    "syr_cdf656f876",
+    "syr_9685842944",
+    "syr_2655f0d7cb",
+    "syr_91aa4d8553"
    ]
   },
   {
    "id": "b_l07",
    "name": "Lesson 7: Weak Roots",
    "cardIds": [
-    "syr0245",
-    "syr0246",
-    "syr0247",
-    "syr0248",
-    "syr0249",
-    "syr0250",
-    "syr0251",
-    "syr0252",
-    "syr0253",
-    "syr0254",
-    "syr0255",
-    "syr0256",
-    "syr0257",
-    "syr0258",
-    "syr0259",
-    "syr0260",
-    "syr0261",
-    "syr0262",
-    "syr0263",
-    "syr0264",
-    "syr0265",
-    "syr0266",
-    "syr0267",
-    "syr0268",
-    "syr0269",
-    "syr0270",
-    "syr0271",
-    "syr0272",
-    "syr0273",
-    "syr0274",
-    "syr0275",
-    "syr0276",
-    "syr0277",
-    "syr0278",
-    "syr0279",
-    "syr0280",
-    "syr0281",
-    "syr0282",
-    "syr0283",
-    "syr0284",
-    "syr0285",
-    "syr0286",
-    "syr0287"
+    "syr_d088fc583b",
+    "syr_2bf28c0871",
+    "syr_f89408d74d",
+    "syr_5e94517582",
+    "syr_df1a26e3d6",
+    "syr_ad3b10b9c4",
+    "syr_8f46a01504",
+    "syr_a150279f3b",
+    "syr_f05a74fece",
+    "syr_ab7ecb5bde",
+    "syr_4d204c7e32",
+    "syr_0a70db1f1d",
+    "syr_ac493a828b",
+    "syr_9947a8f759",
+    "syr_1ad91f7ec6",
+    "syr_18800a1424",
+    "syr_6072ad5d1d",
+    "syr_ec0f401d16",
+    "syr_2ebd29e659",
+    "syr_a0cfeb7005",
+    "syr_76efced2a5",
+    "syr_b76a88c7c6",
+    "syr_400f8a633f",
+    "syr_0114d50f3d",
+    "syr_fef0bd9411",
+    "syr_29e0944153",
+    "syr_4851a4d807",
+    "syr_43b97a4eba",
+    "syr_e01c6bd1b5",
+    "syr_8ab70340ea",
+    "syr_a77e990975",
+    "syr_0085017aa0",
+    "syr_ee5ef8b56a",
+    "syr_82860f8552",
+    "syr_d2d193980e",
+    "syr_54af78f502",
+    "syr_28ba94502f",
+    "syr_ece991cbef",
+    "syr_4fba8c22a2",
+    "syr_203b5c8829",
+    "syr_c00482be27",
+    "syr_aa3dbfbaf5",
+    "syr_8e69eae0ee"
    ]
   },
   {
    "id": "b_l08",
    "name": "Lesson 8: The Imperfect",
    "cardIds": [
-    "syr0288",
-    "syr0289",
-    "syr0290",
-    "syr0291",
-    "syr0292",
-    "syr0293",
-    "syr0294",
-    "syr0295",
-    "syr0296",
-    "syr0297",
-    "syr0298",
-    "syr0299",
-    "syr0300",
-    "syr0301",
-    "syr0302",
-    "syr0303",
-    "syr0304",
-    "syr0305",
-    "syr0306",
-    "syr0307",
-    "syr0308",
-    "syr0309",
-    "syr0310",
-    "syr0311",
-    "syr0312",
-    "syr0313",
-    "syr0314",
-    "syr0315"
+    "syr_bde46aea76",
+    "syr_fd04cca6ee",
+    "syr_cfca39ec9e",
+    "syr_803a542eb0",
+    "syr_185e11f3a0",
+    "syr_1553731854",
+    "syr_78cccb4c7b",
+    "syr_cc5c9e79a1",
+    "syr_8a5aa14800",
+    "syr_ec92d2bb8c",
+    "syr_e155f2f28c",
+    "syr_55dea41904",
+    "syr_3e4c3e1bfe",
+    "syr_78cf4d5044",
+    "syr_6668f0947e",
+    "syr_5116ea295f",
+    "syr_6043260b3e",
+    "syr_e66cef974a",
+    "syr_6ff27ceb10",
+    "syr_2bdfdfe62f",
+    "syr_5325b1fba9",
+    "syr_6fb274758c",
+    "syr_c03d60a31a",
+    "syr_fe5b641ef1",
+    "syr_55dadc06f2",
+    "syr_043ea4c15f",
+    "syr_4e60fc14f6",
+    "syr_7cecca5fd4"
    ]
   },
   {
    "id": "b_l09",
    "name": "Lesson 9: Commands and Intentions",
    "cardIds": [
-    "syr0316",
-    "syr0317",
-    "syr0318",
-    "syr0319",
-    "syr0320",
-    "syr0321",
-    "syr0322",
-    "syr0323",
-    "syr0324",
-    "syr0325",
-    "syr0326",
-    "syr0327",
-    "syr0328",
-    "syr0329",
-    "syr0330",
-    "syr0331",
-    "syr0332",
-    "syr0333",
-    "syr0334",
-    "syr0335",
-    "syr0336",
-    "syr0337"
+    "syr_39d9b53e8c",
+    "syr_39b11a606b",
+    "syr_1245322497",
+    "syr_ab19c6b9ca",
+    "syr_7682ce16ac",
+    "syr_2a9512eba1",
+    "syr_7a60c9f1c2",
+    "syr_d0fd42ba1e",
+    "syr_cb1edfc68a",
+    "syr_c88e1c5f74",
+    "syr_913a9e89b8",
+    "syr_00a6acbee6",
+    "syr_ca914727f7",
+    "syr_be140b95ae",
+    "syr_ef0791ce45",
+    "syr_619742a8b7",
+    "syr_151bd7bcf7",
+    "syr_32624b7227",
+    "syr_f72b0417c8",
+    "syr_03e455e9af",
+    "syr_677abbd779",
+    "syr_4d4689a428"
    ]
   },
   {
    "id": "b_l10",
    "name": "Lesson 10: Passive Voice",
    "cardIds": [
-    "syr0338",
-    "syr0339",
-    "syr0340",
-    "syr0341",
-    "syr0342",
-    "syr0343",
-    "syr0344",
-    "syr0345",
-    "syr0346",
-    "syr0347",
-    "syr0348",
-    "syr0349",
-    "syr0350",
-    "syr0351",
-    "syr0352",
-    "syr0353",
-    "syr0354",
-    "syr0355",
-    "syr0356",
-    "syr0357",
-    "syr0358",
-    "syr0359",
-    "syr0360",
-    "syr0361",
-    "syr0362",
-    "syr0363",
-    "syr0364",
-    "syr0365"
+    "syr_c4cb3d5355",
+    "syr_3b8db4def6",
+    "syr_2868a81e4a",
+    "syr_98b92bd1b9",
+    "syr_8a17cdbbf1",
+    "syr_5aecba04e0",
+    "syr_d6615137f7",
+    "syr_aa8193cc44",
+    "syr_75466661d7",
+    "syr_a4062f840c",
+    "syr_5d279c7cd5",
+    "syr_82f24758d6",
+    "syr_6bc2af399d",
+    "syr_a0980d2631",
+    "syr_a97b11b7b1",
+    "syr_249fece12e",
+    "syr_7e13595786",
+    "syr_8424b7e7b3",
+    "syr_9dfe3f3159",
+    "syr_7147e99418",
+    "syr_1af2711178",
+    "syr_072a21a8a9",
+    "syr_cb4cbc67c7",
+    "syr_3497e69ce4",
+    "syr_801bddd293",
+    "syr_60441114c7",
+    "syr_32f88db272",
+    "syr_cfac597408"
    ]
   },
   {
    "id": "b_l11",
    "name": "Lesson 11: Verbal Suffixes",
    "cardIds": [
-    "syr0366",
-    "syr0367",
-    "syr0368",
-    "syr0369",
-    "syr0370",
-    "syr0371",
-    "syr0372",
-    "syr0373",
-    "syr0374",
-    "syr0375",
-    "syr0376",
-    "syr0377",
-    "syr0378",
-    "syr0379",
-    "syr0380",
-    "syr0381",
-    "syr0382",
-    "syr0383",
-    "syr0384",
-    "syr0385",
-    "syr0386",
-    "syr0387",
-    "syr0388",
-    "syr0389",
-    "syr0390",
-    "syr0391",
-    "syr0392",
-    "syr0393",
-    "syr0394",
-    "syr0395",
-    "syr0396",
-    "syr0397",
-    "syr0398"
+    "syr_73fe261127",
+    "syr_abf51f35ac",
+    "syr_1f2856db69",
+    "syr_d1720d9181",
+    "syr_6cb5ef3b78",
+    "syr_39788793a8",
+    "syr_bfddc0efcf",
+    "syr_46654a817d",
+    "syr_5cde7b0aec",
+    "syr_67b7c5ae33",
+    "syr_17414d4bed",
+    "syr_9c7f4adab3",
+    "syr_455614d170",
+    "syr_d1c90dca16",
+    "syr_fbc9363cd2",
+    "syr_2692e155c8",
+    "syr_304d267c2b",
+    "syr_8752352a54",
+    "syr_7c27c311c0",
+    "syr_3cfffff0f2",
+    "syr_2081bac3cb",
+    "syr_19bc9be575",
+    "syr_df75aef724",
+    "syr_f4874bd82c",
+    "syr_b4b2543f2e",
+    "syr_43ab773e9b",
+    "syr_6c16045e69",
+    "syr_8803ab359b",
+    "syr_b3fd328fb3",
+    "syr_61db8dfb5f",
+    "syr_519f479bc1",
+    "syr_8277455c9d",
+    "syr_d049395f05"
    ]
   },
   {
    "id": "b_l12",
    "name": "Lesson 12: Fringes of Syntax",
    "cardIds": [
-    "syr0399",
-    "syr0400",
-    "syr0401",
-    "syr0402",
-    "syr0403",
-    "syr0404",
-    "syr0405",
-    "syr0406",
-    "syr0407",
-    "syr0408",
-    "syr0409",
-    "syr0410",
-    "syr0411",
-    "syr0412",
-    "syr0413",
-    "syr0414",
-    "syr0415",
-    "syr0416",
-    "syr0417",
-    "syr0418",
-    "syr0419",
-    "syr0420"
+    "syr_360163067a",
+    "syr_788687d83e",
+    "syr_ddafb0c9eb",
+    "syr_4fdb2b3efc",
+    "syr_8ab71f29d3",
+    "syr_ea83eb9c90",
+    "syr_3a68b27bf2",
+    "syr_576ebb0c14",
+    "syr_06ebb2b7d3",
+    "syr_f4bfc0f5f3",
+    "syr_0a935674f4",
+    "syr_238cd96f3c",
+    "syr_ef0c611593",
+    "syr_b4df2e1231",
+    "syr_113be472f9",
+    "syr_db6fc96a58",
+    "syr_10747a1379",
+    "syr_5309c52e71",
+    "syr_a425f28be5",
+    "syr_ec9f0fea7e",
+    "syr_7d8e1f0cb4",
+    "syr_396b97476f"
    ]
   }
  ],
@@ -593,7 +593,7 @@
  ],
  "cards": [
   {
-   "id": "syr0001",
+   "id": "syr_1eb51fa7c7",
    "num": 1,
    "front": "ܐܠܗܐ",
    "back": "God — ʾAlāhā (noun, m)",
@@ -616,7 +616,7 @@
    }
   },
   {
-   "id": "syr0002",
+   "id": "syr_599ff7b8fb",
    "num": 2,
    "front": "ܐܣܛܪܢܓܠܐ",
    "back": "\"Rounded\" script — Estrangelā (noun, f)",
@@ -639,7 +639,7 @@
    }
   },
   {
-   "id": "syr0003",
+   "id": "syr_3b8f1a19a0",
    "num": 3,
    "front": "ܝܘܚܢܢ",
    "back": "John — Yūḥannan (noun, m)",
@@ -662,7 +662,7 @@
    }
   },
   {
-   "id": "syr0004",
+   "id": "syr_0c1accd344",
    "num": 4,
    "front": "ܕܝܘܬܐ",
    "back": "ink — dīyūtā (noun, f)",
@@ -685,7 +685,7 @@
    }
   },
   {
-   "id": "syr0005",
+   "id": "syr_73b1d19017",
    "num": 5,
    "front": "ܡܠܟܐ",
    "back": "king — malkā (noun, m)",
@@ -708,7 +708,7 @@
    }
   },
   {
-   "id": "syr0006",
+   "id": "syr_853fdf3a2e",
    "num": 6,
    "front": "ܡܓܠܬܐ",
    "back": "scroll — megaltā (noun, f)",
@@ -731,7 +731,7 @@
    }
   },
   {
-   "id": "syr0007",
+   "id": "syr_e1e816c939",
    "num": 7,
    "front": "ܢܡܘܣܐ",
    "back": "Law (from Gk Nomos) — nāmūsā (noun, m)",
@@ -754,7 +754,7 @@
    }
   },
   {
-   "id": "syr0008",
+   "id": "syr_48d3b7c746",
    "num": 8,
    "front": "ܢܘܗܪܐ",
    "back": "light — nūhrā (noun, m)",
@@ -777,7 +777,7 @@
    }
   },
   {
-   "id": "syr0009",
+   "id": "syr_86db4a9e6c",
    "num": 9,
    "front": "ܩܢܝܐ",
    "back": "reed, pen — qanyā (noun, m)",
@@ -800,7 +800,7 @@
    }
   },
   {
-   "id": "syr0010",
+   "id": "syr_25bdeffcc2",
    "num": 10,
    "front": "ܟܪܛܝܣܐ",
    "back": "parchment, document — karṭīsā (noun, m)",
@@ -823,7 +823,7 @@
    }
   },
   {
-   "id": "syr0011",
+   "id": "syr_5613432c3c",
    "num": 11,
    "front": "ܣܦܪܐ",
    "back": "scribe, writer — sāprā (noun, m)",
@@ -846,7 +846,7 @@
    }
   },
   {
-   "id": "syr0012",
+   "id": "syr_59361a4718",
    "num": 12,
    "front": "ܐܪܥܐ",
    "back": "earth, land — ʾarʿā (noun, f)",
@@ -869,7 +869,7 @@
    }
   },
   {
-   "id": "syr0013",
+   "id": "syr_505c946ddf",
    "num": 13,
    "front": "ܐܕܝ",
    "back": "Addai (proper name) — ʾAddai (noun, m)",
@@ -892,7 +892,7 @@
    }
   },
   {
-   "id": "syr0014",
+   "id": "syr_4d1cd6dbd7",
    "num": 14,
    "front": "ܒܪܢܫܐ",
    "back": "Human, son of man — barnāšā (noun, m)",
@@ -915,7 +915,7 @@
    }
   },
   {
-   "id": "syr0015",
+   "id": "syr_aa707749c5",
    "num": 15,
    "front": "ܒܣܪܐ",
    "back": "flesh — besrā (noun, m)",
@@ -938,7 +938,7 @@
    }
   },
   {
-   "id": "syr0016",
+   "id": "syr_51f52e1eef",
    "num": 16,
    "front": "ܒܝܫܐ",
    "back": "evil, bad — bīšā (adj, m)",
@@ -961,7 +961,7 @@
    }
   },
   {
-   "id": "syr0017",
+   "id": "syr_fc11a497b8",
    "num": 17,
    "front": "ܕܚܠܬܐ",
    "back": "fear, reverence — deḥltā (noun, f)",
@@ -984,7 +984,7 @@
    }
   },
   {
-   "id": "syr0018",
+   "id": "syr_fca18a1c04",
    "num": 18,
    "front": "ܕܝܢܐ",
    "back": "judgment — dīnā (noun, m)",
@@ -1007,7 +1007,7 @@
    }
   },
   {
-   "id": "syr0019",
+   "id": "syr_81b0ca08be",
    "num": 19,
    "front": "ܓܪܡܐ",
    "back": "bone — garmā (noun, m)",
@@ -1030,7 +1030,7 @@
    }
   },
   {
-   "id": "syr0020",
+   "id": "syr_3420ee1efe",
    "num": 20,
    "front": "ܗܝܟܠܐ",
    "back": "temple, palace — hayklā (noun, m)",
@@ -1053,7 +1053,7 @@
    }
   },
   {
-   "id": "syr0021",
+   "id": "syr_dae645d553",
    "num": 21,
    "front": "ܗܢܝܢ",
    "back": "They (f) — hennēn (pronoun)",
@@ -1076,7 +1076,7 @@
    }
   },
   {
-   "id": "syr0022",
+   "id": "syr_02eef4d1c3",
    "num": 22,
    "front": "ܗܢܘܢ",
    "back": "They (m) — hennōn (pronoun)",
@@ -1099,7 +1099,7 @@
    }
   },
   {
-   "id": "syr0023",
+   "id": "syr_b63e0c757a",
    "num": 23,
    "front": "ܗܝ",
    "back": "She / It — hī (pronoun)",
@@ -1122,7 +1122,7 @@
    }
   },
   {
-   "id": "syr0024",
+   "id": "syr_7070afe9b2",
    "num": 24,
    "front": "ܗܘ",
    "back": "He / It — hū (pronoun)",
@@ -1145,7 +1145,7 @@
    }
   },
   {
-   "id": "syr0025",
+   "id": "syr_d95b7e8909",
    "num": 25,
    "front": "ܟܐܦܐ",
    "back": "stone, rock — kēpā (noun, f)",
@@ -1168,7 +1168,7 @@
    }
   },
   {
-   "id": "syr0026",
+   "id": "syr_dc33bf5faf",
    "num": 26,
    "front": "ܠܫܢܐ",
    "back": "tongue, language — leššānā (noun, m)",
@@ -1191,7 +1191,7 @@
    }
   },
   {
-   "id": "syr0027",
+   "id": "syr_0cfb770830",
    "num": 27,
    "front": "ܡܠܟܘܬܐ",
    "back": "kingdom — malkūtā (noun, f)",
@@ -1214,7 +1214,7 @@
    }
   },
   {
-   "id": "syr0028",
+   "id": "syr_10e5863d38",
    "num": 28,
    "front": "ܡ̈ܝܐ",
    "back": "water — mayyā (noun, m)",
@@ -1237,7 +1237,7 @@
    }
   },
   {
-   "id": "syr0029",
+   "id": "syr_a4cc2f258f",
    "num": 29,
    "front": "ܡܕܝܢܬܐ",
    "back": "city — mdīttā (noun, f)",
@@ -1260,7 +1260,7 @@
    }
   },
   {
-   "id": "syr0030",
+   "id": "syr_e95ed7ea41",
    "num": 30,
    "front": "ܡܠܬܐ",
    "back": "word, Logos — meltā (noun, f)",
@@ -1283,7 +1283,7 @@
    }
   },
   {
-   "id": "syr0031",
+   "id": "syr_b6a7684d9e",
    "num": 31,
    "front": "ܡܫܚܐ",
    "back": "oil, ointment — mešḥā (noun, m)",
@@ -1306,7 +1306,7 @@
    }
   },
   {
-   "id": "syr0032",
+   "id": "syr_14c83b392b",
    "num": 32,
    "front": "ܢܗܪܐ",
    "back": "river — nahrā (noun, m)",
@@ -1329,7 +1329,7 @@
    }
   },
   {
-   "id": "syr0033",
+   "id": "syr_17156714ac",
    "num": 33,
    "front": "ܢܘܢܐ",
    "back": "fish — nūnā (noun, m)",
@@ -1352,7 +1352,7 @@
    }
   },
   {
-   "id": "syr0034",
+   "id": "syr_94f06f6094",
    "num": 34,
    "front": "ܦܘܡܐ",
    "back": "mouth — pūmā (noun, m)",
@@ -1375,7 +1375,7 @@
    }
   },
   {
-   "id": "syr0035",
+   "id": "syr_3b28d9833c",
    "num": 35,
    "front": "ܩܝܣܐ",
    "back": "wood, tree — qaysā (noun, m)",
@@ -1398,7 +1398,7 @@
    }
   },
   {
-   "id": "syr0036",
+   "id": "syr_fec03d5495",
    "num": 36,
    "front": "ܩܪܝܬܐ",
    "back": "village — qrītā (noun, f)",
@@ -1421,7 +1421,7 @@
    }
   },
   {
-   "id": "syr0037",
+   "id": "syr_2179fba21c",
    "num": 37,
    "front": "ܩܝܡܐ",
    "back": "covenant — qyāmā (noun, m)",
@@ -1444,7 +1444,7 @@
    }
   },
   {
-   "id": "syr0038",
+   "id": "syr_0fe272ed06",
    "num": 38,
    "front": "ܪܒܐ",
    "back": "Great, large — rabbā (adj, m)",
@@ -1467,7 +1467,7 @@
    }
   },
   {
-   "id": "syr0039",
+   "id": "syr_e461f241b9",
    "num": 39,
    "front": "ܪܓܠܐ",
    "back": "foot — reglā (noun, f)",
@@ -1490,7 +1490,7 @@
    }
   },
   {
-   "id": "syr0040",
+   "id": "syr_5e394077bb",
    "num": 40,
    "front": "ܣܒܪܐ",
    "back": "hope — sabrā (noun, m)",
@@ -1513,7 +1513,7 @@
    }
   },
   {
-   "id": "syr0041",
+   "id": "syr_1d29e3bfdb",
    "num": 41,
    "front": "ܣܗܪܐ",
    "back": "moon — sahrā (noun, m)",
@@ -1536,7 +1536,7 @@
    }
   },
   {
-   "id": "syr0042",
+   "id": "syr_d238e670ab",
    "num": 42,
    "front": "ܣܗܕܐ",
    "back": "witness, martyr — sāhdā (noun, m)",
@@ -1559,7 +1559,7 @@
    }
   },
   {
-   "id": "syr0043",
+   "id": "syr_feb7b0a6cd",
    "num": 43,
    "front": "ܬܪܥܐ",
    "back": "door, gate — tarʿā (noun, m)",
@@ -1582,7 +1582,7 @@
    }
   },
   {
-   "id": "syr0044",
+   "id": "syr_9dba9f5076",
    "num": 44,
    "front": "ܬܘܪܐ",
    "back": "bull, ox — tawrā (noun, m)",
@@ -1605,7 +1605,7 @@
    }
   },
   {
-   "id": "syr0045",
+   "id": "syr_fef1051313",
    "num": 45,
    "front": "ܫܡܫܐ",
    "back": "sun — šemšā (noun, m)",
@@ -1628,7 +1628,7 @@
    }
   },
   {
-   "id": "syr0046",
+   "id": "syr_6caa4fa863",
    "num": 46,
    "front": "ܫܠܡܐ",
    "back": "peace, greeting — šlāmā (noun, m)",
@@ -1651,7 +1651,7 @@
    }
   },
   {
-   "id": "syr0047",
+   "id": "syr_c4f55a6232",
    "num": 47,
    "front": "ܐܢܬ",
    "back": "You (m) — ʾant (pronoun)",
@@ -1674,7 +1674,7 @@
    }
   },
   {
-   "id": "syr0048",
+   "id": "syr_0f45857cf6",
    "num": 48,
    "front": "ܐܢܬܝ",
    "back": "You (f) — ʾant(y) (pronoun)",
@@ -1697,7 +1697,7 @@
    }
   },
   {
-   "id": "syr0049",
+   "id": "syr_64476149df",
    "num": 49,
    "front": "ܐܢܬܝܢ",
    "back": "You (f.pl) — ʾantēn (pronoun)",
@@ -1720,7 +1720,7 @@
    }
   },
   {
-   "id": "syr0050",
+   "id": "syr_d07780e6f6",
    "num": 50,
    "front": "ܐܢܬܘܢ",
    "back": "You (m.pl) — ʾantūn (pronoun)",
@@ -1743,7 +1743,7 @@
    }
   },
   {
-   "id": "syr0051",
+   "id": "syr_df534a2a98",
    "num": 51,
    "front": "ܐܬܪܐ",
    "back": "place, country — ʾatrā (noun, m)",
@@ -1766,7 +1766,7 @@
    }
   },
   {
-   "id": "syr0052",
+   "id": "syr_79f3aa128f",
    "num": 52,
    "front": "ܐܕܢܐ",
    "back": "ear — ʾednā (noun, f)",
@@ -1789,7 +1789,7 @@
    }
   },
   {
-   "id": "syr0053",
+   "id": "syr_8a654a96a1",
    "num": 53,
    "front": "ܐܢܐ",
    "back": "I — ʾenā (pronoun)",
@@ -1812,7 +1812,7 @@
    }
   },
   {
-   "id": "syr0054",
+   "id": "syr_c8c6234f7b",
    "num": 54,
    "front": "ܐܘܪܚܐ",
    "back": "way, road — ʾūrḥā (noun, f)",
@@ -1835,7 +1835,7 @@
    }
   },
   {
-   "id": "syr0055",
+   "id": "syr_29ab43f1e1",
    "num": 55,
    "front": "ܥܝܢܐ",
    "back": "eye — ʿaynā (noun, f)",
@@ -1858,7 +1858,7 @@
    }
   },
   {
-   "id": "syr0056",
+   "id": "syr_4a32d5855a",
    "num": 56,
    "front": "ܚܝܠܐ",
    "back": "power, army — ḥaylā (noun, m)",
@@ -1881,7 +1881,7 @@
    }
   },
   {
-   "id": "syr0057",
+   "id": "syr_21352d5052",
    "num": 57,
    "front": "ܚ̈ܝܐ",
    "back": "life — ḥayyē (noun, m)",
@@ -1904,7 +1904,7 @@
    }
   },
   {
-   "id": "syr0058",
+   "id": "syr_7b41a0c0ed",
    "num": 58,
    "front": "ܚܢܢ",
    "back": "We — ḥnan (pronoun)",
@@ -1927,7 +1927,7 @@
    }
   },
   {
-   "id": "syr0059",
+   "id": "syr_7c29b7d120",
    "num": 59,
    "front": "ܛܒܐ",
    "back": "good — ṭābā (adj, m)",
@@ -1950,7 +1950,7 @@
    }
   },
   {
-   "id": "syr0060",
+   "id": "syr_834ae80957",
    "num": 60,
    "front": "ܕܒܝܩܘܬܐ",
    "back": "clinging, adherence — dbīqūtā (noun, f, root d-b-q)",
@@ -1973,7 +1973,7 @@
    }
   },
   {
-   "id": "syr0061",
+   "id": "syr_68c673d498",
    "num": 61,
    "front": "ܕܘܒܪܐ",
    "back": "way of life, conduct — dubbārā (noun, m, Paael, root d-b-r)",
@@ -1996,7 +1996,7 @@
    }
   },
   {
-   "id": "syr0062",
+   "id": "syr_d50bf893f0",
    "num": 62,
    "front": "ܕܘܟܪܢܐ",
    "back": "memory, remembrance — dūkrānā (noun, m, Peal, root d-k-r)",
@@ -2019,7 +2019,7 @@
    }
   },
   {
-   "id": "syr0063",
+   "id": "syr_1855f826bd",
    "num": 63,
    "front": "ܡܣܟܢܘܬܐ",
    "back": "poverty, want — meskēnūtā (noun, f, root m-s-k-n)",
@@ -2042,7 +2042,7 @@
    }
   },
   {
-   "id": "syr0064",
+   "id": "syr_19faaa8f25",
    "num": 64,
    "front": "ܪܒܘܬܐ",
    "back": "greatness, grandeur — rabbūtā (noun, f, Peal, root r-b-b)",
@@ -2065,7 +2065,7 @@
    }
   },
   {
-   "id": "syr0065",
+   "id": "syr_8a7daaeb37",
    "num": 65,
    "front": "ܓܡܝܪܘܬܐ",
    "back": "completion, perfection — gmīrūtā (noun, f, root g-m-r)",
@@ -2088,7 +2088,7 @@
    }
   },
   {
-   "id": "syr0066",
+   "id": "syr_1770046c43",
    "num": 66,
    "front": "ܒܣܝܡܘܬܐ",
    "back": "kindness, sweetness — bassīmūtā (noun, f, Peal, root b-s-m)",
@@ -2111,7 +2111,7 @@
    }
   },
   {
-   "id": "syr0067",
+   "id": "syr_a51e60cfe9",
    "num": 67,
    "front": "ܣܝܓܐ",
    "back": "enclosure, hedge — syāgā (noun, m, root s-w-g)",
@@ -2134,7 +2134,7 @@
    }
   },
   {
-   "id": "syr0068",
+   "id": "syr_d87703c443",
    "num": 68,
    "front": "ܟܦܪܐ",
    "back": "village, hamlet — kaprā (noun, m, noun, root k-p-r)",
@@ -2157,7 +2157,7 @@
    }
   },
   {
-   "id": "syr0069",
+   "id": "syr_3283c6bcee",
    "num": 69,
    "front": "ܠܒܘܫܐ",
    "back": "garment, clothing — lbūšā (noun, m, Peal, root l-b-š)",
@@ -2180,7 +2180,7 @@
    }
   },
   {
-   "id": "syr0070",
+   "id": "syr_ceb1061043",
    "num": 70,
    "front": "ܠܒܟܬܐ",
    "back": "capture, grasping — lbaktā (noun, f, root l-b-k)",
@@ -2203,7 +2203,7 @@
    }
   },
   {
-   "id": "syr0071",
+   "id": "syr_9edda21e3e",
    "num": 71,
    "front": "ܦܘܠܚܢܐ",
    "back": "labor, service — pūlḥānā (noun, m, Peal, root p-l-ḥ)",
@@ -2226,7 +2226,7 @@
    }
   },
   {
-   "id": "syr0072",
+   "id": "syr_896db96d25",
    "num": 72,
    "front": "ܦܓܥܐ",
    "back": "encounter, meeting — pegʿā (noun, m, root p-g-ʿ)",
@@ -2249,7 +2249,7 @@
    }
   },
   {
-   "id": "syr0073",
+   "id": "syr_968f78502e",
    "num": 73,
    "front": "ܦܠܓܘܬܐ",
    "back": "division, half — palgūtā (noun, f, Peal, root p-l-g)",
@@ -2272,7 +2272,7 @@
    }
   },
   {
-   "id": "syr0074",
+   "id": "syr_2a5921b3d3",
    "num": 74,
    "front": "ܦܬܚܐ",
    "back": "opening, door — petḥā (noun, m, Peal, root p-t-ḥ)",
@@ -2295,7 +2295,7 @@
    }
   },
   {
-   "id": "syr0075",
+   "id": "syr_afcec13a2b",
    "num": 75,
    "front": "ܡܫܘܚܬܐ",
    "back": "measure, standard — mšūḥtā (noun, f, noun, root m-š-ḥ)",
@@ -2318,7 +2318,7 @@
    }
   },
   {
-   "id": "syr0076",
+   "id": "syr_6e80a8a9e9",
    "num": 76,
    "front": "ܩܕܝܫܘܬܐ",
    "back": "holiness, sanctity — qaddīšūtā (noun, f, root q-d-š)",
@@ -2341,7 +2341,7 @@
    }
   },
   {
-   "id": "syr0077",
+   "id": "syr_aedf731a5f",
    "num": 77,
    "front": "ܩܠܦܬܐ",
    "back": "bark, scale, shell — qlāptā (noun, f, noun, root q-l-p)",
@@ -2364,7 +2364,7 @@
    }
   },
   {
-   "id": "syr0078",
+   "id": "syr_e1693d07d8",
    "num": 78,
    "front": "ܪܘܓܙܐ",
    "back": "rage, wrath — rūgzā (noun, m, root r-g-z)",
@@ -2387,7 +2387,7 @@
    }
   },
   {
-   "id": "syr0079",
+   "id": "syr_e7d857a45f",
    "num": 79,
    "front": "ܪܘܡܐ",
    "back": "height, elevation — rawmā (noun, m, root r-w-m)",
@@ -2410,7 +2410,7 @@
    }
   },
   {
-   "id": "syr0080",
+   "id": "syr_e5802dc2c1",
    "num": 80,
    "front": "ܝܕܥܬܐ",
    "back": "knowledge — ʾīdaʿtā (noun, f, root y-d-ʿ)",
@@ -2433,7 +2433,7 @@
    }
   },
   {
-   "id": "syr0081",
+   "id": "syr_fc7c3acbc1",
    "num": 81,
    "front": "ܫܒܬܐ",
    "back": "sabbath, week — šabbtā (noun, f, root š-b-t)",
@@ -2456,7 +2456,7 @@
    }
   },
   {
-   "id": "syr0082",
+   "id": "syr_a173f27898",
    "num": 82,
    "front": "ܫܡܥ",
    "back": "to hear — šmaʿ (verb, Peal, root š-m-ʿ)",
@@ -2479,7 +2479,7 @@
    }
   },
   {
-   "id": "syr0083",
+   "id": "syr_d4983dabe3",
    "num": 83,
    "front": "ܫܠܡܘܬܐ",
    "back": "completeness, agreement — šalmūtā (noun, f, Peal, root š-l-m)",
@@ -2502,7 +2502,7 @@
    }
   },
   {
-   "id": "syr0084",
+   "id": "syr_bda5e46dbc",
    "num": 84,
    "front": "ܢܛܘܪܬܐ",
    "back": "watching, custody — nṭūrtā (noun, f, root n-ṭ-r)",
@@ -2525,7 +2525,7 @@
    }
   },
   {
-   "id": "syr0085",
+   "id": "syr_4c423b9af8",
    "num": 85,
    "front": "ܫܘܚܠܦܐ",
    "back": "change, alteration — šūḥlāpā (noun, m, root š-ḥ-l-p)",
@@ -2548,7 +2548,7 @@
    }
   },
   {
-   "id": "syr0086",
+   "id": "syr_472d4567a5",
    "num": 86,
    "front": "ܫܦܥܐ",
    "back": "abundance, overflow — šepʿā (noun, m, Peal, root š-p-ʿ)",
@@ -2571,7 +2571,7 @@
    }
   },
   {
-   "id": "syr0087",
+   "id": "syr_c9777a0d99",
    "num": 87,
    "front": "ܨܒܥܐ",
    "back": "finger — ṣebʿā (noun, f, root ṣ-b-ʿ)",
@@ -2594,7 +2594,7 @@
    }
   },
   {
-   "id": "syr0088",
+   "id": "syr_4b149c6876",
    "num": 88,
    "front": "ܕܪܓܐ",
    "back": "step, degree, stairway — dargā (noun, m, Peal, root d-r-g)",
@@ -2617,7 +2617,7 @@
    }
   },
   {
-   "id": "syr0089",
+   "id": "syr_83acaaf13c",
    "num": 89,
    "front": "ܥܒܕ",
    "back": "to do, make — ʿbad (verb, Peal, root ʿ-b-d)",
@@ -2640,7 +2640,7 @@
    }
   },
   {
-   "id": "syr0090",
+   "id": "syr_4168d18b7d",
    "num": 90,
    "front": "ܥܪܛܠܝܘܬܐ",
    "back": "nakedness, exposure — ʿarṭellāyūtā (noun, f, root ʿ-r-ṭ-l)",
@@ -2663,7 +2663,7 @@
    }
   },
   {
-   "id": "syr0091",
+   "id": "syr_e03d5b19ea",
    "num": 91,
    "front": "ܚܙܐ",
    "back": "to see — ḥzā (verb, Peal, root ḥ-z-y)",
@@ -2686,7 +2686,7 @@
    }
   },
   {
-   "id": "syr0092",
+   "id": "syr_79a20ad22b",
    "num": 92,
    "front": "ܥܘܫܢܐ",
    "back": "strength, might — ʿūšnā (noun, m, root ʿ-š-n)",
@@ -2709,7 +2709,7 @@
    }
   },
   {
-   "id": "syr0093",
+   "id": "syr_ef1fb9606c",
    "num": 93,
    "front": "ܬܠܡܝܕܐ",
    "back": "disciple, student — talmīdā (noun, m, root t-l-m-d)",
@@ -2732,7 +2732,7 @@
    }
   },
   {
-   "id": "syr0094",
+   "id": "syr_0873de7372",
    "num": 94,
    "front": "ܐܝܬ",
    "back": "there is, there are — ʾīt (particle)",
@@ -2755,7 +2755,7 @@
    }
   },
   {
-   "id": "syr0095",
+   "id": "syr_08614e55d6",
    "num": 95,
    "front": "ܝܠܕ",
    "back": "to give birth — ʾīled (verb, Peal, root y-l-d)",
@@ -2778,7 +2778,7 @@
    }
   },
   {
-   "id": "syr0096",
+   "id": "syr_49cfac24e9",
    "num": 96,
    "front": "ܕܡܥܬܐ",
    "back": "tear, weeping — demʿtā (noun, f, root d-m-ʿ)",
@@ -2801,7 +2801,7 @@
    }
   },
   {
-   "id": "syr0097",
+   "id": "syr_39047243c5",
    "num": 97,
    "front": "ܕܘܪܟܐ",
    "back": "treading, step — dūrkā (noun, m, root d-r-k)",
@@ -2824,7 +2824,7 @@
    }
   },
   {
-   "id": "syr0098",
+   "id": "syr_d09745bac5",
    "num": 98,
    "front": "ܓܠܝܘܬܐ",
    "back": "openness, manifestation — galyūtā (noun, f, root g-l-y)",
@@ -2847,7 +2847,7 @@
    }
   },
   {
-   "id": "syr0099",
+   "id": "syr_6f8afdf882",
    "num": 99,
    "front": "ܓܢܒܘܬܐ",
    "back": "theft, stealing — gannābūtā (noun, f, Peal, root g-n-b)",
@@ -2870,7 +2870,7 @@
    }
   },
   {
-   "id": "syr0100",
+   "id": "syr_376e83a120",
    "num": 100,
    "front": "ܓܪܒܐ",
    "back": "leprosy — garbā (noun, m, root g-r-b)",
@@ -2893,7 +2893,7 @@
    }
   },
   {
-   "id": "syr0101",
+   "id": "syr_8b6eaa98e3",
    "num": 101,
    "front": "ܟܝܢܐ",
    "back": "nature, being — kyānā (noun, m, root k-w-n)",
@@ -2916,7 +2916,7 @@
    }
   },
   {
-   "id": "syr0102",
+   "id": "syr_63ca6afd3f",
    "num": 102,
    "front": "ܠܐ",
    "back": "not — lā (particle)",
@@ -2939,7 +2939,7 @@
    }
   },
   {
-   "id": "syr0103",
+   "id": "syr_eaa69f1758",
    "num": 103,
    "front": "ܫܒܝܐ",
    "back": "captivity, captives — šebyā (noun, m, root š-b-y)",
@@ -2962,7 +2962,7 @@
    }
   },
   {
-   "id": "syr0104",
+   "id": "syr_463403dc43",
    "num": 104,
    "front": "ܡܕܒܪܢܐ",
    "back": "leader, governor — mdabbrānā (noun, m, Paael, root d-b-r)",
@@ -2985,7 +2985,7 @@
    }
   },
   {
-   "id": "syr0105",
+   "id": "syr_b43fc2bfdf",
    "num": 105,
    "front": "ܡܦܩܢܐ",
    "back": "going out, exit — mappqānā (noun, m, root n-p-q)",
@@ -3008,7 +3008,7 @@
    }
   },
   {
-   "id": "syr0106",
+   "id": "syr_469a049a04",
    "num": 106,
    "front": "ܢܦܩ",
    "back": "to go out — npaq (verb, Peal, root n-p-q)",
@@ -3031,7 +3031,7 @@
    }
   },
   {
-   "id": "syr0107",
+   "id": "syr_dbc658483c",
    "num": 107,
    "front": "ܢܛܘܪܘܬܐ",
    "back": "watching, guardianship — nāṭōrūtā (noun, f, root n-ṭ-r)",
@@ -3054,7 +3054,7 @@
    }
   },
   {
-   "id": "syr0108",
+   "id": "syr_2357907012",
    "num": 108,
    "front": "ܢܛܪ",
    "back": "to keep, guard — nṭar (verb, Peal, root n-ṭ-r)",
@@ -3077,7 +3077,7 @@
    }
   },
   {
-   "id": "syr0109",
+   "id": "syr_9c11bcf5e8",
    "num": 109,
    "front": "ܡܡܠܠܐ",
    "back": "speech, discourse — mamllā (noun, m, root m-l-l)",
@@ -3100,7 +3100,7 @@
    }
   },
   {
-   "id": "syr0110",
+   "id": "syr_9f1af8da80",
    "num": 110,
    "front": "ܡܚܘܬܐ",
    "back": "blow, plague, wound — mḥūtā (noun, f, root m-ḥ-y)",
@@ -3123,7 +3123,7 @@
    }
   },
   {
-   "id": "syr0111",
+   "id": "syr_1520245768",
    "num": 111,
    "front": "ܫܒܝܬܐ",
    "back": "captivity, captive (f.) — šbītā (noun, f, root š-b-y)",
@@ -3146,7 +3146,7 @@
    }
   },
   {
-   "id": "syr0112",
+   "id": "syr_f731ff0bdf",
    "num": 112,
    "front": "ܦܠܚܘܬܐ",
    "back": "service, husbandry — pālḥūtā (noun, f, Peal, root p-l-ḥ)",
@@ -3169,7 +3169,7 @@
    }
   },
   {
-   "id": "syr0113",
+   "id": "syr_f88a189406",
    "num": 113,
    "front": "ܫܠܝܛܐ",
    "back": "ruler, official — šallīṭā (noun, m, root š-l-ṭ)",
@@ -3192,7 +3192,7 @@
    }
   },
   {
-   "id": "syr0114",
+   "id": "syr_206807f98a",
    "num": 114,
    "front": "ܩܕܡ",
    "back": "before — qdām (preposition)",
@@ -3215,7 +3215,7 @@
    }
   },
   {
-   "id": "syr0115",
+   "id": "syr_858559c573",
    "num": 115,
    "front": "ܩܪܒ",
    "back": "to draw near — qreb (verb, Peal, root q-r-b)",
@@ -3238,7 +3238,7 @@
    }
   },
   {
-   "id": "syr0116",
+   "id": "syr_195e0b11e4",
    "num": 116,
    "front": "ܩܘܪܒܐ",
    "back": "nearness, vicinity — qūrbā (noun, m, root q-r-b)",
@@ -3261,7 +3261,7 @@
    }
   },
   {
-   "id": "syr0117",
+   "id": "syr_8c48a25c43",
    "num": 117,
    "front": "ܩܛܠܐ",
    "back": "slaughter, murder — qeṭlā (noun, m, root q-ṭ-l)",
@@ -3284,7 +3284,7 @@
    }
   },
   {
-   "id": "syr0118",
+   "id": "syr_fdb4bc6a50",
    "num": 118,
    "front": "ܪܕܘܦܝܐ",
    "back": "persecution — rdūpyā (noun, m, root r-d-p)",
@@ -3307,7 +3307,7 @@
    }
   },
   {
-   "id": "syr0119",
+   "id": "syr_a9ac2868c7",
    "num": 119,
    "front": "ܪܓܡܐ",
    "back": "stoning — rgāmā (noun, m, root r-g-m)",
@@ -3330,7 +3330,7 @@
    }
   },
   {
-   "id": "syr0120",
+   "id": "syr_637fbc22a9",
    "num": 120,
    "front": "ܣܠܩ",
    "back": "to ascend, go up — sleq (verb, Peal, root s-l-q)",
@@ -3353,7 +3353,7 @@
    }
   },
   {
-   "id": "syr0121",
+   "id": "syr_f1887fa093",
    "num": 121,
    "front": "ܣܒܥܘܬܐ",
    "back": "satiety, fullness — sabʿūtā (noun, f, Peal, root s-b-ʿ)",
@@ -3376,7 +3376,7 @@
    }
   },
   {
-   "id": "syr0122",
+   "id": "syr_66cacb24ae",
    "num": 122,
    "front": "ܫܒܩ",
    "back": "to leave, forgive — šbaq (verb, Peal, root š-b-q)",
@@ -3399,7 +3399,7 @@
    }
   },
   {
-   "id": "syr0123",
+   "id": "syr_d8be06d857",
    "num": 123,
    "front": "ܫܪܐ",
    "back": "to loosen, release — šrā (verb, Peal, root š-r-y)",
@@ -3422,7 +3422,7 @@
    }
   },
   {
-   "id": "syr0124",
+   "id": "syr_54db6db186",
    "num": 124,
    "front": "ܫܘܒܩܢܐ",
    "back": "forgiveness, remission — šūbqānā (noun, m, root š-b-q)",
@@ -3445,7 +3445,7 @@
    }
   },
   {
-   "id": "syr0125",
+   "id": "syr_af939b0e9d",
    "num": 125,
    "front": "ܡܛܪܬܐ",
    "back": "guard, watch — maṭṭartā (noun, f, root n-ṭ-r)",
@@ -3468,7 +3468,7 @@
    }
   },
   {
-   "id": "syr0126",
+   "id": "syr_c1a1ec68fa",
    "num": 126,
    "front": "ܥܡܘܕܐ",
    "back": "pillar, column — ʿammūdā (noun, m, noun, root ʿ-m-d)",
@@ -3491,7 +3491,7 @@
    }
   },
   {
-   "id": "syr0127",
+   "id": "syr_93390f5b68",
    "num": 127,
    "front": "ܥܩܪ",
    "back": "to uproot, tear down — ʿqar (verb, Peal, root ʿ-q-r)",
@@ -3514,7 +3514,7 @@
    }
   },
   {
-   "id": "syr0128",
+   "id": "syr_bc332ec8b8",
    "num": 128,
    "front": "ܥܪܩ",
    "back": "to flee — ʿraq (verb, Peal, root ʿ-r-q)",
@@ -3537,7 +3537,7 @@
    }
   },
   {
-   "id": "syr0129",
+   "id": "syr_6ca0fe85c9",
    "num": 129,
    "front": "ܡܣܩܢܐ",
    "back": "ascent, rising — masqānā (noun, m, root s-l-q)",
@@ -3560,7 +3560,7 @@
    }
   },
   {
-   "id": "syr0130",
+   "id": "syr_a49db4d9d1",
    "num": 130,
    "front": "ܥܪܘܩܐ",
    "back": "fugitive — ʿārōqā (noun, m, Peal, root ʿ-r-q)",
@@ -3583,7 +3583,7 @@
    }
   },
   {
-   "id": "syr0131",
+   "id": "syr_2617628506",
    "num": 131,
    "front": "ܚܡܝܡܘܬܐ",
    "back": "heat, warmth — ḥammīmūtā (noun, f, root ḥ-m-m)",
@@ -3606,7 +3606,7 @@
    }
   },
   {
-   "id": "syr0132",
+   "id": "syr_bc184886c9",
    "num": 132,
    "front": "ܩܡ",
    "back": "to rise, stand — qām (verb, Peal, root q-w-m)",
@@ -3629,7 +3629,7 @@
    }
   },
   {
-   "id": "syr0133",
+   "id": "syr_f08f9a3512",
    "num": 133,
    "front": "ܒܪ",
    "back": "son — bar (noun, m)",
@@ -3652,7 +3652,7 @@
    }
   },
   {
-   "id": "syr0134",
+   "id": "syr_d0256a01c0",
    "num": 134,
    "front": "ܒܪܐ",
    "back": "son — brā (noun, m)",
@@ -3675,7 +3675,7 @@
    }
   },
   {
-   "id": "syr0135",
+   "id": "syr_8063329c0f",
    "num": 135,
    "front": "ܒܪܬܐ",
    "back": "daughter — bartā (noun, f)",
@@ -3698,7 +3698,7 @@
    }
   },
   {
-   "id": "syr0136",
+   "id": "syr_6d1c19ce81",
    "num": 136,
    "front": "ܒܝܬܐ",
    "back": "house — baytā (noun, m)",
@@ -3721,7 +3721,7 @@
    }
   },
   {
-   "id": "syr0137",
+   "id": "syr_f8d8be17de",
    "num": 137,
    "front": "ܕܪܥܐ",
    "back": "arm — drāʿā (noun, m, Peal)",
@@ -3744,7 +3744,7 @@
    }
   },
   {
-   "id": "syr0138",
+   "id": "syr_3b3c367e92",
    "num": 138,
    "front": "ܥܛܡܐ",
    "back": "thigh, side — ʿaṭmā (noun, f, Peal)",
@@ -3767,7 +3767,7 @@
    }
   },
   {
-   "id": "syr0139",
+   "id": "syr_12c5cd10da",
    "num": 139,
    "front": "ܓܢܒܪܐ",
    "back": "mighty, hero — gabbārā (adj, m, Peal)",
@@ -3790,7 +3790,7 @@
    }
   },
   {
-   "id": "syr0140",
+   "id": "syr_b6e9566e84",
    "num": 140,
    "front": "ܟܠܬܐ",
    "back": "bride, daughter-in-law — kalltā (noun, f, Peal)",
@@ -3813,7 +3813,7 @@
    }
   },
   {
-   "id": "syr0141",
+   "id": "syr_32c51430b9",
    "num": 141,
    "front": "ܡܣܟܢܐ",
    "back": "poor, humble — meskēnā (adj, m, Peal)",
@@ -3836,7 +3836,7 @@
    }
   },
   {
-   "id": "syr0142",
+   "id": "syr_4ade4c0baa",
    "num": 142,
    "front": "ܡܢܐ",
    "back": "What? — mānā (interrogative)",
@@ -3859,7 +3859,7 @@
    }
   },
   {
-   "id": "syr0143",
+   "id": "syr_ee929c0175",
    "num": 143,
    "front": "ܡܐ",
    "back": "what — mā (pronoun)",
@@ -3882,7 +3882,7 @@
    }
   },
   {
-   "id": "syr0144",
+   "id": "syr_f05ad4e495",
    "num": 144,
    "front": "ܩܠܝܠܐ",
    "back": "swift, light, little — qallīlā (adj, m, Peal)",
@@ -3905,7 +3905,7 @@
    }
   },
   {
-   "id": "syr0145",
+   "id": "syr_d22c3308b5",
    "num": 145,
    "front": "ܩܠܐ",
    "back": "voice, sound — qālā (noun, m)",
@@ -3928,7 +3928,7 @@
    }
   },
   {
-   "id": "syr0146",
+   "id": "syr_654429e035",
    "num": 146,
    "front": "ܪܝܫܐ",
    "back": "head, chief — rēšā (noun, m)",
@@ -3951,7 +3951,7 @@
    }
   },
   {
-   "id": "syr0147",
+   "id": "syr_0c79ed1af0",
    "num": 147,
    "front": "ܣܦܬܐ",
    "back": "lip, shore — septā (noun, f, Peal)",
@@ -3974,7 +3974,7 @@
    }
   },
   {
-   "id": "syr0148",
+   "id": "syr_4bca8398f9",
    "num": 148,
    "front": "ܬܠܓܐ",
    "back": "snow — talgā (noun, m, Peal)",
@@ -3997,7 +3997,7 @@
    }
   },
   {
-   "id": "syr0149",
+   "id": "syr_492c53b26b",
    "num": 149,
    "front": "ܝܚܝܕܝܐ",
    "back": "only-begotten, solitary — ʾīḥīdāyā (adj, m, Peal)",
@@ -4020,7 +4020,7 @@
    }
   },
   {
-   "id": "syr0150",
+   "id": "syr_4f20d57fd0",
    "num": 150,
    "front": "ܐܒܐ",
    "back": "father — ʾabā (noun, m)",
@@ -4043,7 +4043,7 @@
    }
   },
   {
-   "id": "syr0151",
+   "id": "syr_00f597ea6e",
    "num": 151,
    "front": "ܐܝܟܐ",
    "back": "where? — ʾaykā (interrogative)",
@@ -4066,7 +4066,7 @@
    }
   },
   {
-   "id": "syr0152",
+   "id": "syr_b421474f33",
    "num": 152,
    "front": "ܐܚܐ",
    "back": "brother — ʾaḥā (noun, m)",
@@ -4089,7 +4089,7 @@
    }
   },
   {
-   "id": "syr0153",
+   "id": "syr_51dff735f5",
    "num": 153,
    "front": "ܐܡܐ",
    "back": "mother — ʾemmā (noun, f)",
@@ -4112,7 +4112,7 @@
    }
   },
   {
-   "id": "syr0154",
+   "id": "syr_1df9d8ae50",
    "num": 154,
    "front": "ܐܝܕܐ",
    "back": "hand — ʾīdā (noun, f)",
@@ -4135,7 +4135,7 @@
    }
   },
   {
-   "id": "syr0155",
+   "id": "syr_71f83c4d45",
    "num": 155,
    "front": "ܟܐܢܐ",
    "back": "just, righteous — kēnā (adj, m, Peal)",
@@ -4158,7 +4158,7 @@
    }
   },
   {
-   "id": "syr0156",
+   "id": "syr_317b1dbe24",
    "num": 156,
    "front": "ܫܩܐ",
    "back": "leg, shin, calf — šāqā (noun, f, Peal)",
@@ -4181,7 +4181,7 @@
    }
   },
   {
-   "id": "syr0157",
+   "id": "syr_8f43b75ffa",
    "num": 157,
    "front": "ܥܡܝܩܐ",
    "back": "deep, profound — ʿammīqā (adj, m, Peal)",
@@ -4204,7 +4204,7 @@
    }
   },
   {
-   "id": "syr0158",
+   "id": "syr_dfd117b77e",
    "num": 158,
    "front": "ܥܡܬܐ",
    "back": "paternal aunt — ʿammtā (noun, f, Peal)",
@@ -4227,7 +4227,7 @@
    }
   },
   {
-   "id": "syr0159",
+   "id": "syr_cb7f7732b2",
    "num": 159,
    "front": "ܕܕܐ",
    "back": "uncle, beloved — dādā (noun, m, Peal)",
@@ -4250,7 +4250,7 @@
    }
   },
   {
-   "id": "syr0160",
+   "id": "syr_1cd1d0cd5b",
    "num": 160,
    "front": "ܥܬܝܪܐ",
    "back": "rich, wealthy — ʿattīrā (adj, m, Peal)",
@@ -4273,7 +4273,7 @@
    }
   },
   {
-   "id": "syr0161",
+   "id": "syr_4c01826d20",
    "num": 161,
    "front": "ܚܬܢܐ",
    "back": "bridegroom, son-in-law — ḥatnā (noun, m, Peal)",
@@ -4296,7 +4296,7 @@
    }
   },
   {
-   "id": "syr0162",
+   "id": "syr_705db7ae08",
    "num": 162,
    "front": "ܐܠܥܐ",
    "back": "rib, side — ʾelʿā (noun, f, Peal)",
@@ -4319,7 +4319,7 @@
    }
   },
   {
-   "id": "syr0163",
+   "id": "syr_fb106f88c2",
    "num": 163,
    "front": "ܥܠ",
    "back": "to enter — ʿal (verb, Peal, root ʿ-w-l)",
@@ -4342,7 +4342,7 @@
    }
   },
   {
-   "id": "syr0164",
+   "id": "syr_de3018014f",
    "num": 164,
    "front": "ܒܪܐ",
    "back": "to create — brā (verb, Peal, root b-r-y)",
@@ -4365,7 +4365,7 @@
    }
   },
   {
-   "id": "syr0165",
+   "id": "syr_a0ea6c0928",
    "num": 165,
    "front": "ܒܪܝܬܐ",
    "back": "creation, creature — brīttā (noun, f, root b-r-y)",
@@ -4388,7 +4388,7 @@
    }
   },
   {
-   "id": "syr0166",
+   "id": "syr_e7df2f0e34",
    "num": 166,
    "front": "ܒܘܪܟܬܐ",
    "back": "blessing — burktā (noun, f, root b-r-k)",
@@ -4411,7 +4411,7 @@
    }
   },
   {
-   "id": "syr0167",
+   "id": "syr_f6738e29c3",
    "num": 167,
    "front": "ܓܠܝܢܐ",
    "back": "revelation, disclosure — gelyānā (noun, m, root g-l-y)",
@@ -4434,7 +4434,7 @@
    }
   },
   {
-   "id": "syr0168",
+   "id": "syr_64aa775dec",
    "num": 168,
    "front": "ܗܝܡܢܘܬܐ",
    "back": "faith, belief — haymānūtā (noun, f, root h-y-m-n)",
@@ -4457,7 +4457,7 @@
    }
   },
   {
-   "id": "syr0169",
+   "id": "syr_1d9ffcb5a0",
    "num": 169,
    "front": "ܟܬܒܐ",
    "back": "book, scripture — ktābā (noun, m, root k-t-b)",
@@ -4480,7 +4480,7 @@
    }
   },
   {
-   "id": "syr0170",
+   "id": "syr_348a43de9a",
    "num": 170,
    "front": "ܟܠ",
    "back": "all, every — kull (noun, m, root k-l-l)",
@@ -4503,7 +4503,7 @@
    }
   },
   {
-   "id": "syr0171",
+   "id": "syr_af7259faea",
    "num": 171,
    "front": "ܟܐܢܘܬܐ",
    "back": "righteousness, justice — kēnūtā (noun, f, root k-w-n)",
@@ -4526,7 +4526,7 @@
    }
   },
   {
-   "id": "syr0172",
+   "id": "syr_5fd8d4125a",
    "num": 172,
    "front": "ܡܕܒܪܐ",
    "back": "wilderness, desert — madbrā (noun, m, root d-b-r)",
@@ -4549,7 +4549,7 @@
    }
   },
   {
-   "id": "syr0173",
+   "id": "syr_200ea6ab48",
    "num": 173,
    "front": "ܡܥܡܘܕܝܬܐ",
    "back": "baptism — maʿmūdītā (noun, f, root ʿ-m-d)",
@@ -4572,7 +4572,7 @@
    }
   },
   {
-   "id": "syr0174",
+   "id": "syr_4fe8f9be87",
    "num": 174,
    "front": "ܢܒܝܘܬܐ",
    "back": "prophecy — nbīyūtā (noun, f, root n-b-y)",
@@ -4595,7 +4595,7 @@
    }
   },
   {
-   "id": "syr0175",
+   "id": "syr_e340cc723a",
    "num": 175,
    "front": "ܦܘܪܩܢܐ",
    "back": "redemption, salvation — pūrqānā (noun, m, root p-r-q)",
@@ -4618,7 +4618,7 @@
    }
   },
   {
-   "id": "syr0176",
+   "id": "syr_812df1f2f7",
    "num": 176,
    "front": "ܩܕܫ",
    "back": "to sanctify — qaddeš (verb, Paael, root q-d-š)",
@@ -4641,7 +4641,7 @@
    }
   },
   {
-   "id": "syr0177",
+   "id": "syr_6b474d235d",
    "num": 177,
    "front": "ܪ̈ܚܡܐ",
    "back": "mercy, compassion — raḥmē (noun, m, root r-ḥ-m)",
@@ -4664,7 +4664,7 @@
    }
   },
   {
-   "id": "syr0178",
+   "id": "syr_557261bcc5",
    "num": 178,
    "front": "ܪܐܙܐ",
    "back": "mystery, secret — rāzā (noun, m)",
@@ -4687,7 +4687,7 @@
    }
   },
   {
-   "id": "syr0179",
+   "id": "syr_b44861a5b9",
    "num": 179,
    "front": "ܪܘܚܐ",
    "back": "spirit, wind — rūḥā (noun, f, root r-w-ḥ)",
@@ -4710,7 +4710,7 @@
    }
   },
   {
-   "id": "syr0180",
+   "id": "syr_177d88da10",
    "num": 180,
    "front": "ܫܘܕܪܐ",
    "back": "sending, mission — šuddārā (noun, m, root š-d-r)",
@@ -4733,7 +4733,7 @@
    }
   },
   {
-   "id": "syr0181",
+   "id": "syr_f31cad2267",
    "num": 181,
    "front": "ܫܘܒܚܐ",
    "back": "glory, praise — šūbḥā (noun, m, root š-b-ḥ)",
@@ -4756,7 +4756,7 @@
    }
   },
   {
-   "id": "syr0182",
+   "id": "syr_49b56293b3",
    "num": 182,
    "front": "ܐܠܒܫ",
    "back": "to clothe — ʾalbeš (verb, Aphel, root l-b-š)",
@@ -4779,7 +4779,7 @@
    }
   },
   {
-   "id": "syr0183",
+   "id": "syr_47832bbee6",
    "num": 183,
    "front": "ܐܦܩܕ",
    "back": "to entrust, charge — ʾapqed (verb, Aphel, root p-q-d)",
@@ -4802,7 +4802,7 @@
    }
   },
   {
-   "id": "syr0184",
+   "id": "syr_3388283770",
    "num": 184,
    "front": "ܐܩܪܒ",
    "back": "to bring near, offer — ʾaqreb (verb, Aphel, root q-r-b)",
@@ -4825,7 +4825,7 @@
    }
   },
   {
-   "id": "syr0185",
+   "id": "syr_19751d5258",
    "num": 185,
    "front": "ܐܩܝܡ",
    "back": "to raise up, establish — ʾaqīm (verb, Aphel, root q-w-m)",
@@ -4848,7 +4848,7 @@
    }
   },
   {
-   "id": "syr0186",
+   "id": "syr_4f1efd9974",
    "num": 186,
    "front": "ܐܪܡܝ",
    "back": "to cast, put — ʾarmī (verb, Aphel, root r-m-y)",
@@ -4871,7 +4871,7 @@
    }
   },
   {
-   "id": "syr0187",
+   "id": "syr_fcf24dbc45",
    "num": 187,
    "front": "ܐܣܓܝ",
    "back": "to multiply, increase — ʾasgī (verb, Aphel, root s-g-y)",
@@ -4894,7 +4894,7 @@
    }
   },
   {
-   "id": "syr0188",
+   "id": "syr_06277a7e97",
    "num": 188,
    "front": "ܐܘܟܠ",
    "back": "to feed — ʾawkel (verb, Aphel, root ʾ-k-l)",
@@ -4917,7 +4917,7 @@
    }
   },
   {
-   "id": "syr0189",
+   "id": "syr_270ddfdc10",
    "num": 189,
    "front": "ܐܘܬܒ",
    "back": "to seat, settle — ʾawteb (verb, Aphel, root y-t-b)",
@@ -4940,7 +4940,7 @@
    }
   },
   {
-   "id": "syr0190",
+   "id": "syr_2f60ffc175",
    "num": 190,
    "front": "ܐܥܠ",
    "back": "to bring in — ʾaʿel (verb, Aphel, root ʿ-l-l)",
@@ -4963,7 +4963,7 @@
    }
   },
   {
-   "id": "syr0191",
+   "id": "syr_03336f396a",
    "num": 191,
    "front": "ܐܣܩ",
    "back": "to bring up — ʾasseq (verb, Aphel, root s-l-q)",
@@ -4986,7 +4986,7 @@
    }
   },
   {
-   "id": "syr0192",
+   "id": "syr_187248c006",
    "num": 192,
    "front": "ܐܚܬ",
    "back": "to bring down — ʾaḥḥet (verb, Aphel, root n-ḥ-t)",
@@ -5009,7 +5009,7 @@
    }
   },
   {
-   "id": "syr0193",
+   "id": "syr_3bf0fb4da4",
    "num": 193,
    "front": "ܐܦܢܝ",
    "back": "to turn back, convert — ʾapnī (verb, Aphel, root p-n-y)",
@@ -5032,7 +5032,7 @@
    }
   },
   {
-   "id": "syr0194",
+   "id": "syr_4fe138f4f6",
    "num": 194,
    "front": "ܐܫܠܡ",
    "back": "to hand over, deliver — ʾašlem (verb, Aphel, root š-l-m)",
@@ -5055,7 +5055,7 @@
    }
   },
   {
-   "id": "syr0195",
+   "id": "syr_80ff51075a",
    "num": 195,
    "front": "ܐܫܟܚ",
    "back": "to find, be able — ʾeškaḥ (verb, Aphel, root š-k-ḥ)",
@@ -5078,7 +5078,7 @@
    }
   },
   {
-   "id": "syr0196",
+   "id": "syr_13bb5b9e1f",
    "num": 196,
    "front": "ܐܘܒܕ",
    "back": "to destroy, lose — ʾawbed (verb, Aphel, root ʾ-b-d)",
@@ -5101,7 +5101,7 @@
    }
   },
   {
-   "id": "syr0197",
+   "id": "syr_fc1f2669a8",
    "num": 197,
    "front": "ܐܘܕܥ",
    "back": "to make known — ʾawdaʿ (verb, Aphel, root y-d-ʿ)",
@@ -5124,7 +5124,7 @@
    }
   },
   {
-   "id": "syr0198",
+   "id": "syr_ac1f89960b",
    "num": 198,
    "front": "ܐܚܝ",
    "back": "to give life, save — ʾaḥī (verb, Aphel, root ḥ-y-y)",
@@ -5147,7 +5147,7 @@
    }
   },
   {
-   "id": "syr0199",
+   "id": "syr_33be944600",
    "num": 199,
    "front": "ܐܟܪܙ",
    "back": "to proclaim, preach — ʾakrez (verb, Aphel, root k-r-z)",
@@ -5170,7 +5170,7 @@
    }
   },
   {
-   "id": "syr0200",
+   "id": "syr_922128d1d3",
    "num": 200,
    "front": "ܐܦܪܩ",
    "back": "to deliver, rescue — ʾapreq (verb, Aphel, root p-r-q)",
@@ -5193,7 +5193,7 @@
    }
   },
   {
-   "id": "syr0201",
+   "id": "syr_8c6d2660fe",
    "num": 201,
    "front": "ܝܘܠܦܢܐ",
    "back": "teaching, doctrine — yūlpānā (noun, m, root y-l-p)",
@@ -5216,7 +5216,7 @@
    }
   },
   {
-   "id": "syr0202",
+   "id": "syr_b26e78344d",
    "num": 202,
    "front": "ܥܡܐ",
    "back": "people, nation — ʿammā (noun, m, root ʿ-m-m)",
@@ -5239,7 +5239,7 @@
    }
   },
   {
-   "id": "syr0203",
+   "id": "syr_eb7f3ef60b",
    "num": 203,
    "front": "ܛܝܒܘܬܐ",
    "back": "grace, kindness — ṭaybūtā (noun, f, root ṭ-y-b)",
@@ -5262,7 +5262,7 @@
    }
   },
   {
-   "id": "syr0204",
+   "id": "syr_c76362991c",
    "num": 204,
    "front": "ܓܠܐ",
    "back": "to reveal, uncover — glā (verb, Peal, root g-l-y)",
@@ -5285,7 +5285,7 @@
    }
   },
   {
-   "id": "syr0205",
+   "id": "syr_88e99d090a",
    "num": 205,
    "front": "ܡܪܝܐ",
    "back": "the Lord — māryā (noun, m)",
@@ -5308,7 +5308,7 @@
    }
   },
   {
-   "id": "syr0206",
+   "id": "syr_84ba96d10a",
    "num": 206,
    "front": "ܓܒܪܐ",
    "back": "man — gabrā (noun, m, root g-b-r)",
@@ -5331,7 +5331,7 @@
    }
   },
   {
-   "id": "syr0207",
+   "id": "syr_1ccb795c5f",
    "num": 207,
    "front": "ܡܕܡ",
    "back": "thing, something — meddem (noun)",
@@ -5354,7 +5354,7 @@
    }
   },
   {
-   "id": "syr0208",
+   "id": "syr_470ae77fd5",
    "num": 208,
    "front": "ܥܒܕܐ",
    "back": "servant, slave — ʿabdā (noun, m, root ʿ-b-d)",
@@ -5377,7 +5377,7 @@
    }
   },
   {
-   "id": "syr0209",
+   "id": "syr_94ae606798",
    "num": 209,
    "front": "ܐܠܦ",
    "back": "to teach — ʾallep (verb, Paael, root ʾ-l-p)",
@@ -5400,7 +5400,7 @@
    }
   },
   {
-   "id": "syr0210",
+   "id": "syr_8ddbd51555",
    "num": 210,
    "front": "ܒܪܟ",
    "back": "to bless — barrek (verb, Paael, root b-r-k)",
@@ -5423,7 +5423,7 @@
    }
   },
   {
-   "id": "syr0211",
+   "id": "syr_c925cf1885",
    "num": 211,
    "front": "ܒܣܡܐ",
    "back": "incense, fragrance — besmā (noun, m, root b-s-m)",
@@ -5446,7 +5446,7 @@
    }
   },
   {
-   "id": "syr0212",
+   "id": "syr_42813b52ce",
    "num": 212,
    "front": "ܕܟܝ",
    "back": "to purify, cleanse — dakkī (verb, Paael, root d-k-y)",
@@ -5469,7 +5469,7 @@
    }
   },
   {
-   "id": "syr0213",
+   "id": "syr_98c4b24dfc",
    "num": 213,
    "front": "ܟܗܢܘܬܐ",
    "back": "priesthood — kāhnūtā (noun, f, root k-h-n)",
@@ -5492,7 +5492,7 @@
    }
   },
   {
-   "id": "syr0214",
+   "id": "syr_88218605bf",
    "num": 214,
    "front": "ܟܢܘܫܬܐ",
    "back": "synagogue, assembly — knūštā (noun, f, root k-n-š)",
@@ -5515,7 +5515,7 @@
    }
   },
   {
-   "id": "syr0215",
+   "id": "syr_f25c3b70a3",
    "num": 215,
    "front": "ܟܗܢܐ",
    "back": "priest — kāhnā (noun, m, root k-h-n)",
@@ -5538,7 +5538,7 @@
    }
   },
   {
-   "id": "syr0216",
+   "id": "syr_e0928703e9",
    "num": 216,
    "front": "ܟܣܐ",
    "back": "cup, chalice — kāsā (noun, m, root k-w-s)",
@@ -5561,7 +5561,7 @@
    }
   },
   {
-   "id": "syr0217",
+   "id": "syr_c91b464b2d",
    "num": 217,
    "front": "ܠܚܡܐ",
    "back": "bread, food — laḥmā (noun, m, root l-ḥ-m)",
@@ -5584,7 +5584,7 @@
    }
   },
   {
-   "id": "syr0218",
+   "id": "syr_4c58864747",
    "num": 218,
    "front": "ܠܛ",
    "back": "to curse — laṭ (verb, Peal, root l-w-ṭ)",
@@ -5607,7 +5607,7 @@
    }
   },
   {
-   "id": "syr0219",
+   "id": "syr_d997afcdcd",
    "num": 219,
    "front": "ܡܕܒܚܐ",
    "back": "altar — madbḥā (noun, m, root d-b-ḥ)",
@@ -5630,7 +5630,7 @@
    }
   },
   {
-   "id": "syr0220",
+   "id": "syr_cb72b1538c",
    "num": 220,
    "front": "ܡܠܠ",
    "back": "to speak, talk — mallel (verb, Paael, root m-l-l)",
@@ -5653,7 +5653,7 @@
    }
   },
   {
-   "id": "syr0221",
+   "id": "syr_44d369b38d",
    "num": 221,
    "front": "ܪܡܪܡ",
    "back": "to exalt, magnify — ramrem (verb, Palpel, root r-w-m)",
@@ -5676,7 +5676,7 @@
    }
   },
   {
-   "id": "syr0222",
+   "id": "syr_716b3d4f4b",
    "num": 222,
    "front": "ܡܫܚ",
    "back": "to anoint — mšaḥ (verb, Peal, root m-š-ḥ)",
@@ -5699,7 +5699,7 @@
    }
   },
   {
-   "id": "syr0223",
+   "id": "syr_f2337319ee",
    "num": 223,
    "front": "ܡܒܪܟ",
    "back": "blessing (participle) — mbarrek (verb, m, Paael, root b-r-k)",
@@ -5722,7 +5722,7 @@
    }
   },
   {
-   "id": "syr0224",
+   "id": "syr_e0339ea211",
    "num": 224,
    "front": "ܦܠܓ",
    "back": "to divide, distribute — palleg (verb, Paael, root p-l-g)",
@@ -5745,7 +5745,7 @@
    }
   },
   {
-   "id": "syr0225",
+   "id": "syr_a86e964578",
    "num": 225,
    "front": "ܦܪܨܘܦܐ",
    "back": "face, person — parṣōpā (noun, m)",
@@ -5768,7 +5768,7 @@
    }
   },
   {
-   "id": "syr0226",
+   "id": "syr_8e2f8755d8",
    "num": 226,
    "front": "ܡܦܫܩܢܐ",
    "back": "interpreter, commentator — mpaššqānā (noun, m, Paael, root p-š-q)",
@@ -5791,7 +5791,7 @@
    }
   },
   {
-   "id": "syr0227",
+   "id": "syr_83ce8b6f3e",
    "num": 227,
    "front": "ܦܘܩܕܢܐ",
    "back": "commandment, decree — pūqdānā (noun, m, root p-q-d)",
@@ -5814,7 +5814,7 @@
    }
   },
   {
-   "id": "syr0228",
+   "id": "syr_f04d391cbc",
    "num": 228,
    "front": "ܩܒܠ",
    "back": "to receive, accept — qabbel (verb, Paael, root q-b-l)",
@@ -5837,7 +5837,7 @@
    }
   },
   {
-   "id": "syr0229",
+   "id": "syr_45f0eeba2c",
    "num": 229,
    "front": "ܩܘܕܫܐ",
    "back": "holiness, sanctuary — qūdšā (noun, m, root q-d-š)",
@@ -5860,7 +5860,7 @@
    }
   },
   {
-   "id": "syr0230",
+   "id": "syr_12aecaff3e",
    "num": 230,
    "front": "ܩܘܪܒܢܐ",
    "back": "offering, sacrifice — qūrbānā (noun, m, root q-r-b)",
@@ -5883,7 +5883,7 @@
    }
   },
   {
-   "id": "syr0231",
+   "id": "syr_9b3ccda087",
    "num": 231,
    "front": "ܣܓܕܬܐ",
    "back": "worship, adoration — segdtā (noun, f, Peal, root s-g-d)",
@@ -5906,7 +5906,7 @@
    }
   },
   {
-   "id": "syr0232",
+   "id": "syr_c1b1f62db0",
    "num": 232,
    "front": "ܣܓܕ",
    "back": "to bow down, worship — sgad (verb, Peal, root s-g-d)",
@@ -5929,7 +5929,7 @@
    }
   },
   {
-   "id": "syr0233",
+   "id": "syr_0bfc73638a",
    "num": 233,
    "front": "ܫܒܚ",
    "back": "to praise, glorify — šabbeḥ (verb, Paael, root š-b-ḥ)",
@@ -5952,7 +5952,7 @@
    }
   },
   {
-   "id": "syr0234",
+   "id": "syr_8b12b92194",
    "num": 234,
    "front": "ܫܡܫ",
    "back": "to minister, serve — šammeš (verb, Paael, root š-m-š)",
@@ -5975,7 +5975,7 @@
    }
   },
   {
-   "id": "syr0235",
+   "id": "syr_1d2af0e540",
    "num": 235,
    "front": "ܨܠܝ",
    "back": "to pray — ṣallī (verb, Paael, root ṣ-l-y)",
@@ -5998,7 +5998,7 @@
    }
   },
   {
-   "id": "syr0236",
+   "id": "syr_05c8ffddcc",
    "num": 236,
    "front": "ܨܡ",
    "back": "to fast, abstain — ṣām (verb, Peal, root ṣ-w-m)",
@@ -6021,7 +6021,7 @@
    }
   },
   {
-   "id": "syr0237",
+   "id": "syr_574a732817",
    "num": 237,
    "front": "ܨܠܘܬܐ",
    "back": "prayer — ṣlūtā (noun, f, root ṣ-l-y)",
@@ -6044,7 +6044,7 @@
    }
   },
   {
-   "id": "syr0238",
+   "id": "syr_805d347ef6",
    "num": 238,
    "front": "ܫܘܠܛܢܐ",
    "back": "authority, power — šūlṭānā (noun, m, root š-l-ṭ)",
@@ -6067,7 +6067,7 @@
    }
   },
   {
-   "id": "syr0239",
+   "id": "syr_15264e9184",
    "num": 239,
    "front": "ܬܫܡܫܬܐ",
    "back": "ministry, service — tešmeštā (noun, f, root š-m-š)",
@@ -6090,7 +6090,7 @@
    }
   },
   {
-   "id": "syr0240",
+   "id": "syr_3c1be0fcba",
    "num": 240,
    "front": "ܠܒܐ",
    "back": "heart — lebbā (noun, m, root l-b-b)",
@@ -6113,7 +6113,7 @@
    }
   },
   {
-   "id": "syr0241",
+   "id": "syr_cdf656f876",
    "num": 241,
    "front": "ܐܢܫܐ",
    "back": "person, human being; people — ʾnāšā (noun, m)",
@@ -6136,7 +6136,7 @@
    }
   },
   {
-   "id": "syr0242",
+   "id": "syr_9685842944",
    "num": 242,
    "front": "ܐܠܐ",
    "back": "but rather, except — ʾellā (particle)",
@@ -6159,7 +6159,7 @@
    }
   },
   {
-   "id": "syr0243",
+   "id": "syr_2655f0d7cb",
    "num": 243,
    "front": "ܪܡܐ",
    "back": "high, loud — rāmā (adj, m, root r-w-m)",
@@ -6182,7 +6182,7 @@
    }
   },
   {
-   "id": "syr0244",
+   "id": "syr_91aa4d8553",
    "num": 244,
    "front": "ܚܕܬܐ",
    "back": "new — ḥadtā (adj, m, root ḥ-d-t)",
@@ -6205,7 +6205,7 @@
    }
   },
   {
-   "id": "syr0245",
+   "id": "syr_d088fc583b",
    "num": 245,
    "front": "ܒܢܐ",
    "back": "to build — bnā (verb, Peal, root b-n-y)",
@@ -6228,7 +6228,7 @@
    }
   },
   {
-   "id": "syr0246",
+   "id": "syr_2bf28c0871",
    "num": 246,
    "front": "ܒܢܝܢܐ",
    "back": "building, structure — benyānā (noun, m, root b-n-y)",
@@ -6251,7 +6251,7 @@
    }
   },
   {
-   "id": "syr0247",
+   "id": "syr_f89408d74d",
    "num": 247,
    "front": "ܕܘܩܐ",
    "back": "aim, gaze, spectacle — dūqā (noun, m, weak, root d-w-q)",
@@ -6274,7 +6274,7 @@
    }
   },
   {
-   "id": "syr0248",
+   "id": "syr_5e94517582",
    "num": 248,
    "front": "ܕܝܫܐ",
    "back": "trampling, treading — dayšā (noun, m, root d-w-š)",
@@ -6297,7 +6297,7 @@
    }
   },
   {
-   "id": "syr0249",
+   "id": "syr_df1a26e3d6",
    "num": 249,
    "front": "ܕܡܘܬܐ",
    "back": "likeness, image, form — dmūtā (noun, f, Peal, root d-m-y)",
@@ -6320,7 +6320,7 @@
    }
   },
   {
-   "id": "syr0250",
+   "id": "syr_ad3b10b9c4",
    "num": 250,
    "front": "ܡܥܪܬܐ",
    "back": "cave, den — mʿarrtā (noun, f, root ʿ-r-r)",
@@ -6343,7 +6343,7 @@
    }
   },
   {
-   "id": "syr0251",
+   "id": "syr_8f46a01504",
    "num": 251,
    "front": "ܡܘܗܒܬܐ",
    "back": "gift, present — mawhabtā (noun, f, root y-h-b)",
@@ -6366,7 +6366,7 @@
    }
   },
   {
-   "id": "syr0252",
+   "id": "syr_a150279f3b",
    "num": 252,
    "front": "ܗܘܝܐ",
    "back": "being, genesis — hwāyā (noun, m, root h-w-y)",
@@ -6389,7 +6389,7 @@
    }
   },
   {
-   "id": "syr0253",
+   "id": "syr_f05a74fece",
    "num": 253,
    "front": "ܝܠܠܬܐ",
    "back": "lamenting, wailing — yīlaltā (noun, f, root y-l-l)",
@@ -6412,7 +6412,7 @@
    }
   },
   {
-   "id": "syr0254",
+   "id": "syr_ab7ecb5bde",
    "num": 254,
    "front": "ܢܒܝܐ",
    "back": "prophet — nbīyā (noun, m, root n-b-y)",
@@ -6435,7 +6435,7 @@
    }
   },
   {
-   "id": "syr0255",
+   "id": "syr_4d204c7e32",
    "num": 255,
    "front": "ܢܝܚܐ",
    "back": "rest, tranquility — nyāḥā (noun, m, root n-w-ḥ)",
@@ -6458,7 +6458,7 @@
    }
   },
   {
-   "id": "syr0256",
+   "id": "syr_0a70db1f1d",
    "num": 256,
    "front": "ܡܥܨܪܬܐ",
    "back": "winepress — maʿṣartā (noun, f, root ʿ-ṣ-r)",
@@ -6481,7 +6481,7 @@
    }
   },
   {
-   "id": "syr0257",
+   "id": "syr_ac493a828b",
    "num": 257,
    "front": "ܩܪܐ",
    "back": "to call, read — qrā (verb, Peal, root q-r-y)",
@@ -6504,7 +6504,7 @@
    }
   },
   {
-   "id": "syr0258",
+   "id": "syr_9947a8f759",
    "num": 258,
    "front": "ܩܘܡܐ",
    "back": "stature, standing — qūmā (noun, m, Hollow, root q-w-m)",
@@ -6527,7 +6527,7 @@
    }
   },
   {
-   "id": "syr0259",
+   "id": "syr_1ad91f7ec6",
    "num": 259,
    "front": "ܩܘܪܐ",
    "back": "cold — qūrā (noun, m, root q-r-r)",
@@ -6550,7 +6550,7 @@
    }
   },
   {
-   "id": "syr0260",
+   "id": "syr_18800a1424",
    "num": 260,
    "front": "ܩܪܝܢܐ",
    "back": "reading, calling — qeryānā (noun, m, root q-r-y)",
@@ -6573,7 +6573,7 @@
    }
   },
   {
-   "id": "syr0261",
+   "id": "syr_6072ad5d1d",
    "num": 261,
    "front": "ܒܗܬܬܐ",
    "back": "shame, disgrace — behttā (noun, f, root b-h-t)",
@@ -6596,7 +6596,7 @@
    }
   },
   {
-   "id": "syr0262",
+   "id": "syr_ec0f401d16",
    "num": 262,
    "front": "ܝܗܒ",
    "back": "to give — ya(h)b (verb, Peal, root y-h-b)",
@@ -6619,7 +6619,7 @@
    }
   },
   {
-   "id": "syr0263",
+   "id": "syr_2ebd29e659",
    "num": 263,
    "front": "ܝܙܦܬܐ",
    "back": "loan, borrowing — ʾīzaptā (noun, f, noun, root y-z-p)",
@@ -6642,7 +6642,7 @@
    }
   },
   {
-   "id": "syr0264",
+   "id": "syr_a0cfeb7005",
    "num": 264,
    "front": "ܝܕܥ",
    "back": "to know — ʾīdaʿ (verb, Peal, root y-d-ʿ)",
@@ -6665,7 +6665,7 @@
    }
   },
   {
-   "id": "syr0265",
+   "id": "syr_76efced2a5",
    "num": 265,
    "front": "ܣܗܕܘܬܐ",
    "back": "testimony, witness — sāhdūtā (noun, f, root s-h-d)",
@@ -6688,7 +6688,7 @@
    }
   },
   {
-   "id": "syr0266",
+   "id": "syr_b76a88c7c6",
    "num": 266,
    "front": "ܫܠܝܐ",
    "back": "quiet, stillness — šelyā (noun, m, root š-l-y)",
@@ -6711,7 +6711,7 @@
    }
   },
   {
-   "id": "syr0267",
+   "id": "syr_400f8a633f",
    "num": 267,
    "front": "ܐܟܠ",
    "back": "to eat — ʾekal (verb, Peal, root ʾ-k-l)",
@@ -6734,7 +6734,7 @@
    }
   },
   {
-   "id": "syr0268",
+   "id": "syr_0114d50f3d",
    "num": 268,
    "front": "ܐܡܪ",
    "back": "to say — ʾemar (verb, Peal, root ʾ-m-r)",
@@ -6757,7 +6757,7 @@
    }
   },
   {
-   "id": "syr0269",
+   "id": "syr_fef0bd9411",
    "num": 269,
    "front": "ܐܬܐ",
    "back": "to come — ʾetā (verb, Peal, root ʾ-t-y)",
@@ -6780,7 +6780,7 @@
    }
   },
   {
-   "id": "syr0270",
+   "id": "syr_29e0944153",
    "num": 270,
    "front": "ܐܙܠ",
    "back": "to go — ʾezal (verb, Peal, root ʾ-z-l)",
@@ -6803,7 +6803,7 @@
    }
   },
   {
-   "id": "syr0271",
+   "id": "syr_4851a4d807",
    "num": 271,
    "front": "ܚܕܝܘܬܐ",
    "back": "oneness, joy — ḥdāyūtā (noun, f, root ḥ-d-y)",
@@ -6826,7 +6826,7 @@
    }
   },
   {
-   "id": "syr0272",
+   "id": "syr_43b97a4eba",
    "num": 272,
    "front": "ܐܬܐ",
    "back": "sign, miracle — ʾātā (noun, f, root ʾ-t-y)",
@@ -6849,7 +6849,7 @@
    }
   },
   {
-   "id": "syr0273",
+   "id": "syr_e01c6bd1b5",
    "num": 273,
    "front": "ܡܐܬܝܬܐ",
    "back": "coming, arrival — mētītā (noun, f, root ʾ-t-y)",
@@ -6872,7 +6872,7 @@
    }
   },
   {
-   "id": "syr0274",
+   "id": "syr_8ab70340ea",
    "num": 274,
    "front": "ܥܘܕܪܢܐ",
    "back": "help, aid — ʿūdrānā (noun, m, noun, root ʿ-d-r)",
@@ -6895,7 +6895,7 @@
    }
   },
   {
-   "id": "syr0275",
+   "id": "syr_a77e990975",
    "num": 275,
    "front": "ܥܠܡܐ",
    "back": "world, eternity — ʿālmā (noun, m, root ʿ-l-m)",
@@ -6918,7 +6918,7 @@
    }
   },
   {
-   "id": "syr0276",
+   "id": "syr_0085017aa0",
    "num": 276,
    "front": "ܐܣܘܪܐ",
    "back": "bond, chain — ʾesūrā (noun, m, root ʾ-s-r)",
@@ -6941,7 +6941,7 @@
    }
   },
   {
-   "id": "syr0277",
+   "id": "syr_ee5ef8b56a",
    "num": 277,
    "front": "ܡܣܩܬܐ",
    "back": "ascent, exaltation — masqtā (noun, f, root s-l-q)",
@@ -6964,7 +6964,7 @@
    }
   },
   {
-   "id": "syr0278",
+   "id": "syr_82860f8552",
    "num": 278,
    "front": "ܚܙܘܐ",
    "back": "vision, appearance — ḥezwā (noun, m, root ḥ-z-y)",
@@ -6987,7 +6987,7 @@
    }
   },
   {
-   "id": "syr0279",
+   "id": "syr_d2d193980e",
    "num": 279,
    "front": "ܚܠܡܐ",
    "back": "dream — ḥelmā (noun, m, root ḥ-l-m)",
@@ -7010,7 +7010,7 @@
    }
   },
   {
-   "id": "syr0280",
+   "id": "syr_54af78f502",
    "num": 280,
    "front": "ܚܝܐ",
    "back": "to live — ḥyā (verb, Peal, root ḥ-y-y)",
@@ -7033,7 +7033,7 @@
    }
   },
   {
-   "id": "syr0281",
+   "id": "syr_28ba94502f",
    "num": 281,
    "front": "ܛܘܦܣܐ",
    "back": "pattern, type, example — ṭūpsā (noun, m)",
@@ -7056,7 +7056,7 @@
    }
   },
   {
-   "id": "syr0282",
+   "id": "syr_ece991cbef",
    "num": 282,
    "front": "ܗܘܐ",
    "back": "to be, become — hwā (verb, Peal, root h-w-y)",
@@ -7079,7 +7079,7 @@
    }
   },
   {
-   "id": "syr0283",
+   "id": "syr_4fba8c22a2",
    "num": 283,
    "front": "ܛܒܐ",
    "back": "report, news, tidings — ṭebbā (noun, m, root ṭ-b-b)",
@@ -7102,7 +7102,7 @@
    }
   },
   {
-   "id": "syr0284",
+   "id": "syr_203b5c8829",
    "num": 284,
    "front": "ܢܦܠ",
    "back": "to fall — npal (verb, Peal, root n-p-l)",
@@ -7125,7 +7125,7 @@
    }
   },
   {
-   "id": "syr0285",
+   "id": "syr_c00482be27",
    "num": 285,
    "front": "ܣܡ",
    "back": "to put, place — sām (verb, Peal, root s-y-m)",
@@ -7148,7 +7148,7 @@
    }
   },
   {
-   "id": "syr0286",
+   "id": "syr_aa3dbfbaf5",
    "num": 286,
    "front": "ܡܝܬ",
    "back": "to die — mīt (verb, Peal, root m-w-t)",
@@ -7171,7 +7171,7 @@
    }
   },
   {
-   "id": "syr0287",
+   "id": "syr_8e69eae0ee",
    "num": 287,
    "front": "ܢܣܒ",
    "back": "to take — nsab (verb, Peal, root n-s-b)",
@@ -7194,7 +7194,7 @@
    }
   },
   {
-   "id": "syr0288",
+   "id": "syr_bde46aea76",
    "num": 288,
    "front": "ܕܚܠܐ",
    "back": "fear, object of fear — deḥlā (noun, m, Peal, root d-ḥ-l)",
@@ -7217,7 +7217,7 @@
    }
   },
   {
-   "id": "syr0289",
+   "id": "syr_fd04cca6ee",
    "num": 289,
    "front": "ܕܢ",
    "back": "to judge — dān (verb, Peal, root d-w-n)",
@@ -7240,7 +7240,7 @@
    }
   },
   {
-   "id": "syr0290",
+   "id": "syr_cfca39ec9e",
    "num": 290,
    "front": "ܓܙܪ",
    "back": "to decree, cut, determine — gzar (verb, Peal, root g-z-r)",
@@ -7263,7 +7263,7 @@
    }
   },
   {
-   "id": "syr0291",
+   "id": "syr_803a542eb0",
    "num": 291,
    "front": "ܟܠܒܐ",
    "back": "dog — kalbā (noun, m)",
@@ -7286,7 +7286,7 @@
    }
   },
   {
-   "id": "syr0292",
+   "id": "syr_185e11f3a0",
    "num": 292,
    "front": "ܡܚܪ",
    "back": "tomorrow — mḥār (adv)",
@@ -7309,7 +7309,7 @@
    }
   },
   {
-   "id": "syr0293",
+   "id": "syr_1553731854",
    "num": 293,
    "front": "ܦܪܚܬܐ",
    "back": "bird — pāraḥtā (noun, f, root p-r-ḥ)",
@@ -7332,7 +7332,7 @@
    }
   },
   {
-   "id": "syr0294",
+   "id": "syr_78cccb4c7b",
    "num": 294,
    "front": "ܦܐܪܐ",
    "back": "fruit — pīrā (noun, m)",
@@ -7355,7 +7355,7 @@
    }
   },
   {
-   "id": "syr0295",
+   "id": "syr_cc5c9e79a1",
    "num": 295,
    "front": "ܬܘܟܠܢܐ",
    "back": "trust, confidence — tūklānā (noun, m, root t-k-l)",
@@ -7378,7 +7378,7 @@
    }
   },
   {
-   "id": "syr0296",
+   "id": "syr_8a5aa14800",
    "num": 296,
    "front": "ܩܛܠ",
    "back": "to kill — qṭal (verb, Peal, root q-ṭ-l)",
@@ -7401,7 +7401,7 @@
    }
   },
   {
-   "id": "syr0297",
+   "id": "syr_ec92d2bb8c",
    "num": 297,
    "front": "ܪܫܐ",
    "back": "head, chief — rēšā (noun, m, root r-y-š)",
@@ -7424,7 +7424,7 @@
    }
   },
   {
-   "id": "syr0298",
+   "id": "syr_e155f2f28c",
    "num": 298,
    "front": "ܣܗܕ",
    "back": "to testify, witness — sehed (verb, Peal, root s-h-d)",
@@ -7447,7 +7447,7 @@
    }
   },
   {
-   "id": "syr0299",
+   "id": "syr_55dea41904",
    "num": 299,
    "front": "ܝܕܥܐ",
    "back": "acquaintance, knowledge — yadʿā (noun, m, Peal, root y-d-ʿ)",
@@ -7470,7 +7470,7 @@
    }
   },
   {
-   "id": "syr0300",
+   "id": "syr_3e4c3e1bfe",
    "num": 300,
    "front": "ܝܘܡܐ",
    "back": "day — yawmā (noun, m, root y-w-m)",
@@ -7493,7 +7493,7 @@
    }
   },
   {
-   "id": "syr0301",
+   "id": "syr_78cf4d5044",
    "num": 301,
    "front": "ܙܒܢܐ",
    "back": "time, season — zabnā (noun, m, root z-b-n)",
@@ -7516,7 +7516,7 @@
    }
   },
   {
-   "id": "syr0302",
+   "id": "syr_6668f0947e",
    "num": 302,
    "front": "ܙܢܐ",
    "back": "kind, manner, way — znā (noun, m)",
@@ -7539,7 +7539,7 @@
    }
   },
   {
-   "id": "syr0303",
+   "id": "syr_5116ea295f",
    "num": 303,
    "front": "ܝܬܒ",
    "back": "to sit, dwell — ʾīteb (verb, Peal, root y-t-b)",
@@ -7562,7 +7562,7 @@
    }
   },
   {
-   "id": "syr0304",
+   "id": "syr_6043260b3e",
    "num": 304,
    "front": "ܫܘܩܐ",
    "back": "street, market — šūqā (noun, m)",
@@ -7585,7 +7585,7 @@
    }
   },
   {
-   "id": "syr0305",
+   "id": "syr_e66cef974a",
    "num": 305,
    "front": "ܐܦܩ",
    "back": "he brought out / I will bring out — ʾappeq (verb, Aphel, root n-p-q)",
@@ -7608,7 +7608,7 @@
    }
   },
   {
-   "id": "syr0306",
+   "id": "syr_6ff27ceb10",
    "num": 306,
    "front": "ܐܩܛܘܠ",
    "back": "I will kill — ʾeqṭūl (verb, Peal, root q-ṭ-l)",
@@ -7631,7 +7631,7 @@
    }
   },
   {
-   "id": "syr0307",
+   "id": "syr_2bdfdfe62f",
    "num": 307,
    "front": "ܐܢ",
    "back": "if — ʾen (conjunction)",
@@ -7654,7 +7654,7 @@
    }
   },
   {
-   "id": "syr0308",
+   "id": "syr_5325b1fba9",
    "num": 308,
    "front": "ܟܒܪ",
    "back": "perhaps, already — kbar (adv, root k-b-r)",
@@ -7677,7 +7677,7 @@
    }
   },
   {
-   "id": "syr0309",
+   "id": "syr_6fb274758c",
    "num": 309,
    "front": "ܥܕܡܐ",
    "back": "until, as far as — ʿdammā (preposition)",
@@ -7700,7 +7700,7 @@
    }
   },
   {
-   "id": "syr0310",
+   "id": "syr_c03d60a31a",
    "num": 310,
    "front": "ܥܪܒܐ",
    "back": "sheep — ʿerbā (noun, m)",
@@ -7723,7 +7723,7 @@
    }
   },
   {
-   "id": "syr0311",
+   "id": "syr_fe5b641ef1",
    "num": 311,
    "front": "ܥܩܬܐ",
    "back": "distress, anguish — ʿāqtā (noun, f, root ʿ-w-q)",
@@ -7746,7 +7746,7 @@
    }
   },
   {
-   "id": "syr0312",
+   "id": "syr_55dadc06f2",
    "num": 312,
    "front": "ܚܕܘܬܐ",
    "back": "joy, gladness — ḥadūtā (noun, f, root ḥ-d-y)",
@@ -7769,7 +7769,7 @@
    }
   },
   {
-   "id": "syr0313",
+   "id": "syr_043ea4c15f",
    "num": 313,
    "front": "ܚܝܘܬܐ",
    "back": "animal, beast, life — ḥayūtā (noun, f, root ḥ-y-y)",
@@ -7792,7 +7792,7 @@
    }
   },
   {
-   "id": "syr0314",
+   "id": "syr_4e60fc14f6",
    "num": 314,
    "front": "ܚܟܡܬܐ",
    "back": "wisdom — ḥekmtā (noun, f, root ḥ-k-m)",
@@ -7815,7 +7815,7 @@
    }
   },
   {
-   "id": "syr0315",
+   "id": "syr_7cecca5fd4",
    "num": 315,
    "front": "ܛܘܪܐ",
    "back": "mountain — ṭūrā (noun, m)",
@@ -7838,7 +7838,7 @@
    }
   },
   {
-   "id": "syr0316",
+   "id": "syr_39d9b53e8c",
    "num": 316,
    "front": "ܒܥܐ",
    "back": "to want, seek, ask — bʿā (verb, Peal, root b-ʿ-y)",
@@ -7861,7 +7861,7 @@
    }
   },
   {
-   "id": "syr0317",
+   "id": "syr_39b11a606b",
    "num": 317,
    "front": "ܓܪ",
    "back": "to drag, pull — gar (verb, Peal, root g-r-r)",
@@ -7884,7 +7884,7 @@
    }
   },
   {
-   "id": "syr0318",
+   "id": "syr_1245322497",
    "num": 318,
    "front": "ܓܘܒܐ",
    "back": "pit, cistern, den — gubbā (noun, m, root g-b-b)",
@@ -7907,7 +7907,7 @@
    }
   },
   {
-   "id": "syr0319",
+   "id": "syr_ab19c6b9ca",
    "num": 319,
    "front": "ܟܢܫܐ",
    "back": "crowd, gathering — kenšā (noun, m, root k-n-š)",
@@ -7930,7 +7930,7 @@
    }
   },
   {
-   "id": "syr0320",
+   "id": "syr_7682ce16ac",
    "num": 320,
    "front": "ܡܟܬܒ",
    "back": "to write (infinitive) — mektab (verb, Peal, root k-t-b)",
@@ -7953,7 +7953,7 @@
    }
   },
   {
-   "id": "syr0321",
+   "id": "syr_2a9512eba1",
    "num": 321,
    "front": "ܢܘܪܐ",
    "back": "fire — nūrā (noun, f, root n-w-r)",
@@ -7976,7 +7976,7 @@
    }
   },
   {
-   "id": "syr0322",
+   "id": "syr_7a60c9f1c2",
    "num": 322,
    "front": "ܦܩܕ",
    "back": "to command, order — pqad (verb, Peal, root p-q-d)",
@@ -7999,7 +7999,7 @@
    }
   },
   {
-   "id": "syr0323",
+   "id": "syr_d0fd42ba1e",
    "num": 323,
    "front": "ܡܨܐ",
    "back": "to be able, can — mṣā (verb, Peal, root m-ṣ-y)",
@@ -8022,7 +8022,7 @@
    }
   },
   {
-   "id": "syr0324",
+   "id": "syr_cb1edfc68a",
    "num": 324,
    "front": "ܙܥܩ",
    "back": "to cry out, shout — zʿaq (verb, Peal, root z-ʿ-q)",
@@ -8045,7 +8045,7 @@
    }
   },
   {
-   "id": "syr0325",
+   "id": "syr_c88e1c5f74",
    "num": 325,
    "front": "ܫܪܝ",
    "back": "to begin — šarrī (verb, Paael, root š-r-y)",
@@ -8068,7 +8068,7 @@
    }
   },
   {
-   "id": "syr0326",
+   "id": "syr_913a9e89b8",
    "num": 326,
    "front": "ܐܣܪ",
    "back": "to bind, tie — ʾesar (verb, Peal, root ʾ-s-r)",
@@ -8091,7 +8091,7 @@
    }
   },
   {
-   "id": "syr0327",
+   "id": "syr_00a6acbee6",
    "num": 327,
    "front": "ܚܕܝ",
    "back": "to rejoice, be glad — ḥdī (verb, Peal, root ḥ-d-y)",
@@ -8114,7 +8114,7 @@
    }
   },
   {
-   "id": "syr0328",
+   "id": "syr_ca914727f7",
    "num": 328,
    "front": "ܪܡܐ",
    "back": "to throw, cast — rmā (verb, Peal, root r-m-y)",
@@ -8137,7 +8137,7 @@
    }
   },
   {
-   "id": "syr0329",
+   "id": "syr_be140b95ae",
    "num": 329,
    "front": "ܨܒܝܢܐ",
    "back": "will, desire — ṣebyānā (noun, m, root ṣ-b-y)",
@@ -8160,7 +8160,7 @@
    }
   },
   {
-   "id": "syr0330",
+   "id": "syr_ef0791ce45",
    "num": 330,
    "front": "ܨܒܐ",
    "back": "to wish, will — ṣbā (verb, Peal, root ṣ-b-y)",
@@ -8183,7 +8183,7 @@
    }
   },
   {
-   "id": "syr0331",
+   "id": "syr_619742a8b7",
    "num": 331,
    "front": "ܣܝܦܐ",
    "back": "sword — saypā (noun, m)",
@@ -8206,7 +8206,7 @@
    }
   },
   {
-   "id": "syr0332",
+   "id": "syr_151bd7bcf7",
    "num": 332,
    "front": "ܐܬܘܢܐ",
    "back": "furnace, oven — ʾattūnā (noun, m)",
@@ -8229,7 +8229,7 @@
    }
   },
   {
-   "id": "syr0333",
+   "id": "syr_32624b7227",
    "num": 333,
    "front": "ܫܫܠܬܐ",
    "back": "chain — šīšaltā (noun, f)",
@@ -8252,7 +8252,7 @@
    }
   },
   {
-   "id": "syr0334",
+   "id": "syr_f72b0417c8",
    "num": 334,
    "front": "ܐܡܝܢܘܬܐ",
    "back": "steadfastness, constancy — ʾammīnūtā (noun, f, root ʾ-m-n)",
@@ -8275,7 +8275,7 @@
    }
   },
   {
-   "id": "syr0335",
+   "id": "syr_03e455e9af",
    "num": 335,
    "front": "ܐܣܛܪܛܝܘܛܐ",
    "back": "soldier — ʾesṭraṭyōṭā (noun, m)",
@@ -8298,7 +8298,7 @@
    }
   },
   {
-   "id": "syr0336",
+   "id": "syr_677abbd779",
    "num": 336,
    "front": "ܪܕܦ",
    "back": "to pursue, persecute — rdap (verb, Peal, root r-d-p)",
@@ -8321,7 +8321,7 @@
    }
   },
   {
-   "id": "syr0337",
+   "id": "syr_4d4689a428",
    "num": 337,
    "front": "ܨܠܦ",
    "back": "to wound, bruise, split — ṣlap (verb, Peal, root ṣ-l-p)",
@@ -8344,7 +8344,7 @@
    }
   },
   {
-   "id": "syr0338",
+   "id": "syr_c4cb3d5355",
    "num": 338,
    "front": "ܕܟܐ",
    "back": "to be pure, clean — dkā (verb, Peal, root d-k-y)",
@@ -8367,7 +8367,7 @@
    }
   },
   {
-   "id": "syr0339",
+   "id": "syr_3b8db4def6",
    "num": 339,
    "front": "ܕܚܠ",
    "back": "to fear, be afraid — dḥel (verb, Peal, root d-ḥ-l)",
@@ -8390,7 +8390,7 @@
    }
   },
   {
-   "id": "syr0340",
+   "id": "syr_2868a81e4a",
    "num": 340,
    "front": "ܦܪܩ",
    "back": "to save, redeem — praq (verb, Peal, root p-r-q)",
@@ -8413,7 +8413,7 @@
    }
   },
   {
-   "id": "syr0341",
+   "id": "syr_98b92bd1b9",
    "num": 341,
    "front": "ܟܠܠ",
    "back": "to crown — kallel (verb, Paael, root k-l-l)",
@@ -8436,7 +8436,7 @@
    }
   },
   {
-   "id": "syr0342",
+   "id": "syr_8a17cdbbf1",
    "num": 342,
    "front": "ܟܢܫ",
    "back": "to gather, assemble — knaš (verb, Peal, root k-n-š)",
@@ -8459,7 +8459,7 @@
    }
   },
   {
-   "id": "syr0343",
+   "id": "syr_5aecba04e0",
    "num": 343,
    "front": "ܡܕܥܐ",
    "back": "mind, knowledge — maddʿā (noun, m, root y-d-ʿ)",
@@ -8482,7 +8482,7 @@
    }
   },
   {
-   "id": "syr0344",
+   "id": "syr_d6615137f7",
    "num": 344,
    "front": "ܡܠܐ",
    "back": "to fill, be full — mlā (verb, Peal, root m-l-y)",
@@ -8505,7 +8505,7 @@
    }
   },
   {
-   "id": "syr0345",
+   "id": "syr_aa8193cc44",
    "num": 345,
    "front": "ܢܗܪ",
    "back": "to shine, give light — nhar (verb, Peal, root n-h-r)",
@@ -8528,7 +8528,7 @@
    }
   },
   {
-   "id": "syr0346",
+   "id": "syr_75466661d7",
    "num": 346,
    "front": "ܐܪܡܠܘܬܐ",
    "back": "widowhood — ʾarmlūtā (noun, f, root ʾ-r-m-l)",
@@ -8551,7 +8551,7 @@
    }
   },
   {
-   "id": "syr0347",
+   "id": "syr_a4062f840c",
    "num": 347,
    "front": "ܦܪܫ",
    "back": "to separate, distinguish — praš (verb, Peal, root p-r-š)",
@@ -8574,7 +8574,7 @@
    }
   },
   {
-   "id": "syr0348",
+   "id": "syr_5d279c7cd5",
    "num": 348,
    "front": "ܥܣܒܐ",
    "back": "grass, herb — ʿesbā (noun, m, root ʿ-s-b)",
@@ -8597,7 +8597,7 @@
    }
   },
   {
-   "id": "syr0349",
+   "id": "syr_82f24758d6",
    "num": 349,
    "front": "ܩܒܪ",
    "back": "to bury — qbar (verb, Peal, root q-b-r)",
@@ -8620,7 +8620,7 @@
    }
   },
   {
-   "id": "syr0350",
+   "id": "syr_6bc2af399d",
    "num": 350,
    "front": "ܛܪܕ",
    "back": "to drive out, expel — ṭrad (verb, Peal, root ṭ-r-d)",
@@ -8643,7 +8643,7 @@
    }
   },
   {
-   "id": "syr0351",
+   "id": "syr_a0980d2631",
    "num": 351,
    "front": "ܬܒ",
    "back": "to return, repent — tāb (verb, Peal, root t-w-b)",
@@ -8666,7 +8666,7 @@
    }
   },
   {
-   "id": "syr0352",
+   "id": "syr_a97b11b7b1",
    "num": 352,
    "front": "ܫܕܪ",
    "back": "to send — šaddar (verb, Paael, root š-d-r)",
@@ -8689,7 +8689,7 @@
    }
   },
   {
-   "id": "syr0353",
+   "id": "syr_249fece12e",
    "num": 353,
    "front": "ܡܟܟ",
    "back": "to humble, bring low — makkek (verb, Paael, root m-k-k)",
@@ -8712,7 +8712,7 @@
    }
   },
   {
-   "id": "syr0354",
+   "id": "syr_7e13595786",
    "num": 354,
    "front": "ܢܗܪ",
    "back": "to illuminate, enlighten — nahhar (verb, Paael, root n-h-r)",
@@ -8735,7 +8735,7 @@
    }
   },
   {
-   "id": "syr0355",
+   "id": "syr_8424b7e7b3",
    "num": 355,
    "front": "ܐܦܪܫ",
    "back": "to separate, set apart — ʾapreš (verb, Aphel, root p-r-š)",
@@ -8758,7 +8758,7 @@
    }
   },
   {
-   "id": "syr0356",
+   "id": "syr_9dfe3f3159",
    "num": 356,
    "front": "ܐܪܝܡ",
    "back": "to exalt, lift up — ʾarīm (verb, Aphel, root r-w-m)",
@@ -8781,7 +8781,7 @@
    }
   },
   {
-   "id": "syr0357",
+   "id": "syr_7147e99418",
    "num": 357,
    "front": "ܐܣܝ",
    "back": "to heal, cure — ʾassī (verb, Paael, root ʾ-s-y)",
@@ -8804,7 +8804,7 @@
    }
   },
   {
-   "id": "syr0358",
+   "id": "syr_1af2711178",
    "num": 358,
    "front": "ܐܘܕܝ",
    "back": "to confess, give thanks — ʾawdī (verb, Aphel, root y-d-y)",
@@ -8827,7 +8827,7 @@
    }
   },
   {
-   "id": "syr0359",
+   "id": "syr_072a21a8a9",
    "num": 359,
    "front": "ܐܚܕ",
    "back": "to seize, hold, shut — ʾeḥad (verb, Peal, root ʾ-ḥ-d)",
@@ -8850,7 +8850,7 @@
    }
   },
   {
-   "id": "syr0360",
+   "id": "syr_cb4cbc67c7",
    "num": 360,
    "front": "ܐܫܦܠ",
    "back": "to humble, bring low — ʾašpel (verb, Aphel, root š-p-l)",
@@ -8873,7 +8873,7 @@
    }
   },
   {
-   "id": "syr0361",
+   "id": "syr_3497e69ce4",
    "num": 361,
    "front": "ܥܡܕ",
    "back": "to dip, be baptized — ʿmad (verb, Peal, root ʿ-m-d)",
@@ -8896,7 +8896,7 @@
    }
   },
   {
-   "id": "syr0362",
+   "id": "syr_801bddd293",
    "num": 362,
    "front": "ܚܝܒ",
    "back": "to condemn, make guilty — ḥayyeb (verb, Paael, root ḥ-w-b)",
@@ -8919,7 +8919,7 @@
    }
   },
   {
-   "id": "syr0363",
+   "id": "syr_60441114c7",
    "num": 363,
    "front": "ܚܠܡ",
    "back": "to heal, be sound — ḥlam (verb, Peal, root ḥ-l-m)",
@@ -8942,7 +8942,7 @@
    }
   },
   {
-   "id": "syr0364",
+   "id": "syr_32f88db272",
    "num": 364,
    "front": "ܚܛܝܬܐ",
    "back": "sin — ḥṭītā (noun, f, root ḥ-ṭ-y)",
@@ -8965,7 +8965,7 @@
    }
   },
   {
-   "id": "syr0365",
+   "id": "syr_cfac597408",
    "num": 365,
    "front": "ܨܠܒ",
    "back": "to crucify — ṣlab (verb, Peal, root ṣ-l-b)",
@@ -8988,7 +8988,7 @@
    }
   },
   {
-   "id": "syr0366",
+   "id": "syr_73fe261127",
    "num": 366,
    "front": "ܕܒܩ",
    "back": "to cling, cleave, adhere — dbaq (verb, Peal, root d-b-q)",
@@ -9011,7 +9011,7 @@
    }
   },
   {
-   "id": "syr0367",
+   "id": "syr_abf51f35ac",
    "num": 367,
    "front": "ܕܓܫ",
    "back": "to pierce, stab — dgaš (verb, Peal, root d-g-š)",
@@ -9034,7 +9034,7 @@
    }
   },
   {
-   "id": "syr0368",
+   "id": "syr_1f2856db69",
    "num": 368,
    "front": "ܕܠܐ",
    "back": "to draw up (water), rescue — dlā (verb, Peal, root d-l-y)",
@@ -9057,7 +9057,7 @@
    }
   },
   {
-   "id": "syr0369",
+   "id": "syr_d1720d9181",
    "num": 369,
    "front": "ܒܙ",
    "back": "to plunder, spoil — baz (verb, Peal, root b-z-z)",
@@ -9080,7 +9080,7 @@
    }
   },
   {
-   "id": "syr0370",
+   "id": "syr_6cb5ef3b78",
    "num": 370,
    "front": "ܓܕܪ",
    "back": "to fence, hedge in — gdar (verb, Peal, root g-d-r)",
@@ -9103,7 +9103,7 @@
    }
   },
   {
-   "id": "syr0371",
+   "id": "syr_39788793a8",
    "num": 371,
    "front": "ܟܣܝ",
    "back": "to cover, conceal — kassī (verb, Paael, root k-s-y)",
@@ -9126,7 +9126,7 @@
    }
   },
   {
-   "id": "syr0372",
+   "id": "syr_bfddc0efcf",
    "num": 372,
    "front": "ܟܠܐ",
    "back": "to withhold, forbid, hinder — klā (verb, Peal, root k-l-y)",
@@ -9149,7 +9149,7 @@
    }
   },
   {
-   "id": "syr0373",
+   "id": "syr_46654a817d",
    "num": 373,
    "front": "ܡܘܟܟܐ",
    "back": "humility, lowliness — mukkākā (noun, m, root m-k-k)",
@@ -9172,7 +9172,7 @@
    }
   },
   {
-   "id": "syr0374",
+   "id": "syr_5cde7b0aec",
    "num": 374,
    "front": "ܡܚܐ",
    "back": "to strike, smite — mḥā (verb, Peal, root m-ḥ-y)",
@@ -9195,7 +9195,7 @@
    }
   },
   {
-   "id": "syr0375",
+   "id": "syr_67b7c5ae33",
    "num": 375,
    "front": "ܢܣܟ",
    "back": "to pour out, cast — nsak (verb, Peal, root n-s-k)",
@@ -9218,7 +9218,7 @@
    }
   },
   {
-   "id": "syr0376",
+   "id": "syr_17414d4bed",
    "num": 376,
    "front": "ܢܚܡ",
    "back": "to raise (the dead), revive — naḥḥem (verb, Paael, root n-ḥ-m)",
@@ -9241,7 +9241,7 @@
    }
   },
   {
-   "id": "syr0377",
+   "id": "syr_9c7f4adab3",
    "num": 377,
    "front": "ܢܓܕ",
    "back": "to draw, pull, scourge — ngad (verb, Peal, root n-g-d)",
@@ -9264,7 +9264,7 @@
    }
   },
   {
-   "id": "syr0378",
+   "id": "syr_455614d170",
    "num": 378,
    "front": "ܢܘܩܝܐ",
    "back": "libation, drink-offering — nuqqāyā (noun, m, root n-q-y)",
@@ -9287,7 +9287,7 @@
    }
   },
   {
-   "id": "syr0379",
+   "id": "syr_d1c90dca16",
    "num": 379,
    "front": "ܦܣܩ",
    "back": "to cut off, decide, decree — psaq (verb, Peal, root p-s-q)",
@@ -9310,7 +9310,7 @@
    }
   },
   {
-   "id": "syr0380",
+   "id": "syr_fbc9363cd2",
    "num": 380,
    "front": "ܦܕܥ",
    "back": "to wound, crush — pdaʿ (verb, Peal, root p-d-ʿ)",
@@ -9333,7 +9333,7 @@
    }
   },
   {
-   "id": "syr0381",
+   "id": "syr_2692e155c8",
    "num": 381,
    "front": "ܡܪܚܡܢܘܬܐ",
    "back": "mercy, compassion, alms — mraḥmānūtā (noun, f, root r-ḥ-m)",
@@ -9356,7 +9356,7 @@
    }
   },
   {
-   "id": "syr0382",
+   "id": "syr_304d267c2b",
    "num": 382,
    "front": "ܩܘܒܠܐ",
    "back": "reception, thanksgiving — qubbālā (noun, m, root q-b-l)",
@@ -9379,7 +9379,7 @@
    }
   },
   {
-   "id": "syr0383",
+   "id": "syr_8752352a54",
    "num": 383,
    "front": "ܪܟܒ",
    "back": "to ride, mount — rkeb (verb, Peal, root r-k-b)",
@@ -9402,7 +9402,7 @@
    }
   },
   {
-   "id": "syr0384",
+   "id": "syr_7c27c311c0",
    "num": 384,
    "front": "ܫܪܪ",
    "back": "to confirm, establish — šarrar (verb, Paael, root š-r-r)",
@@ -9425,7 +9425,7 @@
    }
   },
   {
-   "id": "syr0385",
+   "id": "syr_3cfffff0f2",
    "num": 385,
    "front": "ܬܒܪ",
    "back": "to break, shatter — tbar (verb, Peal, root t-b-r)",
@@ -9448,7 +9448,7 @@
    }
   },
   {
-   "id": "syr0386",
+   "id": "syr_2081bac3cb",
    "num": 386,
    "front": "ܫܩܠ",
    "back": "to take, lift, carry — šqal (verb, Peal, root š-q-l)",
@@ -9471,7 +9471,7 @@
    }
   },
   {
-   "id": "syr0387",
+   "id": "syr_19bc9be575",
    "num": 387,
    "front": "ܥܫܢ",
    "back": "to grow strong, prevail — ʿšan (verb, Peal, root ʿ-š-n)",
@@ -9494,7 +9494,7 @@
    }
   },
   {
-   "id": "syr0388",
+   "id": "syr_df75aef724",
    "num": 388,
    "front": "ܫܢܐ",
    "back": "to change, depart — šnā (verb, Peal, root š-n-y)",
@@ -9517,7 +9517,7 @@
    }
   },
   {
-   "id": "syr0389",
+   "id": "syr_f4874bd82c",
    "num": 389,
    "front": "ܐܫܬܝ",
    "back": "to drink — ʾeštī (verb, Peal, root š-t-y)",
@@ -9540,7 +9540,7 @@
    }
   },
   {
-   "id": "syr0390",
+   "id": "syr_b4b2543f2e",
    "num": 390,
    "front": "ܢܛܘܪܐ",
    "back": "watchman, guard — nāṭōrā (noun, m, Peal, root n-ṭ-r)",
@@ -9563,7 +9563,7 @@
    }
   },
   {
-   "id": "syr0391",
+   "id": "syr_43ab773e9b",
    "num": 391,
    "front": "ܫܬܝܐ",
    "back": "drink, drinking — šetyā (noun, m, root š-t-y)",
@@ -9586,7 +9586,7 @@
    }
   },
   {
-   "id": "syr0392",
+   "id": "syr_6c16045e69",
    "num": 392,
    "front": "ܥܡܪ",
    "back": "to dwell, inhabit — ʿmar (verb, Peal, root ʿ-m-r)",
@@ -9609,7 +9609,7 @@
    }
   },
   {
-   "id": "syr0393",
+   "id": "syr_8803ab359b",
    "num": 393,
    "front": "ܣܡܟ",
    "back": "to support, uphold, recline — smak (verb, Peal, root s-m-k)",
@@ -9632,7 +9632,7 @@
    }
   },
   {
-   "id": "syr0394",
+   "id": "syr_b3fd328fb3",
    "num": 394,
    "front": "ܦܘܢܝܐ",
    "back": "answer, return, restoration — punnāyā (noun, m, root p-n-y)",
@@ -9655,7 +9655,7 @@
    }
   },
   {
-   "id": "syr0395",
+   "id": "syr_61db8dfb5f",
    "num": 395,
    "front": "ܚܣܪ",
    "back": "to lack, suffer loss — ḥsar (verb, Peal, root ḥ-s-r)",
@@ -9678,7 +9678,7 @@
    }
   },
   {
-   "id": "syr0396",
+   "id": "syr_519f479bc1",
    "num": 396,
    "front": "ܚܛܐ",
    "back": "to sin — ḥṭā (verb, Peal, root ḥ-ṭ-y)",
@@ -9701,7 +9701,7 @@
    }
   },
   {
-   "id": "syr0397",
+   "id": "syr_8277455c9d",
    "num": 397,
    "front": "ܟܘܪܗܢܐ",
    "back": "illness, sickness, disease — kūrhānā (noun, m, root k-r-h)",
@@ -9724,7 +9724,7 @@
    }
   },
   {
-   "id": "syr0398",
+   "id": "syr_d049395f05",
    "num": 398,
    "front": "ܡܘܬܐ",
    "back": "death — mawtā (noun, m, root m-w-t)",
@@ -9747,7 +9747,7 @@
    }
   },
   {
-   "id": "syr0399",
+   "id": "syr_360163067a",
    "num": 399,
    "front": "ܡܟܐ",
    "back": "from here, hence — mekkā (adv)",
@@ -9770,7 +9770,7 @@
    }
   },
   {
-   "id": "syr0400",
+   "id": "syr_788687d83e",
    "num": 400,
    "front": "ܗܘ",
    "back": "that (m) — haw (demonstrative, m)",
@@ -9793,7 +9793,7 @@
    }
   },
   {
-   "id": "syr0401",
+   "id": "syr_ddafb0c9eb",
    "num": 401,
    "front": "ܗܕܐ",
    "back": "this (f) — hādē (demonstrative, f)",
@@ -9816,7 +9816,7 @@
    }
   },
   {
-   "id": "syr0402",
+   "id": "syr_4fdb2b3efc",
    "num": 402,
    "front": "ܗܟܢܐ",
    "back": "thus, so — hākannā (adverb)",
@@ -9839,7 +9839,7 @@
    }
   },
   {
-   "id": "syr0403",
+   "id": "syr_8ab71f29d3",
    "num": 403,
    "front": "ܗܠܝܢ",
    "back": "these (c) — hālēn (demonstrative, c.pl)",
@@ -9862,7 +9862,7 @@
    }
   },
   {
-   "id": "syr0404",
+   "id": "syr_ea83eb9c90",
    "num": 404,
    "front": "ܗܢܐ",
    "back": "this (m) — hānā (demonstrative, m)",
@@ -9885,7 +9885,7 @@
    }
   },
   {
-   "id": "syr0405",
+   "id": "syr_3a68b27bf2",
    "num": 405,
    "front": "ܗܢܝܢ",
    "back": "those (f) — hānēn (demonstrative, f.pl)",
@@ -9908,7 +9908,7 @@
    }
   },
   {
-   "id": "syr0406",
+   "id": "syr_576ebb0c14",
    "num": 406,
    "front": "ܗܢܘܢ",
    "back": "those (m) — hānōn (demonstrative, m.pl)",
@@ -9931,7 +9931,7 @@
    }
   },
   {
-   "id": "syr0407",
+   "id": "syr_06ebb2b7d3",
    "num": 407,
    "front": "ܗܝ",
    "back": "that (f) — hāy (demonstrative, f)",
@@ -9954,7 +9954,7 @@
    }
   },
   {
-   "id": "syr0408",
+   "id": "syr_f4bfc0f5f3",
    "num": 408,
    "front": "ܕܘܟܬܐ",
    "back": "place, spot, position — dūktā (noun, f, root d-w-k)",
@@ -9977,7 +9977,7 @@
    }
   },
   {
-   "id": "syr0409",
+   "id": "syr_0a935674f4",
    "num": 409,
    "front": "ܬܘܪܓܡܐ",
    "back": "translation, interpretation, homily — tūrgāmā (noun, m, root t-r-g-m)",
@@ -10000,7 +10000,7 @@
    }
   },
   {
-   "id": "syr0410",
+   "id": "syr_238cd96f3c",
    "num": 410,
    "front": "ܫܠܚ",
    "back": "to strip off, send — šlaḥ (verb, Peal, root š-l-ḥ)",
@@ -10023,7 +10023,7 @@
    }
   },
   {
-   "id": "syr0411",
+   "id": "syr_ef0c611593",
    "num": 411,
    "front": "ܫܪܪܐ",
    "back": "truth, firmness — šrārā (noun, m, root š-r-r)",
@@ -10046,7 +10046,7 @@
    }
   },
   {
-   "id": "syr0412",
+   "id": "syr_b4df2e1231",
    "num": 412,
    "front": "ܐܝܟܢܐ",
    "back": "how, in what manner — ʾaykannā (adv)",
@@ -10069,7 +10069,7 @@
    }
   },
   {
-   "id": "syr0413",
+   "id": "syr_113be472f9",
    "num": 413,
    "front": "ܥܣܪܐ",
    "back": "ten — ʿesrā (num, m)",
@@ -10092,7 +10092,7 @@
    }
   },
   {
-   "id": "syr0414",
+   "id": "syr_db6fc96a58",
    "num": 414,
    "front": "ܚܕ",
    "back": "one (m.) — ḥad (number, m, root ḥ-d-y)",
@@ -10115,7 +10115,7 @@
    }
   },
   {
-   "id": "syr0415",
+   "id": "syr_10747a1379",
    "num": 415,
    "front": "ܚܡܫܐ",
    "back": "five — ḥamšā (num, m, root ḥ-m-š)",
@@ -10138,7 +10138,7 @@
    }
   },
   {
-   "id": "syr0416",
+   "id": "syr_5309c52e71",
    "num": 416,
    "front": "ܚܫܘܟܐ",
    "back": "darkness — ḥešūkā (noun, m, root ḥ-š-k)",
@@ -10161,7 +10161,7 @@
    }
   },
   {
-   "id": "syr0417",
+   "id": "syr_a425f28be5",
    "num": 417,
    "front": "ܩܕܡܝܐ",
    "back": "first, former — qadmāyā (adj, m, root q-d-m)",
@@ -10184,7 +10184,7 @@
    }
   },
   {
-   "id": "syr0418",
+   "id": "syr_ec9f0fea7e",
    "num": 418,
    "front": "ܬܪܝܢܐ",
    "back": "second — trayyānā (adj, m, root t-r-y)",
@@ -10207,7 +10207,7 @@
    }
   },
   {
-   "id": "syr0419",
+   "id": "syr_7d8e1f0cb4",
    "num": 419,
    "front": "ܬܠܝܬܝܐ",
    "back": "third — tlītāyā (adj, m, root t-l-t)",
@@ -10230,7 +10230,7 @@
    }
   },
   {
-   "id": "syr0420",
+   "id": "syr_396b97476f",
    "num": 420,
    "front": "ܫܡ̈ܝܐ",
    "back": "heaven, sky — šmayyā (noun, m)",

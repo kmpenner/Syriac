@@ -5,7 +5,7 @@ One bundle per lesson. Front = Syriac (Estrangela, RTL); back = English with
 transliteration and grammar. Flash Pro's page font stack includes
 Noto Sans Syriac, so no card template is needed. Copy the output into kmpenner/flash-pro data/.
 """
-import csv, json, pathlib
+import csv, hashlib, json, pathlib
 
 DECK_ID = "deck_syriac_yukhannan"
 LESSONS = ["The Alphabet", "Core Architecture", "Narrative Present", "Narrative Past",
@@ -25,7 +25,11 @@ cards, bundles = [], [{"id": f"b_l{n:02d}", "name": f"Lesson {n}: {t}", "cardIds
 for i, r in enumerate(rows, 1):
     gram = ", ".join(x for x in (r["PartOfSpeech"], r["Gender"], r["Stem"],
                                  r["Root"] and f"root {r['Root']}") if x)
-    cid = f"syr{i:04d}"
+    # Stable id: derived from headword, transliteration and part of speech, not the row
+    # number, so inserting or removing TSV rows does not renumber other cards
+    # (which would detach learners' study history in Flash Pro).
+    key = f"{r['Syriac']}|{r['Transliteration']}|{r['PartOfSpeech']}"
+    cid = "syr_" + hashlib.sha1(key.encode("utf-8")).hexdigest()[:10]
     p = r["PartOfSpeech"] or "other"
     cards.append({"id": cid, "num": i, "front": r["Syriac"],
                   "back": f"{r['English']} — {r['Transliteration']}" + (f" ({gram})" if gram else ""),
